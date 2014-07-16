@@ -1,6 +1,9 @@
 127.0.0.1 localhost
 ::1	localhost
 
+# 项目地址: https://github.com/lennylxx/ipv6-hosts
+# 最后更新: 7/16/2014
+
 ##Google.com Google.com
 2404:6800:4008:c00::64 google.com
 2404:6800:4008:c00::54 accounts.google.com #accounts.l.google.com
@@ -4739,8 +4742,8 @@
 2002:836b:9820::836b:9886 www.ipv6.microsoft.com
 
 #WikiMedia 维基媒体
-2620:0:860:2:21d:9ff:fe33:f235 static.wikipedia.org #hume.wikimedia.org
-2620:0:860:2:21d:9ff:fe33:f235 hume.wikimedia.org
+#2620:0:860:2:21d:9ff:fe33:f235 static.wikipedia.org #hume.wikimedia.org
+#2620:0:860:2:21d:9ff:fe33:f235 hume.wikimedia.org
 #2620:0:860:2:230:48ff:fe5a:eb1e download.wikimedia.org #Wikimedia Downloads
 #2620:0:860:2:230:48ff:fe5a:eb1e download.wikipedia.org #Wikimedia Downloads
 #2620:0:860:2:230:48ff:fe5a:eb1e dumps.wikimedia.org #Wikimedia Downloads
@@ -4753,7 +4756,7 @@
 2620:0:861:ed1a:: incubator.wikimedia.org
 2620:0:861:ed1a:: meta.wikimedia.org
 2620:0:861:ed1a:: species.wikimedia.org
-2620:0:860:ed1a::b upload.wikimedia.org #upload-lb.pmtpa.wikimedia.org
+2620:0:863:ed1a::2:b upload.wikimedia.org #upload-lb.pmtpa.wikimedia.org
 2620:0:861:ed1a:: www.wikimedia.org
 2620:0:861:ed1a::8 www.mediawiki.org #mediawiki-lb.eqiad.wikimedia.org
 #2620:0:862:1:209:3dff:fe10:d5d2 svn.wikimedia.org #Wikimedia Subversion
@@ -4934,7 +4937,7 @@
 2620:0:861:ed1a::6 uk.wikinews.org
 2620:0:861:ed1a::6 zh.wikinews.org
 #WikiPedia 维基百科
-2620:0:860:ed1a::1 wikipedia.org
+2620:0:861:ed1a::1 wikipedia.org
 2620:0:861:ed1a::1 www.wikipedia.org #wikipedia-lb.wikimedia.org
 2620:0:861:ed1a::1 aa.wikipedia.org
 2620:0:861:ed1a::1 ab.wikipedia.org
@@ -5614,8 +5617,8 @@
 
 ##JP 日本
 #JAIST 北陸先端科学技術大学院大学
-2001:200:141:feed::feed ftp.jaist.ac.jp
-2001:200:141:feed::feed jaist.dl.sourceforge.net
+2001:df0:2ed:feed::feed ftp.jaist.ac.jp
+2001:df0:2ed:feed::feed jaist.dl.sourceforge.net
 
 ##NL 荷兰
 #Ubuntu Archive

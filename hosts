@@ -4642,7 +4642,7 @@
 2600:140e:1::3cfe:8335 static.ak.fbcdn.net #static.ak.facebook.com.edgesuite.net
 2600:140e:1::3cfe:8338 platform.ak.fbcdn.net #platform.ak.facebook.com.edgesuite.net
 2600:140e:1::3cfe:833d profile.ak.fbcdn.net #profile.ak.facebook.com.edgesuite.net
-2600:140e:1::3cfe:8348 fbcdn-profile-a.akamaihd.net#fbcdn-profile-a.akamaihd.net.edgesuite.net
+2600:1406:1::48f6:350a fbcdn-profile-a.akamaihd.net#fbcdn-profile-a.akamaihd.net.edgesuite.net
 2600:140e:1::3cfe:8337 static.ak.facebook.com #static.ak.facebook.com.edgesuite.net
 2600:140e:1::3cfe:833f photos-a.ak.fbcdn.net
 2600:140e:1::3cfe:833f photos-e.ak.fbcdn.net
@@ -5706,16 +5706,16 @@
 2001:778:0:ffff:64:0:1faa:a606 plus.url.google.com.hk #非官方，有错误请汇报
 
 #Twitter
-2001:778:0:ffff:64:0:c73b:940a twitter.com
-2001:778:0:ffff:64:0:c73b:940b ads.twitter.com
-2001:778:0:ffff:64:0:c73b:940b assets0.twitter.com #s.twitter.com
-2001:778:0:ffff:64:0:c73b:940b assets1.twitter.com #s.twitter.com
-2001:778:0:ffff:64:0:c73b:962a assets2.twitter.com #s.twitter.com
-2001:778:0:ffff:64:0:c73b:9454 assets3.twitter.com #s.twitter.com
-2001:778:0:ffff:64:0:c73b:960a assets4.twitter.com #s.twitter.com
-2001:778:0:ffff:64:0:c73b:9609 api.twitter.com
-2001:778:0:ffff:64:0:5f64:4f90 cdn.api.twitter.com #e3826.g.akamaiedge.net
-2001:778:0:ffff:64:0:214:b613 urls.api.twitter.com #a1697.g.akamai.net
+2001:778:0:ffff:64:0:c710:9c26 twitter.com
+2001:778:0:ffff:64:0:c710:9c69 ads.twitter.com
+2001:778:0:ffff:64:0:c710:9c69 assets0.twitter.com #s.twitter.com
+2001:778:0:ffff:64:0:c710:9c09 assets1.twitter.com #s.twitter.com
+2001:778:0:ffff:64:0:c710:9c09 assets2.twitter.com #s.twitter.com
+2001:778:0:ffff:64:0:c710:9c29 assets3.twitter.com #s.twitter.com
+2001:778:0:ffff:64:0:c710:9c49 assets4.twitter.com #s.twitter.com
+2001:778:0:ffff:64:0:c710:9c08 api.twitter.com
+2001:778:0:ffff:64:0:44e8:238b cdn.api.twitter.com #e3826.g.akamaiedge.net
+2001:778:0:ffff:64:0:c760:3906 urls.api.twitter.com #a1697.g.akamai.net
 2001:778:0:ffff:64:0:c73b:94d4 business.twitter.com
 2001:778:0:ffff:64:0:c73b:9589 dev.twitter.com
 2001:778:0:ffff:64:0:c73b:94d4 fly.twitter.com

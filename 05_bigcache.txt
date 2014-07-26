@@ -1,4 +1,4 @@
-## BigCache (Google Storage)
+﻿## BigCache (Google Storage)
 2607:f8b0:4007:803::1000 v1.lscache1.c.bigcache.googleapis.com #bandaid-redirector.l.google.com
 2607:f8b0:4007:803::1000 v1.lscache2.c.bigcache.googleapis.com #bandaid-redirector.l.google.com
 2607:f8b0:4007:803::1000 v1.lscache3.c.bigcache.googleapis.com #bandaid-redirector.l.google.com

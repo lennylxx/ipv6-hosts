@@ -1,4 +1,4 @@
-## AdWords/AdSense 广告服务
+﻿## AdWords/AdSense 广告服务
 #2404:6800:4008:c00::62 www.googlesyndication.com
 #2404:6800:4008:c00::9a www.googleadservices.com #pagead.l.doubleclick.net
 #2404:6800:4008:c00::9a domains.googlesyndication.com #pagead.l.doubleclick.net

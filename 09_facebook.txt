@@ -1,4 +1,4 @@
-## Facebook Á³Æ×Íø
+ï»¿## Facebook è„¸è°±ç½‘
 2a03:2880:2110:df07:face:b00c:0:1 facebook.com
 2a03:2880:f011:301:face:b00c:0:1 www.facebook.com
 2a03:2880:f011:301:face:b00c:0:1 api-read.facebook.com

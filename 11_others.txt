@@ -1,0 +1,164 @@
+## 其他主流服务
+#bit.ly / j.mp
+#2001:418:e801::10:1 bit.ly
+#2001:418:e801::11:1 bit.ly
+#2001:418:e801::12:1 bit.ly
+#2001:418:e801::15:1 bit.ly
+#2001:418:e801::10:2 j.mp
+#2001:418:e801::11:2 j.mp
+#2001:418:e801::12:2 j.mp
+#2001:418:e801::15:2 j.mp
+#2001:418:e801::10:2 bitly.com
+#2001:418:e801::11:2 bitly.com
+#2001:418:e801::13:2 bitly.com
+#2001:418:e801::15:2 bitly.com
+#2001:418:e801::10:7 api.bit.ly
+#2001:418:e801::11:7 api.bit.ly
+#2001:418:e801::12:7 api.bit.ly
+#2001:418:e801::15:7 api.bit.ly
+#2001:418:e801::10:7 api.bitly.com
+#2001:418:e801::11:7 api.bitly.com
+#2001:418:e801::12:7 api.bitly.com
+#2001:418:e801::15:7 api.bitly.com
+
+## Plurk
+#2607:f128:47::1:1 plurk.com
+#2607:f128:47::1:1 www.plurk.com
+2607:f128:47::1:1 ipv6.plurk.com
+
+# Blizzard Entertainment 暴雪娱乐
+2620:10b:9006:600:dad3:85ff:fed9:ce24 ipv6.blizzard.com
+
+## 其他IPv6网站
+## CN 中国大陆
+## GuAo.hk 谷奥
+#2001:470:a803::250 www.guao.hk
+#2001:470:a803::250 guao.hk
+#2600:3c00::f03c:91ff:fe93:67f2 img.gd
+
+## kenengba.com 可能吧
+#2001:470:18:5f5::2 www.kenengba.com
+#2001:470:18:5f5::2 m.kenengba.com
+
+## Shooter 射手网
+#2607:f740:90::ea8 shooter.cn
+#2607:f740:90::ea8 www.shooter.cn
+#2607:f740:90::ea8 edu.shooter.cn
+#2607:f740:90::ea8 file.shooter.cn #有证书警告，但可以正常下载
+
+## Yegle 一阁
+2001:470:0:16d::4047:a712 yegle.net
+
+## US 美国
+## Mozilla
+2620:101:8008:5::2:1 www.mozilla.org #mozorg.dynect.mozilla.net
+2620:101:8008:5::2:6 air.mozilla.org #generic.zlb.phx.mozilla.net
+2620:101:8020:5::2:132 addons.mozilla.org #addons.dynect.mozilla.net
+2620:101:8008:5::2:6 blog.mozilla.org #generic.zlb.phx.mozilla.net
+#2620:101:8008:5::2:9 bugzilla.mozilla.org #bugzilla.zlb.phx.mozilla.net
+2620:101:8008:5::2:7 dnt.mozilla.org #static.zlb.phx.mozilla.net
+2620:101:8008:5::2:6 firefoxflicks.mozilla.org #generic.zlb.phx.mozilla.net
+2620:101:8008:5::2:6 hacks.mozilla.org #generic.zlb.phx.mozilla.net
+2620:101:8008:5::2:7 nightly.mozilla.org #static.zlb.phx.mozilla.net
+2620:101:8008:5::2:6 pastebin.mozilla.org #generic.zlb.phx.mozilla.net
+2620:101:8008:5::2:7 planet.mozilla.org #static.zlb.phx.mozilla.net
+2620:101:8008:5::2:6 quality.mozilla.org
+2620:101:8008:5::2:8 releases.mozilla.org #static-non-ssl.zlb.phx.mozilla.net
+2620:101:8008:5::2:3 support.mozilla.org #sumo.zlb.phx.mozilla.net
+2620:101:8008:5::2:6 tbpl.mozilla.org #generic.zlb.phx.mozilla.net
+2620:101:8008:5::2:6 wiki.mozilla.org #generic.zlb.phx.mozilla.net
+2620:101:8008:5::2:7 www.mozilla.com #static-redirect.zlb.phx.mozilla.net
+2620:101:8008:5::2:8 www.firefox.com #firefox.com
+2620:101:8008:5::2:8 firefox.com
+
+## Microsoft 微软
+#2a01:111:2004:3::13 www.microsoft.com
+#2600:140e:1:1::3cfe:83a3 i.microsoft.com
+#2600:140e:1::3cfe:83c8 i2.microsoft.com
+#2600:140e:1:1::3cfe:83b1 i3.microsoft.com
+#2600:140e:1::3cfe:83ca i4.microsoft.com
+2002:836b:9820::836b:9886 www.ipv6.microsoft.com
+
+## ARIN
+2001:500:4:13::125 www.arin.net
+2001:500:31::48 whois.arin.net
+
+## Yahoo!
+2001:4998:f011:1fe::3000 www.yahoo.com #ds-any-fp3-real.wa1.b.yahoo.com
+2001:4998:f011:1fe::3000 news.yahoo.com #ds-any-ycpi-uno.aycpi.b.yahoodns.net
+2001:4998:f011:1fe::3000 hk.news.yahoo.com #ds-any-ycpi-uno.aycpi.b.yahoodns.net
+2001:4998:f011:1fe::3000 dstest.yahoo.com #ds-any-ycpi-uno.aycpi.b.yahoodns.net
+2001:4998:f011:1fe::3000 dstest2.yahoo.com #ds-any-ycpi-uno.aycpi.b.yahoodns.net
+2001:4998:f011:1fe::3000 dstest3.yahoo.com #ds-any-ycpi-uno.aycpi.b.yahoodns.net
+2001:4998:f011:1fe::3000 tw.news.yahoo.com #ds-any-ycpi-uno.aycpi.b.yahoodns.net
+2001:4998:f011:1fe::3000 tw.news.yahoo.com #ds-any-ycpi-uno.aycpi.b.yahoodns.net
+2001:4998:8:1::2001 l.yimg.com #any-l.aycs.b.yahoodns.net
+2001:4998:8:1::2001 l1.yimg.com #any-l.aycs.b.yahoodns.net
+2001:4998:8:1::2001 l2.yimg.com #any-l.aycs.b.yahoodns.net
+2001:4998:8:1::2001 l3.yimg.com #any-l.aycs.b.yahoodns.net
+2001:4998:c:e33::4000 ad.yieldmanager.com #ds-any-world.ngd.ysm.yahoodns.net
+
+## Uncyclopedia
+2400:cb00:2048:1::681c:1a21 uncyclopedia.hk
+2400:cb00:2048:1::681c:1b09 uncyclopedia.info
+2400:cb00:2048:1::681c:1b09 www.uncyclopedia.info
+2400:cb00:2048:1::681c:1204 uncyclopedia.tw
+2400:cb00:2048:1::681c:b56 uncyclomedia.org
+2400:cb00:2048:1::681c:a56 meta.uncyclomedia.org
+2400:cb00:2048:1::c71b:867c images.uncyc.org
+2400:cb00:2048:1::c71b:867c static.uncyc.org
+2400:cb00:2048:1::681c:1009 ansaikuropedia.org
+
+## 华盟
+2607:5300:60:12bb::ca50 camoe.org
+#2001:470:a:4d::2 g.camoe.org
+#2001:470:a:4d::2 g.camoe.net
+
+## AT 奥地利
+## Tor Project
+2620:0:6b0:b:1a1a:0:26e5:480e torproject.org
+2001:858:2:2:aabb:0:563b:1e28 www.torproject.org
+2001:858:2:2:aabb:0:563b:1e28 deb.torproject.org #www.torproject.org
+2620:0:6b0:b:1a1a:0:26e5:481e trac.torproject.org #troodi.torproject.org
+2001:858:2:2:aabb:0:563b:1e28 cloud.torproject.org #www.torproject.org
+2001:858:2:2:aabb:0:563b:1e28 atlas.torproject.org #www.torproject.org
+2620:0:6b0:b:1a1a:0:26e5:480b svn.torproject.org #gayi.torproject.org
+
+## AU 澳大利亚
+## APNIC
+2001:dd8:8:701::244 www.apnic.net
+2001:dd8:9:2::101:34 wq.apnic.net
+2001:dc0:2001:11::205 submit.apnic.net
+
+## DE 德国
+#2002:c247:6b96::1 thepiratebay.se
+#2002:c247:6b96::1 www.thepiratebay.se
+#2002:c247:6b97::1 static.thepiratebay.se
+#2002:c247:6b96::1 thepiratebay.org
+#2002:c247:6b96::1 www.thepiratebay.org
+#2002:c247:6b97::1 static.thepiratebay.org
+
+## FR 法国
+2a01:e0d:1:3:58bf:fa02:0:1 videolan.org
+2a01:e0d:1:3:58bf:fa02:0:1 www.videolan.org #ganesh.videolan.org
+
+## JP 日本
+## JAIST 北陸先端科学技術大学院大学
+2001:df0:2ed:feed::feed ftp.jaist.ac.jp
+2001:df0:2ed:feed::feed jaist.dl.sourceforge.net
+
+## NL 荷兰
+## Ubuntu Archive
+2001:7b8:3:37:213:136:29:218 ipv6.torrent.ubuntu.com #ubuntuv6tracker.bit.nl
+2001:7b8:3:37:213:136:29:218 nl.archive.ubuntu.com #ubuntuarchive.bit.nl
+
+## PA 巴拿马
+2a02:29b8:1925::2 bitsnoop.com
+
+## SE 瑞典
+#2a00:1a28:1151:0:20c:29ff:feeb:294 torrage.com
+#2a00:1a28:1151:4::117:443 zoink.it
+
+# IPv6/IPv4 转换代理
+# DNS64 服务器：
+2001:778::37 dns64.litnet.lt

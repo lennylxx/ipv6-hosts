@@ -1,4 +1,4 @@
-## WikiMedia Î¬»ùÃ½Ìå
+ï»¿## WikiMedia ç»´åŸºåª’ä½“
 #2620:0:860:2:21d:9ff:fe33:f235 static.wikipedia.org #hume.wikimedia.org
 #2620:0:860:2:21d:9ff:fe33:f235 hume.wikimedia.org
 #2620:0:860:2:230:48ff:fe5a:eb1e download.wikimedia.org
@@ -73,7 +73,7 @@
 2620:0:863:ed1a::1:c mobile-lb.ulsfo.wikimedia.org
 2620:0:863:ed1a::2:b upload-lb.ulsfo.wikimedia.org
 
-## WikiBooks Î¬»ù½Ì¿ÆÊé
+## WikiBooks ç»´åŸºæ•™ç§‘ä¹¦
 2620:0:861:ed1a::1 wikibooks.org
 2620:0:863:ed1a::1 www.wikibooks.org
 2620:0:863:ed1a::1 aa.wikibooks.org
@@ -198,7 +198,7 @@
 2620:0:863:ed1a::1 zh-min-nan.wikibooks.org
 2620:0:863:ed1a::1 zu.wikibooks.org
 
-## WikiNews Î¬»ùĞÂÎÅ
+## WikiNews ç»´åŸºæ–°é—»
 2620:0:861:ed1a::1 wikinews.org
 2620:0:863:ed1a::1 www.wikinews.org
 2620:0:863:ed1a::1 ar.wikinews.org
@@ -235,7 +235,7 @@
 2620:0:863:ed1a::1 uk.wikinews.org
 2620:0:863:ed1a::1 zh.wikinews.org
 
-## WikiPedia Î¬»ù°Ù¿Æ
+## WikiPedia ç»´åŸºç™¾ç§‘
 2620:0:861:ed1a::1 wikipedia.org
 2620:0:863:ed1a::1 www.wikipedia.org
 2620:0:863:ed1a::1 aa.wikipedia.org
@@ -503,12 +503,12 @@
 2620:0:863:ed1a::1 zh-yue.wikipedia.org
 2620:0:863:ed1a::1 zu.wikipedia.org
 
-## WikiPedia Mobile Î¬»ù°Ù¿ÆÒÆ¶¯°æ
+## WikiPedia Mobile ç»´åŸºç™¾ç§‘ç§»åŠ¨ç‰ˆ
 2620:0:863:ed1a::1:c m.wikipedia.org
 2620:0:863:ed1a::1:c en.m.wikipedia.org
 2620:0:863:ed1a::1:c zh.m.wikipedia.org
 
-## WikiQuote Î¬»ùÓïÂ¼
+## WikiQuote ç»´åŸºè¯­å½•
 2620:0:861:ed1a::1 wikiquote.org
 2620:0:863:ed1a::1 www.wikiquote.org
 2620:0:863:ed1a::1 af.wikiquote.org
@@ -600,7 +600,7 @@
 2620:0:863:ed1a::1 zh.wikiquote.org
 2620:0:863:ed1a::1 zh-min-nan.wikiquote.org
 
-## WikiSource Î¬»ùÎÄ¿â
+## WikiSource ç»´åŸºæ–‡åº“
 2620:0:861:ed1a::1 wikisource.org
 2620:0:863:ed1a::1 www.wikisource.org
 2620:0:863:ed1a::1 ang.wikisource.org
@@ -664,7 +664,7 @@
 2620:0:863:ed1a::1 zh.wikisource.org
 2620:0:863:ed1a::1 zh-min-nan.wikisource.org
 
-#Wiktionary Î¬»ù´Êµä
+#Wiktionary ç»´åŸºè¯å…¸
 2620:0:861:ed1a::1 wiktionary.org
 2620:0:863:ed1a::1 www.wiktionary.org
 2620:0:863:ed1a::1 aa.wiktionary.org
@@ -838,7 +838,7 @@
 2620:0:863:ed1a::1 zh-min-nan.wiktionary.org
 2620:0:863:ed1a::1 zu.wiktionary.org
 
-## Wikiversity Î¬»ùÑ§Ôº
+## Wikiversity ç»´åŸºå­¦é™¢
 2620:0:861:ed1a::1 wikiversity.org
 2620:0:863:ed1a::1 www.wikiversity.org
 2620:0:863:ed1a::1 ar.wikiversity.org

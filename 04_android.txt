@@ -1,4 +1,4 @@
-## Android Google 移动操作系统
+﻿## Android Google 移动操作系统
 2607:f8b0:4007:803::1000 www.android.com #www3.l.google.com
 2607:f8b0:4007:803::1011 android.com
 2607:f8b0:4007:803::1000 developer.android.com #www3.l.google.com

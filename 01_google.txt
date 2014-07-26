@@ -1,4 +1,4 @@
-## Google.com
+ï»¿## Google.com
 2001:4860:4860::8888 google-public-dns-a.google.com
 2001:4860:4860::8844 google-public-dns-b.google.com
 
@@ -28,7 +28,7 @@
 2607:f8b0:4007:803::1007 suggestqueries.google.com #suggestqueries.l.google.com
 2607:f8b0:4007:803::1003 support.google.com #www3.l.google.com
 
-## ¹È¸èÏã¸Û
+## è°·æ­Œé¦™æ¸¯
 2607:f8b0:4007:803::101f google.com.hk
 2607:f8b0:4007:803::101f www.google.com.hk
 2001:4860:400b:c01::5e accounts.google.com.hk #accounts-cctld.l.google.com
@@ -42,7 +42,7 @@
 2607:f8b0:4007:803::1006 picasaweb.google.com.hk #picasaweb.l.google.com
 2607:f8b0:4007:803::1011 www.googlechinawebmaster.com
 
-## ¹È¸èÖĞ¹ú
+## è°·æ­Œä¸­å›½
 2001:4860:400b:c01::a0 g.cn
 2001:4860:400b:c01::a0 google.cn
 2001:4860:400b:c01::a0 www.google.cn
@@ -54,16 +54,16 @@
 2001:4860:400b:c01::a0 www.265.com #265.com
 2001:4860:400b:c01::a0 265.com
 
-## GoogleÌ¨Íå
+## Googleå°æ¹¾
 2607:f8b0:4007:803::1017 www.google.com.tw
 2607:f8b0:4007:803::1018 clients1.google.com.tw #clients-cctld.l.google.com
 2607:f8b0:4007:803::1006 picasaweb.google.com.tw #picasaweb.l.google.com
 
-## Google ÈÕ±¾
+## Google æ—¥æœ¬
 2607:f8b0:4007:803::101f www.google.co.jp
 2607:f8b0:4007:803::100e ipv6.google.co.jp #ipv6.l.google.com
 
-## ÆäËû
+## å…¶ä»–
 2607:f8b0:4007:803::101f www.google.ae
 2607:f8b0:4007:803::100f www.google.com.ar
 2607:f8b0:4007:803::1017 www.google.at
@@ -102,7 +102,7 @@
 2607:f8b0:4007:803::100f www.google.com.vn
 2607:f8b0:4007:803::101f www.google.co.za
 
-## Google Apps ÆóÒµÓ¦ÓÃÌ×¼ş
+## Google Apps ä¼ä¸šåº”ç”¨å¥—ä»¶
 2607:f8b0:4007:803::1003 apps.google.com #www3.l.google.com
 2001:4860:400b:c01::79 ghs.google.com #ghs.l.google.com
 2001:4860:400b:c01::79 ghs46.google.com #ghs46.l.google.com
@@ -128,19 +128,19 @@
 2001:4860:400b:c01::8d yt-debates.appspot.com #appspot.l.google.com
 2001:4860:400b:c01::8d *.appspot.com #appspot.l.google.com
 
-#Answers/Guru/WenDa ÎÊ´ğÉçÇø£¨¹ú¼Ê°æÒÑÍ£Ö¹ÔËÓª£©
+#Answers/Guru/WenDa é—®ç­”ç¤¾åŒºï¼ˆå›½é™…ç‰ˆå·²åœæ­¢è¿è¥ï¼‰
 2607:f8b0:4007:803::1003 answers.google.com #www3.l.google.com
 #2404:6800:4008:c00::62 guru.google.com
 2607:f8b0:4007:803::1013 guru.google.co.th #www2.l.google.com
 2607:f8b0:4007:803::1003 wenda.google.com.hk #www3.l.google.com
 
-## Blog ²©¿ÍËÑË÷
+## Blog åšå®¢æœç´¢
 2607:f8b0:4007:803::1013 blogsearch.google.com #www2.l.google.com
 2607:f8b0:4007:803::1013 blogsearch.google.com.hk #www2.l.google.com
 2607:f8b0:4007:803::1013 blogsearch.google.com.tw #www2.l.google.com
 2001:4860:400b:c01::a0 blogsearch.google.cn #www.google.cn
 
-## Blogger ²©¿Í·şÎñ
+## Blogger åšå®¢æœåŠ¡
 2001:4860:400b:c01::bf www.blogger.com #blogger.l.google.com
 2001:4860:400b:c01::bf blogger.com
 2001:4860:400b:c01::bf buttons.blogger.com #blogger.l.google.com
@@ -164,7 +164,7 @@
 2001:4860:400b:c01::bf img2.blogblog.com #blogger.l.google.com
 2001:4860:400b:c01::79 www.textcube.com #ghs.l.google.com
 
-## Blogspot ²©¿Í·şÎñ
+## Blogspot åšå®¢æœåŠ¡
 2001:4860:400b:c01::bf www.blogspot.com #blogger.l.google.com
 2001:4860:400b:c01::bf blogspot.com
 2607:f8b0:4007:803::100a blogsofnote.blogspot.com #blogspot.l.googleusercontent.com
@@ -175,7 +175,7 @@
 2607:f8b0:4007:803::100c 4.bp.blogspot.com #photos-ugc.l.googleusercontent.com
 2607:f8b0:4007:803::100a bloggertemplatespreview.blogspot.com #blogspot.l.googleusercontent.com
 
-## Google ¹Ù·½²©¿ÍÈº
+## Google å®˜æ–¹åšå®¢ç¾¤
 2607:f8b0:4007:803::100a adwordsapi.blogspot.com #blogspot.l.googleusercontent.com
 2607:f8b0:4007:803::100a adsense-zhs.blogspot.com #blogspot.l.googleusercontent.com
 2607:f8b0:4007:803::100a android-developers.blogspot.com #blogspot.l.googleusercontent.com
@@ -215,7 +215,7 @@
 2607:f8b0:4007:803::100a youtube-global.blogspot.com #blogspot.l.googleusercontent.com
 2607:f8b0:4007:803::100a *.blogspot.com #blogspot.l.googleusercontent.com
 
-## Books Í¼Êé
+## Books å›¾ä¹¦
 2607:f8b0:4007:803::1003 books.google.com #www3.l.google.com
 2607:f8b0:4007:803::1003 books.google.com.hk #www3.l.google.com
 2001:4860:400b:c01::a0 books.google.cn #www.google.cn
@@ -243,14 +243,14 @@
 2607:f8b0:4007:803::1003 bks10.books.google.com.hk #www3.l.google.com
 2607:f8b0:4007:803::1003 buzz.google.com #www3.l.google.com
 
-## Calendar ÈÕÀú
+## Calendar æ—¥å†
 2607:f8b0:4007:803::1003 calendar.google.com #www3.l.google.com
 
-## Checkout Âò¼Ò
+## Checkout ä¹°å®¶
 #2404:6800:4008:c00::73 checkout.google.com #checkout.l.google.com
 2607:f8b0:4007:803::100e wallet.google.com
 
-## Chrome ¹È¸èä¯ÀÀÆ÷
+## Chrome è°·æ­Œæµè§ˆå™¨
 2607:f8b0:4007:803::1003 chrome.google.com #www3.l.google.com
 #2404:6800:4008:c00::66 browsersync.google.com #browsersync.l.google.com
 
@@ -258,7 +258,7 @@
 #2404:6800:4008:c00::68 toolbarqueries.google.com.hk #toolbarqueries.l.google.com
 2607:f8b0:4007:803::1007 toolbarqueries.clients.google.com #clients.l.google.com
 
-## Chromium Chromium ÏîÄ¿
+## Chromium Chromium é¡¹ç›®
 2607:f8b0:4007:803::1002 chromium.org
 2001:4860:400b:c01::79 www.chromium.org #ghs.l.google.com
 2001:4860:400b:c01::79 dev.chromium.org #ghs.l.google.com
@@ -266,11 +266,11 @@
 #2404:6800:4008:c00::62 build.chromium.org #planet.chromium.org
 #2404:6800:4008:c00::79 codereview.chromium.org #ghs.l.google.com
 
-## Chromium OS Chromium ²Ù×÷ÏµÍ³
+## Chromium OS Chromium æ“ä½œç³»ç»Ÿ
 2001:4860:400b:c01::79 goto.ext.google.com #ghs.l.google.com
 2001:4860:400b:c01::8d welcome-cros.appspot.com #appspot.l.google.com
 
-## Code ´úÂë
+## Code ä»£ç 
 2607:f8b0:4007:803::1000 code.google.com #code.l.google.com
 2001:4860:400b:c01::52 *.googlecode.com #googlecode.l.googleusercontent.com
 2001:4860:400b:c01::52 chromium.googlecode.com #googlecode.l.googleusercontent.com
@@ -282,14 +282,14 @@
 2001:4860:400b:c01::52 www.googlesource.com #googlecode.l.googleusercontent.com
 2001:4860:400b:c01::52 android.googlesource.com #googlecode.l.googleusercontent.com
 
-## Desktop ×ÀÃæ
+## Desktop æ¡Œé¢
 #2404:6800:4008:c00::68 desktop.google.com #desktop.l.google.com
 
-## Directory ÍøÒ³Ä¿Â¼
+## Directory ç½‘é¡µç›®å½•
 2607:f8b0:4007:803::1003 directory.google.com #www3.l.google.com
 2607:f8b0:4007:803::1003 dir.google.com #www3.l.google.com
 
-## Docs ÎÄµµ
+## Docs æ–‡æ¡£
 2607:f8b0:4007:803::1008 docs.google.com
 2607:f8b0:4007:803::1002 drive.google.com
 2607:f8b0:4007:803::1003 docs0.google.com #www3.l.google.com
@@ -353,26 +353,26 @@
 2607:f8b0:4007:803::1003 writely.google.com #www3.l.google.com
 2001:4860:400b:c01::75 upload.docs.google.com #large-uploads.l.google.com
 
-## Download ÏÂÔØ
+## Download ä¸‹è½½
 2607:f8b0:4007:803::1004 dl.google.com #dl.l.google.com
 2001:4860:400b:c01::88 dl-ssl.google.com #dl-ssl.l.google.com
 
-## Google Earth µØÇò
+## Google Earth åœ°çƒ
 2607:f8b0:4007:803::1003 earth.google.com #www3.l.google.com
 2607:f8b0:4007:803::1003 auth.keyhole.com #www3.l.google.com
 2607:f8b0:4007:803::1003 geoauth.google.com #www3.l.google.com
 
-## Finance ²Æ¾­
+## Finance è´¢ç»
 2607:f8b0:4007:803::1003 finance.google.com #www3.l.google.com
 
-## Fusion RSS ¾ÛºÏÖ¸ÄÏ
+## Fusion RSS èšåˆæŒ‡å—
 2607:f8b0:4007:803::1013 fusion.google.com #www2.l.google.com
 
-## Gmail ÓÊÏä
+## Gmail é‚®ç®±
 2607:f8b0:4007:803::1015 mail.google.com #googlemail.l.google.com
 2607:f8b0:4007:803::101d chatenabled.mail.google.com #b.googlemail.l.google.com
 2607:f8b0:4007:803::101d filetransferenabled.mail.google.com #b.googlemail.l.google.com
-#2404:6800:4008:c00::62 talk.gmail.com #GmailÖĞGtalkÁÄÌì·şÎñ
+#2404:6800:4008:c00::62 talk.gmail.com #Gmailä¸­GtalkèŠå¤©æœåŠ¡
 2607:f8b0:4007:803::1003 gmail.google.com #www3.l.google.com
 2607:f8b0:4007:803::1015 www.gmail.com #googlemail.l.google.com
 2607:f8b0:4007:803::1016 gmail.com
@@ -390,7 +390,7 @@
 2607:f8b0:400e:c03::6d imap.gmail.com #gmail-imap.l.google.com
 2607:f8b0:400e:c03::10 imap.googlemail.com #googlemail-imap.l.google.com
 
-## Group ÂÛÌ³
+## Group è®ºå›
 2001:4860:400b:c01::8b groups.google.com #groups.l.google.com
 #2401:3800:c001::68 groups.google.cn
 2001:4860:400b:c01::8b groups.google.com.hk #groups.l.google.com
@@ -400,10 +400,10 @@
 2001:4860:400b:c01::89 blob-s-docs.googlegroups.com #googlegroups.l.googleusercontent.com
 2001:4860:400b:c01::89 *.googlegroups.com #googlegroups.l.googleusercontent.com
 
-## Health ½¡¿µ
+## Health å¥åº·
 2607:f8b0:4007:803::1003 health.google.com #www3.l.google.com
 
-## Images Í¼Æ¬
+## Images å›¾ç‰‡
 2607:f8b0:4007:803::1003 images.google.com #images.l.google.com
 2607:f8b0:4007:803::1003 images.google.com.hk #images.l.google.com
 2607:f8b0:4007:803::1010 tbn0.google.com #tbn.l.google.com
@@ -414,10 +414,10 @@
 #2404:6800:4008:c00::62 tbn5.google.com
 #2404:6800:4008:c00::62 tbn6.google.com
 
-## Knol ÔÚÏß°Ù¿ÆÈ«Êé
+## Knol åœ¨çº¿ç™¾ç§‘å…¨ä¹¦
 2607:f8b0:4007:803::1003 knol.google.com #www3.l.google.com
 
-##Labs ÊµÑéÊÒ
+##Labs å®éªŒå®¤
 2607:f8b0:4007:803::1003 labs.google.com #www3.l.google.com
 2607:f8b0:4007:803::1003 labs.google.cn #www3.l.google.com
 2001:4860:400b:c01::8d www.googlelabs.com #appspot.l.google.com
@@ -445,10 +445,10 @@
 2001:4860:400b:c01::8d swiffy.googlelabs.com #appspot.l.google.com
 2001:4860:400b:c01::8d tables.googlelabs.com #appspot.l.google.com
 
-##Google Mars »ğĞÇµØÍ¼
+##Google Mars ç«æ˜Ÿåœ°å›¾
 2607:f8b0:4007:803::1003 mars.google.com #www3.l.google.com
 
-##Maps µØÍ¼
+##Maps åœ°å›¾
 2607:f8b0:4007:803::1002 maps.google.com
 2607:f8b0:4007:803::1017 maps.google.com.hk #maps-cctld.l.google.com
 2607:f8b0:4007:803::1017 maps.google.com.tw #maps-cctld.l.google.com
@@ -501,13 +501,13 @@
 2001:4860:400b:c01::a0 maps.gstatic.cn #www.gstatic.cn
 2607:f8b0:4007:803::1009 mobilemaps.clients.google.com #clients.l.google.com
 
-## Music Beta by Google ÔÆÒôÀÖ·şÎñ
+## Music Beta by Google äº‘éŸ³ä¹æœåŠ¡
 2607:f8b0:4007:803::1002 music.google.com #www3.l.google.com
 2001:4860:400b:c01::75 t.doc-0-0-sj.sj.googleusercontent.com #music-streaming.l.google.com
 2607:f8b0:4007:803::100a music.googleusercontent.com #googlehosted.l.googleusercontent.com
 2001:4860:400b:c01::75 uploadsj.clients.google.com #large-uploads.l.google.com
 
-## News ×ÊÑ¶
+## News èµ„è®¯
 2607:f8b0:4007:803::1007 news.google.com #news.l.google.com
 2607:f8b0:4007:803::101f news.google.com.hk #news-cctld.l.google.com
 2607:f8b0:4007:803::101f news.google.com.tw #news-cctld.l.google.com
@@ -518,7 +518,7 @@
 #2404:6800:4008:c00::62 nt4.ggpht.com
 #2404:6800:4008:c00::62 nt5.ggpht.com
 
-## Orkut ÍøÂçÉçÇø
+## Orkut ç½‘ç»œç¤¾åŒº
 2001:4860:400b:c01::56 www.orkut.com #orkut-fe.l.google.com
 2001:4860:400b:c01::56 www.orkut.gmodules.com #orkut-opensocial.l.googleusercontent.com
 2001:4860:400b:c01::56 *.a.orkut.gmodules.com #orkut-opensocial.l.googleusercontent.com
@@ -541,12 +541,12 @@
 2001:4860:400b:c01::79 blog.orkut.com #ghs.l.google.com
 2001:4860:400b:c01::79 en.blog.orkut.com #ghs.l.google.com
 
-## Pack Èí¼ş¾«Ñ¡
+## Pack è½¯ä»¶ç²¾é€‰
 2607:f8b0:4007:803::1014 pack.google.com #www2.l.google.com
 2607:f8b0:4007:803::1006 cache.pack.google.com #redirector.c.pack.google.com
 2607:f8b0:4007:803::1014 pack.google.cn #www2.l.google.com
 
-## Photo/Picasa ÕÕÆ¬/ÍøÂçÏà²á
+## Photo/Picasa ç…§ç‰‡/ç½‘ç»œç›¸å†Œ
 2607:f8b0:4007:803::1004 photos.google.com #picasaweb.l.google.com
 2607:f8b0:4007:803::1014 picasa.google.com #www2.l.google.com
 2607:f8b0:4007:803::1004 picasaweb.google.com #picasaweb.l.google.com
@@ -560,45 +560,45 @@
 2607:f8b0:4007:803::100e lh5.google.com #lh2.l.google.com
 2607:f8b0:4007:803::100e lh6.google.com #lh2.l.google.com
 
-## Profiles ¸öÈËÖ÷Ò³
+## Profiles ä¸ªäººä¸»é¡µ
 2607:f8b0:4007:803::1002 profiles.google.com
 2607:f8b0:4007:803::1004 plusone.google.com #plus.l.google.com
 2607:f8b0:4007:803::1003 plus.google.com
-#2404:6800:4008:c00::8a plus.google.com.hk # URL ÖØ¶¨Ïò
+#2404:6800:4008:c00::8a plus.google.com.hk # URL é‡å®šå‘
 2607:f8b0:4007:803::1002 plus.url.google.com #www3.l.google.com
-#2404:6800:4008:c00::8a plus.url.google.com.hk #Êµ¼ÊÉÏ²»´æÔÚµÄÓòÃû
+#2404:6800:4008:c00::8a plus.url.google.com.hk #å®é™…ä¸Šä¸å­˜åœ¨çš„åŸŸå
 2607:f8b0:4007:803::1002 developers.google.com #www3.l.google.com
 
-## Reader ÔÄ¶ÁÆ÷
+## Reader é˜…è¯»å™¨
 2607:f8b0:4007:803::1014 reader.google.com #www2.l.google.com
 
-## SafeBrowing °²È«¼ì²â·şÎñ
+## SafeBrowing å®‰å…¨æ£€æµ‹æœåŠ¡
 2607:f8b0:4007:803::1007 sb.google.com #sb.l.google.com
 2607:f8b0:4007:803::1009 sb-ssl.google.com #sb-ssl.l.google.com
 2607:f8b0:4007:803::1007 safebrowsing.google.com #sb.l.google.com
 2607:f8b0:4007:803::1009 safebrowsing.clients.google.com #clients.l.google.com
 2607:f8b0:4007:803::1003 safebrowsing-cache.google.com #safebrowsing.cache.l.google.com
 
-## Sandbox ·şÎñÉ³ºĞ
+## Sandbox æœåŠ¡æ²™ç›’
 2001:4860:400b:c01::51 sandbox.google.com #sandbox.l.google.com
 
-## Scholar Ñ§ÊõËÑË÷
+## Scholar å­¦æœ¯æœç´¢
 #2404:6800:4008:c00::63 scholar.google.com
 #2404:6800:4008:c00::63 scholar.google.com.hk
 #2404:6800:4008:c00::63 scholar.google.com.tw
 2001:4860:400b:c01::a0 scholar.google.cn #www.google.cn
 
-## Sites Ğ­×÷Æ½Ì¨
+## Sites åä½œå¹³å°
 2607:f8b0:4007:803::1002 sites.google.com #www3.l.google.com
 2001:4860:400b:c01::79 gsamplemaps.googlepages.com #ghs.googlehosted.com
 
-## SketchUp 3D ½¨Ä£¹¤¾ß
+## SketchUp 3D å»ºæ¨¡å·¥å…·
 #2404:6800:4008:c00::66 sketchup.google.com
 
-## Google Store Google ÉÌµê£¨ÀïÃæÓĞºÜ¶à¹È¸è×Ô¼ºµÄ¶«Î÷³öÊÛ£¬Ïñ¹È¸èTĞô¡¢²è±­¡¢Ğ¡ÍæÒâµÈµÈ£©
+## Google Store Google å•†åº—ï¼ˆé‡Œé¢æœ‰å¾ˆå¤šè°·æ­Œè‡ªå·±çš„ä¸œè¥¿å‡ºå”®ï¼Œåƒè°·æ­ŒTæ¤ã€èŒ¶æ¯ã€å°ç©æ„ç­‰ç­‰ï¼‰
 #2404:6800:4008:c00::62 www.googlestore.com
 
-## Google Talk/Chat ÁÄÌì
+## Google Talk/Chat èŠå¤©
 2001:4860:400b:c01::7d talk.google.com #talk.l.google.com
 #2404:6800:4008:c00::62 default.talk.google.com
 2607:f8b0:4007:803::1000 talkgadget.google.com #talkgadget.l.google.com
@@ -606,18 +606,18 @@
 #2404:6800:4008:c00::62 users.talk.google.com
 2607:f8b0:400e:c03::bc mtalk.google.com #mobile-gtalk.l.google.com
 
-## Tools ¹¤¾ß
+## Tools å·¥å…·
 2607:f8b0:4007:803::100e tools.google.com #tools.l.google.com
 2607:f8b0:4007:803::100e toolbar.google.com #tools.l.google.com
 2607:f8b0:4007:803::100e toolbar.google.com.hk #tools.l.google.com
 
-#3 Translate ·­Òë
+#3 Translate ç¿»è¯‘
 2607:f8b0:4007:803::1002 translate.google.com #www3.l.google.com
 2607:f8b0:4007:803::1018 translate.google.com.hk
 2607:f8b0:4007:803::1017 translate.google.com.tw
 2001:4860:400b:c01::a0 translate.google.cn #www.google.cn
 
-## Trends Ç÷ÊÆ
+## Trends è¶‹åŠ¿
 2607:f8b0:4007:803::1014 trends.google.com #www2.l.google.com
 
 2001:4860:400b:c01::a0 www.gvt0.cn
@@ -626,7 +626,7 @@
 2001:4860:400b:c01::a0 2.gvt0.cn #www.gvt0.cn
 2001:4860:400b:c01::a0 3.gvt0.cn #www.gvt0.cn
 
-## Wave ²¨ÀË
+## Wave æ³¢æµª
 2607:f8b0:4007:803::1008 wave.google.com #www4.l.google.com
 #2404:6800:4008:c00::76 wave0.google.com
 2607:f8b0:4007:803::1008 wave1.google.com #www4.l.google.com
@@ -635,7 +635,7 @@
 ## WiFi
 #2404:6800:4008:c00::7b wifi.google.com
 
-## iGoogle Modules iGoogle Ğ¡¹¤¾ß
+## iGoogle Modules iGoogle å°å·¥å…·
 2607:f8b0:4007:803::1012 gmodules.com
 2607:f8b0:4007:803::100b www.gmodules.com #googlehosted.l.googleusercontent.com
 2607:f8b0:4007:803::100b www.ig.gmodules.com #googlehosted.l.googleusercontent.com
@@ -659,7 +659,7 @@
 2607:f8b0:4007:803::1014 partnerpage.google.com #www2.l.google.com
 2607:f8b0:4007:803::100b *.ig.ig.gmodules.com #googlehosted.l.googleusercontent.com
 
-## GStatic Google ¾²Ì¬ÎÄ¼ş´æ´¢
+## GStatic Google é™æ€æ–‡ä»¶å­˜å‚¨
 2607:f8b0:4007:803::100f www.gstatic.com
 2404:6800:4009:801::101f csi.gstatic.com
 2607:f8b0:4007:803::1017 maps.gstatic.com
@@ -682,7 +682,7 @@
 2607:f8b0:4007:803::1008 mt7.gstatic.com
 2001:4860:400b:c01::a0 www.gstatic.cn
 
-## Google APIs ¿ª·¢½Ó¿Ú·şÎñ
+## Google APIs å¼€å‘æ¥å£æœåŠ¡
 2607:f8b0:4007:803::1004 apis.google.com #plus.l.google.com
 2607:f8b0:4007:803::1009 chart.apis.google.com #clients.l.google.com
 2001:4860:400b:c01::5f www.googleapis.com #googleapis.l.google.com
@@ -699,7 +699,7 @@
 2607:f8b0:4007:803::1004 mt2.googleapis.com #mt.l.google.com
 2607:f8b0:4007:803::1004 mt3.googleapis.com #mt.l.google.com
 
-## Google Hosted ÍĞ¹Ü·şÎñ
+## Google Hosted æ‰˜ç®¡æœåŠ¡
 2607:f8b0:4007:803::100a commondatastorage.googleapis.com #storage-ugc.l.googleusercontent.com
 2607:f8b0:4007:803::100a bucket.commondatastorage.googleapis.com #storage-ugc.l.googleusercontent.com
 2607:f8b0:4007:803::100a chromium-browser-symbols.commondatastorage.googleapis.com #storage-ugc.l.googleusercontent.com
@@ -713,7 +713,7 @@
 2607:f8b0:4007:803::100b base4.googlehosted.com #googlehosted.l.googleusercontent.com
 2607:f8b0:4007:803::100b base5.googlehosted.com #googlehosted.l.googleusercontent.com
 
-## GoogleÆäËû·şÎñ
+## Googleå…¶ä»–æœåŠ¡
 
 ## DoubleClick
 #2404:6800:4008:c00::94 ad.doubleclick.net #dart.l.doubleclick.net
@@ -738,7 +738,7 @@
 2607:f8b0:4007:803::101a www.googletagservices.com #pagead46.l.doubleclick.net
 2607:f8b0:4007:803::101a static.googleadsserving.cn #pagead46.l.doubleclick.net
 
-## Analytics ·ÖÎö
+## Analytics åˆ†æ
 2607:f8b0:4007:803::1002 www.google-analytics.com #www-google-analytics.l.google.com
 2607:f8b0:4007:801::101e ssl.google-analytics.com #ssl-google-analytics.l.google.com
 #2404:6800:4008:c00::61 *.google-analytics.com
@@ -756,24 +756,24 @@
 2607:f8b0:4007:803::1008 feeds2.feedburner.com #www4.l.google.com
 2607:f8b0:4007:803::1008 feedproxy.google.com #www4.l.google.com
 
-## The Go Programming Language Go ±à³ÌÓïÑÔ
+## The Go Programming Language Go ç¼–ç¨‹è¯­è¨€
 2001:4860:400b:c01::8d golang.org
 2001:4860:400b:c01::8d www.golang.org #golang.org
 2001:4860:400b:c01::8d blog.golang.org #golang.org
 2001:4860:400b:c01::8d play.golang.org #golang.org
 2001:4860:400b:c01::8d tour.golang.org #golang.org
 
-## Goo.gl Google¶ÌÍøÖ··şÎñ
+## Goo.gl GoogleçŸ­ç½‘å€æœåŠ¡
 2607:f8b0:4007:803::1009 goo.gl
 2607:f8b0:4007:803::1003 g.co
 
-## html5rocks HTML5 ÍÆ¹ã×¨ÌâÍøÕ¾
+## html5rocks HTML5 æ¨å¹¿ä¸“é¢˜ç½‘ç«™
 2001:4860:400b:c01::79 www.html5rocks.com #ghs.l.google.com
 2001:4860:400b:c01::79 slides.html5rocks.com #ghs.l.google.com
 2001:4860:400b:c01::79 playground.html5rocks.com #ghs.l.google.com
 2001:4860:400b:c01::79 studio.html5rocks.com #ghs.l.google.com
 
-## Google.org Google ¹«Òæ
+## Google.org Google å…¬ç›Š
 2001:4860:400b:c01::79 blog.google.org #ghs.l.google.com
 
 ## Panoramio
@@ -781,35 +781,35 @@
 2001:4860:400b:c01::80 static.panoramio.com #storage.l.googleusercontent.com
 2001:4860:400b:c01::79 blog.panoramio.com #ghs.l.google.com
 
-## Recaptcha ÑéÖ¤Âë·şÎñ
+## Recaptcha éªŒè¯ç æœåŠ¡
 2607:f8b0:4007:803::1013 www.recaptcha.net #www.l.google.com
 2607:f8b0:4007:803::1013 api.recaptcha.net #www.l.google.com
 2607:f8b0:4007:803::1013 api-secure.recaptcha.net #www.l.google.com
 2607:f8b0:4007:803::1013 mailhide.recaptcha.net #www.l.google.com
 
-## Google Wave Federation Protocol ¡¤ GWave Ğ­Òé¿ªÔ´¼Æ»®
+## Google Wave Federation Protocol Â· GWave åè®®å¼€æºè®¡åˆ’
 2001:4860:400b:c01::79 www.waveprotocol.org #ghs.l.google.com
 
-## The WebM Project WebM ¿ª·Å¶àÃ½ÌåÏîÄ¿
+## The WebM Project WebM å¼€æ”¾å¤šåª’ä½“é¡¹ç›®
 2607:f8b0:4007:803::1010 webmproject.org
 2607:f8b0:4007:803::1002 www.webmproject.org #www3.l.google.com
 2001:4860:400b:c01::79 lists.webmproject.org #ghs.l.google.com
 2001:4860:400b:c01::79 blog.webmproject.org #ghs.l.google.com
 2001:4860:400b:c01::79 www.webm-ccl.org #ghs.l.google.com
 
-## Chrome Ïà¹Ø×¨ÌâÍøÕ¾
+## Chrome ç›¸å…³ä¸“é¢˜ç½‘ç«™
 2607:f8b0:4007:803::1002 www.chromercise.com #www3.l.google.com
 2001:4860:400b:c01::79 www.chromeexperiments.com #ghs.l.google.com
 2001:4860:400b:c01::79 www.20thingsilearned.com #ghs.l.google.com
 
-## IPv6 ×¨Ìâ
+## IPv6 ä¸“é¢˜
 #2404:6800:4008:c00::63 ipv6test.google.com #ipv6test.l.google.com
 #2404:6800:4008:c00::63 ipv4.google.com #ipv4.l.google.com
 2607:f8b0:4007:803::1011 ??????.ds.ipv6test.google.com #ds.ipv6test.l.google.com
 2607:f8b0:4007:803::1012 p2.*.*.??????.i2.ds.ipv6-exp.l.google.com
 2607:f8b0:400e:c01::97 chrome.googleechotest.com #chromeecho.l.google.com
 
-## ÆäËû×¨ÌâÕ¾
+## å…¶ä»–ä¸“é¢˜ç«™
 2607:f8b0:4007:803::1002 www.data-vocabulary.org #www3.l.google.com
 2607:f8b0:4007:803::1002 www.googleinsidesearch.com #www3.l.google.com
 2001:4860:400b:c01::79 www.teachparentstech.org #ghs.l.google.com

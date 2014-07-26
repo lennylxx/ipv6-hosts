@@ -1,4 +1,4 @@
-## GoogleUserContent 用户自定义的Google服务
+﻿## GoogleUserContent 用户自定义的Google服务
 2607:f8b0:4007:803::100b www.googleusercontent.com #googlehosted.l.googleusercontent.com
 2607:f8b0:4007:803::100b androidmarket.googleusercontent.com #googlehosted.l.googleusercontent.com
 2607:f8b0:4007:803::100b blogger.googleusercontent.com #googlehosted.l.googleusercontent.com

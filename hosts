@@ -1,5 +1,5 @@
 ﻿## 项目地址: https://github.com/lennylxx/ipv6-hosts
-## 最后更新: 7/27/2014
+## 最后更新: 7/30/2014
 
 ::1 localhost
 
@@ -4280,6 +4280,60 @@
 2607:f8b0:4005:400::16 r7---sn-o097zuee.c.youtube.com #r7.sn-o097zuee.c.youtube.com
 2607:f8b0:4005:400::17 r8---sn-o097zuee.c.youtube.com #r8.sn-o097zuee.c.youtube.com
 
+2607:f8b0:4005:401::10 r1---sn-o097zuel.c.youtube.com #r1.sn-o097zuel.c.youtube.com
+2607:f8b0:4005:401::11 r2---sn-o097zuel.c.youtube.com #r2.sn-o097zuel.c.youtube.com
+2607:f8b0:4005:401::12 r3---sn-o097zuel.c.youtube.com #r3.sn-o097zuel.c.youtube.com
+2607:f8b0:4005:401::13 r4---sn-o097zuel.c.youtube.com #r4.sn-o097zuel.c.youtube.com
+2607:f8b0:4005:401::14 r5---sn-o097zuel.c.youtube.com #r5.sn-o097zuel.c.youtube.com
+2607:f8b0:4005:401::15 r6---sn-o097zuel.c.youtube.com #r6.sn-o097zuel.c.youtube.com
+2607:f8b0:4005:401::16 r7---sn-o097zuel.c.youtube.com #r7.sn-o097zuel.c.youtube.com
+2607:f8b0:4005:401::17 r8---sn-o097zuel.c.youtube.com #r8.sn-o097zuel.c.youtube.com
+
+2607:f8b0:4005:402::10 r1---sn-o097zues.c.youtube.com #r1.sn-o097zues.c.youtube.com
+2607:f8b0:4005:402::11 r2---sn-o097zues.c.youtube.com #r2.sn-o097zues.c.youtube.com
+2607:f8b0:4005:402::12 r3---sn-o097zues.c.youtube.com #r3.sn-o097zues.c.youtube.com
+2607:f8b0:4005:402::13 r4---sn-o097zues.c.youtube.com #r4.sn-o097zues.c.youtube.com
+2607:f8b0:4005:402::14 r5---sn-o097zues.c.youtube.com #r5.sn-o097zues.c.youtube.com
+2607:f8b0:4005:402::15 r6---sn-o097zues.c.youtube.com #r6.sn-o097zues.c.youtube.com
+2607:f8b0:4005:402::16 r7---sn-o097zues.c.youtube.com #r7.sn-o097zues.c.youtube.com
+2607:f8b0:4005:402::17 r8---sn-o097zues.c.youtube.com #r8.sn-o097zues.c.youtube.com
+
+2607:f8b0:4005:403::10 r1---sn-o097zuez.c.youtube.com #r1.sn-o097zuez.c.youtube.com
+2607:f8b0:4005:403::11 r2---sn-o097zuez.c.youtube.com #r2.sn-o097zuez.c.youtube.com
+2607:f8b0:4005:403::12 r3---sn-o097zuez.c.youtube.com #r3.sn-o097zuez.c.youtube.com
+2607:f8b0:4005:403::13 r4---sn-o097zuez.c.youtube.com #r4.sn-o097zuez.c.youtube.com
+2607:f8b0:4005:403::14 r5---sn-o097zuez.c.youtube.com #r5.sn-o097zuez.c.youtube.com
+2607:f8b0:4005:403::15 r6---sn-o097zuez.c.youtube.com #r6.sn-o097zuez.c.youtube.com
+2607:f8b0:4005:403::16 r7---sn-o097zuez.c.youtube.com #r7.sn-o097zuez.c.youtube.com
+2607:f8b0:4005:403::17 r8---sn-o097zuez.c.youtube.com #r8.sn-o097zuez.c.youtube.com
+
+2607:f8b0:4005:404::10 r1---sn-o097zue6.c.youtube.com #r1.sn-o097zue6.c.youtube.com
+2607:f8b0:4005:404::11 r2---sn-o097zue6.c.youtube.com #r2.sn-o097zue6.c.youtube.com
+2607:f8b0:4005:404::12 r3---sn-o097zue6.c.youtube.com #r3.sn-o097zue6.c.youtube.com
+2607:f8b0:4005:404::13 r4---sn-o097zue6.c.youtube.com #r4.sn-o097zue6.c.youtube.com
+2607:f8b0:4005:404::14 r5---sn-o097zue6.c.youtube.com #r5.sn-o097zue6.c.youtube.com
+2607:f8b0:4005:404::15 r6---sn-o097zue6.c.youtube.com #r6.sn-o097zue6.c.youtube.com
+2607:f8b0:4005:404::16 r7---sn-o097zue6.c.youtube.com #r7.sn-o097zue6.c.youtube.com
+2607:f8b0:4005:404::17 r8---sn-o097zue6.c.youtube.com #r8.sn-o097zue6.c.youtube.com
+
+2607:f8b0:4005:405::10 r1---sn-o097zued.c.youtube.com #r1.sn-o097zued.c.youtube.com
+2607:f8b0:4005:405::11 r2---sn-o097zued.c.youtube.com #r2.sn-o097zued.c.youtube.com
+2607:f8b0:4005:405::12 r3---sn-o097zued.c.youtube.com #r3.sn-o097zued.c.youtube.com
+2607:f8b0:4005:405::13 r4---sn-o097zued.c.youtube.com #r4.sn-o097zued.c.youtube.com
+2607:f8b0:4005:405::14 r5---sn-o097zued.c.youtube.com #r5.sn-o097zued.c.youtube.com
+2607:f8b0:4005:405::15 r6---sn-o097zued.c.youtube.com #r6.sn-o097zued.c.youtube.com
+2607:f8b0:4005:405::16 r7---sn-o097zued.c.youtube.com #r7.sn-o097zued.c.youtube.com
+2607:f8b0:4005:405::17 r8---sn-o097zued.c.youtube.com #r8.sn-o097zued.c.youtube.com
+
+2607:f8b0:4005:406::10 r1---sn-o097zuek.c.youtube.com #r1.sn-o097zuek.c.youtube.com
+2607:f8b0:4005:406::11 r2---sn-o097zuek.c.youtube.com #r2.sn-o097zuek.c.youtube.com
+2607:f8b0:4005:406::12 r3---sn-o097zuek.c.youtube.com #r3.sn-o097zuek.c.youtube.com
+2607:f8b0:4005:406::13 r4---sn-o097zuek.c.youtube.com #r4.sn-o097zuek.c.youtube.com
+2607:f8b0:4005:406::14 r5---sn-o097zuek.c.youtube.com #r5.sn-o097zuek.c.youtube.com
+2607:f8b0:4005:406::15 r6---sn-o097zuek.c.youtube.com #r6.sn-o097zuek.c.youtube.com
+2607:f8b0:4005:406::16 r7---sn-o097zuek.c.youtube.com #r7.sn-o097zuek.c.youtube.com
+2607:f8b0:4005:406::17 r8---sn-o097zuek.c.youtube.com #r8.sn-o097zuek.c.youtube.com
+
 2607:f8b0:4005:407::10 r1---sn-o097zuer.c.youtube.com #r1.sn-o097zuer.c.youtube.com
 2607:f8b0:4005:407::11 r2---sn-o097zuer.c.youtube.com #r2.sn-o097zuer.c.youtube.com
 2607:f8b0:4005:407::12 r3---sn-o097zuer.c.youtube.com #r3.sn-o097zuer.c.youtube.com
@@ -5712,6 +5766,60 @@
 2607:f8b0:4005:400::15 r6.sn-o097zuee.c.youtube.com
 2607:f8b0:4005:400::16 r7.sn-o097zuee.c.youtube.com
 2607:f8b0:4005:400::17 r8.sn-o097zuee.c.youtube.com
+
+2607:f8b0:4005:401::10 r1.sn-o097zuel.c.youtube.com
+2607:f8b0:4005:401::11 r2.sn-o097zuel.c.youtube.com
+2607:f8b0:4005:401::12 r3.sn-o097zuel.c.youtube.com
+2607:f8b0:4005:401::13 r4.sn-o097zuel.c.youtube.com
+2607:f8b0:4005:401::14 r5.sn-o097zuel.c.youtube.com
+2607:f8b0:4005:401::15 r6.sn-o097zuel.c.youtube.com
+2607:f8b0:4005:401::16 r7.sn-o097zuel.c.youtube.com
+2607:f8b0:4005:401::17 r8.sn-o097zuel.c.youtube.com
+
+2607:f8b0:4005:402::10 r1.sn-o097zues.c.youtube.com
+2607:f8b0:4005:402::11 r2.sn-o097zues.c.youtube.com
+2607:f8b0:4005:402::12 r3.sn-o097zues.c.youtube.com
+2607:f8b0:4005:402::13 r4.sn-o097zues.c.youtube.com
+2607:f8b0:4005:402::14 r5.sn-o097zues.c.youtube.com
+2607:f8b0:4005:402::15 r6.sn-o097zues.c.youtube.com
+2607:f8b0:4005:402::16 r7.sn-o097zues.c.youtube.com
+2607:f8b0:4005:402::17 r8.sn-o097zues.c.youtube.com
+
+2607:f8b0:4005:403::10 r1.sn-o097zuez.c.youtube.com
+2607:f8b0:4005:403::11 r2.sn-o097zuez.c.youtube.com
+2607:f8b0:4005:403::12 r3.sn-o097zuez.c.youtube.com
+2607:f8b0:4005:403::13 r4.sn-o097zuez.c.youtube.com
+2607:f8b0:4005:403::14 r5.sn-o097zuez.c.youtube.com
+2607:f8b0:4005:403::15 r6.sn-o097zuez.c.youtube.com
+2607:f8b0:4005:403::16 r7.sn-o097zuez.c.youtube.com
+2607:f8b0:4005:403::17 r8.sn-o097zuez.c.youtube.com
+
+2607:f8b0:4005:404::10 r1.sn-o097zue6.c.youtube.com
+2607:f8b0:4005:404::11 r2.sn-o097zue6.c.youtube.com
+2607:f8b0:4005:404::12 r3.sn-o097zue6.c.youtube.com
+2607:f8b0:4005:404::13 r4.sn-o097zue6.c.youtube.com
+2607:f8b0:4005:404::14 r5.sn-o097zue6.c.youtube.com
+2607:f8b0:4005:404::15 r6.sn-o097zue6.c.youtube.com
+2607:f8b0:4005:404::16 r7.sn-o097zue6.c.youtube.com
+2607:f8b0:4005:404::17 r8.sn-o097zue6.c.youtube.com
+
+2607:f8b0:4005:405::10 r1.sn-o097zued.c.youtube.com
+2607:f8b0:4005:405::11 r2.sn-o097zued.c.youtube.com
+2607:f8b0:4005:405::12 r3.sn-o097zued.c.youtube.com
+2607:f8b0:4005:405::13 r4.sn-o097zued.c.youtube.com
+2607:f8b0:4005:405::14 r5.sn-o097zued.c.youtube.com
+2607:f8b0:4005:405::15 r6.sn-o097zued.c.youtube.com
+2607:f8b0:4005:405::16 r7.sn-o097zued.c.youtube.com
+2607:f8b0:4005:405::17 r8.sn-o097zued.c.youtube.com
+
+2607:f8b0:4005:406::10 r1.sn-o097zuek.c.youtube.com
+2607:f8b0:4005:406::11 r2.sn-o097zuek.c.youtube.com
+2607:f8b0:4005:406::12 r3.sn-o097zuek.c.youtube.com
+2607:f8b0:4005:406::13 r4.sn-o097zuek.c.youtube.com
+2607:f8b0:4005:406::14 r5.sn-o097zuek.c.youtube.com
+2607:f8b0:4005:406::15 r6.sn-o097zuek.c.youtube.com
+2607:f8b0:4005:406::16 r7.sn-o097zuek.c.youtube.com
+2607:f8b0:4005:406::17 r8.sn-o097zuek.c.youtube.com
 
 2607:f8b0:4005:407::10 r1.sn-o097zuer.c.youtube.com
 2607:f8b0:4005:407::11 r2.sn-o097zuer.c.youtube.com
@@ -8948,6 +9056,60 @@
 2607:f8b0:4005:400::16 r7---sn-o097zuee.googlevideo.com #r7.sn-o097zuee.googlevideo.com
 2607:f8b0:4005:400::17 r8---sn-o097zuee.googlevideo.com #r8.sn-o097zuee.googlevideo.com
 
+2607:f8b0:4005:401::10 r1---sn-o097zuel.googlevideo.com #r1.sn-o097zuel.googlevideo.com
+2607:f8b0:4005:401::11 r2---sn-o097zuel.googlevideo.com #r2.sn-o097zuel.googlevideo.com
+2607:f8b0:4005:401::12 r3---sn-o097zuel.googlevideo.com #r3.sn-o097zuel.googlevideo.com
+2607:f8b0:4005:401::13 r4---sn-o097zuel.googlevideo.com #r4.sn-o097zuel.googlevideo.com
+2607:f8b0:4005:401::14 r5---sn-o097zuel.googlevideo.com #r5.sn-o097zuel.googlevideo.com
+2607:f8b0:4005:401::15 r6---sn-o097zuel.googlevideo.com #r6.sn-o097zuel.googlevideo.com
+2607:f8b0:4005:401::16 r7---sn-o097zuel.googlevideo.com #r7.sn-o097zuel.googlevideo.com
+2607:f8b0:4005:401::17 r8---sn-o097zuel.googlevideo.com #r8.sn-o097zuel.googlevideo.com
+
+2607:f8b0:4005:402::10 r1---sn-o097zues.googlevideo.com #r1.sn-o097zues.googlevideo.com
+2607:f8b0:4005:402::11 r2---sn-o097zues.googlevideo.com #r2.sn-o097zues.googlevideo.com
+2607:f8b0:4005:402::12 r3---sn-o097zues.googlevideo.com #r3.sn-o097zues.googlevideo.com
+2607:f8b0:4005:402::13 r4---sn-o097zues.googlevideo.com #r4.sn-o097zues.googlevideo.com
+2607:f8b0:4005:402::14 r5---sn-o097zues.googlevideo.com #r5.sn-o097zues.googlevideo.com
+2607:f8b0:4005:402::15 r6---sn-o097zues.googlevideo.com #r6.sn-o097zues.googlevideo.com
+2607:f8b0:4005:402::16 r7---sn-o097zues.googlevideo.com #r7.sn-o097zues.googlevideo.com
+2607:f8b0:4005:402::17 r8---sn-o097zues.googlevideo.com #r8.sn-o097zues.googlevideo.com
+
+2607:f8b0:4005:403::10 r1---sn-o097zuez.googlevideo.com #r1.sn-o097zuez.googlevideo.com
+2607:f8b0:4005:403::11 r2---sn-o097zuez.googlevideo.com #r2.sn-o097zuez.googlevideo.com
+2607:f8b0:4005:403::12 r3---sn-o097zuez.googlevideo.com #r3.sn-o097zuez.googlevideo.com
+2607:f8b0:4005:403::13 r4---sn-o097zuez.googlevideo.com #r4.sn-o097zuez.googlevideo.com
+2607:f8b0:4005:403::14 r5---sn-o097zuez.googlevideo.com #r5.sn-o097zuez.googlevideo.com
+2607:f8b0:4005:403::15 r6---sn-o097zuez.googlevideo.com #r6.sn-o097zuez.googlevideo.com
+2607:f8b0:4005:403::16 r7---sn-o097zuez.googlevideo.com #r7.sn-o097zuez.googlevideo.com
+2607:f8b0:4005:403::17 r8---sn-o097zuez.googlevideo.com #r8.sn-o097zuez.googlevideo.com
+
+2607:f8b0:4005:404::10 r1---sn-o097zue6.googlevideo.com #r1.sn-o097zue6.googlevideo.com
+2607:f8b0:4005:404::11 r2---sn-o097zue6.googlevideo.com #r2.sn-o097zue6.googlevideo.com
+2607:f8b0:4005:404::12 r3---sn-o097zue6.googlevideo.com #r3.sn-o097zue6.googlevideo.com
+2607:f8b0:4005:404::13 r4---sn-o097zue6.googlevideo.com #r4.sn-o097zue6.googlevideo.com
+2607:f8b0:4005:404::14 r5---sn-o097zue6.googlevideo.com #r5.sn-o097zue6.googlevideo.com
+2607:f8b0:4005:404::15 r6---sn-o097zue6.googlevideo.com #r6.sn-o097zue6.googlevideo.com
+2607:f8b0:4005:404::16 r7---sn-o097zue6.googlevideo.com #r7.sn-o097zue6.googlevideo.com
+2607:f8b0:4005:404::17 r8---sn-o097zue6.googlevideo.com #r8.sn-o097zue6.googlevideo.com
+
+2607:f8b0:4005:405::10 r1---sn-o097zued.googlevideo.com #r1.sn-o097zued.googlevideo.com
+2607:f8b0:4005:405::11 r2---sn-o097zued.googlevideo.com #r2.sn-o097zued.googlevideo.com
+2607:f8b0:4005:405::12 r3---sn-o097zued.googlevideo.com #r3.sn-o097zued.googlevideo.com
+2607:f8b0:4005:405::13 r4---sn-o097zued.googlevideo.com #r4.sn-o097zued.googlevideo.com
+2607:f8b0:4005:405::14 r5---sn-o097zued.googlevideo.com #r5.sn-o097zued.googlevideo.com
+2607:f8b0:4005:405::15 r6---sn-o097zued.googlevideo.com #r6.sn-o097zued.googlevideo.com
+2607:f8b0:4005:405::16 r7---sn-o097zued.googlevideo.com #r7.sn-o097zued.googlevideo.com
+2607:f8b0:4005:405::17 r8---sn-o097zued.googlevideo.com #r8.sn-o097zued.googlevideo.com
+
+2607:f8b0:4005:406::10 r1---sn-o097zuek.googlevideo.com #r1.sn-o097zuek.googlevideo.com
+2607:f8b0:4005:406::11 r2---sn-o097zuek.googlevideo.com #r2.sn-o097zuek.googlevideo.com
+2607:f8b0:4005:406::12 r3---sn-o097zuek.googlevideo.com #r3.sn-o097zuek.googlevideo.com
+2607:f8b0:4005:406::13 r4---sn-o097zuek.googlevideo.com #r4.sn-o097zuek.googlevideo.com
+2607:f8b0:4005:406::14 r5---sn-o097zuek.googlevideo.com #r5.sn-o097zuek.googlevideo.com
+2607:f8b0:4005:406::15 r6---sn-o097zuek.googlevideo.com #r6.sn-o097zuek.googlevideo.com
+2607:f8b0:4005:406::16 r7---sn-o097zuek.googlevideo.com #r7.sn-o097zuek.googlevideo.com
+2607:f8b0:4005:406::17 r8---sn-o097zuek.googlevideo.com #r8.sn-o097zuek.googlevideo.com
+
 2607:f8b0:4005:407::10 r1---sn-o097zuer.googlevideo.com #r1.sn-o097zuer.googlevideo.com
 2607:f8b0:4005:407::11 r2---sn-o097zuer.googlevideo.com #r2.sn-o097zuer.googlevideo.com
 2607:f8b0:4005:407::12 r3---sn-o097zuer.googlevideo.com #r3.sn-o097zuer.googlevideo.com
@@ -10380,6 +10542,60 @@
 2607:f8b0:4005:400::15 r6.sn-o097zuee.googlevideo.com
 2607:f8b0:4005:400::16 r7.sn-o097zuee.googlevideo.com
 2607:f8b0:4005:400::17 r8.sn-o097zuee.googlevideo.com
+
+2607:f8b0:4005:401::10 r1.sn-o097zuel.googlevideo.com
+2607:f8b0:4005:401::11 r2.sn-o097zuel.googlevideo.com
+2607:f8b0:4005:401::12 r3.sn-o097zuel.googlevideo.com
+2607:f8b0:4005:401::13 r4.sn-o097zuel.googlevideo.com
+2607:f8b0:4005:401::14 r5.sn-o097zuel.googlevideo.com
+2607:f8b0:4005:401::15 r6.sn-o097zuel.googlevideo.com
+2607:f8b0:4005:401::16 r7.sn-o097zuel.googlevideo.com
+2607:f8b0:4005:401::17 r8.sn-o097zuel.googlevideo.com
+
+2607:f8b0:4005:402::10 r1.sn-o097zues.googlevideo.com
+2607:f8b0:4005:402::11 r2.sn-o097zues.googlevideo.com
+2607:f8b0:4005:402::12 r3.sn-o097zues.googlevideo.com
+2607:f8b0:4005:402::13 r4.sn-o097zues.googlevideo.com
+2607:f8b0:4005:402::14 r5.sn-o097zues.googlevideo.com
+2607:f8b0:4005:402::15 r6.sn-o097zues.googlevideo.com
+2607:f8b0:4005:402::16 r7.sn-o097zues.googlevideo.com
+2607:f8b0:4005:402::17 r8.sn-o097zues.googlevideo.com
+
+2607:f8b0:4005:403::10 r1.sn-o097zuez.googlevideo.com
+2607:f8b0:4005:403::11 r2.sn-o097zuez.googlevideo.com
+2607:f8b0:4005:403::12 r3.sn-o097zuez.googlevideo.com
+2607:f8b0:4005:403::13 r4.sn-o097zuez.googlevideo.com
+2607:f8b0:4005:403::14 r5.sn-o097zuez.googlevideo.com
+2607:f8b0:4005:403::15 r6.sn-o097zuez.googlevideo.com
+2607:f8b0:4005:403::16 r7.sn-o097zuez.googlevideo.com
+2607:f8b0:4005:403::17 r8.sn-o097zuez.googlevideo.com
+
+2607:f8b0:4005:404::10 r1.sn-o097zue6.googlevideo.com
+2607:f8b0:4005:404::11 r2.sn-o097zue6.googlevideo.com
+2607:f8b0:4005:404::12 r3.sn-o097zue6.googlevideo.com
+2607:f8b0:4005:404::13 r4.sn-o097zue6.googlevideo.com
+2607:f8b0:4005:404::14 r5.sn-o097zue6.googlevideo.com
+2607:f8b0:4005:404::15 r6.sn-o097zue6.googlevideo.com
+2607:f8b0:4005:404::16 r7.sn-o097zue6.googlevideo.com
+2607:f8b0:4005:404::17 r8.sn-o097zue6.googlevideo.com
+
+2607:f8b0:4005:405::10 r1.sn-o097zued.googlevideo.com
+2607:f8b0:4005:405::11 r2.sn-o097zued.googlevideo.com
+2607:f8b0:4005:405::12 r3.sn-o097zued.googlevideo.com
+2607:f8b0:4005:405::13 r4.sn-o097zued.googlevideo.com
+2607:f8b0:4005:405::14 r5.sn-o097zued.googlevideo.com
+2607:f8b0:4005:405::15 r6.sn-o097zued.googlevideo.com
+2607:f8b0:4005:405::16 r7.sn-o097zued.googlevideo.com
+2607:f8b0:4005:405::17 r8.sn-o097zued.googlevideo.com
+
+2607:f8b0:4005:406::10 r1.sn-o097zuek.googlevideo.com
+2607:f8b0:4005:406::11 r2.sn-o097zuek.googlevideo.com
+2607:f8b0:4005:406::12 r3.sn-o097zuek.googlevideo.com
+2607:f8b0:4005:406::13 r4.sn-o097zuek.googlevideo.com
+2607:f8b0:4005:406::14 r5.sn-o097zuek.googlevideo.com
+2607:f8b0:4005:406::15 r6.sn-o097zuek.googlevideo.com
+2607:f8b0:4005:406::16 r7.sn-o097zuek.googlevideo.com
+2607:f8b0:4005:406::17 r8.sn-o097zuek.googlevideo.com
 
 2607:f8b0:4005:407::10 r1.sn-o097zuer.googlevideo.com
 2607:f8b0:4005:407::11 r2.sn-o097zuer.googlevideo.com

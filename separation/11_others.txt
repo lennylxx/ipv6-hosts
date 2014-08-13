@@ -78,6 +78,10 @@
 #2600:140e:1:1::3cfe:83b1 i3.microsoft.com
 #2600:140e:1::3cfe:83ca i4.microsoft.com
 2002:836b:9820::836b:9886 www.ipv6.microsoft.com
+134.170.108.154 onedrive.live.com #skyweb.skyprod.akadns.net
+134.170.108.154 skyweb.skyprod.akadns.net
+2600:1406:28:286::1aff s1-word-view-15.cdn.office.net
+2600:1406:28:296::1aff s1-officeapps-15.cdn.office.net
 
 ## ARIN
 2001:500:4:13::125 www.arin.net

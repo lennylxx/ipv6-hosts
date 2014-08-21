@@ -1,0 +1,58 @@
+## Facebook 脸谱网
+2a03:2880:2110:df07:face:b00c:0:1 facebook.com
+2a03:2880:f011:301:face:b00c:0:1 www.facebook.com
+2a03:2880:f011:301:face:b00c:0:1 api-read.facebook.com
+2a03:2880:f011:301:face:b00c:0:1 apps.facebook.com
+2a03:2880:f011:301:face:b00c:0:1 attachments.facebook.com
+2a03:2880:f011:301:face:b00c:0:1 check6.facebook.com
+2a03:2880:f011:301:face:b00c:0:1 connect.facebook.com
+2a03:2880:f011:301:face:b00c:0:1 developers.facebook.com
+2a03:2880:f011:301:face:b00c:0:1 graph.facebook.com
+2a03:2880:f011:301:face:b00c:0:1 login.facebook.com
+2a03:2880:f011:301:face:b00c:0:1 m.facebook.com
+2a03:2880:f011:301:face:b00c:0:1 pixel.facebook.com
+2a03:2880:f011:301:face:b00c:0:1 star.facebook.com
+2a03:2880:f011:301:face:b00c:0:1 upload.facebook.com
+2a03:2880:f011:301:face:b00c:0:1 zh-cn.facebook.com
+2a03:2880:f011:301:face:b00c:0:1 zh-tw.facebook.com
+2a03:2880:2110:6f00:face:b00c:0:1 apps.v6.facebook.com
+2a03:2880:2110:6f00:face:b00c:0:1 m.v6.facebook.com
+2a03:2880:2110:6f00:face:b00c:0:1 pixel.v6.facebook.com
+2a03:2880:2030:5f02:face:b00c:0:1 vupload.facebook.com
+2a03:2880:2110:6f00:face:b00c:0:1 www.v6.facebook.com
+2600:1406:1::addf:e84a static.ak.facebook.com
+2600:1406:1f:39c::236 s-static.ak.facebook.com
+2610:d0:face::9 www.lisp6.facebook.com
+2610:d0:face::9 m.lisp6.facebook.com
+
+## fbcdn.net
+2600:1406:1f:39b::eed connect.facebook.net #e3821.dspe1.akamaiedge.net
+2600:1406:1::addf:e838 creative.ak.fbcdn.net #a34.dsw4.akamai.net
+2600:1406:1::addf:e808 external.ak.fbcdn.net #a1920.dsw4.akamai.net
+2600:1406:1::addf:e80a platform.ak.fbcdn.net #a1814.dsw4.akamai.net
+2600:1406:1::48f6:3538 profile.ak.fbcdn.net #a2047.dspl.akamai.net.0.1.cn.akamaitech.net
+2600:1406:1f:388::38a s-external.ak.fbcdn.net #e906.dspe1.akamaiedge.net
+2600:1406:1f:386::d19 s-static.ak.fbcdn.net #e3353.dspe1.akamaiedge.net
+2600:1406:1::addf:e84a static.ak.fbcdn.net #a749.dsw4.akamai.net
+2600:1406:1a::173d:c322 vthumb.ak.fbcdn.net #a591.dspda2.akamai.net
+
+2600:1406:1::48f6:3538 fbcdn-profile-a.akamaihd.net #a2047.dspl.akamai.net.0.1.cn.akamaitech.net
+2600:1406:1::addf:e888 fbcdn-photos-a.akamaihd.net #a995.dspmm1.akamai.net
+2600:1406:1::addf:e821 fbcdn-sphotos-a.akamaihd.net #a1001.dspw40.akamai.net
+
+2600:1406:1::addf:e888 photos-a.ak.fbcdn.net #a995.dspmm1.akamai.net
+2600:1406:1::addf:e87b photos-b.ak.fbcdn.net #a996.dspmm1.akamai.net.0.1.cn.akamaitech.net
+2600:1406:1::addf:e898 photos-c.ak.fbcdn.net #a997.dspmm1.akamai.net
+2600:1406:1::addf:e888 photos-e.ak.fbcdn.net #a995.dspmm1.akamai.net
+2600:1406:1::addf:e87b photos-f.ak.fbcdn.net #a996.dspmm1.akamai.net.0.1.cn.akamaitech.net
+2600:1406:1::addf:e898 photos-g.ak.fbcdn.net #a997.dspmm1.akamai.net
+2600:1406:1::addf:e8aa photos-h.ak.fbcdn.net #a998.dspmm1.akamai.net.0.1.cn.akamaitech.net
+2600:1406:1::addf:e821 a1.sphotos.ak.fbcdn.net #a1001.dspw40.akamai.net
+2600:1406:1::addf:e823 a2.sphotos.ak.fbcdn.net #a1402.dspw40.akamai.net
+2600:1406:1::addf:e84a a3.sphotos.ak.fbcdn.net #a1003.dspw41.akamai.net
+2600:1406:1::addf:e818 a4.sphotos.ak.fbcdn.net #a1404.dspw41.akamai.net
+2600:1406:1::addf:e841 a5.sphotos.ak.fbcdn.net #a1005.dspw42.akamai.net
+2600:1406:1::addf:e861 a6.sphotos.ak.fbcdn.net #a1406.dspw42.akamai.net
+2600:1409:a::173b:be39 a7.sphotos.ak.fbcdn.net #a1007.dspw43.akamai.net
+2600:1409:a::173b:be33 a8.sphotos.ak.fbcdn.net #a1408.dspw43.akamai.net
+

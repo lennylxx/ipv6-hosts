@@ -13,8 +13,8 @@ blackhole=(
 '10::2222'
 '101::1234'
 '21:2::2'
-'2123::3e12'
 '2001::212'
+'2001:da8:112::21ae'
 '2003:ff:1:2:3:4:5fff:6'
 '2003:ff:1:2:3:4:5fff:7'
 '2003:ff:1:2:3:4:5fff:8'
@@ -22,20 +22,24 @@ blackhole=(
 '2003:ff:1:2:3:4:5fff:10'
 '2003:ff:1:2:3:4:5fff:11'
 '2003:ff:1:2:3:4:5fff:12'
-'2001:da8:112::21ae')
+'2123::3e12')
 
 num=1
 
-cat $hosts_file | while read line
+while read line
 do
 {
+	#delete CR
+	line=$(printf "$line"|tr -d '\r')
+	#printf "$line"|od -tx1
+
 	if [[ $line == "" ]]; then 
-		echo "" >> $new_hosts_file
+		printf "\r\n" >> $new_hosts_file
 		continue
 	fi
 
 	if [ "${line:0:2}" == "##" ]; then 
-		echo "$line" >> $new_hosts_file
+		printf "$line\r\n" >> $new_hosts_file
 		continue
 	fi
 	
@@ -43,13 +47,13 @@ do
 		line=${line#'#'}
 	fi
 	
-	url=$(echo "$line" | cut -d' ' -f2)
-	
+	url=$(printf "$line"|cut -d" " -f2)
+
 	result=$(nslookup -querytype=AAAA "$url" "$dns"|grep 'AAAA address')
 	
-	name=$(echo "$result"|cut -f1)
-	ip=$(echo "$result"|cut -d' ' -f4)
-
+	name=$(printf "$result"|cut -f1)
+	ip=$(printf "$result"|cut -d' ' -f4)
+	
 	for var in "${blackhole[@]}"; do
 	if [[ $ip == "$var" && $ip != "" ]]; then
 		ip=$(nslookup -vc -querytype=AAAA "$url" "$dns"|grep 'AAAA address'|cut -d' ' -f4)
@@ -58,21 +62,20 @@ do
 	done
 	
 	if [[ $ip == "" ]]; then
-		echo '#'"$line" >> $new_hosts_file
+		printf "#$line\r\n" >> $new_hosts_file
 		continue
 	fi
-	
+
 	if [[ $name != $url && $name != "" ]]; then
 		url=${url}" #"${name}
 	fi
 
-	echo "$ip" "$url" >> $new_hosts_file
+	printf "$ip $url\r\n" >> $new_hosts_file
 
-	#print log
+	#print log to stdio
 	echo "$num" "$ip" "$url"
 	num=$((num+1))
 }
-done
-wait
+done < $hosts_file
 
 exit 0

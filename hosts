@@ -1,5 +1,5 @@
 ﻿## 项目地址: https://github.com/lennylxx/ipv6-hosts
-## 最后更新: 7/30/2014
+## 最后更新: 8/21/2014
 
 ::1 localhost
 
@@ -2437,8 +2437,8 @@
 2607:f8b0:4007:803::1006 youtu.be
 2607:f8b0:4007:803::1002 gdata.youtube.com
 2001:4860:400b:c01::75 stage.gdata.youtube.com
-2607:f8b0:4007:803::1000 s.youtube.com
-2607:f8b0:4007:803::1000 s2.youtube.com
+2607:f8b0:4007:805::1001 s.youtube.com
+2607:f8b0:4007:805::100e s2.youtube.com
 2607:f8b0:4007:803::1007 accounts.youtube.com
 2607:f8b0:4007:803::1006 img.youtube.com
 2607:f8b0:4007:803::1011 help.youtube.com
@@ -4262,6 +4262,13 @@
 2407:0:0:11::e r3---sn-poqvn5u-jb3l.c.youtube.com #r3.sn-poqvn5u-jb3l.c.youtube.com
 2407:0:0:11::f r4---sn-poqvn5u-jb3l.c.youtube.com #r4.sn-poqvn5u-jb3l.c.youtube.com
 
+2400:c700:2000:2::c r1---sn-pqx5jxaa0a5g-2o9l.c.youtube.com #r1.sn-pqx5jxaa0a5g-2o9l.c.youtube.com
+2400:c700:2000:2::d r2---sn-pqx5jxaa0a5g-2o9l.c.youtube.com #r2.sn-pqx5jxaa0a5g-2o9l.c.youtube.com
+2400:c700:2000:2::e r3---sn-pqx5jxaa0a5g-2o9l.c.youtube.com #r3.sn-pqx5jxaa0a5g-2o9l.c.youtube.com
+2400:c700:2000:2::f r4---sn-pqx5jxaa0a5g-2o9l.c.youtube.com #r4.sn-pqx5jxaa0a5g-2o9l.c.youtube.com
+2400:c700:2000:2::10 r5---sn-pqx5jxaa0a5g-2o9l.c.youtube.com #r5.sn-pqx5jxaa0a5g-2o9l.c.youtube.com
+2400:c700:2000:2::11 r6---sn-pqx5jxaa0a5g-2o9l.c.youtube.com #r6.sn-pqx5jxaa0a5g-2o9l.c.youtube.com
+
 2001:1900:2200:80::c r1---sn-a8au-co5e.c.youtube.com #r1.sn-a8au-co5e.c.youtube.com
 2001:1900:2200:80::d r2---sn-a8au-co5e.c.youtube.com #r2.sn-a8au-co5e.c.youtube.com
 2001:1900:2200:80::e r3---sn-a8au-co5e.c.youtube.com #r3.sn-a8au-co5e.c.youtube.com
@@ -5748,6 +5755,13 @@
 2407:0:0:11::d r2.sn-poqvn5u-jb3l.c.youtube.com
 2407:0:0:11::e r3.sn-poqvn5u-jb3l.c.youtube.com
 2407:0:0:11::f r4.sn-poqvn5u-jb3l.c.youtube.com
+
+2400:c700:2000:2::c r1.sn-pqx5jxaa0a5g-2o9l.c.youtube.com
+2400:c700:2000:2::d r2.sn-pqx5jxaa0a5g-2o9l.c.youtube.com
+2400:c700:2000:2::e r3.sn-pqx5jxaa0a5g-2o9l.c.youtube.com
+2400:c700:2000:2::f r4.sn-pqx5jxaa0a5g-2o9l.c.youtube.com
+2400:c700:2000:2::10 r5.sn-pqx5jxaa0a5g-2o9l.c.youtube.com
+2400:c700:2000:2::11 r6.sn-pqx5jxaa0a5g-2o9l.c.youtube.com
 
 2001:1900:2200:80::c r1.sn-a8au-co5e.c.youtube.com
 2001:1900:2200:80::d r2.sn-a8au-co5e.c.youtube.com
@@ -9038,6 +9052,13 @@
 2407:0:0:11::e r3---sn-poqvn5u-jb3l.googlevideo.com #r3.sn-poqvn5u-jb3l.googlevideo.com
 2407:0:0:11::f r4---sn-poqvn5u-jb3l.googlevideo.com #r4.sn-poqvn5u-jb3l.googlevideo.com
 
+2400:c700:2000:2::c r1---sn-pqx5jxaa0a5g-2o9l.googlevideo.com #r1.sn-pqx5jxaa0a5g-2o9l.googlevideo.com
+2400:c700:2000:2::d r2---sn-pqx5jxaa0a5g-2o9l.googlevideo.com #r2.sn-pqx5jxaa0a5g-2o9l.googlevideo.com
+2400:c700:2000:2::e r3---sn-pqx5jxaa0a5g-2o9l.googlevideo.com #r3.sn-pqx5jxaa0a5g-2o9l.googlevideo.com
+2400:c700:2000:2::f r4---sn-pqx5jxaa0a5g-2o9l.googlevideo.com #r4.sn-pqx5jxaa0a5g-2o9l.googlevideo.com
+2400:c700:2000:2::10 r5---sn-pqx5jxaa0a5g-2o9l.googlevideo.com #r5.sn-pqx5jxaa0a5g-2o9l.googlevideo.com
+2400:c700:2000:2::11 r6---sn-pqx5jxaa0a5g-2o9l.googlevideo.com #r6.sn-pqx5jxaa0a5g-2o9l.googlevideo.com
+
 2001:1900:2200:80::c r1---sn-a8au-co5e.googlevideo.com #r1.sn-a8au-co5e.googlevideo.com
 2001:1900:2200:80::d r2---sn-a8au-co5e.googlevideo.com #r2.sn-a8au-co5e.googlevideo.com
 2001:1900:2200:80::e r3---sn-a8au-co5e.googlevideo.com #r3.sn-a8au-co5e.googlevideo.com
@@ -10524,6 +10545,13 @@
 2407:0:0:11::d r2.sn-poqvn5u-jb3l.googlevideo.com
 2407:0:0:11::e r3.sn-poqvn5u-jb3l.googlevideo.com
 2407:0:0:11::f r4.sn-poqvn5u-jb3l.googlevideo.com
+
+2400:c700:2000:2::c r1.sn-pqx5jxaa0a5g-2o9l.googlevideo.com
+2400:c700:2000:2::d r2.sn-pqx5jxaa0a5g-2o9l.googlevideo.com
+2400:c700:2000:2::e r3.sn-pqx5jxaa0a5g-2o9l.googlevideo.com
+2400:c700:2000:2::f r4.sn-pqx5jxaa0a5g-2o9l.googlevideo.com
+2400:c700:2000:2::10 r5.sn-pqx5jxaa0a5g-2o9l.googlevideo.com
+2400:c700:2000:2::11 r6.sn-pqx5jxaa0a5g-2o9l.googlevideo.com
 
 2001:1900:2200:80::c r1.sn-a8au-co5e.googlevideo.com
 2001:1900:2200:80::d r2.sn-a8au-co5e.googlevideo.com

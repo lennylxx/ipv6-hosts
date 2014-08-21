@@ -14,3 +14,6 @@ Google Code 上的 [ipv6-hosts](https://code.google.com/p/ipv6-hosts) 项目已�
 ====
 update_hosts.sh 脚本用法  
 <pre>./update_hosts.sh hosts new_hosts</pre>
+
+merge_snippets.sh 脚本用法  
+<pre>./merge_snippets.sh new_hosts</pre>

@@ -1827,6 +1827,11 @@
 2400:c700:2000:2::10 r5---sn-pqx5jxaa0a5g-2o9l.googlevideo.com #r5.sn-pqx5jxaa0a5g-2o9l.googlevideo.com
 2400:c700:2000:2::11 r6---sn-pqx5jxaa0a5g-2o9l.googlevideo.com #r6.sn-pqx5jxaa0a5g-2o9l.googlevideo.com
 
+223.196.82.12 r1---sn-pqx5jxaa0a5g-2o9e.googlevideo.com #r1.sn-pqx5jxaa0a5g-2o9e.googlevideo.com
+223.196.82.13 r2---sn-pqx5jxaa0a5g-2o9e.googlevideo.com #r2.sn-pqx5jxaa0a5g-2o9e.googlevideo.com
+223.196.82.14 r3---sn-pqx5jxaa0a5g-2o9e.googlevideo.com #r3.sn-pqx5jxaa0a5g-2o9e.googlevideo.com
+223.196.82.15 r4---sn-pqx5jxaa0a5g-2o9e.googlevideo.com #r4.sn-pqx5jxaa0a5g-2o9e.googlevideo.com
+
 2001:1900:2200:80::c r1---sn-a8au-co5e.googlevideo.com #r1.sn-a8au-co5e.googlevideo.com
 2001:1900:2200:80::d r2---sn-a8au-co5e.googlevideo.com #r2.sn-a8au-co5e.googlevideo.com
 2001:1900:2200:80::e r3---sn-a8au-co5e.googlevideo.com #r3.sn-a8au-co5e.googlevideo.com
@@ -3320,6 +3325,11 @@
 2400:c700:2000:2::f r4.sn-pqx5jxaa0a5g-2o9l.googlevideo.com
 2400:c700:2000:2::10 r5.sn-pqx5jxaa0a5g-2o9l.googlevideo.com
 2400:c700:2000:2::11 r6.sn-pqx5jxaa0a5g-2o9l.googlevideo.com
+
+223.196.82.12 r1.sn-pqx5jxaa0a5g-2o9e.googlevideo.com
+223.196.82.13 r2.sn-pqx5jxaa0a5g-2o9e.googlevideo.com
+223.196.82.14 r3.sn-pqx5jxaa0a5g-2o9e.googlevideo.com
+223.196.82.15 r4.sn-pqx5jxaa0a5g-2o9e.googlevideo.com
 
 2001:1900:2200:80::c r1.sn-a8au-co5e.googlevideo.com
 2001:1900:2200:80::d r2.sn-a8au-co5e.googlevideo.com

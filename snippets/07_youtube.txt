@@ -1852,6 +1852,11 @@
 223.196.82.14 r3---sn-pqx5jxaa0a5g-2o9e.c.youtube.com #r3.sn-pqx5jxaa0a5g-2o9e.c.youtube.com
 223.196.82.15 r4---sn-pqx5jxaa0a5g-2o9e.c.youtube.com #r4.sn-pqx5jxaa0a5g-2o9e.c.youtube.com
 
+2a00:1e48:1:b::c r1---sn-ug5onuxaxjvh-v8ce.c.youtube.com #r1.sn-ug5onuxaxjvh-v8ce.c.youtube.com
+2a00:1e48:1:b::d r2---sn-ug5onuxaxjvh-v8ce.c.youtube.com #r2.sn-ug5onuxaxjvh-v8ce.c.youtube.com
+2a00:1e48:1:b::e r3---sn-ug5onuxaxjvh-v8ce.c.youtube.com #r3.sn-ug5onuxaxjvh-v8ce.c.youtube.com
+2a00:1e48:1:b::f r4---sn-ug5onuxaxjvh-v8ce.c.youtube.com #r4.sn-ug5onuxaxjvh-v8ce.c.youtube.com
+
 2001:1900:2200:80::c r1---sn-a8au-co5e.c.youtube.com #r1.sn-a8au-co5e.c.youtube.com
 2001:1900:2200:80::d r2---sn-a8au-co5e.c.youtube.com #r2.sn-a8au-co5e.c.youtube.com
 2001:1900:2200:80::e r3---sn-a8au-co5e.c.youtube.com #r3.sn-a8au-co5e.c.youtube.com
@@ -3350,6 +3355,11 @@
 223.196.82.13 r2.sn-pqx5jxaa0a5g-2o9e.c.youtube.com
 223.196.82.14 r3.sn-pqx5jxaa0a5g-2o9e.c.youtube.com
 223.196.82.15 r4.sn-pqx5jxaa0a5g-2o9e.c.youtube.com
+
+2a00:1e48:1:b::c r1.sn-ug5onuxaxjvh-v8ce.c.youtube.com
+2a00:1e48:1:b::d r2.sn-ug5onuxaxjvh-v8ce.c.youtube.com
+2a00:1e48:1:b::e r3.sn-ug5onuxaxjvh-v8ce.c.youtube.com
+2a00:1e48:1:b::f r4.sn-ug5onuxaxjvh-v8ce.c.youtube.com
 
 2001:1900:2200:80::c r1.sn-a8au-co5e.c.youtube.com
 2001:1900:2200:80::d r2.sn-a8au-co5e.c.youtube.com

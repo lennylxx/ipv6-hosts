@@ -19,8 +19,6 @@ if [ -f $new_hosts_file ]; then
     printf "" > $new_hosts_file
 fi
 
-touch $new_hosts_file
-
 he_net="2001:470:20::2"
 google_a="2001:4860:4860::8888"
 google_b="2001:4860:4860::8844"

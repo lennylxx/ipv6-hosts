@@ -21,6 +21,7 @@
 2607:f8b0:4007:803::1006 img.youtube.com
 2607:f8b0:4007:803::1011 help.youtube.com
 2001:4860:400b:c01::75 upload.youtube.com
+2001:4860:400b:c01::74 uploads.stage.gdata.youtube.com #yt-video-upload.l.google.com
 2607:f8b0:4007:803::1006 insight.youtube.com
 2001:4860:400b:c01::79 apiblog.youtube.com
 #2404:6800:4008:c00::64 clients1.youtube.com
@@ -1870,6 +1871,48 @@
 2001:1900:2200:80::12 r7---sn-a8au-co5e.c.youtube.com #r7.sn-a8au-co5e.c.youtube.com
 2001:1900:2200:80::13 r8---sn-a8au-co5e.c.youtube.com #r8.sn-a8au-co5e.c.youtube.com
 
+2607:f8b0:4004:18::6 r1---sn-p5qlsney.c.youtube.com #r1.sn-p5qlsney.c.youtube.com
+2607:f8b0:4004:18::7 r2---sn-p5qlsney.c.youtube.com #r2.sn-p5qlsney.c.youtube.com
+2607:f8b0:4004:18::8 r3---sn-p5qlsney.c.youtube.com #r3.sn-p5qlsney.c.youtube.com
+2607:f8b0:4004:18::9 r4---sn-p5qlsney.c.youtube.com #r4.sn-p5qlsney.c.youtube.com
+2607:f8b0:4004:18::a r5---sn-p5qlsney.c.youtube.com #r5.sn-p5qlsney.c.youtube.com
+2607:f8b0:4004:18::b r6---sn-p5qlsney.c.youtube.com #r6.sn-p5qlsney.c.youtube.com
+2607:f8b0:4004:18::c r7---sn-p5qlsney.c.youtube.com #r7.sn-p5qlsney.c.youtube.com
+2607:f8b0:4004:18::d r8---sn-p5qlsney.c.youtube.com #r8.sn-p5qlsney.c.youtube.com
+2607:f8b0:4004:18::e r9---sn-p5qlsney.c.youtube.com #r9.sn-p5qlsney.c.youtube.com
+2607:f8b0:4004:18::f r10---sn-p5qlsney.c.youtube.com #r10.sn-p5qlsney.c.youtube.com
+2607:f8b0:4004:18::10 r11---sn-p5qlsney.c.youtube.com #r11.sn-p5qlsney.c.youtube.com
+2607:f8b0:4004:18::11 r12---sn-p5qlsney.c.youtube.com #r12.sn-p5qlsney.c.youtube.com
+2607:f8b0:4004:18::12 r13---sn-p5qlsney.c.youtube.com #r13.sn-p5qlsney.c.youtube.com
+2607:f8b0:4004:18::13 r14---sn-p5qlsney.c.youtube.com #r14.sn-p5qlsney.c.youtube.com
+2607:f8b0:4004:18::14 r15---sn-p5qlsney.c.youtube.com #r15.sn-p5qlsney.c.youtube.com
+2607:f8b0:4004:18::15 r16---sn-p5qlsney.c.youtube.com #r16.sn-p5qlsney.c.youtube.com
+2607:f8b0:4004:18::16 r17---sn-p5qlsney.c.youtube.com #r17.sn-p5qlsney.c.youtube.com
+2607:f8b0:4004:18::17 r18---sn-p5qlsney.c.youtube.com #r18.sn-p5qlsney.c.youtube.com
+2607:f8b0:4004:18::18 r19---sn-p5qlsney.c.youtube.com #r19.sn-p5qlsney.c.youtube.com
+2607:f8b0:4004:18::19 r20---sn-p5qlsney.c.youtube.com #r20.sn-p5qlsney.c.youtube.com
+
+2607:f8b0:4004:1b::6 r1---sn-p5qlsnll.c.youtube.com #r1.sn-p5qlsnll.c.youtube.com
+2607:f8b0:4004:1b::7 r2---sn-p5qlsnll.c.youtube.com #r2.sn-p5qlsnll.c.youtube.com
+2607:f8b0:4004:1b::8 r3---sn-p5qlsnll.c.youtube.com #r3.sn-p5qlsnll.c.youtube.com
+2607:f8b0:4004:1b::9 r4---sn-p5qlsnll.c.youtube.com #r4.sn-p5qlsnll.c.youtube.com
+2607:f8b0:4004:1b::a r5---sn-p5qlsnll.c.youtube.com #r5.sn-p5qlsnll.c.youtube.com
+2607:f8b0:4004:1b::b r6---sn-p5qlsnll.c.youtube.com #r6.sn-p5qlsnll.c.youtube.com
+2607:f8b0:4004:1b::c r7---sn-p5qlsnll.c.youtube.com #r7.sn-p5qlsnll.c.youtube.com
+2607:f8b0:4004:1b::d r8---sn-p5qlsnll.c.youtube.com #r8.sn-p5qlsnll.c.youtube.com
+2607:f8b0:4004:1b::e r9---sn-p5qlsnll.c.youtube.com #r9.sn-p5qlsnll.c.youtube.com
+2607:f8b0:4004:1b::f r10---sn-p5qlsnll.c.youtube.com #r10.sn-p5qlsnll.c.youtube.com
+2607:f8b0:4004:1b::10 r11---sn-p5qlsnll.c.youtube.com #r11.sn-p5qlsnll.c.youtube.com
+2607:f8b0:4004:1b::11 r12---sn-p5qlsnll.c.youtube.com #r12.sn-p5qlsnll.c.youtube.com
+2607:f8b0:4004:1b::12 r13---sn-p5qlsnll.c.youtube.com #r13.sn-p5qlsnll.c.youtube.com
+2607:f8b0:4004:1b::13 r14---sn-p5qlsnll.c.youtube.com #r14.sn-p5qlsnll.c.youtube.com
+2607:f8b0:4004:1b::14 r15---sn-p5qlsnll.c.youtube.com #r15.sn-p5qlsnll.c.youtube.com
+2607:f8b0:4004:1b::15 r16---sn-p5qlsnll.c.youtube.com #r16.sn-p5qlsnll.c.youtube.com
+2607:f8b0:4004:1b::16 r17---sn-p5qlsnll.c.youtube.com #r17.sn-p5qlsnll.c.youtube.com
+2607:f8b0:4004:1b::17 r18---sn-p5qlsnll.c.youtube.com #r18.sn-p5qlsnll.c.youtube.com
+2607:f8b0:4004:1b::18 r19---sn-p5qlsnll.c.youtube.com #r19.sn-p5qlsnll.c.youtube.com
+2607:f8b0:4004:1b::19 r20---sn-p5qlsnll.c.youtube.com #r20.sn-p5qlsnll.c.youtube.com
+
 2607:f8b0:4005:400::10 r1---sn-o097zuee.c.youtube.com #r1.sn-o097zuee.c.youtube.com
 2607:f8b0:4005:400::11 r2---sn-o097zuee.c.youtube.com #r2.sn-o097zuee.c.youtube.com
 2607:f8b0:4005:400::12 r3---sn-o097zuee.c.youtube.com #r3.sn-o097zuee.c.youtube.com
@@ -3328,6 +3371,27 @@
 2001:4860:4007:6::18 r19---sn-a5m7ln76.c.youtube.com #r19.sn-a5m7ln76.c.youtube.com
 2001:4860:4007:6::19 r20---sn-a5m7ln76.c.youtube.com #r20.sn-a5m7ln76.c.youtube.com
 
+2a00:1450:4001:16::6 r1---sn-4g57kndy.c.youtube.com #r1.sn-4g57kndy.c.youtube.com
+2a00:1450:4001:16::7 r2---sn-4g57kndy.c.youtube.com #r2.sn-4g57kndy.c.youtube.com
+2a00:1450:4001:16::8 r3---sn-4g57kndy.c.youtube.com #r3.sn-4g57kndy.c.youtube.com
+2a00:1450:4001:16::9 r4---sn-4g57kndy.c.youtube.com #r4.sn-4g57kndy.c.youtube.com
+2a00:1450:4001:16::a r5---sn-4g57kndy.c.youtube.com #r5.sn-4g57kndy.c.youtube.com
+2a00:1450:4001:16::b r6---sn-4g57kndy.c.youtube.com #r6.sn-4g57kndy.c.youtube.com
+2a00:1450:4001:16::c r7---sn-4g57kndy.c.youtube.com #r7.sn-4g57kndy.c.youtube.com
+2a00:1450:4001:16::d r8---sn-4g57kndy.c.youtube.com #r8.sn-4g57kndy.c.youtube.com
+2a00:1450:4001:16::e r9---sn-4g57kndy.c.youtube.com #r9.sn-4g57kndy.c.youtube.com
+2a00:1450:4001:16::f r10---sn-4g57kndy.c.youtube.com #r10.sn-4g57kndy.c.youtube.com
+2a00:1450:4001:16::10 r11---sn-4g57kndy.c.youtube.com #r11.sn-4g57kndy.c.youtube.com
+2a00:1450:4001:16::11 r12---sn-4g57kndy.c.youtube.com #r12.sn-4g57kndy.c.youtube.com
+2a00:1450:4001:16::12 r13---sn-4g57kndy.c.youtube.com #r13.sn-4g57kndy.c.youtube.com
+2a00:1450:4001:16::13 r14---sn-4g57kndy.c.youtube.com #r14.sn-4g57kndy.c.youtube.com
+2a00:1450:4001:16::14 r15---sn-4g57kndy.c.youtube.com #r15.sn-4g57kndy.c.youtube.com
+2a00:1450:4001:16::15 r16---sn-4g57kndy.c.youtube.com #r16.sn-4g57kndy.c.youtube.com
+2a00:1450:4001:16::16 r17---sn-4g57kndy.c.youtube.com #r17.sn-4g57kndy.c.youtube.com
+2a00:1450:4001:16::17 r18---sn-4g57kndy.c.youtube.com #r18.sn-4g57kndy.c.youtube.com
+2a00:1450:4001:16::18 r19---sn-4g57kndy.c.youtube.com #r19.sn-4g57kndy.c.youtube.com
+2a00:1450:4001:16::19 r20---sn-4g57kndy.c.youtube.com #r20.sn-4g57kndy.c.youtube.com
+
 2406:e100:0:1::c r1.sn-pmn4vg5aa-hoae.c.youtube.com
 2406:e100:0:1::d r2.sn-pmn4vg5aa-hoae.c.youtube.com
 2406:e100:0:1::e r3.sn-pmn4vg5aa-hoae.c.youtube.com
@@ -3377,6 +3441,48 @@
 2001:1900:2200:80::11 r6.sn-a8au-co5e.c.youtube.com
 2001:1900:2200:80::12 r7.sn-a8au-co5e.c.youtube.com
 2001:1900:2200:80::13 r8.sn-a8au-co5e.c.youtube.com
+
+2607:f8b0:4004:18::6 r1.sn-p5qlsney.c.youtube.com
+2607:f8b0:4004:18::7 r2.sn-p5qlsney.c.youtube.com
+2607:f8b0:4004:18::8 r3.sn-p5qlsney.c.youtube.com
+2607:f8b0:4004:18::9 r4.sn-p5qlsney.c.youtube.com
+2607:f8b0:4004:18::a r5.sn-p5qlsney.c.youtube.com
+2607:f8b0:4004:18::b r6.sn-p5qlsney.c.youtube.com
+2607:f8b0:4004:18::c r7.sn-p5qlsney.c.youtube.com
+2607:f8b0:4004:18::d r8.sn-p5qlsney.c.youtube.com
+2607:f8b0:4004:18::e r9.sn-p5qlsney.c.youtube.com
+2607:f8b0:4004:18::f r10.sn-p5qlsney.c.youtube.com
+2607:f8b0:4004:18::10 r11.sn-p5qlsney.c.youtube.com
+2607:f8b0:4004:18::11 r12.sn-p5qlsney.c.youtube.com
+2607:f8b0:4004:18::12 r13.sn-p5qlsney.c.youtube.com
+2607:f8b0:4004:18::13 r14.sn-p5qlsney.c.youtube.com
+2607:f8b0:4004:18::14 r15.sn-p5qlsney.c.youtube.com
+2607:f8b0:4004:18::15 r16.sn-p5qlsney.c.youtube.com
+2607:f8b0:4004:18::16 r17.sn-p5qlsney.c.youtube.com
+2607:f8b0:4004:18::17 r18.sn-p5qlsney.c.youtube.com
+2607:f8b0:4004:18::18 r19.sn-p5qlsney.c.youtube.com
+2607:f8b0:4004:18::19 r20.sn-p5qlsney.c.youtube.com
+
+2607:f8b0:4004:1b::6 r1.sn-p5qlsnll.c.youtube.com
+2607:f8b0:4004:1b::7 r2.sn-p5qlsnll.c.youtube.com
+2607:f8b0:4004:1b::8 r3.sn-p5qlsnll.c.youtube.com
+2607:f8b0:4004:1b::9 r4.sn-p5qlsnll.c.youtube.com
+2607:f8b0:4004:1b::a r5.sn-p5qlsnll.c.youtube.com
+2607:f8b0:4004:1b::b r6.sn-p5qlsnll.c.youtube.com
+2607:f8b0:4004:1b::c r7.sn-p5qlsnll.c.youtube.com
+2607:f8b0:4004:1b::d r8.sn-p5qlsnll.c.youtube.com
+2607:f8b0:4004:1b::e r9.sn-p5qlsnll.c.youtube.com
+2607:f8b0:4004:1b::f r10.sn-p5qlsnll.c.youtube.com
+2607:f8b0:4004:1b::10 r11.sn-p5qlsnll.c.youtube.com
+2607:f8b0:4004:1b::11 r12.sn-p5qlsnll.c.youtube.com
+2607:f8b0:4004:1b::12 r13.sn-p5qlsnll.c.youtube.com
+2607:f8b0:4004:1b::13 r14.sn-p5qlsnll.c.youtube.com
+2607:f8b0:4004:1b::14 r15.sn-p5qlsnll.c.youtube.com
+2607:f8b0:4004:1b::15 r16.sn-p5qlsnll.c.youtube.com
+2607:f8b0:4004:1b::16 r17.sn-p5qlsnll.c.youtube.com
+2607:f8b0:4004:1b::17 r18.sn-p5qlsnll.c.youtube.com
+2607:f8b0:4004:1b::18 r19.sn-p5qlsnll.c.youtube.com
+2607:f8b0:4004:1b::19 r20.sn-p5qlsnll.c.youtube.com
 
 2607:f8b0:4005:400::10 r1.sn-o097zuee.c.youtube.com
 2607:f8b0:4005:400::11 r2.sn-o097zuee.c.youtube.com
@@ -4835,4 +4941,25 @@
 2001:4860:4007:6::17 r18.sn-a5m7ln76.c.youtube.com
 2001:4860:4007:6::18 r19.sn-a5m7ln76.c.youtube.com
 2001:4860:4007:6::19 r20.sn-a5m7ln76.c.youtube.com
+
+2a00:1450:4001:16::6 r1.sn-4g57kndy.c.youtube.com
+2a00:1450:4001:16::7 r2.sn-4g57kndy.c.youtube.com
+2a00:1450:4001:16::8 r3.sn-4g57kndy.c.youtube.com
+2a00:1450:4001:16::9 r4.sn-4g57kndy.c.youtube.com
+2a00:1450:4001:16::a r5.sn-4g57kndy.c.youtube.com
+2a00:1450:4001:16::b r6.sn-4g57kndy.c.youtube.com
+2a00:1450:4001:16::c r7.sn-4g57kndy.c.youtube.com
+2a00:1450:4001:16::d r8.sn-4g57kndy.c.youtube.com
+2a00:1450:4001:16::e r9.sn-4g57kndy.c.youtube.com
+2a00:1450:4001:16::f r10.sn-4g57kndy.c.youtube.com
+2a00:1450:4001:16::10 r11.sn-4g57kndy.c.youtube.com
+2a00:1450:4001:16::11 r12.sn-4g57kndy.c.youtube.com
+2a00:1450:4001:16::12 r13.sn-4g57kndy.c.youtube.com
+2a00:1450:4001:16::13 r14.sn-4g57kndy.c.youtube.com
+2a00:1450:4001:16::14 r15.sn-4g57kndy.c.youtube.com
+2a00:1450:4001:16::15 r16.sn-4g57kndy.c.youtube.com
+2a00:1450:4001:16::16 r17.sn-4g57kndy.c.youtube.com
+2a00:1450:4001:16::17 r18.sn-4g57kndy.c.youtube.com
+2a00:1450:4001:16::18 r19.sn-4g57kndy.c.youtube.com
+2a00:1450:4001:16::19 r20.sn-4g57kndy.c.youtube.com
 

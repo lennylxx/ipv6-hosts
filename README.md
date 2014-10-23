@@ -44,3 +44,11 @@
  * 2001:638:902:1::10
  * 139.18.25.34
  * 运营商：University of Leipzig
+
+
+收录原则
+----
+1. 本项目主要收集经常访问的且被屏蔽的支持 IPv6 技术的站点，如 Google Search, Gmail, Youtube, Google Plus, Google Docs, Google Play, Wikipedia, Facebook 等等。
+2. 暂时不收录不支持 IPv6 且被屏蔽的站点，如 Twitter。
+3. 部分收录严重影响上网体验的 IPv4 站点，如 Youtube 部分视频缓存服务器。
+4. 不收录支持 IPv6 但不被屏蔽的站点，如教育网内各大高校的网站。

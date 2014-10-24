@@ -12,7 +12,7 @@
 虽然本项目给出了一些域名的IPv6地址，某些网站仍需要使用 HTTPS 协议才能实现穿墙。  
 推荐使用 [HTTPS Everywhere](https://www.eff.org/https-everywhere) 插件，支持主流的浏览器。
 
-> 使用 Chrome 的用户也可以在 <code>chrome://net-internals/#hsts</code> 页面加入需要强制使用 HTTPS 访问的域名，并勾选 STS 和 PKP 两个复选框。
+> 使用 Chrome 的用户也可以在 <code>chrome://net-internals/#hsts</code> 页面加入需要强制使用 HTTPS 访问的域名，并勾选 STS 和 PKP 两个复选框。但这种方式好像重启浏览器之后就会失效。
 
 脚本
 ----
@@ -49,7 +49,7 @@
 
 收录原则
 ----
-1. 本项目主要收集经常访问的且被屏蔽的支持 IPv6 技术的站点，如 Google Search, Gmail, Youtube, Google Plus, Google Docs, Google Play, Wikipedia, Facebook 等等。
+1. 本项目主要收集经常访问的且被屏蔽的支持 IPv6 技术的站点，如 Google Search，Gmail，Youtube，Google Plus，Google Docs，Google Play，Wikipedia，Facebook 等等。
 2. 暂时不收录不支持 IPv6 且被屏蔽的站点，如 Twitter。
-3. 部分收录严重影响上网体验的 IPv4 站点，如 Youtube 部分视频缓存服务器。
+3. 部分收录严重影响上网体验的 IPv4 站点，如 Youtube 部分视频缓存服务器，OneDrive等。
 4. 不收录支持 IPv6 但不被屏蔽的站点，如教育网内各大高校的网站。

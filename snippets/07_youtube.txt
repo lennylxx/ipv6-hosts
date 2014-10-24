@@ -2006,6 +2006,69 @@
 2607:f8b0:4005:1::18 r19---sn-nwj7knl7.c.youtube.com #r19.sn-nwj7knl7.c.youtube.com
 2607:f8b0:4005:1::19 r20---sn-nwj7knl7.c.youtube.com #r20.sn-nwj7knl7.c.youtube.com
 
+2607:f8b0:4006:2::6 r1---sn-ab5l6nl6.c.youtube.com #r1.sn-ab5l6nl6.c.youtube.com
+2607:f8b0:4006:2::7 r2---sn-ab5l6nl6.c.youtube.com #r2.sn-ab5l6nl6.c.youtube.com
+2607:f8b0:4006:2::8 r3---sn-ab5l6nl6.c.youtube.com #r3.sn-ab5l6nl6.c.youtube.com
+2607:f8b0:4006:2::9 r4---sn-ab5l6nl6.c.youtube.com #r4.sn-ab5l6nl6.c.youtube.com
+2607:f8b0:4006:2::a r5---sn-ab5l6nl6.c.youtube.com #r5.sn-ab5l6nl6.c.youtube.com
+2607:f8b0:4006:2::b r6---sn-ab5l6nl6.c.youtube.com #r6.sn-ab5l6nl6.c.youtube.com
+2607:f8b0:4006:2::c r7---sn-ab5l6nl6.c.youtube.com #r7.sn-ab5l6nl6.c.youtube.com
+2607:f8b0:4006:2::d r8---sn-ab5l6nl6.c.youtube.com #r8.sn-ab5l6nl6.c.youtube.com
+2607:f8b0:4006:2::e r9---sn-ab5l6nl6.c.youtube.com #r9.sn-ab5l6nl6.c.youtube.com
+2607:f8b0:4006:2::f r10---sn-ab5l6nl6.c.youtube.com #r10.sn-ab5l6nl6.c.youtube.com
+2607:f8b0:4006:2::10 r11---sn-ab5l6nl6.c.youtube.com #r11.sn-ab5l6nl6.c.youtube.com
+2607:f8b0:4006:2::11 r12---sn-ab5l6nl6.c.youtube.com #r12.sn-ab5l6nl6.c.youtube.com
+2607:f8b0:4006:2::12 r13---sn-ab5l6nl6.c.youtube.com #r13.sn-ab5l6nl6.c.youtube.com
+2607:f8b0:4006:2::13 r14---sn-ab5l6nl6.c.youtube.com #r14.sn-ab5l6nl6.c.youtube.com
+2607:f8b0:4006:2::14 r15---sn-ab5l6nl6.c.youtube.com #r15.sn-ab5l6nl6.c.youtube.com
+2607:f8b0:4006:2::15 r16---sn-ab5l6nl6.c.youtube.com #r16.sn-ab5l6nl6.c.youtube.com
+2607:f8b0:4006:2::16 r17---sn-ab5l6nl6.c.youtube.com #r17.sn-ab5l6nl6.c.youtube.com
+2607:f8b0:4006:2::17 r18---sn-ab5l6nl6.c.youtube.com #r18.sn-ab5l6nl6.c.youtube.com
+2607:f8b0:4006:2::18 r19---sn-ab5l6nl6.c.youtube.com #r19.sn-ab5l6nl6.c.youtube.com
+2607:f8b0:4006:2::19 r20---sn-ab5l6nl6.c.youtube.com #r20.sn-ab5l6nek.c.youtube.com
+
+2607:f8b0:4006:1c::6 r1---sn-ab5l6nek.c.youtube.com #r1.sn-ab5l6nek.c.youtube.com
+2607:f8b0:4006:1c::7 r2---sn-ab5l6nek.c.youtube.com #r2.sn-ab5l6nek.c.youtube.com
+2607:f8b0:4006:1c::8 r3---sn-ab5l6nek.c.youtube.com #r3.sn-ab5l6nek.c.youtube.com
+2607:f8b0:4006:1c::9 r4---sn-ab5l6nek.c.youtube.com #r4.sn-ab5l6nek.c.youtube.com
+2607:f8b0:4006:1c::a r5---sn-ab5l6nek.c.youtube.com #r5.sn-ab5l6nek.c.youtube.com
+2607:f8b0:4006:1c::b r6---sn-ab5l6nek.c.youtube.com #r6.sn-ab5l6nek.c.youtube.com
+2607:f8b0:4006:1c::c r7---sn-ab5l6nek.c.youtube.com #r7.sn-ab5l6nek.c.youtube.com
+2607:f8b0:4006:1c::d r8---sn-ab5l6nek.c.youtube.com #r8.sn-ab5l6nek.c.youtube.com
+2607:f8b0:4006:1c::e r9---sn-ab5l6nek.c.youtube.com #r9.sn-ab5l6nek.c.youtube.com
+2607:f8b0:4006:1c::f r10---sn-ab5l6nek.c.youtube.com #r10.sn-ab5l6nek.c.youtube.com
+2607:f8b0:4006:1c::10 r11---sn-ab5l6nek.c.youtube.com #r11.sn-ab5l6nek.c.youtube.com
+2607:f8b0:4006:1c::11 r12---sn-ab5l6nek.c.youtube.com #r12.sn-ab5l6nek.c.youtube.com
+2607:f8b0:4006:1c::12 r13---sn-ab5l6nek.c.youtube.com #r13.sn-ab5l6nek.c.youtube.com
+2607:f8b0:4006:1c::13 r14---sn-ab5l6nek.c.youtube.com #r14.sn-ab5l6nek.c.youtube.com
+2607:f8b0:4006:1c::14 r15---sn-ab5l6nek.c.youtube.com #r15.sn-ab5l6nek.c.youtube.com
+2607:f8b0:4006:1c::15 r16---sn-ab5l6nek.c.youtube.com #r16.sn-ab5l6nek.c.youtube.com
+2607:f8b0:4006:1c::16 r17---sn-ab5l6nek.c.youtube.com #r17.sn-ab5l6nek.c.youtube.com
+2607:f8b0:4006:1c::17 r18---sn-ab5l6nek.c.youtube.com #r18.sn-ab5l6nek.c.youtube.com
+2607:f8b0:4006:1c::18 r19---sn-ab5l6nek.c.youtube.com #r19.sn-ab5l6nek.c.youtube.com
+2607:f8b0:4006:1c::19 r20---sn-ab5l6nek.c.youtube.com #r20.sn-ab5l6nek.c.youtube.com
+
+2607:f8b0:4007:10::6 r1---sn-a5m7ln7k.c.youtube.com #r1.sn-a5m7ln7k.c.youtube.com
+2607:f8b0:4007:10::7 r2---sn-a5m7ln7k.c.youtube.com #r2.sn-a5m7ln7k.c.youtube.com
+2607:f8b0:4007:10::8 r3---sn-a5m7ln7k.c.youtube.com #r3.sn-a5m7ln7k.c.youtube.com
+2607:f8b0:4007:10::9 r4---sn-a5m7ln7k.c.youtube.com #r4.sn-a5m7ln7k.c.youtube.com
+2607:f8b0:4007:10::a r5---sn-a5m7ln7k.c.youtube.com #r5.sn-a5m7ln7k.c.youtube.com
+2607:f8b0:4007:10::b r6---sn-a5m7ln7k.c.youtube.com #r6.sn-a5m7ln7k.c.youtube.com
+2607:f8b0:4007:10::c r7---sn-a5m7ln7k.c.youtube.com #r7.sn-a5m7ln7k.c.youtube.com
+2607:f8b0:4007:10::d r8---sn-a5m7ln7k.c.youtube.com #r8.sn-a5m7ln7k.c.youtube.com
+2607:f8b0:4007:10::e r9---sn-a5m7ln7k.c.youtube.com #r9.sn-a5m7ln7k.c.youtube.com
+2607:f8b0:4007:10::f r10---sn-a5m7ln7k.c.youtube.com #r10.sn-a5m7ln7k.c.youtube.com
+2607:f8b0:4007:10::10 r11---sn-a5m7ln7k.c.youtube.com #r11.sn-a5m7ln7k.c.youtube.com
+2607:f8b0:4007:10::11 r12---sn-a5m7ln7k.c.youtube.com #r12.sn-a5m7ln7k.c.youtube.com
+2607:f8b0:4007:10::12 r13---sn-a5m7ln7k.c.youtube.com #r13.sn-a5m7ln7k.c.youtube.com
+2607:f8b0:4007:10::13 r14---sn-a5m7ln7k.c.youtube.com #r14.sn-a5m7ln7k.c.youtube.com
+2607:f8b0:4007:10::14 r15---sn-a5m7ln7k.c.youtube.com #r15.sn-a5m7ln7k.c.youtube.com
+2607:f8b0:4007:10::15 r16---sn-a5m7ln7k.c.youtube.com #r16.sn-a5m7ln7k.c.youtube.com
+2607:f8b0:4007:10::16 r17---sn-a5m7ln7k.c.youtube.com #r17.sn-a5m7ln7k.c.youtube.com
+2607:f8b0:4007:10::17 r18---sn-a5m7ln7k.c.youtube.com #r18.sn-a5m7ln7k.c.youtube.com
+2607:f8b0:4007:10::18 r19---sn-a5m7ln7k.c.youtube.com #r19.sn-a5m7ln7k.c.youtube.com
+2607:f8b0:4007:10::19 r20---sn-a5m7ln7k.c.youtube.com #r20.sn-a5m7ln7k.c.youtube.com
+
 2607:f8b0:4007:11::6 r1---sn-a5m7ln7r.c.youtube.com #r1.sn-a5m7ln7r.c.youtube.com
 2607:f8b0:4007:11::7 r2---sn-a5m7ln7r.c.youtube.com #r2.sn-a5m7ln7r.c.youtube.com
 2607:f8b0:4007:11::8 r3---sn-a5m7ln7r.c.youtube.com #r3.sn-a5m7ln7r.c.youtube.com
@@ -3576,6 +3639,69 @@
 2607:f8b0:4005:1::17 r18.sn-nwj7knl7.c.youtube.com
 2607:f8b0:4005:1::18 r19.sn-nwj7knl7.c.youtube.com
 2607:f8b0:4005:1::19 r20.sn-nwj7knl7.c.youtube.com
+
+2607:f8b0:4006:2::6 r1.sn-ab5l6nl6.c.youtube.com
+2607:f8b0:4006:2::7 r2.sn-ab5l6nl6.c.youtube.com
+2607:f8b0:4006:2::8 r3.sn-ab5l6nl6.c.youtube.com
+2607:f8b0:4006:2::9 r4.sn-ab5l6nl6.c.youtube.com
+2607:f8b0:4006:2::a r5.sn-ab5l6nl6.c.youtube.com
+2607:f8b0:4006:2::b r6.sn-ab5l6nl6.c.youtube.com
+2607:f8b0:4006:2::c r7.sn-ab5l6nl6.c.youtube.com
+2607:f8b0:4006:2::d r8.sn-ab5l6nl6.c.youtube.com
+2607:f8b0:4006:2::e r9.sn-ab5l6nl6.c.youtube.com
+2607:f8b0:4006:2::f r10.sn-ab5l6nl6.c.youtube.com
+2607:f8b0:4006:2::10 r11.sn-ab5l6nl6.c.youtube.com
+2607:f8b0:4006:2::11 r12.sn-ab5l6nl6.c.youtube.com
+2607:f8b0:4006:2::12 r13.sn-ab5l6nl6.c.youtube.com
+2607:f8b0:4006:2::13 r14.sn-ab5l6nl6.c.youtube.com
+2607:f8b0:4006:2::14 r15.sn-ab5l6nl6.c.youtube.com
+2607:f8b0:4006:2::15 r16.sn-ab5l6nl6.c.youtube.com
+2607:f8b0:4006:2::16 r17.sn-ab5l6nl6.c.youtube.com
+2607:f8b0:4006:2::17 r18.sn-ab5l6nl6.c.youtube.com
+2607:f8b0:4006:2::18 r19.sn-ab5l6nl6.c.youtube.com
+2607:f8b0:4006:2::19 r20.sn-ab5l6nl6.c.youtube.com
+
+2607:f8b0:4006:1c::6 r1.sn-ab5l6nek.c.youtube.com
+2607:f8b0:4006:1c::7 r2.sn-ab5l6nek.c.youtube.com
+2607:f8b0:4006:1c::8 r3.sn-ab5l6nek.c.youtube.com
+2607:f8b0:4006:1c::9 r4.sn-ab5l6nek.c.youtube.com
+2607:f8b0:4006:1c::a r5.sn-ab5l6nek.c.youtube.com
+2607:f8b0:4006:1c::b r6.sn-ab5l6nek.c.youtube.com
+2607:f8b0:4006:1c::c r7.sn-ab5l6nek.c.youtube.com
+2607:f8b0:4006:1c::d r8.sn-ab5l6nek.c.youtube.com
+2607:f8b0:4006:1c::e r9.sn-ab5l6nek.c.youtube.com
+2607:f8b0:4006:1c::f r10.sn-ab5l6nek.c.youtube.com
+2607:f8b0:4006:1c::10 r11.sn-ab5l6nek.c.youtube.com
+2607:f8b0:4006:1c::11 r12.sn-ab5l6nek.c.youtube.com
+2607:f8b0:4006:1c::12 r13.sn-ab5l6nek.c.youtube.com
+2607:f8b0:4006:1c::13 r14.sn-ab5l6nek.c.youtube.com
+2607:f8b0:4006:1c::14 r15.sn-ab5l6nek.c.youtube.com
+2607:f8b0:4006:1c::15 r16.sn-ab5l6nek.c.youtube.com
+2607:f8b0:4006:1c::16 r17.sn-ab5l6nek.c.youtube.com
+2607:f8b0:4006:1c::17 r18.sn-ab5l6nek.c.youtube.com
+2607:f8b0:4006:1c::18 r19.sn-ab5l6nek.c.youtube.com
+2607:f8b0:4006:1c::19 r20.sn-ab5l6nek.c.youtube.com
+
+2607:f8b0:4007:10::6 r1.sn-a5m7ln7k.c.youtube.com
+2607:f8b0:4007:10::7 r2.sn-a5m7ln7k.c.youtube.com
+2607:f8b0:4007:10::8 r3.sn-a5m7ln7k.c.youtube.com
+2607:f8b0:4007:10::9 r4.sn-a5m7ln7k.c.youtube.com
+2607:f8b0:4007:10::a r5.sn-a5m7ln7k.c.youtube.com
+2607:f8b0:4007:10::b r6.sn-a5m7ln7k.c.youtube.com
+2607:f8b0:4007:10::c r7.sn-a5m7ln7k.c.youtube.com
+2607:f8b0:4007:10::d r8.sn-a5m7ln7k.c.youtube.com
+2607:f8b0:4007:10::e r9.sn-a5m7ln7k.c.youtube.com
+2607:f8b0:4007:10::f r10.sn-a5m7ln7k.c.youtube.com
+2607:f8b0:4007:10::10 r11.sn-a5m7ln7k.c.youtube.com
+2607:f8b0:4007:10::11 r12.sn-a5m7ln7k.c.youtube.com
+2607:f8b0:4007:10::12 r13.sn-a5m7ln7k.c.youtube.com
+2607:f8b0:4007:10::13 r14.sn-a5m7ln7k.c.youtube.com
+2607:f8b0:4007:10::14 r15.sn-a5m7ln7k.c.youtube.com
+2607:f8b0:4007:10::15 r16.sn-a5m7ln7k.c.youtube.com
+2607:f8b0:4007:10::16 r17.sn-a5m7ln7k.c.youtube.com
+2607:f8b0:4007:10::17 r18.sn-a5m7ln7k.c.youtube.com
+2607:f8b0:4007:10::18 r19.sn-a5m7ln7k.c.youtube.com
+2607:f8b0:4007:10::19 r20.sn-a5m7ln7k.c.youtube.com
 
 2607:f8b0:4007:11::6 r1.sn-a5m7ln7r.c.youtube.com
 2607:f8b0:4007:11::7 r2.sn-a5m7ln7r.c.youtube.com

@@ -27,6 +27,7 @@
 2607:f8b0:4007:803::100b doc-14-1o-docs.googleusercontent.com #googlehosted.l.googleusercontent.com
 2607:f8b0:4007:803::100b doc-10-2c-docs.googleusercontent.com #googlehosted.l.googleusercontent.com
 2607:f8b0:4007:803::100b doc-0k-38-docs.googleusercontent.com #googlehosted.l.googleusercontent.com
+2607:f8b0:4007:803::100b doc-14-48-docs.googleusercontent.com #googlehosted.l.googleusercontent.com
 2607:f8b0:4007:803::100b doc-00-6c-docs.googleusercontent.com #googlehosted.l.googleusercontent.com
 2607:f8b0:4007:803::100b doc-04-6c-docs.googleusercontent.com #googlehosted.l.googleusercontent.com
 2607:f8b0:4007:803::100b doc-08-6c-docs.googleusercontent.com #googlehosted.l.googleusercontent.com

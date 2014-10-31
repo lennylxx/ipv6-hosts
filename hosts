@@ -1,5 +1,5 @@
 ## 项目地址: https://github.com/lennylxx/ipv6-hosts
-## 最后更新: 10/24/2014
+## 最后更新: 10/31/2014
 
 ::1 localhost
 
@@ -2633,6 +2633,7 @@
 2607:f8b0:4007:803::100b doc-14-1o-docs.googleusercontent.com #googlehosted.l.googleusercontent.com
 2607:f8b0:4007:803::100b doc-10-2c-docs.googleusercontent.com #googlehosted.l.googleusercontent.com
 2607:f8b0:4007:803::100b doc-0k-38-docs.googleusercontent.com #googlehosted.l.googleusercontent.com
+2607:f8b0:4007:803::100b doc-14-48-docs.googleusercontent.com #googlehosted.l.googleusercontent.com
 2607:f8b0:4007:803::100b doc-00-6c-docs.googleusercontent.com #googlehosted.l.googleusercontent.com
 2607:f8b0:4007:803::100b doc-04-6c-docs.googleusercontent.com #googlehosted.l.googleusercontent.com
 2607:f8b0:4007:803::100b doc-08-6c-docs.googleusercontent.com #googlehosted.l.googleusercontent.com
@@ -4656,6 +4657,11 @@
 2404:8000:10:22::e r3---sn-cp1oxu-jb3e.c.youtube.com #r3.sn-cp1oxu-jb3e.c.youtube.com
 2404:8000:10:22::f r4---sn-cp1oxu-jb3e.c.youtube.com #r4.sn-cp1oxu-jb3e.c.youtube.com
 
+2001:7f8:49:1::c r1---sn-gvopm-vu2e.c.youtube.com #r1.sn-gvopm-vu2e.c.youtube.com
+2001:7f8:49:1::d r2---sn-gvopm-vu2e.c.youtube.com #r2.sn-gvopm-vu2e.c.youtube.com
+2001:7f8:49:1::e r3---sn-gvopm-vu2e.c.youtube.com #r3.sn-gvopm-vu2e.c.youtube.com
+2001:7f8:49:1::f r4---sn-gvopm-vu2e.c.youtube.com #r4.sn-gvopm-vu2e.c.youtube.com
+
 2407:0:0:11::c r1---sn-poqvn5u-jb3l.c.youtube.com #r1.sn-poqvn5u-jb3l.c.youtube.com
 2407:0:0:11::d r2---sn-poqvn5u-jb3l.c.youtube.com #r2.sn-poqvn5u-jb3l.c.youtube.com
 2407:0:0:11::e r3---sn-poqvn5u-jb3l.c.youtube.com #r3.sn-poqvn5u-jb3l.c.youtube.com
@@ -6289,6 +6295,11 @@
 2404:8000:10:22::d r2.sn-cp1oxu-jb3e.c.youtube.com
 2404:8000:10:22::e r3.sn-cp1oxu-jb3e.c.youtube.com
 2404:8000:10:22::f r4.sn-cp1oxu-jb3e.c.youtube.com
+
+2001:7f8:49:1::c r1.sn-gvopm-vu2e.c.youtube.com
+2001:7f8:49:1::d r2.sn-gvopm-vu2e.c.youtube.com
+2001:7f8:49:1::e r3.sn-gvopm-vu2e.c.youtube.com
+2001:7f8:49:1::f r4.sn-gvopm-vu2e.c.youtube.com
 
 2407:0:0:11::c r1.sn-poqvn5u-jb3l.c.youtube.com
 2407:0:0:11::d r2.sn-poqvn5u-jb3l.c.youtube.com
@@ -9719,13 +9730,18 @@
 
 2400:9800:0:f021::c r1---sn-xmjxajvh-jb3e.googlevideo.com #r1.sn-xmjxajvh-jb3e.googlevideo.com
 2400:9800:0:f021::d r2---sn-xmjxajvh-jb3e.googlevideo.com #r2.sn-xmjxajvh-jb3e.googlevideo.com
-2400:9800:0:f021::e r3---sn-xmjxajvh-jb3e.googlevideo.com #r3.sn-xmjxajvh-jb3e.googlevideo.com
+2400:9800:0:f021::e r3---sn-xmjxajvh-jb3e.googlevideo.com #r3.sn-xmjxajvh-jb3e.googOlevideo.com
 2400:9800:0:f021::f r4---sn-xmjxajvh-jb3e.googlevideo.com #r4.sn-xmjxajvh-jb3e.googlevideo.com
 
 2404:8000:10:22::c r1---sn-cp1oxu-jb3e.googlevideo.com #r1.sn-cp1oxu-jb3e.googlevideo.com
 2404:8000:10:22::d r2---sn-cp1oxu-jb3e.googlevideo.com #r2.sn-cp1oxu-jb3e.googlevideo.com
 2404:8000:10:22::e r3---sn-cp1oxu-jb3e.googlevideo.com #r3.sn-cp1oxu-jb3e.googlevideo.com
 2404:8000:10:22::f r4---sn-cp1oxu-jb3e.googlevideo.com #r4.sn-cp1oxu-jb3e.googlevideo.com
+
+2001:7f8:49:1::c r1---sn-gvopm-vu2e.googlevideo.com #r1.sn-gvopm-vu2e.googlevideo.com
+2001:7f8:49:1::d r2---sn-gvopm-vu2e.googlevideo.com #r2.sn-gvopm-vu2e.googlevideo.com
+2001:7f8:49:1::e r3---sn-gvopm-vu2e.googlevideo.com #r3.sn-gvopm-vu2e.googlevideo.com
+2001:7f8:49:1::f r4---sn-gvopm-vu2e.googlevideo.com #r4.sn-gvopm-vu2e.googlevideo.com
 
 2407:0:0:11::c r1---sn-poqvn5u-jb3l.googlevideo.com #r1.sn-poqvn5u-jb3l.googlevideo.com
 2407:0:0:11::d r2---sn-poqvn5u-jb3l.googlevideo.com #r2.sn-poqvn5u-jb3l.googlevideo.com
@@ -11360,6 +11376,11 @@
 2404:8000:10:22::d r2.sn-cp1oxu-jb3e.googlevideo.com
 2404:8000:10:22::e r3.sn-cp1oxu-jb3e.googlevideo.com
 2404:8000:10:22::f r4.sn-cp1oxu-jb3e.googlevideo.com
+
+2001:7f8:49:1::c r1.sn-gvopm-vu2e.googlevideo.com
+2001:7f8:49:1::d r2.sn-gvopm-vu2e.googlevideo.com
+2001:7f8:49:1::e r3.sn-gvopm-vu2e.googlevideo.com
+2001:7f8:49:1::f r4.sn-gvopm-vu2e.googlevideo.com
 
 2407:0:0:11::c r1.sn-poqvn5u-jb3l.googlevideo.com
 2407:0:0:11::d r2.sn-poqvn5u-jb3l.googlevideo.com

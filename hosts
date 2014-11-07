@@ -447,6 +447,9 @@
 #2404:6800:4008:c00::62 tbn5.google.com
 #2404:6800:4008:c00::62 tbn6.google.com
 
+## Inbox
+2607:f8b0:4007:803::1008 inbox.google.com
+
 ## Input Tools 输入法
 2607:f8b0:4007:803::1007 inputtools.google.com #www4.l.google.com
 

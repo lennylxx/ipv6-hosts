@@ -1,5 +1,5 @@
 ## 项目地址: https://github.com/lennylxx/ipv6-hosts
-## 最后更新: 10/31/2014
+## 最后更新: 11/07/2014
 
 ::1 localhost
 
@@ -447,6 +447,9 @@
 #2404:6800:4008:c00::62 tbn5.google.com
 #2404:6800:4008:c00::62 tbn6.google.com
 
+## Input Tools 输入法
+2607:f8b0:4007:803::1007 inputtools.google.com #www4.l.google.com
+
 ## Knol 在线百科全书
 2607:f8b0:4007:804::1006 knol.google.com #www3.l.google.com
 
@@ -634,10 +637,10 @@
 2607:f8b0:4007:804::1009 toolbar.google.com #tools.l.google.com
 2607:f8b0:4007:804::1009 toolbar.google.com.hk #tools.l.google.com
 
-#3 Translate 翻译
-2607:f8b0:4007:804::1001 translate.google.com #www3.l.google.com
-2607:f8b0:4007:804::1018 translate.google.com.hk
-2607:f8b0:4007:804::1018 translate.google.com.tw
+## Translate 翻译
+2607:f8b0:4007:803::1007 translate.google.com #www3.l.google.com
+2607:f8b0:4007:803::1018 translate.google.com.hk
+2607:f8b0:4007:803::1018 translate.google.com.tw
 2001:4860:400b:c01::a0 translate.google.cn #www.google.cn
 
 ## Trends 趋势

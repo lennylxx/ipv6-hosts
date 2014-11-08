@@ -13065,6 +13065,65 @@
 2600:1409:a::173b:be39 a7.sphotos.ak.fbcdn.net #a1007.dspw43.akamai.net
 2600:1409:a::173b:be33 a8.sphotos.ak.fbcdn.net #a1408.dspw43.akamai.net
 
+#Twitter
+2001:778:0:ffff:64:0:c73b:940a twitter.com
+2001:778:0:ffff:64:0:c73b:940b ads.twitter.com
+2001:778:0:ffff:64:0:c73b:940b assets0.twitter.com #s.twitter.com
+2001:778:0:ffff:64:0:c73b:940b assets1.twitter.com #s.twitter.com
+2001:778:0:ffff:64:0:c73b:962a assets2.twitter.com #s.twitter.com
+2001:778:0:ffff:64:0:c73b:9454 assets3.twitter.com #s.twitter.com
+2001:778:0:ffff:64:0:c73b:960a assets4.twitter.com #s.twitter.com
+2001:778:0:ffff:64:0:c73b:9609 api.twitter.com
+2001:778:0:ffff:64:0:5f64:4f90 cdn.api.twitter.com #e3826.g.akamaiedge.net
+2001:778:0:ffff:64:0:214:b613 urls.api.twitter.com #a1697.g.akamai.net
+2001:778:0:ffff:64:0:c73b:94d4 business.twitter.com
+2001:778:0:ffff:64:0:c73b:9589 dev.twitter.com
+2001:778:0:ffff:64:0:c73b:94d4 fly.twitter.com
+2001:778:0:ffff:64:0:c73b:94d4 help.twitter.com #static-site.twitter.com
+2001:778:0:ffff:64:0:c73b:94d4 m.twitter.com #static-site.twitter.com
+2001:778:0:ffff:64:0:c73b:94d4 media.twitter.com #static-site.twitter.com
+2001:778:0:ffff:64:0:c73b:9460 mobile.twitter.com
+2001:778:0:ffff:64:0:c73b:960a oauth.twitter.com #s.twitter.com
+2001:778:0:ffff:64:0:c73b:94d4 pic.twitter.com #static-site.twitter.com
+2001:778:0:ffff:64:0:215:6f90 platform.twitter.com #e3826.g.akamaiedge.net
+2001:778:0:ffff:64:0:214:b609 anywhere.platform.twitter.com #a948.g.akamai.net
+2001:778:0:ffff:64:0:214:b61a platform0.twitter.com #a1017.g.akamai.net
+2001:778:0:ffff:64:0:214:b61a platform1.twitter.com #a1093.g.akamai.net
+2001:778:0:ffff:64:0:214:b629 platform2.twitter.com #a1095.g.akamai.net
+2001:778:0:ffff:64:0:214:b61a platform3.twitter.com #a1213.g.akamai.net
+2001:778:0:ffff:64:0:c73b:960a scribe.twitter.com #s.twitter.com
+2001:778:0:ffff:64:0:c73b:962a search.twitter.com #s.twitter.com
+2001:778:0:ffff:64:0:c73b:95f3 static.twitter.com #s.twitter.com
+2001:778:0:ffff:64:0:c73b:94d4 static-site.twitter.com
+2001:778:0:ffff:64:0:4820:e708 status.twitter.com
+2001:778:0:ffff:64:0:c73b:948a stream.twitter.com
+2001:778:0:ffff:64:0:c73b:94ce support.twitter.com
+2001:778:0:ffff:64:0:c73b:948b userstream.twitter.com
+2001:778:0:ffff:64:0:c73b:94d5 upload.twitter.com
+2001:778:0:ffff:64:0:c73b:9607 www.twitter.com #twitter.com
+2001:778:0:ffff:64:0:c73b:940c t.co
+2001:778:0:ffff:64:0:c73b:940a twttr.com
+2001:778:0:ffff:64:0:c73b:9607 www.twttr.com #twitter.com
+2001:778:0:ffff:64:0:c73b:9607 translate.twttr.com #twitter.com
+2001:778:0:ffff:64:0:214:b639 twimg0-a.akamaihd.net #a756.l.akamai.net
+2001:778:0:ffff:64:0:b8a9:4f21 a0.twimg.com #orig-10004.twitter.cotcdn.net
+2001:778:0:ffff:64:0:b8a9:4f21 a1.twimg.com #orig-10004.twitter.cotcdn.net
+2001:778:0:ffff:64:0:b8a9:4f21 a2.twimg.com #orig-10004.twitter.cotcdn.net
+2001:778:0:ffff:64:0:b8a9:4f21 a3.twimg.com #orig-10004.twitter.cotcdn.net
+2001:778:0:ffff:64:0:b8a9:4f21 a4.twimg.com #orig-10004.twitter.cotcdn.net
+2001:778:0:ffff:64:0:214:b60a a5.twimg.com #a1441.l.akamai.net
+2001:778:0:ffff:64:0:215:6f90 p.twimg.com #e3826.g.akamaiedge.net
+2001:778:0:ffff:64:0:b8a9:4f21 pbs.twimg.com #orig-10014.twitter.cotcdn.net
+2001:778:0:ffff:64:0:c73b:95eb r.twimg.com
+2001:778:0:ffff:64:0:36f0:a850 s.twimg.com #d2rdfnizen5apl.cloudfront.net
+2001:778:0:ffff:64:0:b8a9:4f21 si0.twimg.com #orig-10004.twitter.cotcdn.net
+2001:778:0:ffff:64:0:b8a9:4f21 si1.twimg.com #orig-10004.twitter.cotcdn.net
+2001:778:0:ffff:64:0:b8a9:4f21 si2.twimg.com #orig-10004.twitter.cotcdn.net
+2001:778:0:ffff:64:0:b8a9:4f21 si3.twimg.com #orig-10004.twitter.cotcdn.net
+2001:778:0:ffff:64:0:b8a9:4f21 si4.twimg.com #orig-10004.twitter.cotcdn.net
+2001:778:0:ffff:64:0:5f64:4f90 si5.twimg.com #e3826.g.akamaiedge.net
+2001:778:0:ffff:64:0:b8a9:4f21 widgets.twimg.com #orig-10012.twitter.cotcdn.net
+
 ## WikiMedia 维基媒体
 #2620:0:860:2:21d:9ff:fe33:f235 static.wikipedia.org #hume.wikimedia.org
 #2620:0:860:2:21d:9ff:fe33:f235 hume.wikimedia.org
@@ -14038,6 +14097,18 @@
 2400:cb00:2048:1::c71b:867c static.uncyc.org
 2400:cb00:2048:1::681c:1009 ansaikuropedia.org
 
+#Wikia
+2001:778:0:ffff:64:0:4a78:bc05 images1.wikia.nocookie.net
+2001:778:0:ffff:64:0:4a78:bc05 images2.wikia.nocookie.net
+2001:778:0:ffff:64:0:4a78:bc05 images3.wikia.nocookie.net
+2001:778:0:ffff:64:0:4a78:bc7d doraemon.wikia.com
+2001:778:0:ffff:64:0:4a78:bc7d ja.doraemon.wikia.com
+2001:778:0:ffff:64:0:4a78:bc7d zh-cn.doraemon.wikia.com
+2001:778:0:ffff:64:0:4a78:bc7d zh-tw.doraemon.wikia.com
+2001:778:0:ffff:64:0:4a78:bc7d evchk.wikia.com #香港網絡大典
+2001:778:0:ffff:64:0:4a78:bc7d uncyclopedia.wikia.com
+2001:778:0:ffff:64:0:4a78:bc7d cn.uncyclopedia.wikia.com
+
 ## 华盟
 2607:5300:60:12bb::ca50 camoe.org
 #2001:470:a:4d::2 g.camoe.org
@@ -14092,3 +14163,17 @@
 ## DNS64 服务器：
 2001:778::37 dns64.litnet.lt
 
+###Sourceforge
+2001:8b0:6464::666:616:d822:b53c  sourceforge.net
+
+#Baidu
+#2400:da00::dbf:0:100 www.baidu.com
+#2400:da00::dbf:0:6666 p.baidupcs.com
+#2400:da00::dbf:0:6666 nj.baidupcs.com
+#2400:da00::dbf:0:6666 qd.baidupcs.com
+#2400:da00::dbf:0:6666 cdn.baidupcs.com
+#2400:da00::dbf:0:6666 www.baidupcs.com
+#2400:da00::dbf:0:6666 hot.cdn.baidupcs.com
+#2400:da00::dbf:0:6666 d.pcs.baidu.com
+2400:da00::dbf:0:123 www.hao123.com
+2402:4e00::a www.qq.com

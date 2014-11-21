@@ -1,0 +1,13 @@
+## Dropbox
+108.160.165.139 www.dropbox.com #www.v.dropbox.com
+108.160.165.139 www.v.dropbox.com
+108.160.166.62 dropbox.com
+108.160.162.53 d.dropbox.com #d.v.dropbox.com
+108.160.162.53 d.v.dropbox.com
+54.230.74.113 m.dropbox.com
+54.230.74.189 dt8kf6553cww8.cloudfront.net
+54.243.79.100 dl.dropbox.com #dl-balancer.x.dropbox.com
+54.243.79.100 dl-balancer.x.dropbox.com
+54.225.184.81 dl.dropboxusercontent.com #duc-balancer.x.dropbox.com
+54.225.184.81 duc-balancer.x.dropbox.com
+

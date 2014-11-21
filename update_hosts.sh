@@ -22,8 +22,9 @@ fi
 he_net="2001:470:20::2"
 google_a="2001:4860:4860::8888"
 google_b="2001:4860:4860::8844"
+jp="203.112.2.4"
 
-dns=$he_net
+dns=$jp
 
 blackhole=(
 '10::2222'
@@ -65,7 +66,7 @@ do
     
     url=$(printf "$line"|cut -d" " -f2)
 
-    result=$(nslookup -querytype=AAAA "$url" "$dns"|grep 'AAAA address')
+    result=$(nslookup -querytype=AAAA "$url" "$dns"|grep 'AAAA address'|head -1)
     
     name=$(printf "$result"|cut -f1)
     ip=$(printf "$result"|cut -d' ' -f4)

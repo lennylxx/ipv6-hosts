@@ -12,57 +12,57 @@
 #2620:0:862:1:6666:6666:6666:6666 ipv6and4.labs.wikimedia.org
 
 2620:0:861:1::2 lists.wikimedia.org
-2620:0:861:ed1a:: wikimedia.org
-2620:0:861:ed1a::1 wikimediafoundation.org
-2620:0:863:ed1a::1 www.mediawiki.org #text-lb.ulsfo.wikimedia.org
-2620:0:863:ed1a::1 www.wikimedia.org #text-lb.ulsfo.wikimedia.org
-2620:0:863:ed1a::1 commons.wikimedia.org #text-lb.ulsfo.wikimedia.org
-2620:0:863:ed1a::1 incubator.wikimedia.org #text-lb.ulsfo.wikimedia.org
-2620:0:863:ed1a::1 meta.wikimedia.org #text-lb.ulsfo.wikimedia.org
-2620:0:863:ed1a::1 secure.wikimedia.org #text-lb.ulsfo.wikimedia.org
-2620:0:863:ed1a::1 species.wikimedia.org #text-lb.ulsfo.wikimedia.org
-2620:0:863:ed1a::1:a bits.wikimedia.org #bits-lb.ulsfo.wikimedia.org
-2620:0:863:ed1a::2:b upload.wikimedia.org #upload-lb.ulsfo.wikimedia.org
-2620:0:863:ed1a::1 wikimedia-lb.wikimedia.org #text-lb.ulsfo.wikimedia.org
-2620:0:863:ed1a::1 wikipedia-lb.wikimedia.org #text-lb.ulsfo.wikimedia.org
-2620:0:863:ed1a::1 wiktionary-lb.wikimedia.org #text-lb.ulsfo.wikimedia.org
-2620:0:863:ed1a::1 wikiquote-lb.wikimedia.org #text-lb.ulsfo.wikimedia.org
-2620:0:863:ed1a::1 wikibooks-lb.wikimedia.org #text-lb.ulsfo.wikimedia.org
-2620:0:863:ed1a::1 wikisource-lb.wikimedia.org #text-lb.ulsfo.wikimedia.org
-2620:0:863:ed1a::1 wikinews-lb.wikimedia.org #text-lb.ulsfo.wikimedia.org
-2620:0:863:ed1a::1 wikiversity-lb.wikimedia.org #text-lb.ulsfo.wikimedia.org
-2620:0:863:ed1a::1 mediawiki-lb.wikimedia.org #text-lb.ulsfo.wikimedia.org
-2620:0:863:ed1a::1:c m.wikimedia.org #mobile-lb.ulsfo.wikimedia.org
+2620:0:863:ed1a::1 wikimedia.org
+2620:0:863:ed1a::1 wikimediafoundation.org
+2620:0:863:ed1a::1 www.mediawiki.org
+2620:0:863:ed1a::1 www.wikimedia.org
+2620:0:863:ed1a::1 commons.wikimedia.org
+2620:0:863:ed1a::1 incubator.wikimedia.org
+2620:0:863:ed1a::1 meta.wikimedia.org
+2620:0:863:ed1a::1 secure.wikimedia.org
+2620:0:863:ed1a::1 species.wikimedia.org
+2620:0:863:ed1a::1:a bits.wikimedia.org
+2620:0:863:ed1a::2:b upload.wikimedia.org
+2620:0:863:ed1a::1 wikimedia-lb.wikimedia.org
+2620:0:863:ed1a::1 wikipedia-lb.wikimedia.org
+2620:0:863:ed1a::1 wiktionary-lb.wikimedia.org
+2620:0:863:ed1a::1 wikiquote-lb.wikimedia.org
+2620:0:863:ed1a::1 wikibooks-lb.wikimedia.org
+2620:0:863:ed1a::1 wikisource-lb.wikimedia.org
+2620:0:863:ed1a::1 wikinews-lb.wikimedia.org
+2620:0:863:ed1a::1 wikiversity-lb.wikimedia.org
+2620:0:863:ed1a::1 mediawiki-lb.wikimedia.org
+2620:0:863:ed1a::1:c m.wikimedia.org
 2620:0:861:1:208:80:154:41 en.planet.wikimedia.org #zirconium.wikimedia.org
 2620:0:861:1:208:80:154:41 zirconium.wikimedia.org
 
-2620:0:860:ed1a:: wikimedia-lb.pmtpa.wikimedia.org
-2620:0:860:ed1a::1 wikipedia-lb.pmtpa.wikimedia.org
-2620:0:860:ed1a::2 wiktionary-lb.pmtpa.wikimedia.org
-2620:0:860:ed1a::3 wikiquote-lb.pmtpa.wikimedia.org
-2620:0:860:ed1a::4 wikibooks-lb.pmtpa.wikimedia.org
-2620:0:860:ed1a::5 wikisource-lb.pmtpa.wikimedia.org
-2620:0:860:ed1a::6 wikinews-lb.pmtpa.wikimedia.org
-2620:0:860:ed1a::7 wikiversity-lb.pmtpa.wikimedia.org
-2620:0:860:ed1a::8 mediawiki-lb.pmtpa.wikimedia.org
-2620:0:861:ed1a:: wikimedia-lb.eqiad.wikimedia.org
-2620:0:861:ed1a::1 wikipedia-lb.eqiad.wikimedia.org
-2620:0:861:ed1a::2 wiktionary-lb.eqiad.wikimedia.org
-2620:0:861:ed1a::3 wikiquote-lb.eqiad.wikimedia.org
-2620:0:861:ed1a::4 wikibooks-lb.eqiad.wikimedia.org
-2620:0:861:ed1a::5 wikisource-lb.eqiad.wikimedia.org
-2620:0:861:ed1a::6 wikinews-lb.eqiad.wikimedia.org
-2620:0:861:ed1a::7 wikiversity-lb.eqiad.wikimedia.org
-2620:0:861:ed1a::8 mediawiki-lb.eqiad.wikimedia.org
-2620:0:862:ed1a:: wikimedia-lb.esams.wikimedia.org
-2620:0:862:ed1a::1 wikipedia-lb.esams.wikimedia.org
-2620:0:862:ed1a::2 wiktionary-lb.esams.wikimedia.org
-2620:0:862:ed1a::3 wikiquote-lb.esams.wikimedia.org
-2620:0:862:ed1a::4 wikibooks-lb.esams.wikimedia.org
-2620:0:862:ed1a::5 wikisource-lb.esams.wikimedia.org
-2620:0:862:ed1a::6 wikinews-lb.esams.wikimedia.org
-2620:0:862:ed1a::7 wikiversity-lb.esams.wikimedia.org
-2620:0:862:ed1a::8 mediawiki-lb.esams.wikimedia.org
+#2620:0:860:ed1a:: wikimedia-lb.pmtpa.wikimedia.org
+#2620:0:860:ed1a::1 wikipedia-lb.pmtpa.wikimedia.org
+#2620:0:860:ed1a::2 wiktionary-lb.pmtpa.wikimedia.org
+#2620:0:860:ed1a::3 wikiquote-lb.pmtpa.wikimedia.org
+#2620:0:860:ed1a::4 wikibooks-lb.pmtpa.wikimedia.org
+#2620:0:860:ed1a::5 wikisource-lb.pmtpa.wikimedia.org
+#2620:0:860:ed1a::6 wikinews-lb.pmtpa.wikimedia.org
+#2620:0:860:ed1a::7 wikiversity-lb.pmtpa.wikimedia.org
+#2620:0:860:ed1a::8 mediawiki-lb.pmtpa.wikimedia.org
+#2620:0:861:ed1a:: wikimedia-lb.eqiad.wikimedia.org
+#2620:0:861:ed1a::1 wikipedia-lb.eqiad.wikimedia.org
+#2620:0:861:ed1a::2 wiktionary-lb.eqiad.wikimedia.org
+#2620:0:861:ed1a::3 wikiquote-lb.eqiad.wikimedia.org
+#2620:0:861:ed1a::4 wikibooks-lb.eqiad.wikimedia.org
+#2620:0:861:ed1a::5 wikisource-lb.eqiad.wikimedia.org
+#2620:0:861:ed1a::6 wikinews-lb.eqiad.wikimedia.org
+#2620:0:861:ed1a::7 wikiversity-lb.eqiad.wikimedia.org
+#2620:0:861:ed1a::8 mediawiki-lb.eqiad.wikimedia.org
+#2620:0:862:ed1a:: wikimedia-lb.esams.wikimedia.org
+#2620:0:862:ed1a::1 wikipedia-lb.esams.wikimedia.org
+#2620:0:862:ed1a::2 wiktionary-lb.esams.wikimedia.org
+#2620:0:862:ed1a::3 wikiquote-lb.esams.wikimedia.org
+#2620:0:862:ed1a::4 wikibooks-lb.esams.wikimedia.org
+#2620:0:862:ed1a::5 wikisource-lb.esams.wikimedia.org
+#2620:0:862:ed1a::6 wikinews-lb.esams.wikimedia.org
+#2620:0:862:ed1a::7 wikiversity-lb.esams.wikimedia.org
+#2620:0:862:ed1a::8 mediawiki-lb.esams.wikimedia.org
 
 2620:0:861:ed1a::1 text-lb.eqiad.wikimedia.org
 2620:0:861:ed1a::1:a bits-lb.eqiad.wikimedia.org
@@ -74,7 +74,7 @@
 2620:0:863:ed1a::2:b upload-lb.ulsfo.wikimedia.org
 
 ## WikiBooks 维基教科书
-2620:0:861:ed1a::1 wikibooks.org
+2620:0:863:ed1a::1 wikibooks.org
 2620:0:863:ed1a::1 www.wikibooks.org
 2620:0:863:ed1a::1 aa.wikibooks.org
 2620:0:863:ed1a::1 af.wikibooks.org
@@ -199,7 +199,7 @@
 2620:0:863:ed1a::1 zu.wikibooks.org
 
 ## WikiNews 维基新闻
-2620:0:861:ed1a::1 wikinews.org
+2620:0:863:ed1a::1 wikinews.org
 2620:0:863:ed1a::1 www.wikinews.org
 2620:0:863:ed1a::1 ar.wikinews.org
 2620:0:863:ed1a::1 bg.wikinews.org
@@ -236,7 +236,7 @@
 2620:0:863:ed1a::1 zh.wikinews.org
 
 ## WikiPedia 维基百科
-2620:0:861:ed1a::1 wikipedia.org
+2620:0:863:ed1a::1 wikipedia.org
 2620:0:863:ed1a::1 www.wikipedia.org
 2620:0:863:ed1a::1 aa.wikipedia.org
 2620:0:863:ed1a::1 ab.wikipedia.org
@@ -509,7 +509,7 @@
 2620:0:863:ed1a::1:c zh.m.wikipedia.org
 
 ## WikiQuote 维基语录
-2620:0:861:ed1a::1 wikiquote.org
+2620:0:863:ed1a::1 wikiquote.org
 2620:0:863:ed1a::1 www.wikiquote.org
 2620:0:863:ed1a::1 af.wikiquote.org
 2620:0:863:ed1a::1 als.wikiquote.org
@@ -601,7 +601,7 @@
 2620:0:863:ed1a::1 zh-min-nan.wikiquote.org
 
 ## WikiSource 维基文库
-2620:0:861:ed1a::1 wikisource.org
+2620:0:863:ed1a::1 wikisource.org
 2620:0:863:ed1a::1 www.wikisource.org
 2620:0:863:ed1a::1 ang.wikisource.org
 2620:0:863:ed1a::1 ar.wikisource.org
@@ -665,7 +665,7 @@
 2620:0:863:ed1a::1 zh-min-nan.wikisource.org
 
 ## Wiktionary 维基词典
-2620:0:861:ed1a::1 wiktionary.org
+2620:0:863:ed1a::1 wiktionary.org
 2620:0:863:ed1a::1 www.wiktionary.org
 2620:0:863:ed1a::1 aa.wiktionary.org
 2620:0:863:ed1a::1 ab.wiktionary.org
@@ -839,7 +839,7 @@
 2620:0:863:ed1a::1 zu.wiktionary.org
 
 ## Wikiversity 维基学院
-2620:0:861:ed1a::1 wikiversity.org
+2620:0:863:ed1a::1 wikiversity.org
 2620:0:863:ed1a::1 www.wikiversity.org
 2620:0:863:ed1a::1 ar.wikiversity.org
 2620:0:863:ed1a::1 beta.wikiversity.org

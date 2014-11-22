@@ -1,5 +1,5 @@
 ## Project: https://github.com/lennylxx/ipv6-hosts
-## Update : Sat, 22 Nov 2014 01:41:36 +0800
+## Update : Sat, 22 Nov 2014 20:07:08 +0800
 
 ::1 localhost
 
@@ -14105,4 +14105,7 @@
 54.243.79.100 dl-balancer.x.dropbox.com
 54.225.184.81 dl.dropboxusercontent.com #duc-balancer.x.dropbox.com
 54.225.184.81 duc-balancer.x.dropbox.com
+
+## StackExchange/StackOverflow
+190.93.245.58 cdn.sstatic.net
 

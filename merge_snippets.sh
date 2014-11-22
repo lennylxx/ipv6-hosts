@@ -13,12 +13,31 @@ if [ -f $new_hosts_file ]; then
     printf "" > $new_hosts_file
 fi
 
-printf "## Project: https://github.com/lennylxx/ipv6-hosts\r\n" >> $new_hosts_file
-printf "## Update : `date -R`\r\n" >> $new_hosts_file
-printf "\r\n" >> $new_hosts_file
-printf "::1 localhost\r\n" >> $new_hosts_file
-printf "\r\n" >> $new_hosts_file
+printf "\
+##  __                                 __                               \r\n\
+## |__| _____  __ __ ┌─────┐          |  |                  __          \r\n\
+## |  ||     ||  |  ||   ──|  ______  |  |──┐┌─────┐.─────.|  |_ .─────.\r\n\
+## |  ||  ─  ||  |  ||  ─  | |______| |     ||  ─  ||__ ──||   _||__ ──|\r\n\
+## |__||  ┌──┘ \___/ |_____|          |__|__||_____||_____||____||_____|\r\n\
+##     |__|                                                             \r\n\
+##                                                          · lennylxx ·\r\n\
+##\r\n\
+## +-------------------------  >>d(' _ ')b<<  -------------------------+\r\n\
+## |                                                                   |\r\n\
+## |         Project: https://github.com/lennylxx/ipv6-hosts           |\r\n\
+## |         Update : `date -R`                  |\r\n\
+## |                                                                   |\r\n\
+## +-------------------------------------------------------------------+\r\n\
+" >> $new_hosts_file
+
+printf "\r\n::1 localhost\r\n\r\n" >> $new_hosts_file
 
 cat snippets/??_*.txt >> $new_hosts_file
+
+printf "\
+## +-------------------------------------------------------------------+\r\n\
+## |                            End of File                            |\r\n\
+## +-------------------------------------------------------------------+\r\n\
+" >> $new_hosts_file
 
 exit 0

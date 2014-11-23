@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Sat, 22 Nov 2014 23:04:30 +0800                  |
+## |         Update : Sun, 23 Nov 2014 17:05:11 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -627,9 +627,9 @@
 2404:6800:4008:c04::51 sandbox.google.com #sandbox.l.google.com
 
 ## Scholar 学术搜索
-#2404:6800:4008:c00::63 scholar.google.com
-#2404:6800:4008:c00::63 scholar.google.com.hk
-#2404:6800:4008:c00::63 scholar.google.com.tw
+2404:6800:4008:c00::63 scholar.google.com
+2404:6800:4008:c00::63 scholar.google.com.hk
+2404:6800:4008:c00::63 scholar.google.com.tw
 2404:6800:4008:c04::a0 scholar.google.cn #www.google.cn
 
 ## Sites 协作平台
@@ -1000,7 +1000,7 @@
 2404:6800:400a:802::100e safebrowsing.cache.l.google.com
 2404:6800:400a:801::100e sb.l.google.com
 2404:6800:400a:801::100e sb-ssl.l.google.com
-#2404:6800:4008:c00::63 scholar.l.google.com
+2404:6800:4008:c00::63 scholar.l.google.com
 #2404:6800:4008:c00::66 sketchup.l.google.com
 2404:6800:400a:801::1006 spreadsheets.l.google.com
 2404:6800:400a:801::1003 spreadsheets-china.l.google.com

@@ -89,7 +89,7 @@
 2404:6800:400a:802::100e safebrowsing.cache.l.google.com
 2404:6800:400a:801::100e sb.l.google.com
 2404:6800:400a:801::100e sb-ssl.l.google.com
-#2404:6800:4008:c00::63 scholar.l.google.com
+2404:6800:4008:c00::63 scholar.l.google.com
 #2404:6800:4008:c00::66 sketchup.l.google.com
 2404:6800:400a:801::1006 spreadsheets.l.google.com
 2404:6800:400a:801::1003 spreadsheets-china.l.google.com

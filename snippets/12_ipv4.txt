@@ -14,3 +14,34 @@
 ## StackExchange/StackOverflow
 190.93.245.58 cdn.sstatic.net
 
+## deviantART
+110.232.178.146 www.deviantart.com #cs123.adn.edgecastcdn.net
+199.15.160.100 deviantart.com
+199.15.160.100 deviantart.net
+68.232.44.148 st.deviantart.net #cs116.wac.edgecastcdn.net
+68.232.44.148 a.deviantart.net #cs116.wac.edgecastcdn.net
+110.232.178.146 b.deviantart.net #cs123.adn.edgecastcdn.net
+110.232.178.146 c.deviantart.net #cs123.adn.edgecastcdn.net
+110.232.178.146 d.deviantart.net #cs123.adn.edgecastcdn.net
+68.232.44.148 e.deviantart.net #cs116.wac.edgecastcdn.net
+72.21.81.40 fc00.deviantart.net #cs20-jp.wpc.edgecastcdn.net
+72.21.81.40 fc01.deviantart.net #cs20-jp.wpc.edgecastcdn.net
+72.21.81.40 fc02.deviantart.net #cs20-jp.wpc.edgecastcdn.net
+72.21.81.40 fc03.deviantart.net #cs20-jp.wpc.edgecastcdn.net
+72.21.81.40 fc04.deviantart.net #cs20-jp.wpc.edgecastcdn.net
+72.21.81.40 fc05.deviantart.net #cs20-jp.wpc.edgecastcdn.net
+72.21.81.40 fc06.deviantart.net #cs20-jp.wpc.edgecastcdn.net
+72.21.81.40 fc07.deviantart.net #cs20-jp.wpc.edgecastcdn.net
+72.21.81.40 fc08.deviantart.net #cs20-jp.wpc.edgecastcdn.net
+72.21.81.40 fc09.deviantart.net #cs20-jp.wpc.edgecastcdn.net
+68.232.44.148 th00.deviantart.net #cs116.wac.edgecastcdn.net
+68.232.44.148 th01.deviantart.net #cs116.wac.edgecastcdn.net
+68.232.44.148 th02.deviantart.net #cs116.wac.edgecastcdn.net
+68.232.44.148 th03.deviantart.net #cs116.wac.edgecastcdn.net
+68.232.44.148 th04.deviantart.net #cs116.wac.edgecastcdn.net
+68.232.44.148 th05.deviantart.net #cs116.wac.edgecastcdn.net
+68.232.44.148 th06.deviantart.net #cs116.wac.edgecastcdn.net
+68.232.44.148 th07.deviantart.net #cs116.wac.edgecastcdn.net
+68.232.44.148 th08.deviantart.net #cs116.wac.edgecastcdn.net
+68.232.44.148 th09.deviantart.net #cs116.wac.edgecastcdn.net
+

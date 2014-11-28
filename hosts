@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Tue, 25 Nov 2014 17:17:05 +0800                  |
+## |         Update : Fri, 28 Nov 2014 23:04:01 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -14135,6 +14135,7 @@
 
 ## deviantART
 110.232.178.146 www.deviantart.com #cs123.adn.edgecastcdn.net
+110.232.178.146 cs123.adn.edgecastcdn.net
 199.15.160.100 deviantart.com
 199.15.160.100 deviantart.net
 68.232.44.148 st.deviantart.net #cs116.wac.edgecastcdn.net
@@ -14163,6 +14164,14 @@
 68.232.44.148 th07.deviantart.net #cs116.wac.edgecastcdn.net
 68.232.44.148 th08.deviantart.net #cs116.wac.edgecastcdn.net
 68.232.44.148 th09.deviantart.net #cs116.wac.edgecastcdn.net
+
+## Flickr
+69.147.76.173 flickr.com
+183.177.81.74 www.flickr.com #jpx-ycpi-uno.gycpi.b.yahoodns.net
+183.177.81.74 y-flickr.yahoo.com #jpx-ycpi-uno.gycpi.b.yahoodns.net
+119.160.254.219 c1.staticflickr.com #ct.gycs.b.yahoodns.net
+119.160.254.219 c2.staticflickr.com #ct.gycs.b.yahoodns.net
+2406:2000:fc:402::c:2201 s.yimg.com #s.gycs.b.yahoodns.net
 
 ## +-------------------------------------------------------------------+
 ## |                            End of File                            |

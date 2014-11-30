@@ -54,3 +54,15 @@
 119.160.254.219 c2.staticflickr.com #ct.gycs.b.yahoodns.net
 2406:2000:fc:402::c:2201 s.yimg.com #s.gycs.b.yahoodns.net
 
+## XDA developers
+207.244.73.44 www.xda-developers.com
+207.244.73.44 xda-developers.com
+174.129.2.23 cdn.xda-developers.com
+192.229.144.96 cdn1.xda-developers.com #cs261.wac.edgecastcdn.net
+192.229.144.96 cdn2.xda-developers.com #cs261.wac.edgecastcdn.net
+192.229.144.96 cdn3.xda-developers.com #cs261.wac.edgecastcdn.net
+192.229.144.96 cdn4.xda-developers.com #cs261.wac.edgecastcdn.net
+192.229.144.96 cs261.wac.edgecastcdn.net
+68.232.44.229 cdn.www.xda-developers.com #gs1.wac.v3cdn.net
+68.232.44.229 wac.8244.edgecastcdn.net #gs1.wac.v3cdn.net
+

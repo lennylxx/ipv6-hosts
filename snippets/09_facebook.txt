@@ -31,6 +31,7 @@
 2a03:2880:2110:6f00:face:b00c:0:1 pixel.v6.facebook.com #v6.vvv.facebook.com
 2a03:2880:2110:6f00:face:b00c:0:1 www.v6.facebook.com #v6.vvv.facebook.com
 2a03:2880:2110:6f00:face:b00c:0:1 v6.vvv.facebook.com
+2a03:2880:2050:1f08:face:b00c:0:1 attachment.fbsbx.com #star.c10r.facebook.com
 2600:140b:11::45c0:489 static.ak.facebook.com #a749.dsw4.akamai.net
 2600:140b:4:193::236 s-static.ak.facebook.com #e566.dspe1.akamaiedge.net
 2610:d0:face::9 www.lisp6.facebook.com

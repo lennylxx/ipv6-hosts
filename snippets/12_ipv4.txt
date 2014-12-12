@@ -43,6 +43,9 @@
 54.225.184.81 dl.dropboxusercontent.com #duc-balancer.x.dropbox.com
 54.225.184.81 duc-balancer.x.dropbox.com
 
+## EMI Music Publishing
+117.18.239.137 mpod1.emimusicpub.com #fms.edgecastcdn.net
+
 ## Flickr
 69.147.76.173 flickr.com
 183.177.81.74 www.flickr.com #jpx-ycpi-uno.gycpi.b.yahoodns.net
@@ -54,11 +57,36 @@
 ## GitHub
 192.30.252.141 gist.github.com
 
+## SoundCloud
+68.232.44.127 api.soundcloud.com #cs97.wac.edgecastcdn.net
+68.232.44.127 api-v2.soundcloud.com #cs97.wac.edgecastcdn.net
+68.232.44.127 promoted.soundcloud.com #cs97.wac.edgecastcdn.net
+68.232.44.96 a-v2.sndcdn.com #cs70.wac.edgecastcdn.net
+68.232.44.96 a1.sndcdn.com #cs70.wac.edgecastcdn.net
+68.232.44.96 i1.sndcdn.com #cs70.wac.edgecastcdn.net
+68.232.44.96 i2.sndcdn.com #cs70.wac.edgecastcdn.net
+68.232.44.96 i3.sndcdn.com #cs70.wac.edgecastcdn.net
+68.232.44.96 i4.sndcdn.com #cs70.wac.edgecastcdn.net
+68.232.44.96 va.sndcdn.com #cs70.wac.edgecastcdn.net
+68.232.44.96 wis.sndcdn.com #cs70.wac.edgecastcdn.net
+68.232.45.67 ec-media.soundcloud.com #cs141.wpc.edgecastcdn.net
+68.232.46.220 ec-rtmp-media.soundcloud.com #gs1.fms45.edgecastcdn.net
+111.119.3.1 soundcloud.hs.llnwd.net
+
 ## StackExchange/StackOverflow
 190.93.245.58 cdn.sstatic.net
 
 ## Tumblr
 68.232.44.253 gs1.wac.edgecastcdn.net
+
+## We Heart It
+117.18.237.125 assets1.whicdn.com #cs95.wac.edgecastcdn.net
+117.18.237.125 assets2.whicdn.com #cs95.wac.edgecastcdn.net
+117.18.237.125 assets3.whicdn.com #cs95.wac.edgecastcdn.net
+117.18.237.125 data1.whicdn.com #cs95.wac.edgecastcdn.net
+117.18.237.125 data2.whicdn.com #cs95.wac.edgecastcdn.net
+117.18.237.125 data3.whicdn.com #cs95.wac.edgecastcdn.net
+54.239.194.100 cdn.viglink.com #dp2drdtly304p.cloudfront.net
 
 ## XDA developers
 207.244.73.44 www.xda-developers.com
@@ -68,6 +96,7 @@
 192.229.144.96 cdn2.xda-developers.com #cs261.wac.edgecastcdn.net
 192.229.144.96 cdn3.xda-developers.com #cs261.wac.edgecastcdn.net
 192.229.144.96 cdn4.xda-developers.com #cs261.wac.edgecastcdn.net
+192.229.144.96 cdn-www.xda-developers.com #cs261.wac.edgecastcdn.net
 192.229.144.96 cs261.wac.edgecastcdn.net
 68.232.44.229 cdn.www.xda-developers.com #gs1.wac.v3cdn.net
 68.232.44.229 wac.8244.edgecastcdn.net #gs1.wac.v3cdn.net

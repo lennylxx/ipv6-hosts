@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Fri, 12 Dec 2014 16:36:53 +0800                  |
+## |         Update : Fri, 12 Dec 2014 19:42:07 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -14870,6 +14870,48 @@
 
 ## Tumblr
 68.232.44.253 gs1.wac.edgecastcdn.net
+
+## TweetDeck
+199.16.158.11 tweetdeck.com
+199.16.158.11 api.tweetdeck.com
+199.16.158.11 downloads.tweetdeck.com
+199.16.158.11 web.tweetdeck.com
+199.16.158.11 www.tweetdeck.com
+
+## Twitter
+199.16.158.10 twitter.com
+199.16.158.10 about.twitter.com
+199.16.158.10 ads.twitter.com
+199.16.158.10 api.twitter.com
+199.16.158.10 blog.twitter.com
+199.16.158.10 business.twitter.com
+199.16.158.10 dev.twitter.com
+199.16.158.10 media.twitter.com
+199.16.158.10 mobile.twitter.com
+199.16.158.10 pic.twitter.com
+199.16.158.10 s.twitter.com
+66.6.44.4 status.twitter.com
+199.16.158.10 support.twitter.com
+199.16.158.10 www.twitter.com
+199.16.158.12 t.co
+199.96.57.6 cdn.api.twitter.com #platform.twitter.com.tw.map.fastly.net
+199.96.57.7 abs.twimg.com #wildcard.twimg.com.tw.map.fastly.net
+199.96.57.7 pbs.twimg.com #wildcard.twimg.com.tw.map.fastly.net
+199.96.57.7 a0.twimg.com #wildcard.twimg.com.tw.map.fastly.net
+199.96.57.7 a1.twimg.com #wildcard.twimg.com.tw.map.fastly.net
+199.96.57.7 a2.twimg.com #wildcard.twimg.com.tw.map.fastly.net
+199.96.57.7 a3.twimg.com #wildcard.twimg.com.tw.map.fastly.net
+199.96.57.7 a4.twimg.com #wildcard.twimg.com.tw.map.fastly.net
+72.246.190.16 a5.twimg.com #a1441.l.akamai.net
+199.96.57.57 a6.twimg.com #cache-tw-sjc2-b.svc.fastly.net
+117.18.237.211 g.twimg.com #cs178.wac.edgecastcdn.net
+199.96.57.7 si0.twimg.com #wildcard.twimg.com.tw.map.fastly.net
+199.96.57.7 si1.twimg.com #wildcard.twimg.com.tw.map.fastly.net
+199.96.57.7 si2.twimg.com #wildcard.twimg.com.tw.map.fastly.net
+117.18.237.139 si3.twimg.com #cs107.wac.edgecastcdn.net
+23.37.149.210 si4.twimg.com #e6892.g.akamaiedge.net
+199.96.57.7 ton.twimg.com #wildcard.twimg.com.tw.map.fastly.net
+210.163.219.24 twimg.com
 
 ## We Heart It
 117.18.237.125 assets1.whicdn.com #cs95.wac.edgecastcdn.net

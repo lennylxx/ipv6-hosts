@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Fri, 12 Dec 2014 19:42:07 +0800                  |
+## |         Update : Mon, 15 Dec 2014 19:00:21 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -923,6 +923,7 @@
 #2404:6800:4008:c00::64 android-china.l.google.com
 2404:6800:4008:c04::65 adwords.l.google.com
 2404:6800:4008:c04::8d appspot.l.google.com
+2404:6800:4008:c00::1a aspmx.l.google.com
 2404:6800:400a:802::101d b.googlemail.l.google.com
 2404:6800:400a:801::1007 bandaid-redirector.l.google.com
 2404:6800:4008:c04::bf blogger.l.google.com

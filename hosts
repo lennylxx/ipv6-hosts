@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Mon, 15 Dec 2014 19:00:21 +0800                  |
+## |         Update : Sat, 20 Dec 2014 11:34:31 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -13701,6 +13701,7 @@
 2a03:2880:2050:3f07:face:b00c:0:1 apps.facebook.com #star.c10r.facebook.com
 2a03:2880:2050:3f07:face:b00c:0:1 attachments.facebook.com #star.c10r.facebook.com
 2a03:2880:2050:3f07:face:b00c:0:1 check6.facebook.com #star.c10r.facebook.com
+2a03:2880:2050:3f07:face:b00c:0:1 code.facebook.com #star.c10r.facebook.com
 2a03:2880:2050:3f07:face:b00c:0:1 connect.facebook.com #star.c10r.facebook.com
 2a03:2880:2050:3f07:face:b00c:0:1 developers.facebook.com #star.c10r.facebook.com
 2a03:2880:2050:3f07:face:b00c:0:1 graph.facebook.com #star.c10r.facebook.com
@@ -13736,6 +13737,7 @@
 2600:140b:11::45c0:489 static.ak.fbcdn.net #a749.dsw4.akamai.net
 2600:1417:2d::781d:9109 vthumb.ak.fbcdn.net #a591.dspda2.akamai.net
 2a03:2880:f000:8:face:b00c:0:1 scontent-a.xx.fbcdn.net
+2a03:2880:f000:8:face:b00c:0:1 scontent-b.xx.fbcdn.net
 
 2001:218:3000:4::7568:8a18 fbcdn-photos-a.akamaihd.net #a995.dspmm1.akamai.net
 2600:140b:12::48f6:bddb fbcdn-profile-a.akamaihd.net #a2047.dspl.akamai.net
@@ -14823,6 +14825,10 @@
 68.232.44.148 th08.deviantart.net #cs116.wac.edgecastcdn.net
 68.232.44.148 th09.deviantart.net #cs116.wac.edgecastcdn.net
 
+## DuckDuckGo
+46.51.216.186 duckduckgo.com
+54.254.135.171 icons.duckduckgo.com
+
 ## Dropbox
 108.160.165.139 www.dropbox.com #www.v.dropbox.com
 108.160.165.139 www.v.dropbox.com
@@ -14837,6 +14843,7 @@
 54.225.184.81 duc-balancer.x.dropbox.com
 
 ## EMI Music Publishing
+72.21.81.253 mpod.emimusicpub.com #ne.edgecastcdn.net
 117.18.239.137 mpod1.emimusicpub.com #fms.edgecastcdn.net
 
 ## Flickr

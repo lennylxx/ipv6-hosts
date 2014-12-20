@@ -13,6 +13,7 @@
 2a03:2880:2050:3f07:face:b00c:0:1 apps.facebook.com #star.c10r.facebook.com
 2a03:2880:2050:3f07:face:b00c:0:1 attachments.facebook.com #star.c10r.facebook.com
 2a03:2880:2050:3f07:face:b00c:0:1 check6.facebook.com #star.c10r.facebook.com
+2a03:2880:2050:3f07:face:b00c:0:1 code.facebook.com #star.c10r.facebook.com
 2a03:2880:2050:3f07:face:b00c:0:1 connect.facebook.com #star.c10r.facebook.com
 2a03:2880:2050:3f07:face:b00c:0:1 developers.facebook.com #star.c10r.facebook.com
 2a03:2880:2050:3f07:face:b00c:0:1 graph.facebook.com #star.c10r.facebook.com
@@ -48,6 +49,7 @@
 2600:140b:11::45c0:489 static.ak.fbcdn.net #a749.dsw4.akamai.net
 2600:1417:2d::781d:9109 vthumb.ak.fbcdn.net #a591.dspda2.akamai.net
 2a03:2880:f000:8:face:b00c:0:1 scontent-a.xx.fbcdn.net
+2a03:2880:f000:8:face:b00c:0:1 scontent-b.xx.fbcdn.net
 
 2001:218:3000:4::7568:8a18 fbcdn-photos-a.akamaihd.net #a995.dspmm1.akamai.net
 2600:140b:12::48f6:bddb fbcdn-profile-a.akamaihd.net #a2047.dspl.akamai.net

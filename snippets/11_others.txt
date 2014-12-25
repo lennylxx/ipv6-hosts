@@ -1,29 +1,6 @@
 ## Apple 苹果
 2600:140b:4:18c::c77 www.apple.com #e3191.dscc.akamaiedge.net
 
-## 其他主流服务
-#bit.ly / j.mp
-#2001:418:e801::10:1 bit.ly
-#2001:418:e801::11:1 bit.ly
-#2001:418:e801::12:1 bit.ly
-#2001:418:e801::15:1 bit.ly
-#2001:418:e801::10:2 j.mp
-#2001:418:e801::11:2 j.mp
-#2001:418:e801::12:2 j.mp
-#2001:418:e801::15:2 j.mp
-#2001:418:e801::10:2 bitly.com
-#2001:418:e801::11:2 bitly.com
-#2001:418:e801::13:2 bitly.com
-#2001:418:e801::15:2 bitly.com
-#2001:418:e801::10:7 api.bit.ly
-#2001:418:e801::11:7 api.bit.ly
-#2001:418:e801::12:7 api.bit.ly
-#2001:418:e801::15:7 api.bit.ly
-#2001:418:e801::10:7 api.bitly.com
-#2001:418:e801::11:7 api.bitly.com
-#2001:418:e801::12:7 api.bitly.com
-#2001:418:e801::15:7 api.bitly.com
-
 ## Plurk
 #2607:f128:47::1:1 plurk.com
 #2607:f128:47::1:1 www.plurk.com
@@ -33,25 +10,6 @@
 2620:10b:9006:600:dad3:85ff:fed9:ce24 ipv6.blizzard.com
 
 ## 其他IPv6网站
-## CN 中国大陆
-## GuAo.hk 谷奥
-#2001:470:a803::250 www.guao.hk
-#2001:470:a803::250 guao.hk
-#2600:3c00::f03c:91ff:fe93:67f2 img.gd
-
-## kenengba.com 可能吧
-#2001:470:18:5f5::2 www.kenengba.com
-#2001:470:18:5f5::2 m.kenengba.com
-
-## Shooter 射手网
-#2607:f740:90::ea8 shooter.cn
-#2607:f740:90::ea8 www.shooter.cn
-#2607:f740:90::ea8 edu.shooter.cn
-#2607:f740:90::ea8 file.shooter.cn #有证书警告，但可以正常下载
-
-## Yegle 一阁
-#2001:470:0:16d::4047:a712 yegle.net
-
 ## US 美国
 ## Mozilla
 2620:101:8008:5::2:1 www.mozilla.org #mozorg.dynect.mozilla.net
@@ -117,11 +75,6 @@
 2400:cb00:2048:1::681c:193a static.uncyc.org
 2400:cb00:2048:1::681c:1109 ansaikuropedia.org
 
-## 华盟
-#2607:5300:60:12bb::ca50 camoe.org
-#2001:470:a:4d::2 g.camoe.org
-#2001:470:a:4d::2 g.camoe.net
-
 ## AT 奥地利
 ## Tor Project
 2620:0:6b0:b:1a1a:0:26e5:4810 torproject.org
@@ -137,14 +90,6 @@
 2001:dd8:8:701::244 www.apnic.net
 2001:dd8:9:2::101:34 wq.apnic.net
 2001:dc0:2001:11::205 submit.apnic.net
-
-## DE 德国
-#2002:c247:6b96::1 thepiratebay.se
-#2002:c247:6b96::1 www.thepiratebay.se
-#2002:c247:6b97::1 static.thepiratebay.se
-#2002:c247:6b96::1 thepiratebay.org
-#2002:c247:6b96::1 www.thepiratebay.org
-#2002:c247:6b97::1 static.thepiratebay.org
 
 ## FR 法国
 2a01:e0d:1:3:58bf:fa02:0:1 videolan.org
@@ -162,10 +107,6 @@
 
 ## PA 巴拿马
 2a02:29b8:1925::2 bitsnoop.com
-
-## SE 瑞典
-#2a00:1a28:1151:0:20c:29ff:feeb:294 torrage.com
-#2a00:1a28:1151:4::117:443 zoink.it
 
 ## IPv6/IPv4 转换代理
 ## DNS64 服务器：

@@ -30,10 +30,6 @@
 68.232.44.148 th08.deviantart.net #cs116.wac.edgecastcdn.net
 68.232.44.148 th09.deviantart.net #cs116.wac.edgecastcdn.net
 
-## DuckDuckGo
-46.51.216.186 duckduckgo.com
-54.254.135.171 icons.duckduckgo.com
-
 ## Dropbox
 108.160.165.139 www.dropbox.com #www.v.dropbox.com
 108.160.165.139 www.v.dropbox.com
@@ -46,6 +42,10 @@
 54.243.79.100 dl-balancer.x.dropbox.com
 54.225.184.81 dl.dropboxusercontent.com #duc-balancer.x.dropbox.com
 54.225.184.81 duc-balancer.x.dropbox.com
+
+## DuckDuckGo
+46.51.216.186 duckduckgo.com
+54.254.135.171 icons.duckduckgo.com
 
 ## EMI Music Publishing
 72.21.81.253 mpod.emimusicpub.com #ne.edgecastcdn.net

@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Thu, 25 Dec 2014 16:23:38 +0800                  |
+## |         Update : Fri, 26 Dec 2014 17:16:41 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -10789,6 +10789,9 @@
 68.232.45.67 ec-media.soundcloud.com #cs141.wpc.edgecastcdn.net
 68.232.46.220 ec-rtmp-media.soundcloud.com #gs1.fms45.edgecastcdn.net
 111.119.3.1 soundcloud.hs.llnwd.net
+
+## Squarespace
+68.232.44.138 static.squarespace.com #cs106.wac.edgecastcdn.net
 
 ## StackExchange/StackOverflow
 190.93.245.58 cdn.sstatic.net

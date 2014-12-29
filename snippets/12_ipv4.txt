@@ -78,6 +78,9 @@
 68.232.46.220 ec-rtmp-media.soundcloud.com #gs1.fms45.edgecastcdn.net
 111.119.3.1 soundcloud.hs.llnwd.net
 
+## Squarespace
+68.232.44.138 static.squarespace.com #cs106.wac.edgecastcdn.net
+
 ## StackExchange/StackOverflow
 190.93.245.58 cdn.sstatic.net
 

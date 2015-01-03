@@ -111,6 +111,7 @@
 199.16.158.10 www.twitter.com
 199.16.158.12 t.co
 199.96.57.6 cdn.api.twitter.com #platform.twitter.com.tw.map.fastly.net
+199.96.57.6 platform.twitter.com #platform.twitter.com.tw.map.fastly.net
 199.96.57.7 abs.twimg.com #wildcard.twimg.com.tw.map.fastly.net
 199.96.57.7 pbs.twimg.com #wildcard.twimg.com.tw.map.fastly.net
 199.96.57.7 a0.twimg.com #wildcard.twimg.com.tw.map.fastly.net

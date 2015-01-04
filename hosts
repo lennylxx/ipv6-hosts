@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Sun, 04 Jan 2015 14:18:08 +0800                  |
+## |         Update : Sun, 04 Jan 2015 14:19:32 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -9616,9 +9616,12 @@
 2a03:2880:2110:df07:face:b00c:0:1 4-edge-chat.facebook.com #star.c10r.facebook.com
 2a03:2880:2110:df07:face:b00c:0:1 5-edge-chat.facebook.com #star.c10r.facebook.com
 2a03:2880:2110:df07:face:b00c:0:1 6-edge-chat.facebook.com #star.c10r.facebook.com
+2a03:2880:2110:df07:face:b00c:0:1 api.facebook.com
 2a03:2880:2110:df07:face:b00c:0:1 api-read.facebook.com #star.c10r.facebook.com
 2a03:2880:2110:df07:face:b00c:0:1 apps.facebook.com #star.c10r.facebook.com
 2a03:2880:2110:df07:face:b00c:0:1 attachments.facebook.com #star.c10r.facebook.com
+2a03:2880:2110:df0c:face:b00c:0:1 b-api.facebook.com #z-m.facebook.com
+2a03:2880:2110:df0c:face:b00c:0:1 b-graph.facebook.com
 2a03:2880:2110:df07:face:b00c:0:1 check6.facebook.com #star.c10r.facebook.com
 2a03:2880:2110:df07:face:b00c:0:1 code.facebook.com #star.c10r.facebook.com
 2a03:2880:2110:df07:face:b00c:0:1 connect.facebook.com #star.c10r.facebook.com
@@ -9626,6 +9629,7 @@
 2a03:2880:2110:df07:face:b00c:0:1 graph.facebook.com #star.c10r.facebook.com
 2a03:2880:2110:df07:face:b00c:0:1 login.facebook.com #star.c10r.facebook.com
 2a03:2880:2110:df07:face:b00c:0:1 m.facebook.com #star.c10r.facebook.com
+2a03:2880:2020:6f03:face:b00c:0:1 mqtt.facebook.com #mqtt.vvv.facebook.com
 2a03:2880:2110:df07:face:b00c:0:1 pixel.facebook.com #star.c10r.facebook.com
 2a03:2880:2110:df07:face:b00c:0:1 star.facebook.com #star.c10r.facebook.com
 2a03:2880:2110:df07:face:b00c:0:1 upload.facebook.com #star.c10r.facebook.com
@@ -9655,12 +9659,38 @@
 2600:1406:28:181::d19 s-static.ak.fbcdn.net #e3353.dspe1.akamaiedge.net
 2600:1406:3::b81c:bce0 static.ak.fbcdn.net #a749.dsw4.akamai.net
 2600:1406:3::b81c:bcf0 vthumb.ak.fbcdn.net #a591.dspda2.akamai.net
-2a03:2880:f012:8:face:b00c:0:1 scontent-a.xx.fbcdn.net
+2a03:2880:f012:407:face:b00c:0:1 scontent-a.xx.fbcdn.net
 2a03:2880:f012:108:face:b00c:0:1 scontent-b.xx.fbcdn.net
+2a03:2880:f00c:608:face:b00c:0:1 scontent-a-sin.xx.fbcdn.net
+2a03:2880:f00c:508:face:b00c:0:1 scontent-b-sin.xx.fbcdn.net
 
 2600:1406:28::17d8:aca fbcdn-photos-a.akamaihd.net #a995.dspmm1.akamai.net
+2600:1406:28::17d8:ac3 fbcdn-photos-e-a.akamaihd.net #a1854.dspmm1.akamai.net
 2a02:26f0:38:1::5f64:ff9a fbcdn-profile-a.akamaihd.net #a2047.dspl.akamai.net
 2600:1406:1a::173d:c228 fbcdn-sphotos-a.akamaihd.net #a1001.dspw40.akamai.net
+2600:1406:1a::173d:c229 fbcdn-sphotos-b-a.akamaihd.net #a1402.dspw40.akamai.net
+2600:1406:1a::173d:c221 fbcdn-sphotos-c-a.akamaihd.net #a1003.dspw41.akamai.net
+2600:1406:1a::173d:c20b fbcdn-sphotos-d-a.akamaihd.net #a1404.dspw41.akamai.net
+2600:1409:a::173b:be21 fbcdn-sphotos-g-a.akamaihd.net #a1007.dspw43.akamai.net
+2600:1409:a::173b:be11 fbcdn-sphotos-h-a.akamaihd.net #a1408.dspw43.akamai.net
+2600:1409:a::b81b:b23b fbcdn-sphotos-f-a.akamaihd.net #a1406.dspw42.akamai.net
+2600:1406:3::b81c:bcfa fbcdn-video-a-a.akamaihd.net #a1281.dspda2.akamai.net
+2600:1406:3::b81c:bcd9 fbcdn-video-b-a.akamaihd.net #a1691.dspda2.akamai.net
+2600:1406:3::b81c:bcd2 fbcdn-video-c-a.akamaihd.net #a1372.dspda2.akamai.net
+2600:1406:3::b81c:bcf9 fbcdn-video-d-a.akamaihd.net #a1779.dspda2.akamai.net
+2600:1406:3::b81c:bcf0 fbcdn-video-e-a.akamaihd.net #a1125.dspda2.akamai.net
+2600:1406:3::b81c:bcfa fbcdn-video-f-a.akamaihd.net #a1923.dspda2.akamai.net
+2600:1406:3::b81c:bce1 fbcdn-video-g-a.akamaihd.net #a1960.dspda2.akamai.net
+2600:1406:3::b81c:bcda fbcdn-video-h-a.akamaihd.net #a1752.dspda2.akamai.net
+2600:1406:3::b81c:bcf3 fbcdn-video-i-a.akamaihd.net #a1882.dspda2.akamai.net
+2600:1406:3::b81c:bce0 fbcdn-video-j-a.akamaihd.net #a1439.dspda2.akamai.net
+2600:1406:3::b81c:bce8 fbcdn-video-k-a.akamaihd.net #a1475.dspda2.akamai.net
+2600:1406:3::b81c:bceb fbcdn-video-l-a.akamaihd.net #a1409.dspda2.akamai.net
+2600:1406:3::b81c:bcf9 fbcdn-video-m-a.akamaihd.net #a1261.dspda2.akamai.net
+2600:1406:3::b81c:bce3 fbcdn-video-n-a.akamaihd.net #a1318.dspda2.akamai.net
+2600:1406:3::addf:34f1 fbcdn-video-o-a.akamaihd.net #a1020.dspda2.akamai.net
+2600:1406:3::b81c:bce9 fbcdn-video-p-a.akamaihd.net #a1013.dspda2.akamai.net
+2600:1406:3::addf:34f2 fbcdn-vthumb-a.akamaihd.net #a591.dspda2.akamai.net
 2600:1406:3::b81c:bcea fbstatic-a.akamaihd.net #a1168.dsw4.akamai.net
 2600:1406:3::addf:34f3 fbexternal-a.akamaihd.net #a1531.dsw4.akamai.net
 2600:1406:3::b81c:bce2 fbcdn-creative-a.akamaihd.net #a1073.dsw4.akamai.net

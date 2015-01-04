@@ -610,9 +610,9 @@
 2001:4860:400b:c01::451 sandbox.google.com #sandbox.l.google.com
 
 ## Scholar 学术搜索
-#2404:6800:4008:c00::63 scholar.google.com
-#2404:6800:4008:c00::63 scholar.google.com.hk
-#2404:6800:4008:c00::63 scholar.google.com.tw
+2607:f8b0:4007:804::1002 scholar.google.com
+2607:f8b0:4007:804::1002 scholar.google.com.hk
+2607:f8b0:4007:804::1002 scholar.google.com.tw
 2001:4860:400b:c01::a0 scholar.google.cn #www.google.cn
 
 ## Sites 协作平台

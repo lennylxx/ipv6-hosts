@@ -90,7 +90,7 @@
 2607:f8b0:4007:804::1007 safebrowsing.cache.l.google.com
 2607:f8b0:4007:804::1006 sb.l.google.com
 2607:f8b0:4007:804::1004 sb-ssl.l.google.com
-#2404:6800:4008:c00::63 scholar.l.google.com
+2607:f8b0:4007:804::1002 scholar.l.google.com
 #2404:6800:4008:c00::66 sketchup.l.google.com
 2607:f8b0:4007:804::1005 spreadsheets.l.google.com
 2607:f8b0:4007:804::1003 spreadsheets-china.l.google.com

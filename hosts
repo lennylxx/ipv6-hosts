@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Sun, 04 Jan 2015 13:34:23 +0800                  |
+## |         Update : Sun, 04 Jan 2015 14:18:08 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -627,9 +627,9 @@
 2001:4860:400b:c01::451 sandbox.google.com #sandbox.l.google.com
 
 ## Scholar 学术搜索
-#2404:6800:4008:c00::63 scholar.google.com
-#2404:6800:4008:c00::63 scholar.google.com.hk
-#2404:6800:4008:c00::63 scholar.google.com.tw
+2607:f8b0:4007:804::1002 scholar.google.com
+2607:f8b0:4007:804::1002 scholar.google.com.hk
+2607:f8b0:4007:804::1002 scholar.google.com.tw
 2001:4860:400b:c01::a0 scholar.google.cn #www.google.cn
 
 ## Sites 协作平台
@@ -998,7 +998,7 @@
 2607:f8b0:4007:804::1007 safebrowsing.cache.l.google.com
 2607:f8b0:4007:804::1006 sb.l.google.com
 2607:f8b0:4007:804::1004 sb-ssl.l.google.com
-#2404:6800:4008:c00::63 scholar.l.google.com
+2607:f8b0:4007:804::1002 scholar.l.google.com
 #2404:6800:4008:c00::66 sketchup.l.google.com
 2607:f8b0:4007:804::1005 spreadsheets.l.google.com
 2607:f8b0:4007:804::1003 spreadsheets-china.l.google.com
@@ -2280,6 +2280,7 @@
 2607:f8b0:4007:804::100b doc-0s-as-docs.googleusercontent.com
 2607:f8b0:4007:804::100b doc-10-as-docs.googleusercontent.com
 2607:f8b0:4007:804::100b doc-14-as-docs.googleusercontent.com
+2607:f8b0:4007:804::100b doc-00-bg-docs.googleusercontent.com
 2607:f8b0:4007:804::100b doc-00-2g-3dwarehouse.googleusercontent.com
 2607:f8b0:4007:804::100b doc-04-2g-3dwarehouse.googleusercontent.com
 2607:f8b0:4007:804::100b doc-08-2g-3dwarehouse.googleusercontent.com
@@ -2302,8 +2303,9 @@
 2607:f8b0:4007:804::100b music-onebox.googleusercontent.com
 2607:f8b0:4007:804::100b oauth.googleusercontent.com
 2607:f8b0:4007:804::100b reader.googleusercontent.com
-2607:f8b0:4007:804::100b static.googleusercontent.com
+2607:f8b0:4007:804::100b s1.googleusercontent.com
 2607:f8b0:4007:804::100b s2.googleusercontent.com
+2607:f8b0:4007:804::100b static.googleusercontent.com
 2607:f8b0:4007:804::100b themes.googleusercontent.com
 2607:f8b0:4007:804::100b translate.googleusercontent.com
 2607:f8b0:4007:804::100b wave.googleusercontent.com

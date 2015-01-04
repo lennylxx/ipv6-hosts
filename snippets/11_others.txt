@@ -1,13 +1,17 @@
 ## Apple 苹果
 2600:140b:4:18c::c77 www.apple.com #e3191.dscc.akamaiedge.net
 
+## Blizzard Entertainment 暴雪娱乐
+2620:10b:9006:600:dad3:85ff:fed9:ce24 ipv6.blizzard.com
+
+## Gravatar
+2606:2800:220:bf1:95:a65:51f:1a94 0.gravatar.com #cs91.wac.edgecastcdn.net
+2606:2800:220:bf1:95:a65:51f:1a94 1.gravatar.com #cs91.wac.edgecastcdn.net
+
 ## Plurk
 #2607:f128:47::1:1 plurk.com
 #2607:f128:47::1:1 www.plurk.com
 2607:f128:47::1:1 ipv6.plurk.com
-
-# Blizzard Entertainment 暴雪娱乐
-2620:10b:9006:600:dad3:85ff:fed9:ce24 ipv6.blizzard.com
 
 ## 其他IPv6网站
 ## US 美国

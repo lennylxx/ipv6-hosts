@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Sun, 04 Jan 2015 13:31:24 +0800                  |
+## |         Update : Sun, 04 Jan 2015 13:34:23 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -9605,79 +9605,79 @@
 
 ## Facebook 脸谱网
 2a03:2880:2130:cf05:face:b00c:0:1 facebook.com
-2a03:2880:2050:3f07:face:b00c:0:1 www.facebook.com #star.c10r.facebook.com
-2a03:2880:2130:cf05:face:b00c:0:1 edge-chat.facebook.com #star.c10r.facebook.com
-2a03:2880:2130:cf05:face:b00c:0:1 0-edge-chat.facebook.com #star.c10r.facebook.com
-2a03:2880:2130:cf05:face:b00c:0:1 1-edge-chat.facebook.com #star.c10r.facebook.com
-2a03:2880:2130:cf05:face:b00c:0:1 2-edge-chat.facebook.com #star.c10r.facebook.com
-2a03:2880:2130:cf05:face:b00c:0:1 3-edge-chat.facebook.com #star.c10r.facebook.com
-2a03:2880:2130:cf05:face:b00c:0:1 4-edge-chat.facebook.com #star.c10r.facebook.com
-2a03:2880:2130:cf05:face:b00c:0:1 5-edge-chat.facebook.com #star.c10r.facebook.com
-2a03:2880:2130:cf05:face:b00c:0:1 6-edge-chat.facebook.com #star.c10r.facebook.com
-2a03:2880:2050:3f07:face:b00c:0:1 api-read.facebook.com #star.c10r.facebook.com
-2a03:2880:2050:3f07:face:b00c:0:1 apps.facebook.com #star.c10r.facebook.com
-2a03:2880:2050:3f07:face:b00c:0:1 attachments.facebook.com #star.c10r.facebook.com
-2a03:2880:2050:3f07:face:b00c:0:1 check6.facebook.com #star.c10r.facebook.com
-2a03:2880:2050:3f07:face:b00c:0:1 code.facebook.com #star.c10r.facebook.com
-2a03:2880:2050:3f07:face:b00c:0:1 connect.facebook.com #star.c10r.facebook.com
-2a03:2880:2050:3f07:face:b00c:0:1 developers.facebook.com #star.c10r.facebook.com
-2a03:2880:2050:3f07:face:b00c:0:1 graph.facebook.com #star.c10r.facebook.com
-2a03:2880:2050:3f07:face:b00c:0:1 login.facebook.com #star.c10r.facebook.com
-2a03:2880:2050:3f07:face:b00c:0:1 m.facebook.com #star.c10r.facebook.com
-2a03:2880:2050:3f07:face:b00c:0:1 pixel.facebook.com #star.c10r.facebook.com
-2a03:2880:2050:3f07:face:b00c:0:1 star.facebook.com #star.c10r.facebook.com
-2a03:2880:2050:3f07:face:b00c:0:1 upload.facebook.com #star.c10r.facebook.com
-2a03:2880:2050:3f07:face:b00c:0:1 zh-cn.facebook.com #star.c10r.facebook.com
-2a03:2880:2050:3f07:face:b00c:0:1 zh-tw.facebook.com #star.c10r.facebook.com
-2a03:2880:2050:3f07:face:b00c:0:1 star.c10r.facebook.com
-2a03:2880:2020:7f08:face:b00c:0:1 vupload.facebook.com #vupload2.vvv.facebook.com
-2a03:2880:2020:7f08:face:b00c:0:1 vupload2.vvv.facebook.com
+2a03:2880:2110:df07:face:b00c:0:1 www.facebook.com #star.c10r.facebook.com
+2a03:2880:2110:df07:face:b00c:0:1 edge-chat.facebook.com #star.c10r.facebook.com
+2a03:2880:2110:df07:face:b00c:0:1 0-edge-chat.facebook.com #star.c10r.facebook.com
+2a03:2880:2110:df07:face:b00c:0:1 1-edge-chat.facebook.com #star.c10r.facebook.com
+2a03:2880:2110:df07:face:b00c:0:1 2-edge-chat.facebook.com #star.c10r.facebook.com
+2a03:2880:2110:df07:face:b00c:0:1 3-edge-chat.facebook.com #star.c10r.facebook.com
+2a03:2880:2110:df07:face:b00c:0:1 4-edge-chat.facebook.com #star.c10r.facebook.com
+2a03:2880:2110:df07:face:b00c:0:1 5-edge-chat.facebook.com #star.c10r.facebook.com
+2a03:2880:2110:df07:face:b00c:0:1 6-edge-chat.facebook.com #star.c10r.facebook.com
+2a03:2880:2110:df07:face:b00c:0:1 api-read.facebook.com #star.c10r.facebook.com
+2a03:2880:2110:df07:face:b00c:0:1 apps.facebook.com #star.c10r.facebook.com
+2a03:2880:2110:df07:face:b00c:0:1 attachments.facebook.com #star.c10r.facebook.com
+2a03:2880:2110:df07:face:b00c:0:1 check6.facebook.com #star.c10r.facebook.com
+2a03:2880:2110:df07:face:b00c:0:1 code.facebook.com #star.c10r.facebook.com
+2a03:2880:2110:df07:face:b00c:0:1 connect.facebook.com #star.c10r.facebook.com
+2a03:2880:2110:df07:face:b00c:0:1 developers.facebook.com
+2a03:2880:2110:df07:face:b00c:0:1 graph.facebook.com #star.c10r.facebook.com
+2a03:2880:2110:df07:face:b00c:0:1 login.facebook.com #star.c10r.facebook.com
+2a03:2880:2110:df07:face:b00c:0:1 m.facebook.com #star.c10r.facebook.com
+2a03:2880:2110:df07:face:b00c:0:1 pixel.facebook.com #star.c10r.facebook.com
+2a03:2880:2110:df07:face:b00c:0:1 star.facebook.com #star.c10r.facebook.com
+2a03:2880:2110:df07:face:b00c:0:1 upload.facebook.com #star.c10r.facebook.com
+2a03:2880:2110:df07:face:b00c:0:1 zh-cn.facebook.com #star.c10r.facebook.com
+2a03:2880:2110:df07:face:b00c:0:1 zh-tw.facebook.com #star.c10r.facebook.com
+2a03:2880:2110:df07:face:b00c:0:1 star.c10r.facebook.com
+2a03:2880:10:af09:face:b00c:0:1 vupload.facebook.com #vupload2.vvv.facebook.com
+2a03:2880:10:af09:face:b00c:0:1 vupload2.vvv.facebook.com
 2a03:2880:2110:6f00:face:b00c:0:1 apps.v6.facebook.com #v6.vvv.facebook.com
 2a03:2880:2110:6f00:face:b00c:0:1 m.v6.facebook.com #v6.vvv.facebook.com
 2a03:2880:2110:6f00:face:b00c:0:1 pixel.v6.facebook.com #v6.vvv.facebook.com
 2a03:2880:2110:6f00:face:b00c:0:1 www.v6.facebook.com #v6.vvv.facebook.com
 2a03:2880:2110:6f00:face:b00c:0:1 v6.vvv.facebook.com
-2a03:2880:2050:1f08:face:b00c:0:1 attachment.fbsbx.com #star.c10r.facebook.com
-2600:140b:11::45c0:489 static.ak.facebook.com #a749.dsw4.akamai.net
-2600:140b:4:193::236 s-static.ak.facebook.com #e566.dspe1.akamaiedge.net
+2a03:2880:2110:df07:face:b00c:0:1 attachment.fbsbx.com #star.c10r.facebook.com
+2600:1406:3::b81c:bce0 static.ak.facebook.com #a749.dsw4.akamai.net
+2600:1406:28:19f::236 s-static.ak.facebook.com #e566.dspe1.akamaiedge.net
 2610:d0:face::9 www.lisp6.facebook.com
 2610:d0:face::9 m.lisp6.facebook.com #www.lisp6.facebook.com
 
 ## fbcdn.net
-2600:140b:4:1b3::eed connect.facebook.net #e3821.dspe1.akamaiedge.net
-2600:140b:11::45c0:47a creative.ak.fbcdn.net #a34.dsw4.akamai.net
-2600:140b:11::45c0:492 external.ak.fbcdn.net #a1920.dsw4.akamai.net
-2600:140b:11::45c0:462 platform.ak.fbcdn.net #a1814.dsw4.akamai.net
-2600:140b:12::48f6:bdfb profile.ak.fbcdn.net #a2047.dspl.akamai.net
-2600:140b:4:197::38a s-external.ak.fbcdn.net #e906.dspe1.akamaiedge.net
-2600:140b:4:1b6::d19 s-static.ak.fbcdn.net #e3353.dspe1.akamaiedge.net
-2600:140b:11::45c0:489 static.ak.fbcdn.net #a749.dsw4.akamai.net
-2600:1417:2d::781d:9109 vthumb.ak.fbcdn.net #a591.dspda2.akamai.net
-2a03:2880:f000:8:face:b00c:0:1 scontent-a.xx.fbcdn.net
-2a03:2880:f000:8:face:b00c:0:1 scontent-b.xx.fbcdn.net
+2600:1406:28:18f::eed connect.facebook.net #e3821.dspe1.akamaiedge.net
+2600:1406:3::b81c:bcea creative.ak.fbcdn.net #a34.dsw4.akamai.net
+2600:1406:3::b81c:bceb external.ak.fbcdn.net #a1920.dsw4.akamai.net
+2600:1406:3::b81c:bcea platform.ak.fbcdn.net #a1814.dsw4.akamai.net
+2a02:26f0:38:1::5f64:ff9a profile.ak.fbcdn.net #a2047.dspl.akamai.net
+2600:1406:28:19f::38a s-external.ak.fbcdn.net #e906.dspe1.akamaiedge.net
+2600:1406:28:181::d19 s-static.ak.fbcdn.net #e3353.dspe1.akamaiedge.net
+2600:1406:3::b81c:bce0 static.ak.fbcdn.net #a749.dsw4.akamai.net
+2600:1406:3::b81c:bcf0 vthumb.ak.fbcdn.net #a591.dspda2.akamai.net
+2a03:2880:f012:8:face:b00c:0:1 scontent-a.xx.fbcdn.net
+2a03:2880:f012:108:face:b00c:0:1 scontent-b.xx.fbcdn.net
 
-2001:218:3000:4::7568:8a18 fbcdn-photos-a.akamaihd.net #a995.dspmm1.akamai.net
-2600:140b:12::48f6:bddb fbcdn-profile-a.akamaihd.net #a2047.dspl.akamai.net
-2600:140b:12::48f6:bda9 fbcdn-sphotos-a.akamaihd.net #a1001.dspw40.akamai.net
-2600:140b:2:4::7d38:c968 fbstatic-a.akamaihd.net #a1168.dsw4.akamai.net
-2600:140b:2:4::7d38:da08 fbexternal-a.akamaihd.net #a1531.dsw4.akamai.net
-2600:140b:2:4::7d38:c971 fbcdn-creative-a.akamaihd.net #a1073.dsw4.akamai.net
+2600:1406:28::17d8:aca fbcdn-photos-a.akamaihd.net #a995.dspmm1.akamai.net
+2a02:26f0:38:1::5f64:ff9a fbcdn-profile-a.akamaihd.net #a2047.dspl.akamai.net
+2600:1406:1a::173d:c228 fbcdn-sphotos-a.akamaihd.net #a1001.dspw40.akamai.net
+2600:1406:3::b81c:bcea fbstatic-a.akamaihd.net #a1168.dsw4.akamai.net
+2600:1406:3::addf:34f3 fbexternal-a.akamaihd.net #a1531.dsw4.akamai.net
+2600:1406:3::b81c:bce2 fbcdn-creative-a.akamaihd.net #a1073.dsw4.akamai.net
 
-2001:218:3000:4::7568:8a09 photos-a.ak.fbcdn.net #a995.dspmm1.akamai.net
-2001:218:3000:4::7568:8a13 photos-b.ak.fbcdn.net #a996.dspmm1.akamai.net
-2001:218:3000:4::7568:8a21 photos-c.ak.fbcdn.net #a997.dspmm1.akamai.net
-2001:218:3000:4::7568:8a18 photos-e.ak.fbcdn.net #a995.dspmm1.akamai.net
-2001:218:3000:4::7568:8a0a photos-f.ak.fbcdn.net #a996.dspmm1.akamai.net
-2001:218:3000:4::7568:8a22 photos-g.ak.fbcdn.net #a997.dspmm1.akamai.net
-2001:218:3000:4::7568:8a10 photos-h.ak.fbcdn.net #a998.dspmm1.akamai.net
-2600:140b:12::48f6:bda1 a1.sphotos.ak.fbcdn.net #a1001.dspw40.akamai.net
-2600:140b:12::48f6:bdd1 a2.sphotos.ak.fbcdn.net #a1402.dspw40.akamai.net
-2600:140b:12::48f6:bd93 a3.sphotos.ak.fbcdn.net #a1003.dspw41.akamai.net
-2600:140b:12::48f6:bdbb a4.sphotos.ak.fbcdn.net #a1404.dspw41.akamai.net
-2600:140b:12::48f6:bda1 a5.sphotos.ak.fbcdn.net #a1005.dspw42.akamai.net
-2600:140b:12::48f6:bd81 a6.sphotos.ak.fbcdn.net #a1406.dspw42.akamai.net
-2600:140b:12::48f6:bd82 a7.sphotos.ak.fbcdn.net #a1007.dspw43.akamai.net
-2600:140b:12::48f6:bd83 a8.sphotos.ak.fbcdn.net #a1408.dspw43.akamai.net
+2600:1406:28::17d8:aca photos-a.ak.fbcdn.net #a995.dspmm1.akamai.net
+2600:1406:28::17d8:ab1 photos-b.ak.fbcdn.net #a996.dspmm1.akamai.net
+2600:1406:28::17d8:ab1 photos-c.ak.fbcdn.net #a997.dspmm1.akamai.net
+2600:1406:28::17d8:aca photos-e.ak.fbcdn.net #a995.dspmm1.akamai.net
+2600:1406:28::17d8:ab1 photos-f.ak.fbcdn.net #a996.dspmm1.akamai.net
+2600:1406:28::17d8:ab1 photos-g.ak.fbcdn.net #a997.dspmm1.akamai.net
+2600:1406:28::17d8:ac0 photos-h.ak.fbcdn.net #a998.dspmm1.akamai.net
+2600:1406:1a::173d:c228 a1.sphotos.ak.fbcdn.net #a1001.dspw40.akamai.net
+2600:1406:1a::173d:c220 a2.sphotos.ak.fbcdn.net #a1402.dspw40.akamai.net
+2600:1406:1a::173d:c221 a3.sphotos.ak.fbcdn.net #a1003.dspw41.akamai.net
+2600:1406:1a::173d:c211 a4.sphotos.ak.fbcdn.net #a1404.dspw41.akamai.net
+2600:1409:a::b81b:b241 a5.sphotos.ak.fbcdn.net #a1005.dspw42.akamai.net
+2600:1409:a::b81b:b220 a6.sphotos.ak.fbcdn.net #a1406.dspw42.akamai.net
+2600:1409:a::173b:be10 a7.sphotos.ak.fbcdn.net #a1007.dspw43.akamai.net
+2600:1409:a::173b:be13 a8.sphotos.ak.fbcdn.net #a1408.dspw43.akamai.net
 
 ## WikiMedia 维基媒体
 #2620:0:860:2:21d:9ff:fe33:f235 static.wikipedia.org #hume.wikimedia.org

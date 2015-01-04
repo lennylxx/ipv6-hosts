@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Sun, 04 Jan 2015 14:19:32 +0800                  |
+## |         Update : Sun, 04 Jan 2015 15:16:36 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -23,6 +23,7 @@
 2607:f8b0:4007:804::1012 www.google.com
 2607:f8b0:4007:804::1002 admin.google.com
 2607:f8b0:4007:807::200d accounts.google.com #accounts.l.google.com
+2607:f8b0:4007:804::1007 bpui0.google.com #www3.l.google.com
 2607:f8b0:4007:804::1002 clients1.google.com #clients.l.google.com
 2607:f8b0:4007:804::1002 clients2.google.com #clients.l.google.com
 2607:f8b0:4007:804::1002 clients3.google.com #clients.l.google.com
@@ -36,16 +37,19 @@
 2607:f8b0:4007:804::1000 encrypted-tbn3.google.com #encrypted-tbn.l.google.com
 2607:f8b0:4007:804::1007 goto.google.com #www3.l.google.com
 2607:f8b0:4007:804::1007 gxc.google.com #www3.l.google.com
+2001:4860:400b:c01::66 history.google.com #history.l.google.com
 2607:f8b0:4007:804::1007 investor.google.com #www3.l.google.com
 2607:f8b0:4007:804::1005 ipv6.google.com #ipv6.l.google.com
 2607:f8b0:4007:804::1007 jmt0.google.com #www3.l.google.com
 2607:f8b0:4007:804::1002 linkhelp.clients.google.com #clients.l.google.com
+2607:f8b0:4007:804::1002 upload.clients.google.com #clients.l.google.com
 2607:f8b0:4007:807::200b m.google.com #mobile.l.google.com
 2607:f8b0:4007:807::200b mobile.google.com #mobile.l.google.com
 2607:f8b0:4007:804::1007 pki.google.com #www3.l.google.com
 2607:f8b0:4007:804::1007 services.google.com #www3.l.google.com
 2607:f8b0:4007:804::1006 suggestqueries.google.com #suggestqueries.l.google.com
 2607:f8b0:4007:804::1007 support.google.com #www3.l.google.com
+2001:4860:400b:c01::74 upload.google.com #large-uploads.l.google.com
 2607:f8b0:4007:804::1004 client-channel.google.com
 2001:4860:400b:c01::bd *.client-channel.google.com
 2001:4860:400b:c01::bd 0.client-channel.google.com
@@ -318,6 +322,7 @@
 2607:f8b0:4007:804::1007 dir.google.com #www3.l.google.com
 
 ## Docs 文档
+2607:f8b0:4007:804::100c googledrive.com
 2607:f8b0:4007:804::1002 docs.google.com
 2607:f8b0:4007:804::1000 drive.google.com
 2607:f8b0:4007:804::1007 docs0.google.com #www3.l.google.com
@@ -332,6 +337,7 @@
 2607:f8b0:4007:804::1007 docs9.google.com #www3.l.google.com
 2607:f8b0:4007:804::1007 writely.google.com #www3.l.google.com
 2001:4860:400b:c01::74 upload.docs.google.com #large-uploads.l.google.com
+2001:4860:400b:c01::74 upload.drive.google.com #large-uploads.l.google.com
 2001:4860:400b:c01::bd *.docs.google.com #browserchannel-docs.l.google.com
 2001:4860:400b:c01::bd *.drive.google.com #browserchannel-docs.l.google.com
 2001:4860:400b:c01::bd 0.docs.google.com
@@ -603,6 +609,7 @@
 2607:f8b0:4007:804::1002 lh4.google.com #lh2.l.google.com
 2607:f8b0:4007:804::1002 lh5.google.com #lh2.l.google.com
 2607:f8b0:4007:804::1002 lh6.google.com #lh2.l.google.com
+2001:4860:400b:c01::74 upload.photos.google.com #large-uploads.l.google.com
 
 ## Profiles 个人主页
 2607:f8b0:4007:804::1005 profiles.google.com
@@ -612,6 +619,8 @@
 2607:f8b0:4007:804::1007 plus.url.google.com #www3.l.google.com
 #2404:6800:4008:c00::8a plus.url.google.com.hk #实际上不存在的域名
 2607:f8b0:4007:804::1007 developers.google.com #www3.l.google.com
+2607:f8b0:4007:804::1007 cloudssh.developers.google.com #www3.l.google.com
+2001:4860:400b:c01::52 source.developers.google.com
 
 ## Reader 阅读器
 2607:f8b0:4007:804::1012 reader.google.com #www2.l.google.com
@@ -620,6 +629,7 @@
 2607:f8b0:4007:804::1006 sb.google.com #sb.l.google.com
 2607:f8b0:4007:804::1004 sb-ssl.google.com #sb-ssl.l.google.com
 2607:f8b0:4007:804::1006 safebrowsing.google.com #sb.l.google.com
+2607:f8b0:4012:806::1000 alt1-safebrowsing.google.com
 2607:f8b0:4007:804::1002 safebrowsing.clients.google.com #clients.l.google.com
 2607:f8b0:4007:804::1007 safebrowsing-cache.google.com #safebrowsing.cache.l.google.com
 
@@ -959,6 +969,7 @@
 2001:4860:400b:c01::10 googlemail-pop.l.google.com
 2001:4860:400b:c01::10 googlemail-smtp.l.google.com
 2001:4860:400b:c01::8a groups.l.google.com
+2001:4860:400b:c01::66 history.l.google.com
 2607:f8b0:4007:804::100f id.l.google.com
 2607:f8b0:4007:804::1002 images.l.google.com
 #2404:6800:4008:c00::63 ipv4.l.google.com
@@ -2212,8 +2223,14 @@
 2001:4860:400b:c01::80 storage.l.googleusercontent.com
 2607:f8b0:4007:804::100b storage-ugc.l.googleusercontent.com
 2607:f8b0:4007:804::100b www-blogger-opensocial.googleusercontent.com
+2607:f8b0:4007:804::100b books.googleusercontent.com
+2607:f8b0:4007:804::100b blogger.googleusercontent.com
 2607:f8b0:4007:804::100b clients1.googleusercontent.com
 2607:f8b0:4007:804::100b clients2.googleusercontent.com
+2607:f8b0:4007:804::100b clients4.googleusercontent.com
+2607:f8b0:4007:804::100b clients5.googleusercontent.com
+2607:f8b0:4007:804::100b clients6.googleusercontent.com
+2607:f8b0:4007:804::100b code-opensocial.googleusercontent.com
 2607:f8b0:4007:804::100b doc-00-1k-docs.googleusercontent.com
 2607:f8b0:4007:804::100b doc-00-1o-docs.googleusercontent.com
 2607:f8b0:4007:804::100b doc-04-1o-docs.googleusercontent.com
@@ -2292,7 +2309,29 @@
 2607:f8b0:4007:804::100b doc-10-2g-3dwarehouse.googleusercontent.com
 2607:f8b0:4007:804::100b doc-14-2g-3dwarehouse.googleusercontent.com
 2607:f8b0:4007:804::100b feedback.googleusercontent.com
-2607:f8b0:4007:804::100b mail-attachment.googleusercontent.com
+2607:f8b0:4007:804::100b images1-esmobile-opensocial.googleusercontent.com
+2607:f8b0:4007:804::100b images2-esmobile-opensocial.googleusercontent.com
+2607:f8b0:4007:804::100b images3-esmobile-opensocial.googleusercontent.com
+2607:f8b0:4007:804::100b images4-esmobile-opensocial.googleusercontent.com
+2607:f8b0:4007:804::100b images5-esmobile-opensocial.googleusercontent.com
+2607:f8b0:4007:804::100b images6-esmobile-opensocial.googleusercontent.com
+2607:f8b0:4007:804::100b images7-esmobile-opensocial.googleusercontent.com
+2607:f8b0:4007:804::100b images8-esmobile-opensocial.googleusercontent.com
+2607:f8b0:4007:804::100b images9-esmobile-opensocial.googleusercontent.com
+2607:f8b0:4007:804::100b images1-hangout-opensocial.googleusercontent.com
+2607:f8b0:4007:804::100b images2-hangout-opensocial.googleusercontent.com
+2607:f8b0:4007:804::100b images3-hangout-opensocial.googleusercontent.com
+2607:f8b0:4007:804::100b images4-hangout-opensocial.googleusercontent.com
+2607:f8b0:4007:804::100b images5-hangout-opensocial.googleusercontent.com
+2607:f8b0:4007:804::100b images6-hangout-opensocial.googleusercontent.com
+2607:f8b0:4007:804::100b images7-hangout-opensocial.googleusercontent.com
+2607:f8b0:4007:804::100b images8-hangout-opensocial.googleusercontent.com
+2607:f8b0:4007:804::100b images9-hangout-opensocial.googleusercontent.com
+2607:f8b0:4007:804::100b images-docs-opensocial.googleusercontent.com
+2607:f8b0:4007:804::100b images-oz-opensocial.googleusercontent.com
+2607:f8b0:4007:804::100b images-lso-opensocial.googleusercontent.com
+2607:f8b0:4007:804::100b images-blogger-opensocial.googleusercontent.com
+2607:f8b0:4007:804::100b images-pos-opensocial.googleusercontent.com
 2607:f8b0:4007:804::100b lh0.googleusercontent.com
 2607:f8b0:4007:804::100b lh1.googleusercontent.com
 2607:f8b0:4007:804::100b lh2.googleusercontent.com
@@ -2300,14 +2339,20 @@
 2607:f8b0:4007:804::100b lh4.googleusercontent.com
 2607:f8b0:4007:804::100b lh5.googleusercontent.com
 2607:f8b0:4007:804::100b lh6.googleusercontent.com
+2607:f8b0:4007:804::100b mail-attachment.googleusercontent.com
+2607:f8b0:4007:804::100b music.googleusercontent.com
 2607:f8b0:4007:804::100b music-onebox.googleusercontent.com
+2607:f8b0:4007:804::100b newsstand.googleusercontent.com
 2607:f8b0:4007:804::100b oauth.googleusercontent.com
+2607:f8b0:4007:804::100b producer.googleusercontent.com
 2607:f8b0:4007:804::100b reader.googleusercontent.com
 2607:f8b0:4007:804::100b s1.googleusercontent.com
 2607:f8b0:4007:804::100b s2.googleusercontent.com
+2607:f8b0:4007:804::100b spreadsheets-opensocial.googleusercontent.com
 2607:f8b0:4007:804::100b static.googleusercontent.com
 2607:f8b0:4007:804::100b themes.googleusercontent.com
 2607:f8b0:4007:804::100b translate.googleusercontent.com
+2607:f8b0:4007:804::100b video.googleusercontent.com
 2607:f8b0:4007:804::100b wave.googleusercontent.com
 2607:f8b0:4007:804::100b webcache.googleusercontent.com
 2607:f8b0:4007:804::100b ytimg.googleusercontent.com

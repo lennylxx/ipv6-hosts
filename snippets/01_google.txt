@@ -6,6 +6,7 @@
 2607:f8b0:4007:804::1012 www.google.com
 2607:f8b0:4007:804::1002 admin.google.com
 2607:f8b0:4007:807::200d accounts.google.com #accounts.l.google.com
+2607:f8b0:4007:804::1007 bpui0.google.com #www3.l.google.com
 2607:f8b0:4007:804::1002 clients1.google.com #clients.l.google.com
 2607:f8b0:4007:804::1002 clients2.google.com #clients.l.google.com
 2607:f8b0:4007:804::1002 clients3.google.com #clients.l.google.com
@@ -19,16 +20,19 @@
 2607:f8b0:4007:804::1000 encrypted-tbn3.google.com #encrypted-tbn.l.google.com
 2607:f8b0:4007:804::1007 goto.google.com #www3.l.google.com
 2607:f8b0:4007:804::1007 gxc.google.com #www3.l.google.com
+2001:4860:400b:c01::66 history.google.com #history.l.google.com
 2607:f8b0:4007:804::1007 investor.google.com #www3.l.google.com
 2607:f8b0:4007:804::1005 ipv6.google.com #ipv6.l.google.com
 2607:f8b0:4007:804::1007 jmt0.google.com #www3.l.google.com
 2607:f8b0:4007:804::1002 linkhelp.clients.google.com #clients.l.google.com
+2607:f8b0:4007:804::1002 upload.clients.google.com #clients.l.google.com
 2607:f8b0:4007:807::200b m.google.com #mobile.l.google.com
 2607:f8b0:4007:807::200b mobile.google.com #mobile.l.google.com
 2607:f8b0:4007:804::1007 pki.google.com #www3.l.google.com
 2607:f8b0:4007:804::1007 services.google.com #www3.l.google.com
 2607:f8b0:4007:804::1006 suggestqueries.google.com #suggestqueries.l.google.com
 2607:f8b0:4007:804::1007 support.google.com #www3.l.google.com
+2001:4860:400b:c01::74 upload.google.com #large-uploads.l.google.com
 2607:f8b0:4007:804::1004 client-channel.google.com
 2001:4860:400b:c01::bd *.client-channel.google.com
 2001:4860:400b:c01::bd 0.client-channel.google.com
@@ -301,6 +305,7 @@
 2607:f8b0:4007:804::1007 dir.google.com #www3.l.google.com
 
 ## Docs 文档
+2607:f8b0:4007:804::100c googledrive.com
 2607:f8b0:4007:804::1002 docs.google.com
 2607:f8b0:4007:804::1000 drive.google.com
 2607:f8b0:4007:804::1007 docs0.google.com #www3.l.google.com
@@ -315,6 +320,7 @@
 2607:f8b0:4007:804::1007 docs9.google.com #www3.l.google.com
 2607:f8b0:4007:804::1007 writely.google.com #www3.l.google.com
 2001:4860:400b:c01::74 upload.docs.google.com #large-uploads.l.google.com
+2001:4860:400b:c01::74 upload.drive.google.com #large-uploads.l.google.com
 2001:4860:400b:c01::bd *.docs.google.com #browserchannel-docs.l.google.com
 2001:4860:400b:c01::bd *.drive.google.com #browserchannel-docs.l.google.com
 2001:4860:400b:c01::bd 0.docs.google.com
@@ -586,6 +592,7 @@
 2607:f8b0:4007:804::1002 lh4.google.com #lh2.l.google.com
 2607:f8b0:4007:804::1002 lh5.google.com #lh2.l.google.com
 2607:f8b0:4007:804::1002 lh6.google.com #lh2.l.google.com
+2001:4860:400b:c01::74 upload.photos.google.com #large-uploads.l.google.com
 
 ## Profiles 个人主页
 2607:f8b0:4007:804::1005 profiles.google.com
@@ -595,6 +602,8 @@
 2607:f8b0:4007:804::1007 plus.url.google.com #www3.l.google.com
 #2404:6800:4008:c00::8a plus.url.google.com.hk #实际上不存在的域名
 2607:f8b0:4007:804::1007 developers.google.com #www3.l.google.com
+2607:f8b0:4007:804::1007 cloudssh.developers.google.com #www3.l.google.com
+2001:4860:400b:c01::52 source.developers.google.com
 
 ## Reader 阅读器
 2607:f8b0:4007:804::1012 reader.google.com #www2.l.google.com
@@ -603,6 +612,7 @@
 2607:f8b0:4007:804::1006 sb.google.com #sb.l.google.com
 2607:f8b0:4007:804::1004 sb-ssl.google.com #sb-ssl.l.google.com
 2607:f8b0:4007:804::1006 safebrowsing.google.com #sb.l.google.com
+2607:f8b0:4012:806::1000 alt1-safebrowsing.google.com
 2607:f8b0:4007:804::1002 safebrowsing.clients.google.com #clients.l.google.com
 2607:f8b0:4007:804::1007 safebrowsing-cache.google.com #safebrowsing.cache.l.google.com
 

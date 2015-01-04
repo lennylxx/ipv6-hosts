@@ -51,6 +51,7 @@
 2001:4860:400b:c01::10 googlemail-pop.l.google.com
 2001:4860:400b:c01::10 googlemail-smtp.l.google.com
 2001:4860:400b:c01::8a groups.l.google.com
+2001:4860:400b:c01::66 history.l.google.com
 2607:f8b0:4007:804::100f id.l.google.com
 2607:f8b0:4007:804::1002 images.l.google.com
 #2404:6800:4008:c00::63 ipv4.l.google.com

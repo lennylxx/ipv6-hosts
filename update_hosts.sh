@@ -20,11 +20,12 @@ if [ -f $new_hosts_file ]; then
 fi
 
 he_net="2001:470:20::2"
+lax1_he_net="2001:470:0:9d::2"
 google_a="2001:4860:4860::8888"
 google_b="2001:4860:4860::8844"
 jp="203.112.2.4"
 
-dns=$jp
+dns=$lax1_he_net
 
 blackhole=(
 '10::2222'

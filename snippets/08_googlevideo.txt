@@ -3206,6 +3206,12 @@
 2607:f8b0:4004:2::a r4---sn-p5qlsnsk.googlevideo.com
 2607:f8b0:4004:2::b r5---sn-p5qlsnsk.googlevideo.com
 2607:f8b0:4004:2::c r6---sn-p5qlsnsk.googlevideo.com
+2607:f8b0:4004:3::7 r1---sn-p5qlsnsr.googlevideo.com
+2607:f8b0:4004:3::8 r2---sn-p5qlsnsr.googlevideo.com
+2607:f8b0:4004:3::9 r3---sn-p5qlsnsr.googlevideo.com
+2607:f8b0:4004:3::a r4---sn-p5qlsnsr.googlevideo.com
+2607:f8b0:4004:3::b r5---sn-p5qlsnsr.googlevideo.com
+2607:f8b0:4004:3::c r6---sn-p5qlsnsr.googlevideo.com
 2607:f8b0:4004:8::6 r1---sn-p5qlsn7e.googlevideo.com
 2607:f8b0:4004:8::7 r2---sn-p5qlsn7e.googlevideo.com
 2607:f8b0:4004:8::8 r3---sn-p5qlsn7e.googlevideo.com
@@ -7270,6 +7276,27 @@
 2a00:1450:4008:9::17 r18---sn-cxg7enes.googlevideo.com
 2a00:1450:4008:9::18 r19---sn-cxg7enes.googlevideo.com
 2a00:1450:4008:9::19 r20---sn-cxg7enes.googlevideo.com
+
+2a00:1450:4009:32::6 r1---sn-aigllnls.googlevideo.com
+2a00:1450:4009:32::7 r2---sn-aigllnls.googlevideo.com
+2a00:1450:4009:32::8 r3---sn-aigllnls.googlevideo.com
+2a00:1450:4009:32::9 r4---sn-aigllnls.googlevideo.com
+2a00:1450:4009:32::a r5---sn-aigllnls.googlevideo.com
+2a00:1450:4009:32::b r6---sn-aigllnls.googlevideo.com
+2a00:1450:4009:32::c r7---sn-aigllnls.googlevideo.com
+2a00:1450:4009:32::d r8---sn-aigllnls.googlevideo.com
+2a00:1450:4009:32::e r9---sn-aigllnls.googlevideo.com
+2a00:1450:4009:32::f r10---sn-aigllnls.googlevideo.com
+2a00:1450:4009:32::10 r11---sn-aigllnls.googlevideo.com
+2a00:1450:4009:32::11 r12---sn-aigllnls.googlevideo.com
+2a00:1450:4009:32::12 r13---sn-aigllnls.googlevideo.com
+2a00:1450:4009:32::13 r14---sn-aigllnls.googlevideo.com
+2a00:1450:4009:32::14 r15---sn-aigllnls.googlevideo.com
+2a00:1450:4009:32::15 r16---sn-aigllnls.googlevideo.com
+2a00:1450:4009:32::16 r17---sn-aigllnls.googlevideo.com
+2a00:1450:4009:32::17 r18---sn-aigllnls.googlevideo.com
+2a00:1450:4009:32::18 r19---sn-aigllnls.googlevideo.com
+2a00:1450:4009:32::19 r20---sn-aigllnls.googlevideo.com
 
 2a00:1450:400e:400::10 r1---sn-5hn7su7e.googlevideo.com
 2a00:1450:400e:400::11 r2---sn-5hn7su7e.googlevideo.com

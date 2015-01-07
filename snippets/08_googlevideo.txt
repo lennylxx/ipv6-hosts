@@ -14,6 +14,7 @@
 2607:f8b0:4007:804::1007 video-stats.video.google.com #video-stats.l.google.com
 2607:f8b0:4007:804::1003 manifest.googlevideo.com
 
+## c.youtube.com和googlevideo.com指向的IP相同
 2607:f8b0:4007:804::1001 redirector.googlevideo.com
 
 ## 公开视频 bandaid-redirector.l.google.com

@@ -71,7 +71,7 @@ class worker_thread(threading.Thread):
                 if ret in blackhole or not ret:
                     ret = query_domain(domain, True)
 
-                if ret and ret[:24] != ';; connection timed out;':
+                if ret and ret[:2] != ';;':
                     flag = True
                     arr[0] = ret
 

@@ -42,8 +42,7 @@ def code2num(code):
 
 def main():
     if len(sys.argv) != 3:
-        print 'usage:\n\t./%s -i iata\n\t./%s -s sn'\
-            % (sys.argv[0], sys.argv[0])
+        print 'usage:\tconv -i iata\n\tconv -s sn'
         sys.exit(1)
 
     input = sys.argv[2]

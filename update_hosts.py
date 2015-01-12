@@ -114,7 +114,6 @@ class watcher_thread(threading.Thread):
                 break
             time.sleep(1)
 
-
 def query_domain(domain, tcp):
     cmd = "dig +short +time=2 -6 %s @'%s' '%s'"\
         % (config['querytype'], config['dns'], domain)
@@ -171,7 +170,7 @@ Options:
   -i IN_FILE             input hosts file, default: hosts
   -o OUT_FILE            ouput file, default: hosts.new
   -t QUERY_TYPE          dig command query type, defalut: aaaa
-  -n THREAD_NUM          set the number of worker thread, default: 10
+  -n THREAD_NUM          set the number of worker threads, default: 10
 ''')
 
 def get_config():

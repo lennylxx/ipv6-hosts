@@ -10,6 +10,7 @@ import threading
 import subprocess
 import shlex
 import time
+import select
 
 blackhole = (
 '10::2222',
@@ -36,7 +37,7 @@ dns = {
 config = {
 'dns':dns['google_b'],
 'infile':'hosts',
-'outfile':'hosts.new',
+'outfile':'hosts.out',
 'querytype':'aaaa',
 'threadnum':10
 }
@@ -44,6 +45,7 @@ config = {
 hosts = []
 done_num = 0
 thread_lock = threading.Lock()
+running = True
 
 class worker_thread(threading.Thread):
     def __init__(self, start_pt, end_pt):
@@ -54,12 +56,14 @@ class worker_thread(threading.Thread):
     def run(self):
         global hosts, done_num
         for i in range(self.start_pt, self.end_pt):
+            if not running: break
+
             line = hosts[i].strip()
             
             with thread_lock:
                 done_num += 1
 
-            if line == "" or line[0:2] == '##':
+            if line == '' or line[0:2] == '##':
                 hosts[i] = line + '\r\n'
                 continue
 
@@ -74,7 +78,7 @@ class worker_thread(threading.Thread):
             if validate_domain(domain):
                 ret = query_domain(domain, False)
 
-                if ret in blackhole or not ret:
+                if ret in blackhole or ret == '':
                     ret = query_domain(domain, True)
 
                 if ret:
@@ -92,26 +96,35 @@ class worker_thread(threading.Thread):
 
 class watcher_thread(threading.Thread):
     def run(self):
-        global hosts, done_num
         total_num = len(hosts)
 
         wn = int(config['threadnum'])
         if wn > total_num:
             wn = total_num
         print "There are %d threads working..." % wn
+        print "Press 'Enter' to exit.\n"
 
         while True:
+            if sys.stdin in select.select([sys.stdin], [], [], 0)[0]:
+                t = raw_input()
+                global running
+                with thread_lock:
+                    running = False
+                print 'Waiting threads to exit...'
+                break
+
             with thread_lock:
                 dn = done_num
 
             outbuf = "Total: %d lines, Done: %d lines, Ratio: %d %%.\r"\
-                   % (total_num, dn, float(dn)/total_num*100)
+                   % (total_num, dn, dn * 100 / total_num)
             print outbuf,
             sys.stdout.flush()
 
             if done_num == total_num:
                 print outbuf
                 break
+
             time.sleep(1)
 
 def query_domain(domain, tcp):
@@ -160,35 +173,38 @@ def validate_ip_addr(ip_addr):
             return False
 
 def print_help():
-    print('''usage: update_hosts [-h] [-s DNS] [-t QUERY_TYPE] [-n THREAD_NUM]
-                -i IN_FILE [-o OUT_FILE]
+    print('''usage: update_hosts [OPTIONS] FILE
 A simple multi-threading tool used to update hosts file.
 
 Options:
   -h, --help             show this help message and exit
   -s DNS                 set another dns server, default: 2001:4860:4860::8844
-  -i IN_FILE             input hosts file, default: hosts
-  -o OUT_FILE            ouput file, default: hosts.new
+  -o OUT_FILE            ouput file, default: inputfilename.out
   -t QUERY_TYPE          dig command query type, defalut: aaaa
   -n THREAD_NUM          set the number of worker threads, default: 10
 ''')
 
 def get_config():
-    shortopts = 'hs:i:o:t:n:'
+    shortopts = 'hs:o:t:n:'
     longopts = ['help']
 
     try:
-        optlist, args = getopt.getopt(sys.argv[1:], shortopts, longopts)   
+        optlist, args = getopt.gnu_getopt(sys.argv[1:], shortopts, longopts)   
     except getopt.GetoptError as e:
         print e, '\n'
         print_help()
-        sys.exit(2)
-    
+        sys.exit(1)
+   
     global config
+    if len(args) != 1:
+        print "You must specify the input hosts file (only one)."
+        sys.exit(1)
+
+    config['infile'] = args[0]
+    config['outfile'] = args[0] + '.out'
+
     for key, value in optlist:
-        if key == '-i':
-            config['infile'] = value
-        elif key == '-s':
+        if key == '-s':
             config['dns'] = value
         elif key == '-o':
             config['outfile'] = value
@@ -205,7 +221,7 @@ def get_config():
 def main():
     get_config()
 
-    global config, hosts
+    global hosts
 
     try:
         with open(config['infile'], 'r') as infile:
@@ -223,6 +239,8 @@ def main():
         print e
         sys.exit(e.errno)
 
+    print "Input: %s    Output: %s\n" % (config['infile'], config['outfile'])
+
     threads = []
 
     t = watcher_thread()
@@ -238,6 +256,8 @@ def main():
     start_pt = 0
 
     for i in range(worker_num):
+        if not running: break
+
         lines_for_thread = lines_per_thread
 
         if lines_for_thread == 0 and lines_remain == 0:

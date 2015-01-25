@@ -36,8 +36,8 @@ dns = {
 
 config = {
 'dns':dns['google_b'],
-'infile':'hosts',
-'outfile':'hosts.out',
+'infile':'',
+'outfile':'',
 'querytype':'aaaa',
 'threadnum':10
 }
@@ -196,13 +196,6 @@ def get_config():
         sys.exit(1)
    
     global config
-    if len(args) != 1:
-        print "You must specify the input hosts file (only one)."
-        sys.exit(1)
-
-    config['infile'] = args[0]
-    config['outfile'] = args[0] + '.out'
-
     for key, value in optlist:
         if key == '-s':
             config['dns'] = value
@@ -217,6 +210,14 @@ def get_config():
         elif key in ('-h', '--help'):
             print_help()
             sys.exit(0)
+
+    if len(args) != 1:
+        print "You must specify the input hosts file (only one)."
+        sys.exit(1)
+
+    config['infile'] = args[0]
+    if config['outfile'] == '':
+        config['outfile'] = config['infile'] + '.out'
 
 def main():
     get_config()

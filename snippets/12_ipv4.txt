@@ -1,5 +1,17 @@
 ## deviantART
 110.232.178.146 www.deviantart.com #cs123.adn.edgecastcdn.net
+110.232.178.146 about.deviantart.com
+110.232.178.146 chat.deviantart.com
+110.232.178.146 critiques.deviantart.com
+110.232.178.146 forum.deviantart.com
+110.232.178.146 groups.deviantart.com
+110.232.178.146 help.deviantart.com
+110.232.178.146 hq.deviantart.com
+110.232.178.146 l.deviantart.com
+110.232.178.146 portfolio.deviantart.com
+110.232.178.146 shop.deviantart.com
+110.232.178.146 wallpaper.deviantart.com
+110.232.178.146 welcome.deviantart.com
 110.232.178.146 cs123.adn.edgecastcdn.net
 199.15.160.100 deviantart.com
 199.15.160.100 deviantart.net
@@ -29,6 +41,7 @@
 68.232.44.148 th07.deviantart.net #cs116.wac.edgecastcdn.net
 68.232.44.148 th08.deviantart.net #cs116.wac.edgecastcdn.net
 68.232.44.148 th09.deviantart.net #cs116.wac.edgecastcdn.net
+68.232.44.253 www.da-files.com #wac.2a59.edgecastcdn.net
 
 ## Dropbox
 108.160.165.139 www.dropbox.com #www.v.dropbox.com

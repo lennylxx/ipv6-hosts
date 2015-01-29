@@ -8,7 +8,7 @@
 #2404:6800:4008:c00::62 afd.l.google.com
 2607:f8b0:4001:c05::7d alt1.talk.l.google.com
 2607:f8b0:4007:804::1004 android-market.l.google.com
-#2404:6800:4008:c00::64 android.l.google.com
+2607:f8b0:4007:804::1007 android.l.google.com
 #2404:6800:4008:c00::64 android-china.l.google.com
 2001:4860:400b:c01::66 adwords.l.google.com
 2001:4860:400b:c01::8d appspot.l.google.com
@@ -114,6 +114,7 @@
 #2404:6800:4008:c00::62 writely-com.l.google.com
 2607:f8b0:4007:804::1002 writely-china.l.google.com
 2607:f8b0:4007:804::1000 www-google-analytics.l.google.com
+2607:f8b0:4007:809::2008 www-googletagmanager.l.google.com
 2607:f8b0:4007:804::1003 youtube-ui.l.google.com
 2001:4860:400b:c01::74 yt-video-upload.l.google.com
 2607:f8b0:4007:804::1000 ytimg.l.google.com

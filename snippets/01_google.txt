@@ -38,6 +38,8 @@
 2001:4860:400b:c01::bd 0.client-channel.google.com
 2001:4860:400b:c01::bd 1.client-channel.google.com
 2001:4860:400b:c01::bd 2.client-channel.google.com
+2607:f8b0:4007:809::2008 googletagmanager.com
+2607:f8b0:4007:809::2008 www.googletagmanager.com
 
 ## 谷歌香港
 2607:f8b0:4007:804::1017 google.com.hk

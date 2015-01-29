@@ -4,7 +4,7 @@
 2607:f8b0:4007:804::1007 developer.android.com #www3.l.google.com
 2607:f8b0:4007:804::1007 source.android.com #www3.l.google.com
 2607:f8b0:4007:804::1004 market.android.com #android-market.l.google.com
-#2404:6800:4008:c00::64 android.clients.google.com #android.l.google.com
+2607:f8b0:4007:804::1007 android.clients.google.com #android.l.google.com
 2607:f8b0:4007:804::1007 play.google.com #play.l.google.com
 2607:f8b0:4007:804::1001 v1.lscache1.c.android.clients.google.com #bandaid-redirector.l.google.com
 2607:f8b0:4007:804::1001 v1.lscache2.c.android.clients.google.com

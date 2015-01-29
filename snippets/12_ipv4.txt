@@ -77,10 +77,12 @@
 
 ## SoundCloud
 68.232.44.127 api.soundcloud.com #cs97.wac.edgecastcdn.net
+68.232.44.127 api-mobile.soundcloud.com #cs97.wac.edgecastcdn.net
 68.232.44.127 api-v2.soundcloud.com #cs97.wac.edgecastcdn.net
 68.232.44.127 promoted.soundcloud.com #cs97.wac.edgecastcdn.net
 68.232.44.96 a-v2.sndcdn.com #cs70.wac.edgecastcdn.net
 68.232.44.96 a1.sndcdn.com #cs70.wac.edgecastcdn.net
+54.192.127.227 cf-media.sndcdn.com #d3mym4xnhdwip8.cloudfront.net
 68.232.44.96 i1.sndcdn.com #cs70.wac.edgecastcdn.net
 68.232.44.96 i2.sndcdn.com #cs70.wac.edgecastcdn.net
 68.232.44.96 i3.sndcdn.com #cs70.wac.edgecastcdn.net
@@ -89,6 +91,8 @@
 68.232.44.96 wis.sndcdn.com #cs70.wac.edgecastcdn.net
 68.232.45.67 ec-media.soundcloud.com #cs141.wpc.edgecastcdn.net
 68.232.46.220 ec-rtmp-media.soundcloud.com #gs1.fms45.edgecastcdn.net
+54.76.196.137 eventlogger.soundcloud.com
+54.76.196.137 eventgateway.soundcloud.com
 111.119.3.1 soundcloud.hs.llnwd.net
 
 ## Squarespace

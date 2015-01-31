@@ -270,6 +270,7 @@
 2607:f8b0:4007:804::1002 wallet.google.com
 
 ## Chrome 谷歌浏览器
+2607:f8b0:4005:800::1000 www.chrome.com
 2607:f8b0:4007:804::1007 chrome.google.com #www3.l.google.com
 #2404:6800:4008:c00::66 browsersync.google.com #browsersync.l.google.com
 2607:f8b0:4007:804::1013 toolbarqueries.google.com #toolbarqueries.l.google.com
@@ -392,6 +393,9 @@
 2001:4860:4001:3::17 r18---sn-nwj7knel.c.docs.google.com
 2001:4860:4001:3::18 r19---sn-nwj7knel.c.docs.google.com
 2001:4860:4001:3::19 r20---sn-nwj7knel.c.docs.google.com
+
+## Domains 域名
+2607:f8b0:4007:809::200e domains.google.com
 
 ## Download 下载
 2607:f8b0:4007:804::100e dl.google.com #dl.l.google.com
@@ -609,6 +613,9 @@
 
 ## Reader 阅读器
 2607:f8b0:4007:804::1012 reader.google.com #www2.l.google.com
+
+## Research
+2607:f8b0:4007:804::1007 research.google.com #www3.l.google.com
 
 ## SafeBrowing 安全检测服务
 2607:f8b0:4007:804::1006 sb.google.com #sb.l.google.com
@@ -886,6 +893,7 @@
 2607:f8b0:400e:c01::97 chrome.googleechotest.com #chromeecho.l.google.com
 
 ## 其他专题站
+2001:4860:400b:c01::79 www.creativelab5.com #ghs.google.com
 2607:f8b0:4007:804::1007 www.data-vocabulary.org #www3.l.google.com
 2607:f8b0:4007:804::1007 www.googleinsidesearch.com #www3.l.google.com
 2001:4860:400b:c01::79 www.teachparentstech.org #ghs.l.google.com
@@ -893,6 +901,7 @@
 2001:4860:400b:c01::79 www.gosetsuden.jp #ghs.l.google.com
 2001:4860:400b:c01::79 www.thegooglepuzzle.com #ghs.l.google.com
 2001:4860:400b:c01::79 www.thegobridgeoglepuzzle.com #ghs.l.google.com
+2001:4860:400b:c01::8d www.thinkwithgoogle.com
 2607:f8b0:4007:804::1007 www.oneworldmanystories.com #www3.l.google.com
 2001:4860:400b:c01::79 www.googlezeitgeist.com #ghs.l.google.com
 2607:f8b0:4007:804::1007 www.googleinsidesearch.com #www3.l.google.com

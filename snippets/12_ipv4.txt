@@ -44,11 +44,11 @@
 68.232.44.253 www.da-files.com #wac.2a59.edgecastcdn.net
 
 ## Dropbox
-108.160.165.139 www.dropbox.com #www.v.dropbox.com
-108.160.165.139 www.v.dropbox.com
-108.160.166.62 dropbox.com
-108.160.162.53 d.dropbox.com #d.v.dropbox.com
-108.160.162.53 d.v.dropbox.com
+108.160.165.53 www.dropbox.com #www.v.dropbox.com
+108.160.165.53 www.v.dropbox.com
+108.160.165.53 dropbox.com
+108.160.165.160 d.dropbox.com #d.v.dropbox.com
+108.160.165.160 d.v.dropbox.com
 54.230.74.113 m.dropbox.com
 54.230.74.189 dt8kf6553cww8.cloudfront.net
 54.243.79.100 dl.dropbox.com #dl-balancer.x.dropbox.com
@@ -96,7 +96,7 @@
 111.119.3.1 soundcloud.hs.llnwd.net
 
 ## Squarespace
-68.232.44.138 static.squarespace.com #cs106.wac.edgecastcdn.net
+192.229.145.102 static.squarespace.com #cs301.wpc.taucdn.net
 
 ## StackExchange/StackOverflow
 190.93.245.58 cdn.sstatic.net

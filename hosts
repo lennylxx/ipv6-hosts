@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Sun, 01 Feb 2015 19:31:13 +0800                  |
+## |         Update : Wed, 04 Feb 2015 15:50:50 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -15443,6 +15443,15 @@
 ## GitHub
 192.30.252.141 gist.github.com
 
+## Gravatar
+68.232.44.121 www.gravatar.com #cs91.wac.edgecastcdn.net
+68.232.44.121 s.gravatar.com #cs91.wac.edgecastcdn.net
+68.232.44.121 0.gravatar.com #cs91.wac.edgecastcdn.net
+68.232.44.121 1.gravatar.com #cs91.wac.edgecastcdn.net
+68.232.44.121 2.gravatar.com #cs91.wac.edgecastcdn.net
+192.0.80.242 secure.gravatar.com #lb.gravatar.com
+192.0.80.242 lb.gravatar.com
+
 ## SoundCloud
 68.232.44.127 api.soundcloud.com #cs97.wac.edgecastcdn.net
 68.232.44.127 api-mobile.soundcloud.com #cs97.wac.edgecastcdn.net
@@ -15523,6 +15532,23 @@
 117.18.237.125 data2.whicdn.com #cs95.wac.edgecastcdn.net
 117.18.237.125 data3.whicdn.com #cs95.wac.edgecastcdn.net
 54.239.194.100 cdn.viglink.com #dp2drdtly304p.cloudfront.net
+
+## Wordpress
+192.0.78.17 wordpress.com
+192.0.78.13 www.wordpress.com #lb.wordpress.com
+192.0.78.13 zh-cn.wordpress.com #lb.wordpress.com
+192.0.78.13 lb.wordpress.com
+216.151.210.124 files.wordpress.com 
+192.0.76.3 pixel.wp.com
+192.0.76.3 stats.wp.com
+68.232.44.111 i0.wp.com #cs82.wac.edgecastcdn.net
+68.232.44.111 s0.wp.com #cs82.wac.edgecastcdn.net
+68.232.44.111 s1.wp.com #cs82.wac.edgecastcdn.net
+68.232.44.111 s2.wp.com #cs82.wac.edgecastcdn.net
+66.155.40.250 wordpress.org
+66.155.40.250 www.wordpress.org
+192.229.144.127 s.w.org #cs287.wac.edgecastcdn.net
+192.229.144.127 ts.w.org #cs287.wac.edgecastcdn.net
 
 ## XDA developers
 207.244.73.44 www.xda-developers.com

@@ -14,6 +14,12 @@
 2607:f8b0:4007:804::100b www-blogger-opensocial.googleusercontent.com
 2607:f8b0:4007:804::100b books.googleusercontent.com
 2607:f8b0:4007:804::100b blogger.googleusercontent.com
+2607:f8b0:4007:804::100b ci1.googleusercontent.com
+2607:f8b0:4007:804::100b ci2.googleusercontent.com
+2607:f8b0:4007:804::100b ci3.googleusercontent.com
+2607:f8b0:4007:804::100b ci4.googleusercontent.com
+2607:f8b0:4007:804::100b ci5.googleusercontent.com
+2607:f8b0:4007:804::100b ci6.googleusercontent.com
 2607:f8b0:4007:804::100b clients1.googleusercontent.com
 2607:f8b0:4007:804::100b clients2.googleusercontent.com
 2607:f8b0:4007:804::100b clients4.googleusercontent.com

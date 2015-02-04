@@ -104,3 +104,25 @@
 2600:1409:a::173b:be10 a7.sphotos.ak.fbcdn.net #a1007.dspw43.akamai.net
 2600:1409:a::173b:be13 a8.sphotos.ak.fbcdn.net #a1408.dspw43.akamai.net
 
+## Instagram
+2a03:2880:f00d:0:face:b00c:0:1 scontent-a.cdninstagram.com
+2a03:2880:f00d:0:face:b00c:0:1 scontent-b.cdninstagram.com
+2600:1406:1a::173d:c220 igcdn-photos-a-a.akamaihd.net
+2600:1406:1a::173d:c228 igcdn-photos-b-a.akamaihd.net
+2600:1406:1a::173d:c208 igcdn-photos-c-a.akamaihd.net
+2600:1406:1a::173d:c221 igcdn-photos-d-a.akamaihd.net
+2600:1409:a::b81b:b23b igcdn-photos-e-a.akamaihd.net
+2600:1409:a::b81b:b22a igcdn-photos-f-a.akamaihd.net
+2600:1409:a::173b:be23 igcdn-photos-g-a.akamaihd.net
+2600:1409:a::173b:be33 igcdn-photos-h-a.akamaihd.net
+2600:1409:a::173b:be39 instagramimages-a.akamaihd.net
+2600:1406:34::b819:389a instagramstatic-a.akamaihd.net
+2600:1406:1a::173d:c220 photos-a.ak.instagram.com
+2600:1406:1a::173d:c228 photos-b.ak.instagram.com
+2600:1406:1a::173d:c208 photos-c.ak.instagram.com
+2600:1406:1a::173d:c221 photos-d.ak.instagram.com
+2600:1409:a::b81b:b23b photos-e.ak.instagram.com
+2600:1409:a::b81b:b22a photos-f.ak.instagram.com
+2600:1409:a::b81b:b223 photos-g.ak.instagram.com
+2600:1409:a::173b:be33 photos-h.ak.instagram.com
+

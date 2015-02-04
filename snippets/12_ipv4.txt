@@ -55,6 +55,14 @@
 54.243.79.100 dl-balancer.x.dropbox.com
 54.225.184.81 dl.dropboxusercontent.com #duc-balancer.x.dropbox.com
 54.225.184.81 duc-balancer.x.dropbox.com
+54.230.235.234 cf.dropboxstatic.com
+107.20.145.190 photos-thumb.x.dropbox.com
+107.20.145.190 photos-1.dropbox.com #photos-thumb.x.dropbox.com
+107.20.145.190 photos-2.dropbox.com #photos-thumb.x.dropbox.com
+107.20.145.190 photos-3.dropbox.com #photos-thumb.x.dropbox.com
+107.20.145.190 photos-4.dropbox.com #photos-thumb.x.dropbox.com
+107.20.145.190 photos-5.dropbox.com #photos-thumb.x.dropbox.com
+107.20.145.190 photos-6.dropbox.com #photos-thumb.x.dropbox.com
 
 ## DuckDuckGo
 46.51.216.186 duckduckgo.com

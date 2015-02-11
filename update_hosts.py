@@ -221,9 +221,14 @@ def get_config():
 
 def main():
     get_config()
+    
+    dig_path = '/usr/bin/dig'
+    if not os.path.isfile(dig_path) or not os.access(dig_path, os.X_OK):
+        print "It seems you don't have 'dig' command installed properly "\
+              "on your system."
+        sys.exit(2)
 
     global hosts
-
     try:
         with open(config['infile'], 'r') as infile:
             hosts = infile.readlines()

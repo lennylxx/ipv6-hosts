@@ -39,6 +39,7 @@ config = {
 'infile':'',
 'outfile':'',
 'querytype':'aaaa',
+'cname': False,
 'threadnum':10
 }
 
@@ -60,14 +61,21 @@ class worker_thread(threading.Thread):
 
             line = hosts[i].strip()
             
-            with thread_lock:
-                done_num += 1
-
             if line == '' or line[0:2] == '##':
                 hosts[i] = line + '\r\n'
+                with thread_lock: done_num += 1
                 continue
 
-            arr = line.lstrip('#').split()
+            # uncomment line
+            line = line.lstrip('#')
+            # split comment that appended to line
+            comment = ''
+            p = line.find('#')
+            if p > 0:
+                comment = line[p:]
+                line = line[:p]
+
+            arr = line.split()
 
             if len(arr) == 1:
                 domain = arr[0]
@@ -76,23 +84,28 @@ class worker_thread(threading.Thread):
 
             flag = False
             if validate_domain(domain):
-                ret = query_domain(domain, False)
+                cname, ip = query_domain(domain, False)
 
-                if ret in blackhole or ret == '':
-                    ret = query_domain(domain, True)
+                if ip == '' or ip in blackhole:
+                    cname, ip = query_domain(domain, True)
 
-                if ret:
+                if ip:
                     flag = True
-                    arr[0] = ret
+                    arr[0] = ip
+                    if len(arr) == 1:
+                        arr.append(domain)
+                    if config['cname'] and cname:
+                        arr.append('#' + cname)
+                    else:
+                        arr.append(comment)
 
-            if flag:
-                if len(arr) == 1:
-                   arr.append(domain)
-            else:
+            if not flag:
                 arr[0] = '#' + arr[0]
+                arr.append(comment)
 
             hosts[i] = ' '.join(arr)
             hosts[i] += '\r\n'
+            with thread_lock: done_num += 1
 
 class watcher_thread(threading.Thread):
     def run(self):
@@ -136,18 +149,21 @@ def query_domain(domain, tcp):
 
     proc = subprocess.Popen(shlex.split(cmd), stdout=subprocess.PIPE)
     out, err = proc.communicate()
-
     outarr = out.splitlines()
 
-    if len(outarr) == 0:
-        ret = ''
-    else:
-        if validate_ip_addr(outarr[-1]):
-            ret = outarr[-1]
-        else:
-            ret = ''
+    cname = ip = ''
 
-    return ret
+    if len(outarr) == 0:
+        return ()
+    else:
+        for v in outarr:
+            if cname == '' and validate_domain(v[:-1]):
+                cname = v[:-1]
+            if ip == '' and validate_ip_addr(v):
+                ip = v
+                break
+    
+    return (cname, ip)
 
 def validate_domain(domain):
     pattern = '^((?!-)[*A-Za-z0-9-]{1,63}(?<!-)\\.)+[A-Za-z]{2,6}$'
@@ -181,12 +197,13 @@ Options:
   -s DNS                 set another dns server, default: 2001:4860:4860::8844
   -o OUT_FILE            ouput file, default: inputfilename.out
   -t QUERY_TYPE          dig command query type, defalut: aaaa
+  -c, --cname            write canonical name into hosts file                   
   -n THREAD_NUM          set the number of worker threads, default: 10
 ''')
 
 def get_config():
-    shortopts = 'hs:o:t:n:'
-    longopts = ['help']
+    shortopts = 'hs:o:t:n:c'
+    longopts = ['help', 'cname']
 
     try:
         optlist, args = getopt.gnu_getopt(sys.argv[1:], shortopts, longopts)   
@@ -203,8 +220,8 @@ def get_config():
             config['outfile'] = value
         elif key == '-t':
             config['querytype'] = value
-        elif key == '-m':
-            config['method'] = value
+        elif key in ('-c', '--cname'):
+            config['cname'] = True
         elif key == '-n':
             config['threadnum'] = int(value)
         elif key in ('-h', '--help'):

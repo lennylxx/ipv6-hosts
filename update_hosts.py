@@ -74,7 +74,6 @@ class worker_thread(threading.Thread):
             if p > 0:
                 comment = line[p:]
                 line = line[:p]
-
             arr = line.split()
 
             if len(arr) == 1:
@@ -97,11 +96,13 @@ class worker_thread(threading.Thread):
                     if config['cname'] and cname:
                         arr.append('#' + cname)
                     else:
-                        arr.append(comment)
+                        if comment:
+                            arr.append(comment)
 
             if not flag:
                 arr[0] = '#' + arr[0]
-                arr.append(comment)
+                if comment:
+                    arr.append(comment)
 
             hosts[i] = ' '.join(arr)
             hosts[i] += '\r\n'
@@ -152,16 +153,12 @@ def query_domain(domain, tcp):
     outarr = out.splitlines()
 
     cname = ip = ''
-
-    if len(outarr) == 0:
-        return ()
-    else:
-        for v in outarr:
-            if cname == '' and validate_domain(v[:-1]):
-                cname = v[:-1]
-            if ip == '' and validate_ip_addr(v):
-                ip = v
-                break
+    for v in outarr:
+        if cname == '' and validate_domain(v[:-1]):
+            cname = v[:-1]
+        if ip == '' and validate_ip_addr(v):
+            ip = v
+            break
     
     return (cname, ip)
 

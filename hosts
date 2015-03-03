@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Fri, 13 Feb 2015 18:25:35 +0800                  |
+## |         Update : Tue, 03 Mar 2015 22:40:26 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -236,6 +236,7 @@
 2607:f8b0:4007:804::100b googlechromereleases.blogspot.com
 2607:f8b0:4007:804::100b googlecode.blogspot.com
 2607:f8b0:4007:804::100b googlecustomsearch.blogspot.com
+2607:f8b0:4007:804::100b googledevelopers.blogspot.com
 2607:f8b0:4007:804::100b googleenterprise.blogspot.com
 2607:f8b0:4007:804::100b googlegeodevelopers.blogspot.com
 2607:f8b0:4007:804::100b googlemashupeditor.blogspot.com
@@ -289,6 +290,7 @@
 
 ## Chrome 谷歌浏览器
 2607:f8b0:4005:800::1000 www.chrome.com
+2607:f8b0:400e:c03::8d developer.chrome.com #appspot.l.google.com
 2607:f8b0:4007:804::1007 chrome.google.com #www3.l.google.com
 #2404:6800:4008:c00::66 browsersync.google.com #browsersync.l.google.com
 2607:f8b0:4007:804::1013 toolbarqueries.google.com #toolbarqueries.l.google.com
@@ -320,6 +322,13 @@
 
 ## Desktop 桌面
 #2404:6800:4008:c00::68 desktop.google.com #desktop.l.google.com
+
+## Developers 开发者
+2607:f8b0:4007:809::200e cloud.google.com #www3.l.google.com
+2607:f8b0:4007:804::1007 developers.google.com #www3.l.google.com
+2607:f8b0:4007:804::1007 cloudssh.developers.google.com #www3.l.google.com
+2607:f8b0:4007:804::1007 console.developers.google.com
+2001:4860:400b:c01::52 source.developers.google.com
 
 ## Directory 网页目录
 2607:f8b0:4007:804::1007 directory.google.com #www3.l.google.com
@@ -625,9 +634,6 @@
 #2404:6800:4008:c00::8a plus.google.com.hk # URL 重定向
 2607:f8b0:4007:804::1007 plus.url.google.com #www3.l.google.com
 #2404:6800:4008:c00::8a plus.url.google.com.hk #实际上不存在的域名
-2607:f8b0:4007:804::1007 developers.google.com #www3.l.google.com
-2607:f8b0:4007:804::1007 cloudssh.developers.google.com #www3.l.google.com
-2001:4860:400b:c01::52 source.developers.google.com
 
 ## Reader 阅读器
 2607:f8b0:4007:804::1012 reader.google.com #www2.l.google.com

@@ -1159,6 +1159,8 @@
 2001:7f8:49:1::d r2---sn-gvopm-vu2e.googlevideo.com
 2001:7f8:49:1::e r3---sn-gvopm-vu2e.googlevideo.com
 2001:7f8:49:1::f r4---sn-gvopm-vu2e.googlevideo.com
+2001:7f8:49:1::10 r4---sn-gvopm-vu2e.googlevideo.com
+2001:7f8:49:1::11 r6---sn-gvopm-vu2e.googlevideo.com
 
 2001:1900:2200:80::c r1---sn-a8au-co5e.googlevideo.com
 2001:1900:2200:80::d r2---sn-a8au-co5e.googlevideo.com

@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Mon, 09 Mar 2015 13:26:57 +0800                  |
+## |         Update : Mon, 09 Mar 2015 14:32:14 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -3743,6 +3743,15 @@
 2620:11a:a00c::11 r6---sn-hpjx-hn2e.googlevideo.com
 2620:11a:a00c::12 r7---sn-hpjx-hn2e.googlevideo.com
 2620:11a:a00c::13 r8---sn-hpjx-hn2e.googlevideo.com
+
+2620:11a:a00e::c r1---sn-bvvbax-hn2e.googlevideo.com
+2620:11a:a00e::d r2---sn-bvvbax-hn2e.googlevideo.com
+2620:11a:a00e::e r3---sn-bvvbax-hn2e.googlevideo.com
+2620:11a:a00e::f r4---sn-bvvbax-hn2e.googlevideo.com
+2620:11a:a00e::10 r5---sn-bvvbax-hn2e.googlevideo.com
+2620:11a:a00e::11 r6---sn-bvvbax-hn2e.googlevideo.com
+2620:11a:a00e::12 r7---sn-bvvbax-hn2e.googlevideo.com
+2620:11a:a00e::13 r8---sn-bvvbax-hn2e.googlevideo.com
 
 2a00:1e48:1:b::c r1---sn-ug5onuxaxjvh-v8ce.googlevideo.com
 2a00:1e48:1:b::d r2---sn-ug5onuxaxjvh-v8ce.googlevideo.com

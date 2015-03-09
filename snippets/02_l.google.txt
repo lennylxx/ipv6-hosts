@@ -109,7 +109,7 @@
 2607:f8b0:4007:804::1009 video-stats.l.google.com
 2607:f8b0:4007:804::1007 video-analytics.l.google.com
 2607:f8b0:4007:804::100e video-thumbnails.l.google.com
-#2404:6800:4008:c00::7b wifi.l.google.com
+2607:f8b0:400e:c04::7b wifi.l.google.com
 2607:f8b0:4007:804::1002 writely.l.google.com
 #2404:6800:4008:c00::62 writely-com.l.google.com
 2607:f8b0:4007:804::1003 writely-china.l.google.com

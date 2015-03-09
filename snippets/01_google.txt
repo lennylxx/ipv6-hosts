@@ -36,10 +36,36 @@
 2607:f8b0:4007:804::1009 support.google.com #www3.l.google.com
 2607:f8b0:400e:c02::74 upload.google.com #large-uploads.l.google.com
 2607:f8b0:4007:804::1002 client-channel.google.com
-2607:f8b0:400e:c04::bd *.client-channel.google.com
 2607:f8b0:400e:c04::bd 0.client-channel.google.com
 2607:f8b0:400e:c04::bd 1.client-channel.google.com
 2607:f8b0:400e:c04::bd 2.client-channel.google.com
+2607:f8b0:400e:c04::bd 3.client-channel.google.com
+2607:f8b0:400e:c04::bd 4.client-channel.google.com
+2607:f8b0:400e:c04::bd 5.client-channel.google.com
+2607:f8b0:400e:c04::bd 6.client-channel.google.com
+2607:f8b0:400e:c04::bd 7.client-channel.google.com
+2607:f8b0:400e:c04::bd 8.client-channel.google.com
+2607:f8b0:400e:c04::bd 9.client-channel.google.com
+2607:f8b0:400e:c04::bd 10.client-channel.google.com
+2607:f8b0:400e:c04::bd 11.client-channel.google.com
+2607:f8b0:400e:c04::bd 12.client-channel.google.com
+2607:f8b0:400e:c04::bd 13.client-channel.google.com
+2607:f8b0:400e:c04::bd 14.client-channel.google.com
+2607:f8b0:400e:c04::bd 15.client-channel.google.com
+2607:f8b0:400e:c04::bd 16.client-channel.google.com
+2607:f8b0:400e:c04::bd 17.client-channel.google.com
+2607:f8b0:400e:c04::bd 18.client-channel.google.com
+2607:f8b0:400e:c04::bd 19.client-channel.google.com
+2607:f8b0:400e:c04::bd 20.client-channel.google.com
+2607:f8b0:400e:c04::bd 21.client-channel.google.com
+2607:f8b0:400e:c04::bd 22.client-channel.google.com
+2607:f8b0:400e:c04::bd 23.client-channel.google.com
+2607:f8b0:400e:c04::bd 24.client-channel.google.com
+2607:f8b0:400e:c04::bd 25.client-channel.google.com
+2607:f8b0:400e:c04::bd 26.client-channel.google.com
+2607:f8b0:400e:c04::bd 27.client-channel.google.com
+2607:f8b0:400e:c04::bd 28.client-channel.google.com
+2607:f8b0:400e:c04::bd 29.client-channel.google.com
 2607:f8b0:4007:804::101e googletagmanager.com
 2607:f8b0:4007:804::101e www.googletagmanager.com
 
@@ -683,7 +709,7 @@
 2607:f8b0:4007:804::1014 googlewave.com
 
 ## WiFi
-#2404:6800:4008:c00::7b wifi.google.com
+2607:f8b0:400e:c04::7b wifi.google.com
 
 ## iGoogle Modules iGoogle 小工具
 2607:f8b0:4007:804::1013 gmodules.com
@@ -738,7 +764,7 @@
 
 ## GStatic Google 静态文件存储
 2607:f8b0:4007:804::1018 accounts.gstatic.com
-2404:6800:4004:806::100f csi.gstatic.com
+2607:f8b0:4010:800::1017 csi.gstatic.com
 2607:f8b0:4007:804::1017 fonts.gstatic.com
 2607:f8b0:4007:804::101f maps.gstatic.com
 2607:f8b0:4007:804::101f ssl.gstatic.com

@@ -10,7 +10,7 @@
 2607:f8b0:4007:804::1007 4.gvt0.com #video-thumbnails.l.google.com
 2607:f8b0:4007:804::1007 5.gvt0.com #video-thumbnails.l.google.com
 
-2001:4860:400b:c01::75 upload.video.google.com #sslvideo-upload.l.google.com
+2607:f8b0:400e:c02::75 upload.video.google.com #sslvideo-upload.l.google.com
 2607:f8b0:4007:804::1007 video-stats.video.google.com #video-stats.l.google.com
 2607:f8b0:4007:804::1003 manifest.googlevideo.com
 

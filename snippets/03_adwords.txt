@@ -3,8 +3,8 @@
 #2404:6800:4008:c00::9a www.googleadservices.com #pagead.l.doubleclick.net
 #2404:6800:4008:c00::9a domains.googlesyndication.com #pagead.l.doubleclick.net
 2607:f8b0:4007:804::101a pagead2.googlesyndication.com #pagead46.l.doubleclick.net
-2001:4860:400b:c01::66 adwords.google.com #adwords.l.google.com
-2001:4860:400b:c01::66 adwords.google.sk #adwords.l.google.com
+2607:f8b0:400e:c04::65 adwords.google.com #adwords.l.google.com
+2607:f8b0:400e:c04::65 adwords.google.sk #adwords.l.google.com
 #2404:6800:4008:c00::9a partner.googleadservices.com #partnerad.l.doubleclick.net
 #2404:6800:4008:c00::62 pagead.google.com
 #2404:6800:4008:c00::9a pagead2.googleadservices.com #pagead.l.doubleclick.net

@@ -1,35 +1,35 @@
 ## YouTube
-2607:f8b0:4007:804::1004 youtube.com
-2607:f8b0:4007:804::1003 www.youtube.com #youtube-ui.l.google.com
-2607:f8b0:4007:804::1003 au.youtube.com #youtube-ui.l.google.com
-2607:f8b0:4007:804::1003 ca.youtube.com #youtube-ui.l.google.com
-2607:f8b0:4007:804::1003 de.youtube.com #youtube-ui.l.google.com
-2607:f8b0:4007:804::1003 fr.youtube.com #youtube-ui.l.google.com
-2607:f8b0:4007:804::1003 jp.youtube.com #youtube-ui.l.google.com
-2607:f8b0:4007:804::1003 ru.youtube.com #youtube-ui.l.google.com
-2607:f8b0:4007:804::1003 uk.youtube.com #youtube-ui.l.google.com
-2607:f8b0:4007:804::1003 tw.youtube.com #youtube-ui.l.google.com
-2607:f8b0:4007:804::1007 ads.youtube.com #www3.l.google.com
-2607:f8b0:4007:804::1003 www.youtube-nocookie.com #youtube-ui.l.google.com
-2607:f8b0:4007:804::1000 m.youtube.com
-2607:f8b0:4007:804::1003 youtu.be
-2607:f8b0:4007:804::1005 gdata.youtube.com
-2001:4860:400b:c01::74 stage.gdata.youtube.com
-2607:f8b0:4007:804::1007 s.youtube.com #video-stats.l.google.com
+2607:f8b0:4007:804::100e youtube.com
+2607:f8b0:4007:804::1001 www.youtube.com #youtube-ui.l.google.com
+2607:f8b0:4007:804::1009 au.youtube.com #youtube-ui.l.google.com
+2607:f8b0:4007:804::1001 ca.youtube.com #youtube-ui.l.google.com
+2607:f8b0:4007:804::1009 de.youtube.com #youtube-ui.l.google.com
+2607:f8b0:4007:804::1009 fr.youtube.com #youtube-ui.l.google.com
+2607:f8b0:4007:804::1009 jp.youtube.com #youtube-ui.l.google.com
+2607:f8b0:4007:804::1009 ru.youtube.com #youtube-ui.l.google.com
+2607:f8b0:4007:804::1009 uk.youtube.com #youtube-ui.l.google.com
+2607:f8b0:4007:804::1009 tw.youtube.com #youtube-ui.l.google.com
+2607:f8b0:4007:804::1001 ads.youtube.com #www3.l.google.com
+2607:f8b0:4007:804::1009 www.youtube-nocookie.com #youtube-ui.l.google.com
+2607:f8b0:4007:804::1001 m.youtube.com
+2607:f8b0:4007:804::100e youtu.be
+2607:f8b0:4007:804::100e gdata.youtube.com
+2607:f8b0:400e:c02::75 stage.gdata.youtube.com
+2607:f8b0:4007:804::100e s.youtube.com #video-stats.l.google.com
 #2607:f8b0:4007:805::100e s2.youtube.com
-2607:f8b0:4007:804::1007 accounts.youtube.com #www3.l.google.com
-2607:f8b0:4007:804::1000 img.youtube.com #ytimg.l.google.com
+2607:f8b0:4007:804::1001 accounts.youtube.com #www3.l.google.com
+2607:f8b0:4007:804::1007 img.youtube.com #ytimg.l.google.com
 2607:f8b0:4007:804::1012 help.youtube.com
-2001:4860:400b:c01::74 upload.youtube.com #yt-video-upload.l.google.com
-2001:4860:400b:c01::74 uploads.stage.gdata.youtube.com #yt-video-upload.l.google.com
-2607:f8b0:4007:804::1003 insight.youtube.com #video-analytics.l.google.com
-2001:4860:400b:c01::79 apiblog.youtube.com #ghs.l.google.com
+2607:f8b0:400e:c02::75 upload.youtube.com #yt-video-upload.l.google.com
+2607:f8b0:400e:c02::75 uploads.stage.gdata.youtube.com #yt-video-upload.l.google.com
+2607:f8b0:4007:804::1004 insight.youtube.com #video-analytics.l.google.com
+2607:f8b0:4007:804::1001 apiblog.youtube.com #ghs.l.google.com
 #2404:6800:4008:c00::64 clients1.youtube.com
 
-2607:f8b0:4007:804::1000 i.ytimg.com #ytimg.l.google.com
-2607:f8b0:4007:804::1000 i1.ytimg.com #ytimg.l.google.com
-2607:f8b0:4007:804::1000 i2.ytimg.com #ytimg.l.google.com
-2607:f8b0:4007:804::1000 i3.ytimg.com #ytimg.l.google.com
-2607:f8b0:4007:804::1000 i4.ytimg.com #ytimg.l.google.com
-2607:f8b0:4007:804::1000 s.ytimg.com #ytstatic.l.google.com
+2607:f8b0:4007:804::1007 i.ytimg.com #ytimg.l.google.com
+2607:f8b0:4007:804::1007 i1.ytimg.com #ytimg.l.google.com
+2607:f8b0:4007:804::1007 i2.ytimg.com #ytimg.l.google.com
+2607:f8b0:4007:804::1007 i3.ytimg.com #ytimg.l.google.com
+2607:f8b0:4007:804::1007 i4.ytimg.com #ytimg.l.google.com
+2607:f8b0:4007:804::1002 s.ytimg.com #ytstatic.l.google.com
 

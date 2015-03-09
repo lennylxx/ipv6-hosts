@@ -5,11 +5,11 @@
 2607:f8b0:4007:804::100b blogspot.l.googleusercontent.com
 2607:f8b0:4007:804::1004 gadgets.l.googleusercontent.com
 2607:f8b0:4007:804::100b googlehosted.l.googleusercontent.com
-2001:4860:400b:c01::52 googlecode.l.googleusercontent.com
-2001:4860:400b:c01::89 googlegroups.l.googleusercontent.com
-2001:4860:400b:c01::56 orkut-opensocial.l.googleusercontent.com
+2607:f8b0:400e:c04::52 googlecode.l.googleusercontent.com
+2607:f8b0:400e:c04::89 googlegroups.l.googleusercontent.com
+2607:f8b0:400e:c04::55 orkut-opensocial.l.googleusercontent.com
 2607:f8b0:4007:804::100b photos-ugc.l.googleusercontent.com
-2001:4860:400b:c01::80 storage.l.googleusercontent.com
+2607:f8b0:400e:c04::80 storage.l.googleusercontent.com
 2607:f8b0:4007:804::100b storage-ugc.l.googleusercontent.com
 2607:f8b0:4007:804::100b www-blogger-opensocial.googleusercontent.com
 2607:f8b0:4007:804::100b books.googleusercontent.com

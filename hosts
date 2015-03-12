@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Thu, 12 Mar 2015 15:09:29 +0800                  |
+## |         Update : Thu, 12 Mar 2015 17:04:04 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -15764,39 +15764,39 @@
 199.16.158.11 www.tweetdeck.com
 
 ## Twitter
-199.16.158.10 twitter.com
-199.16.158.10 about.twitter.com
-199.16.158.10 ads.twitter.com
-199.16.158.10 api.twitter.com
-199.16.158.10 blog.twitter.com
-199.16.158.10 business.twitter.com
-199.16.158.10 dev.twitter.com
-199.16.158.10 media.twitter.com
-199.16.158.10 mobile.twitter.com
-199.16.158.10 pic.twitter.com
-199.16.158.10 s.twitter.com
+185.45.5.34 twitter.com
+185.45.5.34 about.twitter.com
+185.45.5.34 ads.twitter.com
+185.45.5.34 api.twitter.com
+185.45.5.34 blog.twitter.com
+185.45.5.34 business.twitter.com
+185.45.5.34 dev.twitter.com
+185.45.5.34 media.twitter.com
+185.45.5.34 mobile.twitter.com
+185.45.5.34 pic.twitter.com
+185.45.5.34 s.twitter.com
 66.6.44.4 status.twitter.com
-199.16.158.10 support.twitter.com
-199.16.158.10 www.twitter.com
-199.16.158.12 t.co
+185.45.5.34 support.twitter.com
+185.45.5.34 www.twitter.com
+185.45.5.34 t.co
 199.96.57.6 cdn.api.twitter.com #platform.twitter.com.tw.map.fastly.net
 199.96.57.6 platform.twitter.com #platform.twitter.com.tw.map.fastly.net
-199.96.57.7 abs.twimg.com #wildcard.twimg.com.tw.map.fastly.net
-199.96.57.7 pbs.twimg.com #wildcard.twimg.com.tw.map.fastly.net
-199.96.57.7 a0.twimg.com #wildcard.twimg.com.tw.map.fastly.net
-199.96.57.7 a1.twimg.com #wildcard.twimg.com.tw.map.fastly.net
-199.96.57.7 a2.twimg.com #wildcard.twimg.com.tw.map.fastly.net
-199.96.57.7 a3.twimg.com #wildcard.twimg.com.tw.map.fastly.net
-199.96.57.7 a4.twimg.com #wildcard.twimg.com.tw.map.fastly.net
+117.18.237.139 abs.twimg.com
+117.18.237.139 pbs.twimg.com
+117.18.237.139 a0.twimg.com
+117.18.237.139 a1.twimg.com
+117.18.237.139 a2.twimg.com
+117.18.237.139 a3.twimg.com
+117.18.237.139 a4.twimg.com
 72.246.190.16 a5.twimg.com #a1441.l.akamai.net
 199.96.57.57 a6.twimg.com #cache-tw-sjc2-b.svc.fastly.net
 117.18.237.211 g.twimg.com #cs178.wac.edgecastcdn.net
-199.96.57.7 si0.twimg.com #wildcard.twimg.com.tw.map.fastly.net
-199.96.57.7 si1.twimg.com #wildcard.twimg.com.tw.map.fastly.net
-199.96.57.7 si2.twimg.com #wildcard.twimg.com.tw.map.fastly.net
+117.18.237.139 si0.twimg.com
+117.18.237.139 si1.twimg.com
+117.18.237.139 si2.twimg.com
 117.18.237.139 si3.twimg.com #cs107.wac.edgecastcdn.net
 23.37.149.210 si4.twimg.com #e6892.g.akamaiedge.net
-199.96.57.7 ton.twimg.com #wildcard.twimg.com.tw.map.fastly.net
+117.18.237.139 ton.twimg.com
 210.163.219.24 twimg.com
 
 ## We Heart It

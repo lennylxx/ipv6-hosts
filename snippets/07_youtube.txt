@@ -16,7 +16,7 @@
 2607:f8b0:4007:804::100e gdata.youtube.com
 2607:f8b0:400e:c02::75 stage.gdata.youtube.com
 2607:f8b0:4007:804::100e s.youtube.com #video-stats.l.google.com
-#2607:f8b0:4007:805::100e s2.youtube.com
+2607:f8b0:4007:805::100e s2.youtube.com
 2607:f8b0:4007:804::1001 accounts.youtube.com #www3.l.google.com
 2607:f8b0:4007:804::1007 img.youtube.com #ytimg.l.google.com
 2607:f8b0:4007:804::1012 help.youtube.com

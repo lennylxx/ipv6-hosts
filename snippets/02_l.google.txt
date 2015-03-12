@@ -8,7 +8,7 @@
 #2404:6800:4008:c00::62 afd.l.google.com
 2607:f8b0:4001:c03::7d alt1.talk.l.google.com
 2607:f8b0:4007:804::1003 android-market.l.google.com
-#2607:f8b0:4007:804::1007 android.l.google.com
+2607:f8b0:4007:804::1007 android.l.google.com
 #2404:6800:4008:c00::64 android-china.l.google.com
 2607:f8b0:400e:c04::8a adwords.l.google.com
 2607:f8b0:400e:c04::8d appspot.l.google.com

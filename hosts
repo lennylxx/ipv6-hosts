@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Mon, 09 Mar 2015 14:59:24 +0800                  |
+## |         Update : Thu, 12 Mar 2015 15:09:29 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -978,7 +978,7 @@
 #2404:6800:4008:c00::62 afd.l.google.com
 2607:f8b0:4001:c03::7d alt1.talk.l.google.com
 2607:f8b0:4007:804::1003 android-market.l.google.com
-#2607:f8b0:4007:804::1007 android.l.google.com
+2607:f8b0:4007:804::1007 android.l.google.com
 #2404:6800:4008:c00::64 android-china.l.google.com
 2607:f8b0:400e:c04::8a adwords.l.google.com
 2607:f8b0:400e:c04::8d appspot.l.google.com
@@ -1362,6 +1362,7 @@
 ## Android Google 移动操作系统
 2607:f8b0:4007:804::1007 www.android.com #www3.l.google.com
 2607:f8b0:4007:804::1012 android.com
+2607:f8b0:4007:809::200e connectivitycheck.android.com
 2607:f8b0:4007:804::1007 developer.android.com #www3.l.google.com
 2607:f8b0:4007:804::1007 source.android.com #www3.l.google.com
 2607:f8b0:4007:804::1004 market.android.com #android-market.l.google.com
@@ -2537,7 +2538,7 @@
 2607:f8b0:4007:804::100e gdata.youtube.com
 2607:f8b0:400e:c02::75 stage.gdata.youtube.com
 2607:f8b0:4007:804::100e s.youtube.com #video-stats.l.google.com
-#2607:f8b0:4007:805::100e s2.youtube.com
+2607:f8b0:4007:805::100e s2.youtube.com
 2607:f8b0:4007:804::1001 accounts.youtube.com #www3.l.google.com
 2607:f8b0:4007:804::1007 img.youtube.com #ytimg.l.google.com
 2607:f8b0:4007:804::1012 help.youtube.com

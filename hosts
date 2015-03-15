@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Sun, 15 Mar 2015 19:45:39 +0800                  |
+## |         Update : Sun, 15 Mar 2015 20:10:23 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -3718,6 +3718,11 @@
 2001:7f8:49:1::f r4---sn-gvopm-vu2e.googlevideo.com
 2001:7f8:49:1::10 r5---sn-gvopm-vu2e.googlevideo.com
 2001:7f8:49:1::11 r6---sn-gvopm-vu2e.googlevideo.com
+
+2001:1438:0:1006::c r1---sn-8xgn5uxa-quhe.googlevideo.com
+2001:1438:0:1006::d r2---sn-8xgn5uxa-quhe.googlevideo.com
+2001:1438:0:1006::e r3---sn-8xgn5uxa-quhe.googlevideo.com
+2001:1438:0:1006::f r4---sn-8xgn5uxa-quhe.googlevideo.com
 
 2001:1900:2200:80::c r1---sn-a8au-co5e.googlevideo.com
 2001:1900:2200:80::d r2---sn-a8au-co5e.googlevideo.com

@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Thu, 12 Mar 2015 17:04:04 +0800                  |
+## |         Update : Sun, 15 Mar 2015 19:45:39 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -3728,6 +3728,10 @@
 2001:1900:2200:80::12 r7---sn-a8au-co5e.googlevideo.com
 2001:1900:2200:80::13 r8---sn-a8au-co5e.googlevideo.com
 
+2001:1bd0:1:12::c r1---sn-gxuxapu-hm2e.googlevideo.com
+2001:1bd0:1:12::d r2---sn-gxuxapu-hm2e.googlevideo.com
+2001:1bd0:1:12::e r3---sn-gxuxapu-hm2e.googlevideo.com
+
 2400:c700:2000:2::c r1---sn-pqx5jxaa0a5g-2o9l.googlevideo.com
 2400:c700:2000:2::d r2---sn-pqx5jxaa0a5g-2o9l.googlevideo.com
 2400:c700:2000:2::e r3---sn-pqx5jxaa0a5g-2o9l.googlevideo.com
@@ -4849,6 +4853,18 @@
 2404:6800:4003:9::b r5---sn-npo7zn7z.googlevideo.com
 2404:6800:4003:9::c r6---sn-npo7zn7z.googlevideo.com
 
+2404:6800:4004::7 r1---sn-oguesnsy.googlevideo.com
+2404:6800:4004::8 r2---sn-oguesnsy.googlevideo.com
+2404:6800:4004::9 r3---sn-oguesnsy.googlevideo.com
+2404:6800:4004::a r4---sn-oguesnsy.googlevideo.com
+2404:6800:4004::b r5---sn-oguesnsy.googlevideo.com
+2404:6800:4004::c r6---sn-oguesnsy.googlevideo.com
+2404:6800:4004:1::7 r1---sn-oguesnz7.googlevideo.com
+2404:6800:4004:1::8 r2---sn-oguesnz7.googlevideo.com
+2404:6800:4004:1::9 r3---sn-oguesnz7.googlevideo.com
+2404:6800:4004:1::a r4---sn-oguesnz7.googlevideo.com
+2404:6800:4004:1::b r5---sn-oguesnz7.googlevideo.com
+2404:6800:4004:1::c r6---sn-oguesnz7.googlevideo.com
 2404:6800:4004:20::6 r1---sn-oguesn7l.googlevideo.com
 2404:6800:4004:20::7 r2---sn-oguesn7l.googlevideo.com
 2404:6800:4004:20::8 r3---sn-oguesn7l.googlevideo.com
@@ -13557,6 +13573,71 @@
 2a00:1450:400b:7::17 r18---sn-q0c7dn7r.googlevideo.com
 2a00:1450:400b:7::18 r19---sn-q0c7dn7r.googlevideo.com
 2a00:1450:400b:7::19 r20---sn-q0c7dn7r.googlevideo.com
+
+2a00:1450:400c:400::10 r1---sn-cg07luee.googlevideo.com
+2a00:1450:400c:400::11 r2---sn-cg07luee.googlevideo.com
+2a00:1450:400c:400::12 r3---sn-cg07luee.googlevideo.com
+2a00:1450:400c:400::13 r4---sn-cg07luee.googlevideo.com
+2a00:1450:400c:400::14 r5---sn-cg07luee.googlevideo.com
+2a00:1450:400c:400::15 r6---sn-cg07luee.googlevideo.com
+2a00:1450:400c:400::16 r7---sn-cg07luee.googlevideo.com
+2a00:1450:400c:400::17 r8---sn-cg07luee.googlevideo.com
+2a00:1450:400c:401::10 r1---sn-cg07luel.googlevideo.com
+2a00:1450:400c:401::11 r2---sn-cg07luel.googlevideo.com
+2a00:1450:400c:401::12 r3---sn-cg07luel.googlevideo.com
+2a00:1450:400c:401::13 r4---sn-cg07luel.googlevideo.com
+2a00:1450:400c:401::14 r5---sn-cg07luel.googlevideo.com
+2a00:1450:400c:401::15 r6---sn-cg07luel.googlevideo.com
+2a00:1450:400c:401::16 r7---sn-cg07luel.googlevideo.com
+2a00:1450:400c:401::17 r8---sn-cg07luel.googlevideo.com
+2a00:1450:400c:402::10 r1---sn-cg07lues.googlevideo.com
+2a00:1450:400c:402::11 r2---sn-cg07lues.googlevideo.com
+2a00:1450:400c:402::12 r3---sn-cg07lues.googlevideo.com
+2a00:1450:400c:402::13 r4---sn-cg07lues.googlevideo.com
+2a00:1450:400c:402::14 r5---sn-cg07lues.googlevideo.com
+2a00:1450:400c:402::15 r6---sn-cg07lues.googlevideo.com
+2a00:1450:400c:402::16 r7---sn-cg07lues.googlevideo.com
+2a00:1450:400c:402::17 r8---sn-cg07lues.googlevideo.com
+2a00:1450:400c:403::10 r1---sn-cg07luez.googlevideo.com
+2a00:1450:400c:403::11 r2---sn-cg07luez.googlevideo.com
+2a00:1450:400c:403::12 r3---sn-cg07luez.googlevideo.com
+2a00:1450:400c:403::13 r4---sn-cg07luez.googlevideo.com
+2a00:1450:400c:403::14 r5---sn-cg07luez.googlevideo.com
+2a00:1450:400c:403::15 r6---sn-cg07luez.googlevideo.com
+2a00:1450:400c:403::16 r7---sn-cg07luez.googlevideo.com
+2a00:1450:400c:403::17 r8---sn-cg07luez.googlevideo.com
+2a00:1450:400c:404::10 r1---sn-cg07lue6.googlevideo.com
+2a00:1450:400c:404::11 r2---sn-cg07lue6.googlevideo.com
+2a00:1450:400c:404::12 r3---sn-cg07lue6.googlevideo.com
+2a00:1450:400c:404::13 r4---sn-cg07lue6.googlevideo.com
+2a00:1450:400c:404::14 r5---sn-cg07lue6.googlevideo.com
+2a00:1450:400c:404::15 r6---sn-cg07lue6.googlevideo.com
+2a00:1450:400c:404::16 r7---sn-cg07lue6.googlevideo.com
+2a00:1450:400c:404::17 r8---sn-cg07lue6.googlevideo.com
+2a00:1450:400c:405::10 r1---sn-cg07lued.googlevideo.com
+2a00:1450:400c:405::11 r2---sn-cg07lued.googlevideo.com
+2a00:1450:400c:405::12 r3---sn-cg07lued.googlevideo.com
+2a00:1450:400c:405::13 r4---sn-cg07lued.googlevideo.com
+2a00:1450:400c:405::14 r5---sn-cg07lued.googlevideo.com
+2a00:1450:400c:405::15 r6---sn-cg07lued.googlevideo.com
+2a00:1450:400c:405::16 r7---sn-cg07lued.googlevideo.com
+2a00:1450:400c:405::17 r8---sn-cg07lued.googlevideo.com
+2a00:1450:400c:406::10 r1---sn-cg07luek.googlevideo.com
+2a00:1450:400c:406::11 r2---sn-cg07luek.googlevideo.com
+2a00:1450:400c:406::12 r3---sn-cg07luek.googlevideo.com
+2a00:1450:400c:406::13 r4---sn-cg07luek.googlevideo.com
+2a00:1450:400c:406::14 r5---sn-cg07luek.googlevideo.com
+2a00:1450:400c:406::15 r6---sn-cg07luek.googlevideo.com
+2a00:1450:400c:406::16 r7---sn-cg07luek.googlevideo.com
+2a00:1450:400c:406::17 r8---sn-cg07luek.googlevideo.com
+2a00:1450:400c:407::10 r1---sn-cg07luer.googlevideo.com
+2a00:1450:400c:407::11 r2---sn-cg07luer.googlevideo.com
+2a00:1450:400c:407::12 r3---sn-cg07luer.googlevideo.com
+2a00:1450:400c:407::13 r4---sn-cg07luer.googlevideo.com
+2a00:1450:400c:407::14 r5---sn-cg07luer.googlevideo.com
+2a00:1450:400c:407::15 r6---sn-cg07luer.googlevideo.com
+2a00:1450:400c:407::16 r7---sn-cg07luer.googlevideo.com
+2a00:1450:400c:407::17 r8---sn-cg07luer.googlevideo.com
 
 2a00:1450:400e:4::6 r1---sn-5hn7snee.googlevideo.com
 2a00:1450:400e:4::7 r2---sn-5hn7snee.googlevideo.com

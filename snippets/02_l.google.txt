@@ -115,6 +115,7 @@
 2607:f8b0:4007:804::1003 writely-china.l.google.com
 2607:f8b0:4007:804::1000 www-google-analytics.l.google.com
 2607:f8b0:4007:804::101e www-googletagmanager.l.google.com
+2607:f8b0:400e:c01::c7 www-wide.l.google.com
 2607:f8b0:4007:804::1007 youtube-ui.l.google.com
 2607:f8b0:400e:c02::74 yt-video-upload.l.google.com
 2607:f8b0:4007:804::100e ytimg.l.google.com

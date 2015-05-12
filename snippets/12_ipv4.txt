@@ -129,21 +129,21 @@
 199.16.158.11 www.tweetdeck.com
 
 ## Twitter
-185.45.5.34 twitter.com
-185.45.5.34 about.twitter.com
-185.45.5.34 ads.twitter.com
-185.45.5.34 api.twitter.com
-185.45.5.34 blog.twitter.com
-185.45.5.34 business.twitter.com
-185.45.5.34 dev.twitter.com
-185.45.5.34 media.twitter.com
-185.45.5.34 mobile.twitter.com
-185.45.5.34 pic.twitter.com
-185.45.5.34 s.twitter.com
+199.16.158.168 twitter.com
+199.16.158.168 about.twitter.com
+199.16.158.168 ads.twitter.com
+199.16.158.168 api.twitter.com
+199.16.158.168 blog.twitter.com
+199.16.158.168 business.twitter.com
+199.16.158.168 dev.twitter.com
+199.16.158.168 media.twitter.com
+199.16.158.168 mobile.twitter.com
+199.16.158.168 pic.twitter.com
+199.16.158.168 s.twitter.com
 66.6.44.4 status.twitter.com
-185.45.5.34 support.twitter.com
-185.45.5.34 www.twitter.com
-185.45.5.34 t.co
+199.16.158.168 support.twitter.com
+199.16.158.168 www.twitter.com
+199.16.158.183 t.co
 199.96.57.6 cdn.api.twitter.com #platform.twitter.com.tw.map.fastly.net
 199.96.57.6 platform.twitter.com #platform.twitter.com.tw.map.fastly.net
 117.18.237.139 abs.twimg.com
@@ -156,6 +156,7 @@
 72.246.190.16 a5.twimg.com #a1441.l.akamai.net
 199.96.57.57 a6.twimg.com #cache-tw-sjc2-b.svc.fastly.net
 117.18.237.211 g.twimg.com #cs178.wac.edgecastcdn.net
+117.18.237.139 o.twimg.com
 117.18.237.139 si0.twimg.com
 117.18.237.139 si1.twimg.com
 117.18.237.139 si2.twimg.com

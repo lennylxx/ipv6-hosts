@@ -13,34 +13,35 @@ import time
 import select
 
 blackhole = (
-'10::2222',
-'101::1234',
-'2001::212',
-'2001:da8:112::21ae',
-'2003:ff:1:2:3:4:5fff:6',
-'2003:ff:1:2:3:4:5fff:7',
-'2003:ff:1:2:3:4:5fff:8',
-'2003:ff:1:2:3:4:5fff:9',
-'2003:ff:1:2:3:4:5fff:10',
-'2003:ff:1:2:3:4:5fff:11',
-'2003:ff:1:2:3:4:5fff:12',
-'21:2::2',
-'2123::3e12')
+    '10::2222',
+    '101::1234',
+    '2001::212',
+    '2001:da8:112::21ae',
+    '2003:ff:1:2:3:4:5fff:6',
+    '2003:ff:1:2:3:4:5fff:7',
+    '2003:ff:1:2:3:4:5fff:8',
+    '2003:ff:1:2:3:4:5fff:9',
+    '2003:ff:1:2:3:4:5fff:10',
+    '2003:ff:1:2:3:4:5fff:11',
+    '2003:ff:1:2:3:4:5fff:12',
+    '21:2::2',
+    '2123::3e12'
+)
 
 dns = {
-'google_a':'2001:4860:4860::8888',
-'google_b':'2001:4860:4860::8844',
-'he_net':'2001:470:20::2',
-'lax_he_net':'2001:470:0:9d::2'
+    'google_a': '2001:4860:4860::8888',
+    'google_b': '2001:4860:4860::8844',
+    'he_net': '2001:470:20::2',
+    'lax_he_net': '2001:470:0:9d::2'
 }
 
 config = {
-'dns':dns['google_b'],
-'infile':'',
-'outfile':'',
-'querytype':'aaaa',
-'cname': False,
-'threadnum':10
+    'dns': dns['google_b'],
+    'infile': '',
+    'outfile': '',
+    'querytype': 'aaaa',
+    'cname': False,
+    'threadnum': 10
 }
 
 hosts = []
@@ -53,14 +54,14 @@ class worker_thread(threading.Thread):
         threading.Thread.__init__(self)
         self.start_pt = start_pt
         self.end_pt = end_pt
-    
+
     def run(self):
         global hosts, done_num
         for i in range(self.start_pt, self.end_pt):
             if not running: break
 
             line = hosts[i].strip()
-            
+
             if line == '' or line[0:2] == '##':
                 hosts[i] = line + '\r\n'
                 with thread_lock: done_num += 1
@@ -120,22 +121,20 @@ class watcher_thread(threading.Thread):
 
         while True:
             if sys.stdin in select.select([sys.stdin], [], [], 0)[0]:
-                t = raw_input()
+                raw_input()
+                print 'Waiting threads to exit...'
                 global running
                 with thread_lock:
                     running = False
-                print 'Waiting threads to exit...'
                 break
 
-            with thread_lock:
-                dn = done_num
-
+            dn = done_num
             outbuf = "Total: %d lines, Done: %d lines, Ratio: %d %%.\r"\
-                   % (total_num, dn, dn * 100 / total_num)
+                     % (total_num, dn, dn * 100 / total_num)
             print outbuf,
             sys.stdout.flush()
 
-            if done_num == total_num:
+            if dn == total_num:
                 print outbuf
                 break
 
@@ -146,10 +145,10 @@ def query_domain(domain, tcp):
         % (config['querytype'], config['dns'], domain)
 
     if tcp:
-        cmd = cmd[:3] + ' +tcp' + cmd[3:]
+        cmd = cmd + ' +tcp'
 
     proc = subprocess.Popen(shlex.split(cmd), stdout=subprocess.PIPE)
-    out, err = proc.communicate()
+    out, _ = proc.communicate()
     outarr = out.splitlines()
 
     cname = ip = ''
@@ -159,7 +158,7 @@ def query_domain(domain, tcp):
         if ip == '' and validate_ip_addr(v):
             ip = v
             break
-    
+
     return (cname, ip)
 
 def validate_domain(domain):
@@ -186,7 +185,7 @@ def validate_ip_addr(ip_addr):
             return False
 
 def print_help():
-    print('''usage: update_hosts [OPTIONS] FILE
+    print '''usage: update_hosts [OPTIONS] FILE
 A simple multi-threading tool used to update hosts file.
 
 Options:
@@ -194,21 +193,21 @@ Options:
   -s DNS                 set another dns server, default: 2001:4860:4860::8844
   -o OUT_FILE            ouput file, default: inputfilename.out
   -t QUERY_TYPE          dig command query type, defalut: aaaa
-  -c, --cname            write canonical name into hosts file                   
+  -c, --cname            write canonical name into hosts file
   -n THREAD_NUM          set the number of worker threads, default: 10
-''')
+'''
 
 def get_config():
     shortopts = 'hs:o:t:n:c'
     longopts = ['help', 'cname']
 
     try:
-        optlist, args = getopt.gnu_getopt(sys.argv[1:], shortopts, longopts)   
+        optlist, args = getopt.gnu_getopt(sys.argv[1:], shortopts, longopts)
     except getopt.GetoptError as e:
         print e, '\n'
         print_help()
         sys.exit(1)
-   
+
     global config
     for key, value in optlist:
         if key == '-s':
@@ -235,7 +234,7 @@ def get_config():
 
 def main():
     get_config()
-    
+
     dig_path = '/usr/bin/dig'
     if not os.path.isfile(dig_path) or not os.access(dig_path, os.X_OK):
         print "It seems you don't have 'dig' command installed properly "\
@@ -252,7 +251,7 @@ def main():
 
     if os.path.exists(config['outfile']):
         config['outfile'] += '.new'
-    
+
     try:
         outfile = open(config['outfile'], 'w')
     except IOError as e:
@@ -275,7 +274,7 @@ def main():
 
     start_pt = 0
 
-    for i in range(worker_num):
+    for _ in range(worker_num):
         if not running: break
 
         lines_for_thread = lines_per_thread
@@ -289,7 +288,7 @@ def main():
 
         t = worker_thread(start_pt, start_pt + lines_for_thread)
         start_pt += lines_for_thread
-        
+
         t.start()
         threads.append(t)
 
@@ -301,9 +300,8 @@ def main():
     except IOError as e:
         print e
         sys.exit(e.errno)
-    
+
     sys.exit(0)
 
 if __name__ == '__main__':
     main()
-

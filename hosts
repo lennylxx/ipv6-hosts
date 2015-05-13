@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Tue, 12 May 2015 15:01:45 +0800                  |
+## |         Update : Wed, 13 May 2015 21:49:34 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -30,6 +30,7 @@
 2607:f8b0:4007:804::1000 clients4.google.com #clients.l.google.com
 2607:f8b0:4007:804::1000 clients5.google.com #clients.l.google.com
 2607:f8b0:4007:804::1000 clients6.google.com #clients.l.google.com
+2607:f8b0:4007:804::1000 contacts.google.com #plus.l.google.com
 2607:f8b0:4007:804::1002 contributor.google.com #www3.l.google.com
 2607:f8b0:4007:804::1009 encrypted.google.com #www3.l.google.com
 2607:f8b0:4007:804::1002 encrypted-tbn0.google.com #encrypted-tbn.l.google.com

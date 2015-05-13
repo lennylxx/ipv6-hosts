@@ -1212,9 +1212,9 @@
 2001:1bc8:100:1b::e r3---sn-oxc0a5-ixae.googlevideo.com
 2001:1bc8:100:1b::f r4---sn-oxc0a5-ixae.googlevideo.com
 
-2001:1bd0:1:12::c r1---sn-gxuxapu-hm2e.googlevideo.com
-2001:1bd0:1:12::d r2---sn-gxuxapu-hm2e.googlevideo.com
-2001:1bd0:1:12::e r3---sn-gxuxapu-hm2e.googlevideo.com
+217.19.150.76 r1---sn-gxuxapu-hm2e.googlevideo.com #2001:1bd0:1:12::c
+217.19.150.77 r2---sn-gxuxapu-hm2e.googlevideo.com #2001:1bd0:1:12::d
+217.19.150.78 r3---sn-gxuxapu-hm2e.googlevideo.com #2001:1bd0:1:12::e
 
 2001:4350:0:12::c r1---sn-5up-u0oe.googlevideo.com
 2001:4350:0:12::d r2---sn-5up-u0oe.googlevideo.com

@@ -3,11 +3,12 @@
 import sys
 
 table = (
-'arn', 'atl', 'ber', 'bom', 'bud', 'del', 'den', 'dfw',
-'fra', 'ham', 'hkg', 'iad', 'kix', 'kul', 'lax', 'lga',
-'lhr', 'lis', 'maa', 'mad', 'mia', 'mil', 'mrs', 'muc',
-'nrt', 'nuq', 'ord', 'par', 'prg', 'qro', 'sea', 'sin',
-'sof', 'syd', 'yyz', 'zrh'
+    'ams', 'arn', 'atl', 'ber', 'bom', 'bru', 'bud', 'cbf',
+    'del', 'den', 'dfw', 'dub', 'eze', 'fra', 'gru', 'ham',
+    'hkg', 'iad', 'kix', 'kul', 'lax', 'lga', 'lhr', 'lis',
+    'maa', 'mad', 'mia', 'mil', 'mrs', 'muc', 'nrt', 'nuq',
+    'ord', 'par', 'pek', 'prg', 'qro', 'sea', 'sha', 'sin',
+    'sjc', 'sof', 'syd', 'waw', 'yyz', 'zrh'
 )
 
 def main():

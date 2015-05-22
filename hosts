@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Thu, 14 May 2015 22:56:11 +0800                  |
+## |         Update : Fri, 22 May 2015 21:08:44 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -913,6 +913,7 @@
 2607:f8b0:400e:c04::79 studio.html5rocks.com #ghs.l.google.com
 
 ## Google.org Google 公益
+2607:f8b0:4007:804::1009 www.google.org
 2607:f8b0:400e:c04::79 blog.google.org #ghs.l.google.com
 
 ## Panoramio

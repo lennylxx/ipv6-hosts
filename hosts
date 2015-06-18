@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Thu, 04 Jun 2015 12:19:17 +0800                  |
+## |         Update : Thu, 18 Jun 2015 19:51:06 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -777,11 +777,22 @@
 #2404:6800:4008:c00::62 nt5.ggpht.com
 2607:f8b0:4007:804::100a yt3.ggpht.com #photos-ugc.l.googleusercontent.com
 2607:f8b0:4007:804::100a yt4.ggpht.com #photos-ugc.l.googleusercontent.com
+2001:4860:400b:c01::85 ap1.googleusercontent.com #photos-ugc-lopri.l.googleusercontent.com
+2607:f8b0:4007:808::2001 ap2.googleusercontent.com #photos-ugc.l.googleusercontent.com
+2607:f8b0:4007:808::2001 ap3.googleusercontent.com #googlehosted.l.googleusercontent.com
+2607:f8b0:4007:808::2001 ap4.googleusercontent.com #googlehosted.l.googleusercontent.com
+2607:f8b0:4007:808::2001 ap5.googleusercontent.com #googlehosted.l.googleusercontent.com
+2607:f8b0:4007:808::2001 ap6.googleusercontent.com #googlehosted.l.googleusercontent.com
+2607:f8b0:4007:808::2001 ap7.googleusercontent.com #googlehosted.l.googleusercontent.com
+2607:f8b0:4007:808::2001 ap8.googleusercontent.com #googlehosted.l.googleusercontent.com
+2607:f8b0:4007:808::2001 ap9.googleusercontent.com #googlehosted.l.googleusercontent.com
+2607:f8b0:4007:804::100b gp.googleusercontent.com #googlehosted.l.googleusercontent.com
+2607:f8b0:4007:804::100b gp1.googleusercontent.com #googlehosted.l.googleusercontent.com
+2607:f8b0:4007:804::100b gp2.googleusercontent.com #googlehosted.l.googleusercontent.com
 2607:f8b0:4007:804::100a gp3.googleusercontent.com #photos-ugc.l.googleusercontent.com
 2607:f8b0:4007:804::100a gp4.googleusercontent.com #photos-ugc.l.googleusercontent.com
 2607:f8b0:4007:804::100a gp5.googleusercontent.com #photos-ugc.l.googleusercontent.com
 2607:f8b0:4007:804::100a gp6.googleusercontent.com #photos-ugc.l.googleusercontent.com
-2607:f8b0:4007:804::100b gp.googleusercontent.com #googlehosted.l.googleusercontent.com
 
 ## GStatic Google 静态文件存储
 2607:f8b0:4007:804::1018 accounts.gstatic.com

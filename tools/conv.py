@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-# Read the wiki for more infomation
+# Read the wiki for more information
 # https://github.com/lennylxx/ipv6-hosts/wiki/sn-domains
 
 import sys

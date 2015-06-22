@@ -21,6 +21,7 @@
 2607:f8b0:4007:804::1002 encrypted-tbn2.google.com #encrypted-tbn.l.google.com
 2607:f8b0:4007:804::1002 encrypted-tbn3.google.com #encrypted-tbn.l.google.com
 2607:f8b0:4007:804::1002 fi.google.com #www3.l.google.com
+2607:f8b0:4007:808::200e get.google.com
 2607:f8b0:4007:804::1009 goto.google.com #www3.l.google.com
 2607:f8b0:4007:804::1009 gxc.google.com #www3.l.google.com
 2607:f8b0:400e:c04::8a history.google.com #history.l.google.com

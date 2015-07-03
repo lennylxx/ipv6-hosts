@@ -933,7 +933,7 @@
 2607:f8b0:400e:c04::79 www.webm-ccl.org #ghs.l.google.com
 
 ## GoogleZip 数据压缩代理
-2800:3f0:4003:c00::72 check.googlezip.net
+#2800:3f0:4003:c00::72 check.googlezip.net
 2607:f8b0:400e:c04::d3 compress.googlezip.net
 2607:f8b0:400e:c04::d3 proxy.googlezip.net
 2607:f8b0:400e:c04::d3 proxy-dev.googlezip.net

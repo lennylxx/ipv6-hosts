@@ -35,6 +35,7 @@
 2607:f8b0:4007:804::1009 myaccount.google.com #www3.l.google.com
 2607:f8b0:4007:804::1006 peering.google.com #www3.l.google.com
 2607:f8b0:4007:804::1009 pki.google.com #www3.l.google.com
+2607:f8b0:4007:804::1008 security.google.com #www3.l.google.com
 2607:f8b0:4007:804::1002 services.google.com #www3.l.google.com
 2607:f8b0:4007:804::1004 suggestqueries.google.com #suggestqueries.l.google.com
 2607:f8b0:400e:c04::c0 supl.google.com

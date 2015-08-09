@@ -831,6 +831,10 @@
 2607:f8b0:4007:804::1008 mt1.googleapis.com #mt.l.google.com
 2607:f8b0:4007:804::1008 mt2.googleapis.com #mt.l.google.com
 2607:f8b0:4007:804::1008 mt3.googleapis.com #mt.l.google.com
+2607:f8b0:4007:804::200a mts0.googleapis.com #googleapis.l.google.com
+2607:f8b0:4007:804::200a mts1.googleapis.com #googleapis.l.google.com
+2607:f8b0:4007:804::200a mts2.googleapis.com #googleapis.l.google.com
+2607:f8b0:4007:804::200a mts3.googleapis.com #googleapis.l.google.com
 
 ## Google Hosted 托管服务
 2607:f8b0:4007:804::100a storage.googleapis.com #storage-ugc.l.googleusercontent.com

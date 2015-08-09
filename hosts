@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Thu, 06 Aug 2015 22:47:51 +0800                  |
+## |         Update : Sun, 09 Aug 2015 13:45:22 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -848,6 +848,10 @@
 2607:f8b0:4007:804::1008 mt1.googleapis.com #mt.l.google.com
 2607:f8b0:4007:804::1008 mt2.googleapis.com #mt.l.google.com
 2607:f8b0:4007:804::1008 mt3.googleapis.com #mt.l.google.com
+2607:f8b0:4007:804::200a mts0.googleapis.com #googleapis.l.google.com
+2607:f8b0:4007:804::200a mts1.googleapis.com #googleapis.l.google.com
+2607:f8b0:4007:804::200a mts2.googleapis.com #googleapis.l.google.com
+2607:f8b0:4007:804::200a mts3.googleapis.com #googleapis.l.google.com
 
 ## Google Hosted 托管服务
 2607:f8b0:4007:804::100a storage.googleapis.com #storage-ugc.l.googleusercontent.com
@@ -2427,6 +2431,7 @@
 2607:f8b0:4007:804::100b reader.googleusercontent.com
 2607:f8b0:4007:804::100b s1.googleusercontent.com
 2607:f8b0:4007:804::100b s2.googleusercontent.com
+2607:f8b0:4007:804::100b sj.googleusercontent.com
 2607:f8b0:4007:804::100b spreadsheets-opensocial.googleusercontent.com
 2607:f8b0:4007:804::100b static.googleusercontent.com
 2607:f8b0:4007:804::100b themes.googleusercontent.com

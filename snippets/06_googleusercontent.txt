@@ -1,6 +1,7 @@
 ## GoogleUserContent 用户自定义的Google服务 googlehosted.l.googleusercontent.com
 2607:f8b0:4007:804::100b www.googleusercontent.com
 2607:f8b0:4007:804::100b androidmarket.googleusercontent.com
+2607:f8b0:4007:804::100b apidata.googleusercontent.com
 2607:f8b0:4007:804::100b blogger.googleusercontent.com
 2607:f8b0:4007:804::100b blogspot.l.googleusercontent.com
 2607:f8b0:4007:804::1004 gadgets.l.googleusercontent.com
@@ -135,6 +136,10 @@
 2607:f8b0:4007:804::100b lh5.googleusercontent.com
 2607:f8b0:4007:804::100b lh6.googleusercontent.com
 2607:f8b0:4007:804::100b mail-attachment.googleusercontent.com
+2607:f8b0:4007:804::100b mua3.googleusercontent.com
+2607:f8b0:4007:804::100b mua4.googleusercontent.com
+2607:f8b0:4007:804::100b mua5.googleusercontent.com
+2607:f8b0:4007:804::100b mua6.googleusercontent.com
 2607:f8b0:4007:804::100b music.googleusercontent.com
 2607:f8b0:4007:804::100b music-onebox.googleusercontent.com
 2607:f8b0:4007:804::100b newsstand.googleusercontent.com

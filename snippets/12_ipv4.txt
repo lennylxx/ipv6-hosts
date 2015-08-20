@@ -111,6 +111,17 @@
 203.84.208.52 s.yimg.com #s.gycs.b.yahoodns.net
 
 ## GitHub
+192.30.252.130 github.com
+192.30.252.130 www.github.com #github.com
+192.30.252.138 api.github.com
+192.30.252.86 live.github.com
+103.245.222.133 assets-cdn.github.com #github.map.fastly.net
+103.245.222.133 collector-cdn.github.com #github.map.fastly.net
+103.245.222.133 avatars0.githubusercontent.com #github.map.fastly.net
+103.245.222.133 avatars1.githubusercontent.com #github.map.fastly.net
+103.245.222.133 avatars2.githubusercontent.com #github.map.fastly.net
+103.245.222.133 avatars3.githubusercontent.com #github.map.fastly.net
+103.245.222.133 raw.githubusercontent.com #github.map.fastly.net
 192.30.252.141 gist.github.com
 
 ## Gravatar

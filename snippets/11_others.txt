@@ -43,8 +43,9 @@
 #2600:140e:1:1::3cfe:83b1 i3.microsoft.com
 #2600:140e:1::3cfe:83ca i4.microsoft.com
 2002:836b:9820::836b:9886 www.ipv6.microsoft.com
-134.170.108.154 onedrive.live.com #skyweb.skyprod.akadns.net
-134.170.108.154 skyweb.skyprod.akadns.net
+204.79.197.217 onedrive.live.com #skyweb.skyprod.akadns.net
+204.79.197.217 skyweb.skyprod.akadns.net
+204.79.197.217 webedgegeo.skyprod.akadns.net
 2600:140b:4:198::1aff s1-word-view-15.cdn.office.net #e6911.dspg.akamaiedge.net
 2600:140b:4:18b::1aff s1-officeapps-15.cdn.office.net #e6911.dspg.akamaiedge.net
 61.213.171.16 a248.e.akamai.net

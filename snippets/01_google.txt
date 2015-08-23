@@ -24,6 +24,7 @@
 2607:f8b0:4007:808::200e get.google.com
 2607:f8b0:4007:804::1009 goto.google.com #www3.l.google.com
 2607:f8b0:4007:804::1009 gxc.google.com #www3.l.google.com
+2607:f8b0:4007:804::1009 hangouts.google.com #www3.l.google.com
 2607:f8b0:400e:c04::8a history.google.com #history.l.google.com
 2607:f8b0:4007:804::1009 investor.google.com #www3.l.google.com
 2607:f8b0:4007:804::1009 ipv6.google.com #ipv6.l.google.com

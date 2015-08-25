@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Sun, 23 Aug 2015 17:00:26 +0800                  |
+## |         Update : Wed, 26 Aug 2015 00:05:21 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -51,10 +51,12 @@
 2607:f8b0:4007:808::200b m.google.com #mobile.l.google.com
 2607:f8b0:4007:808::200b mobile.google.com #mobile.l.google.com
 2607:f8b0:4007:804::1009 myaccount.google.com #www3.l.google.com
+2607:f8b0:4007:804::1008 on.google.com #www3.l.google.com
 2607:f8b0:4007:804::1006 peering.google.com #www3.l.google.com
 2607:f8b0:4007:804::1009 pki.google.com #www3.l.google.com
 2607:f8b0:4007:804::1008 security.google.com #www3.l.google.com
 2607:f8b0:4007:804::1002 services.google.com #www3.l.google.com
+2607:f8b0:4007:804::1002 store.google.com
 2607:f8b0:4007:804::1004 suggestqueries.google.com #suggestqueries.l.google.com
 2607:f8b0:400e:c04::c0 supl.google.com
 2607:f8b0:4007:804::1009 support.google.com #www3.l.google.com

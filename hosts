@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Wed, 26 Aug 2015 00:05:21 +0800                  |
+## |         Update : Wed, 26 Aug 2015 00:11:05 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -18,6 +18,8 @@
 ## Google.com
 2001:4860:4860::8888 google-public-dns-a.google.com
 2001:4860:4860::8844 google-public-dns-b.google.com
+
+2607:f8b0:4007:804::1008 abc.xyz
 
 2607:f8b0:4007:804::1008 google.com
 2607:f8b0:4007:804::1014 www.google.com

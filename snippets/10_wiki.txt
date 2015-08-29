@@ -1,13 +1,13 @@
 ## WikiMedia 维基媒体
 #2620:0:860:2:21d:9ff:fe33:f235 static.wikipedia.org #hume.wikimedia.org
 #2620:0:860:2:21d:9ff:fe33:f235 hume.wikimedia.org
-#2620:0:860:2:230:48ff:fe5a:eb1e download.wikimedia.org
+2620:0:863:ed1a::1 download.wikimedia.org
 #2620:0:860:2:230:48ff:fe5a:eb1e download.wikipedia.org
-#2620:0:860:2:230:48ff:fe5a:eb1e dumps.wikimedia.org
+2620::861:1:208:80:154:11 dumps.wikimedia.org #dataset1001.wikimedia.org
 #2620:0:860:2:230:48ff:fe5a:eb1e dataset2.wikimedia.org
 #2620:0:862:1::80:2 blog.wikimedia.org
 #2620:0:862:1::80:2 geoiplookup.wikimedia.org
-#2620:0:862:1:209:3dff:fe10:d5d2 svn.wikimedia.org
+2620:0:863:ed1a::1 svn.wikimedia.org
 #2620:0:862:1:209:3dff:fe10:d5d2 mayflower.esams.wikimedia.org
 #2620:0:862:1:6666:6666:6666:6666 ipv6and4.labs.wikimedia.org
 
@@ -21,20 +21,20 @@
 2620:0:863:ed1a::1 meta.wikimedia.org
 2620:0:863:ed1a::1 secure.wikimedia.org
 2620:0:863:ed1a::1 species.wikimedia.org
-2620:0:863:ed1a::1:a bits.wikimedia.org
+2620:0:863:ed1a::1 bits.wikimedia.org
 2620:0:863:ed1a::2:b upload.wikimedia.org
-2620:0:863:ed1a::1 wikimedia-lb.wikimedia.org
-2620:0:863:ed1a::1 wikipedia-lb.wikimedia.org
-2620:0:863:ed1a::1 wiktionary-lb.wikimedia.org
-2620:0:863:ed1a::1 wikiquote-lb.wikimedia.org
-2620:0:863:ed1a::1 wikibooks-lb.wikimedia.org
-2620:0:863:ed1a::1 wikisource-lb.wikimedia.org
-2620:0:863:ed1a::1 wikinews-lb.wikimedia.org
-2620:0:863:ed1a::1 wikiversity-lb.wikimedia.org
-2620:0:863:ed1a::1 mediawiki-lb.wikimedia.org
+#2620:0:863:ed1a::1 wikimedia-lb.wikimedia.org
+#2620:0:863:ed1a::1 wikipedia-lb.wikimedia.org
+#2620:0:863:ed1a::1 wiktionary-lb.wikimedia.org
+#2620:0:863:ed1a::1 wikiquote-lb.wikimedia.org
+#2620:0:863:ed1a::1 wikibooks-lb.wikimedia.org
+#2620:0:863:ed1a::1 wikisource-lb.wikimedia.org
+#2620:0:863:ed1a::1 wikinews-lb.wikimedia.org
+#2620:0:863:ed1a::1 wikiversity-lb.wikimedia.org
+#2620:0:863:ed1a::1 mediawiki-lb.wikimedia.org
 2620:0:863:ed1a::1:c m.wikimedia.org
-2620:0:861:1:208:80:154:41 en.planet.wikimedia.org #zirconium.wikimedia.org
-2620:0:861:1:208:80:154:41 zirconium.wikimedia.org
+2620:0:861:ed1a::11 en.planet.wikimedia.org #misc-web-lb.eqiad.wikimedia.org
+#2620:0:861:1:208:80:154:41 zirconium.wikimedia.org
 
 #2620:0:860:ed1a:: wikimedia-lb.pmtpa.wikimedia.org
 #2620:0:860:ed1a::1 wikipedia-lb.pmtpa.wikimedia.org
@@ -65,11 +65,11 @@
 #2620:0:862:ed1a::8 mediawiki-lb.esams.wikimedia.org
 
 2620:0:861:ed1a::1 text-lb.eqiad.wikimedia.org
-2620:0:861:ed1a::1:a bits-lb.eqiad.wikimedia.org
+#2620:0:861:ed1a::1:a bits-lb.eqiad.wikimedia.org
 2620:0:861:ed1a::1:c mobile-lb.eqiad.wikimedia.org
 2620:0:861:ed1a::2:b upload-lb.eqiad.wikimedia.org
 2620:0:863:ed1a::1 text-lb.ulsfo.wikimedia.org
-2620:0:863:ed1a::1:a bits-lb.ulsfo.wikimedia.org
+#2620:0:863:ed1a::1:a bits-lb.ulsfo.wikimedia.org
 2620:0:863:ed1a::1:c mobile-lb.ulsfo.wikimedia.org
 2620:0:863:ed1a::2:b upload-lb.ulsfo.wikimedia.org
 

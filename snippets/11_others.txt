@@ -1,12 +1,12 @@
 ## Apple 苹果
-2600:140b:4:18c::c77 www.apple.com #e3191.dscc.akamaiedge.net
+2600:140b:13:186::c77 www.apple.com #www.isg-apple.com.akadns.net
 
 ## Blizzard Entertainment 暴雪娱乐
 2620:10b:9006:600:dad3:85ff:fed9:ce24 ipv6.blizzard.com
 
 ## Gravatar
-2606:2800:220:bf1:95:a65:51f:1a94 0.gravatar.com #cs91.wac.edgecastcdn.net
-2606:2800:220:bf1:95:a65:51f:1a94 1.gravatar.com #cs91.wac.edgecastcdn.net
+2606:280:20d:1047:6cf:353:607:e8a 0.gravatar.com #cs91.wac.edgecastcdn.net
+2606:2800:20d:1047:6cf:353:607:e8a 1.gravatar.com #cs91.wac.edgecastcdn.net
 
 ## Plurk
 #2607:f128:47::1:1 plurk.com
@@ -17,20 +17,20 @@
 ## US 美国
 ## Mozilla
 2620:101:8008:5::2:1 www.mozilla.org #mozorg.dynect.mozilla.net
-2620:101:8008:5::2:6 air.mozilla.org #generic.zlb.phx.mozilla.net
+#2620:101:8008:5::2:6 air.mozilla.org #generic.zlb.phx.mozilla.net
 2620:101:8020:5::2:132 addons.mozilla.org #addons.dynect.mozilla.net
-2620:101:8008:5::2:6 blog.mozilla.org #generic.zlb.phx.mozilla.net
+#2620:101:8008:5::2:6 blog.mozilla.org #generic.zlb.phx.mozilla.net
 #2620:101:8008:5::2:9 bugzilla.mozilla.org #bugzilla.zlb.phx.mozilla.net
 2620:101:8008:5::2:7 dnt.mozilla.org #static.zlb.phx.mozilla.net
 2620:101:8008:5::2:6 firefoxflicks.mozilla.org #generic.zlb.phx.mozilla.net
-2620:101:8008:5::2:6 hacks.mozilla.org #generic.zlb.phx.mozilla.net
-2620:101:8008:5::2:7 nightly.mozilla.org #static.zlb.phx.mozilla.net
+#2620:101:8008:5::2:6 hacks.mozilla.org #generic.zlb.phx.mozilla.net
+#2620:101:8008:5::2:7 nightly.mozilla.org #static.zlb.phx.mozilla.net
 2620:101:8008:5::2:6 pastebin.mozilla.org #generic.zlb.phx.mozilla.net
 2620:101:8008:5::2:7 planet.mozilla.org #static.zlb.phx.mozilla.net
-2620:101:8008:5::2:6 quality.mozilla.org
-2620:101:8008:5::2:8 releases.mozilla.org #static-non-ssl.zlb.phx.mozilla.net
+#2620:101:8008:5::2:6 quality.mozilla.org
+#2620:101:8008:5::2:8 releases.mozilla.org #static-non-ssl.zlb.phx.mozilla.net
 2620:101:8008:5::2:3 support.mozilla.org #sumo.zlb.phx.mozilla.net
-2620:101:8008:5::2:6 tbpl.mozilla.org #generic.zlb.phx.mozilla.net
+2620:101:8008:5::2:7 tbpl.mozilla.org #static-redirect.zlb.phx.mozilla.net
 2620:101:8008:5::2:6 wiki.mozilla.org #generic.zlb.phx.mozilla.net
 2620:101:8008:5::2:7 www.mozilla.com #static-redirect.zlb.phx.mozilla.net
 2620:101:8008:5::2:8 www.firefox.com #firefox.com
@@ -39,66 +39,66 @@
 ## Microsoft 微软
 2600:140b:4:1b6::2768 www.microsoft.com #e10088.dscb.akamaiedge.net
 #2600:140e:1:1::3cfe:83a3 i.microsoft.com
-#2600:140e:1::3cfe:83c8 i2.microsoft.com
-#2600:140e:1:1::3cfe:83b1 i3.microsoft.com
-#2600:140e:1::3cfe:83ca i4.microsoft.com
+2600:140b:13:189::29df i2.microsoft.com #i.microsoft.com.edgekey.net
+2600:140b:13:193::29df i3.microsoft.com #i.microsoft.com.edgekey.net
+2600:1417:e::48f6:6711 i4.microsoft.com #i.toggle.www.ms.akadns.net
 2002:836b:9820::836b:9886 www.ipv6.microsoft.com
 204.79.197.217 onedrive.live.com #skyweb.skyprod.akadns.net
 204.79.197.217 skyweb.skyprod.akadns.net
 204.79.197.217 webedgegeo.skyprod.akadns.net
-2600:140b:4:198::1aff s1-word-view-15.cdn.office.net #e6911.dspg.akamaiedge.net
-2600:140b:4:18b::1aff s1-officeapps-15.cdn.office.net #e6911.dspg.akamaiedge.net
+2600:140b:13:192::1aff s1-word-view-15.cdn.office.net #wildcard.cdn.office.net.edgekey.net
+#2600:140b:4:18b::1aff s1-officeapps-15.cdn.office.net #e6911.dspg.akamaiedge.net
 61.213.171.16 a248.e.akamai.net
 
 ## ARIN
-2001:500:4:c000::44 www.arin.net
-2001:500:13::46 whois.arin.net
+2001:500:4:c000::43 www.arin.net
+2001:500:31::46 whois.arin.net
 
 ## Yahoo!
-2406:2000:e4:200::4001 www.yahoo.com #fd-fp3.wg1.b.yahoo.com
-2406:2000:f016:1fe::3001 news.yahoo.com #ds-jpx-ycpi-uno.gycpi.b.yahoodns.net
-2406:2000:f016:1fe::3000 hk.news.yahoo.com #ds-jpx-ycpi-uno.gycpi.b.yahoodns.net
+2406:2000:ec:601::1009 www.yahoo.com #fd-fp3.wg1.b.yahoo.com
+2406:2000:f016:1fe::3001 news.yahoo.com #fd-geoycpi-uno-deluxe.gycpi.b.yahoodns.net
+2406:2000:f016:1fe::3001 hk.news.yahoo.com #fd-geoycpi-uno-deluxe.gycpi.b.yahoodns.net
 2406:2000:fc:200::c:9103 dstest.yahoo.com #ds-jpx-ycpi-uno.gycpi.b.yahoodns.net
 2406:2000:fc:200::c:9102 dstest2.yahoo.com #ds-jpx-ycpi-uno.gycpi.b.yahoodns.net
 2406:2000:f016:1fe::3001 dstest3.yahoo.com #ds-jpx-ycpi-uno.gycpi.b.yahoodns.net
-2406:2000:f016:1fe::3000 tw.news.yahoo.com #ds-jpx-ycpi-uno.gycpi.b.yahoodns.net
-2406:2000:fc:200::c:9103 tw.news.yahoo.com #ds-jpx-ycpi-uno.gycpi.b.yahoodns.net
-#2001:4998:8:1::2001 l.yimg.com #any-l.aycs.b.yahoodns.net
-#2001:4998:8:1::2001 l1.yimg.com #any-l.aycs.b.yahoodns.net
+2406:2000:f016:1fe::3000 tw.news.yahoo.com #fd-geoycpi-uno-deluxe.gycpi.b.yahoodns.net
+2406:2000:f016:1fe::3001 tw.news.yahoo.com #fd-geoycpi-uno-deluxe.gycpi.b.yahoodns.net
+2406:2000:f008:1fd::c:1101 l.yimg.com #l.gycs.b.yahoodns.net
+2406:2000:fc:402::c:2201 l1.yimg.com #l.gycs.b.yahoodns.net
 #2001:4998:8:1::2001 l2.yimg.com #any-l.aycs.b.yahoodns.net
 #2001:4998:8:1::2001 l3.yimg.com #any-l.aycs.b.yahoodns.net
 2406:2000:104:604::2000 ad.yieldmanager.com #ds-kr-world.ngd.gysm.yahoodns.net
 
 ## Uncyclopedia
-2400:cb00:2048:1::681c:1b21 uncyclopedia.hk
-2400:cb00:2048:1::681c:1a09 uncyclopedia.info
+2400:cb00:2048:1::681c:1a21 uncyclopedia.hk
+2400:cb00:2048:1::681c:1b09 uncyclopedia.info
 2400:cb00:2048:1::681c:1a09 www.uncyclopedia.info
 2400:cb00:2048:1::681c:1204 uncyclopedia.tw
 2400:cb00:2048:1::681c:a56 uncyclomedia.org
-2400:cb00:2048:1::681c:b56 meta.uncyclomedia.org
-2400:cb00:2048:1::681c:183a images.uncyc.org
+2400:cb00:2048:1::681c:a56 meta.uncyclomedia.org
+2400:cb00:2048:1::681c:193a images.uncyc.org
 2400:cb00:2048:1::681c:193a static.uncyc.org
-2400:cb00:2048:1::681c:1109 ansaikuropedia.org
+2400:cb00:2048:1::681c:1009 ansaikuropedia.org
 
 ## AT 奥地利
 ## Tor Project
-2620:0:6b0:b:1a1a:0:26e5:4810 torproject.org
-2620:0:6b0:b:1a1a:0:26e5:4810 www.torproject.org
+2620::6b0:b:1a1a:0:26e5:4810 torproject.org
+2001:858:2:2:aabb::563b:1e28 www.torproject.org
 2001:41b8:202:deb:213:21ff:fe20:1426 deb.torproject.org #www.torproject.org
-2620:0:6b0:b:1a1a:0:26e5:481e trac.torproject.org #troodi.torproject.org
-2001:858:2:2:aabb:0:563b:1e28 cloud.torproject.org #www.torproject.org
-2620:0:6b0:b:1a1a:0:26e5:4810 atlas.torproject.org #www.torproject.org
-2620:0:6b0:b:1a1a:0:26e5:480b svn.torproject.org #gayi.torproject.org
+#2620:0:6b0:b:1a1a:0:26e5:481e trac.torproject.org #troodi.torproject.org
+#2001:858:2:2:aabb:0:563b:1e28 cloud.torproject.org #www.torproject.org
+2001:41b8:202:deb:213:21ff:fe20:1426 atlas.torproject.org #www.torproject.org
+#2620:0:6b0:b:1a1a:0:26e5:480b svn.torproject.org #gayi.torproject.org
 
 ## AU 澳大利亚
 ## APNIC
 2001:dd8:8:701::244 www.apnic.net
 2001:dd8:9:2::101:34 wq.apnic.net
-2001:dc0:2001:11::205 submit.apnic.net
+#2001:dc0:2001:11::205 submit.apnic.net
 
 ## FR 法国
-2a01:e0d:1:3:58bf:fa02:0:1 videolan.org
-2a01:e0d:1:3:58bf:fa02:0:1 www.videolan.org #ganesh.videolan.org
+#2a01:e0d:1:3:58bf:fa02:0:1 videolan.org
+#2a01:e0d:1:3:58bf:fa02:0:1 www.videolan.org #ganesh.videolan.org
 
 ## JP 日本
 ## JAIST 北陸先端科学技術大学院大学
@@ -107,8 +107,8 @@
 
 ## NL 荷兰
 ## Ubuntu Archive
-2001:7b8:3:37:213:136:29:218 ipv6.torrent.ubuntu.com #ubuntuv6tracker.bit.nl
-2001:7b8:3:37:213:136:29:218 nl.archive.ubuntu.com #ubuntuarchive.bit.nl
+2001:7b8:3:37::21:3 ipv6.torrent.ubuntu.com #ubuntuv6tracker.bit.nl
+#2001:7b8:3:37:213:136:29:218 nl.archive.ubuntu.com #ubuntuarchive.bit.nl
 
 ## PA 巴拿马
 2a02:29b8:1925::2 bitsnoop.com

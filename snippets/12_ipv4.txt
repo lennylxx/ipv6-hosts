@@ -157,7 +157,7 @@
 192.229.145.102 static.squarespace.com #cs301.wpc.taucdn.net
 
 ## StackExchange/StackOverflow
-190.93.246.58 cdn.sstatic.net #sstatic.net
+190.93.244.58 cdn.sstatic.net #sstatic.net
 
 ## Tumblr
 68.232.44.253 gs1.wac.edgecastcdn.net

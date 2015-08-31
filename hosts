@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Sun, 30 Aug 2015 18:58:51 +0800                  |
+## |         Update : Mon, 31 Aug 2015 22:13:55 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -17306,6 +17306,9 @@
 119.161.17.27 c1.staticflickr.com #ds-geoycs-ct.gy1.b.yahoodns.net
 119.161.17.27 c2.staticflickr.com #ds-geoycs-ct.gy1.b.yahoodns.net
 203.84.208.52 s.yimg.com #s.gycs.b.yahoodns.net
+
+## Geeksforgeeks
+54.240.168.68 d2dskowxfbo68o.cloudfront.net
 
 ## GitHub
 192.30.252.130 github.com

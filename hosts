@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Mon, 31 Aug 2015 22:13:55 +0800                  |
+## |         Update : Mon, 31 Aug 2015 22:15:31 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -693,7 +693,7 @@
 ## Scholar 学术搜索
 2404:6800:4005:808::200e scholar.google.com
 2404:6800:4005:808::200e scholar.google.com.hk
-2404:6800:4005:808::200escholar.google.com.tw
+2404:6800:4005:808::200e scholar.google.com.tw
 2404:6800:4008:c01::a0 scholar.google.cn #www.google.cn
 
 ## Sites 协作平台

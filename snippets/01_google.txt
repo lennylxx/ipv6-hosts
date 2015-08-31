@@ -930,6 +930,10 @@
 2404:6800:4003:c02::80 static.panoramio.com #c.storage.googleapis.com
 2404:6800:4003:c00::79 blog.panoramio.com #ghs.google.com
 
+## Polymer project
+2404:6800:4003:c00::79 www.polymer-project.com #ghs.google.com
+2404:6800:4003:c00::79 blog.polymer-project.com #ghs.google.com
+
 ## Recaptcha 验证码服务
 2404:6800:4005:808::2004 www.recaptcha.net #www.l.google.com
 2404:6800:4005:809::2004 api.recaptcha.net #www.l.google.com

@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Mon, 31 Aug 2015 22:15:31 +0800                  |
+## |         Update : Mon, 31 Aug 2015 23:44:10 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -946,6 +946,10 @@
 2404:6800:4003:c01::8d www.panoramio.com #appspot.l.google.com
 2404:6800:4003:c02::80 static.panoramio.com #c.storage.googleapis.com
 2404:6800:4003:c00::79 blog.panoramio.com #ghs.google.com
+
+## Polymer project
+2404:6800:4003:c00::79 www.polymer-project.com #ghs.google.com
+2404:6800:4003:c00::79 blog.polymer-project.com #ghs.google.com
 
 ## Recaptcha 验证码服务
 2404:6800:4005:808::2004 www.recaptcha.net #www.l.google.com

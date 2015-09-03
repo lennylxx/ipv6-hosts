@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Thu, 03 Sep 2015 21:01:27 +0800                  |
+## |         Update : Fri, 04 Sep 2015 01:39:15 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -993,6 +993,7 @@
 2404:6800:4005:808::200e www.teachparentstech.org #www3.l.google.com
 2404:6800:4003:c00::79 www.agoogleaday.com #ghs.l.google.com
 2404:6800:4003:c01::79 www.gosetsuden.jp #ghs.google.com
+2404:6800:4003:c00::79 www.gwtproject.org #ghs.google.com
 2404:6800:4003:c00::79 www.thegooglepuzzle.com #ghs.google.com
 2404:6800:4003:c00::79 www.thegobridgeoglepuzzle.com #ghs.google.com
 2404:6800:4003:c00::8d www.thinkwithgoogle.com

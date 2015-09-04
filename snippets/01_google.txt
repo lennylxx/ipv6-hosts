@@ -38,6 +38,7 @@
 2404:6800:4005:808::200b mobile.google.com #mobile.l.google.com
 2404:6800:4005:808::200e myaccount.google.com #www3.l.google.com
 2404:6800:4005:809::200e on.google.com #www3.l.google.com
+2404:6800:4003:c00::8d onetoday.google.com #appspot.l.google.com
 2404:6800:4005:808::200e peering.google.com #www3.l.google.com
 2404:6800:4005:809::200e pki.google.com #www3.l.google.com
 2404:6800:4005:80b::200e security.google.com #www3.l.google.com

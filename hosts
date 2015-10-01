@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Fri, 04 Sep 2015 13:21:42 +0800                  |
+## |         Update : Thu, 01 Oct 2015 18:31:35 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -17084,7 +17084,7 @@
 2620:0:863:ed1a::1 sv.wikiversity.org
 
 ## Apple 苹果
-2600:140b:13:186::c77 www.apple.com #www.isg-apple.com.akadns.net
+2600:1415:5:185::c77 www.apple.com #www.isg-apple.com.akadns.net
 
 ## Blizzard Entertainment 暴雪娱乐
 2620:10b:9006:600:dad3:85ff:fed9:ce24 ipv6.blizzard.com

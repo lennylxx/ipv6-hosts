@@ -1,77 +1,77 @@
 ## deviantART
-110.232.178.146 www.deviantart.com #cs123.adn.edgecastcdn.net
-110.232.178.146 about.deviantart.com
-110.232.178.146 chat.deviantart.com
-110.232.178.146 critiques.deviantart.com
-110.232.178.146 forum.deviantart.com
-110.232.178.146 groups.deviantart.com
-110.232.178.146 help.deviantart.com
-110.232.178.146 hq.deviantart.com
-110.232.178.146 l.deviantart.com
-110.232.178.146 portfolio.deviantart.com
-110.232.178.146 shop.deviantart.com
-110.232.178.146 wallpaper.deviantart.com
-110.232.178.146 welcome.deviantart.com
+54.230.148.29 www.deviantart.com #cs123.adn.edgecastcdn.net
+54.230.148.22 about.deviantart.com
+54.68.114.41 chat.deviantart.com
+54.230.148.59 critiques.deviantart.com
+54.230.148.122 forum.deviantart.com
+54.230.148.29 groups.deviantart.com
+54.230.148.122 help.deviantart.com
+54.230.148.20 hq.deviantart.com
+54.230.148.10 l.deviantart.com
+54.230.148.22 portfolio.deviantart.com
+54.230.148.20 shop.deviantart.com
+54.230.148.29 wallpaper.deviantart.com
+54.230.148.29 welcome.deviantart.com
 110.232.178.146 cs123.adn.edgecastcdn.net
-199.15.160.100 deviantart.com
-199.15.160.100 deviantart.net
-68.232.44.148 st.deviantart.net #cs116.wac.edgecastcdn.net
-68.232.44.148 a.deviantart.net #cs116.wac.edgecastcdn.net
-110.232.178.146 b.deviantart.net #cs123.adn.edgecastcdn.net
-110.232.178.146 c.deviantart.net #cs123.adn.edgecastcdn.net
-110.232.178.146 d.deviantart.net #cs123.adn.edgecastcdn.net
-68.232.44.148 e.deviantart.net #cs116.wac.edgecastcdn.net
-68.232.45.40 img01.deviantart.net #cs20.wpc.edgecastcdn.net
-68.232.45.40 img02.deviantart.net #cs20.wpc.edgecastcdn.net
-68.232.45.40 img03.deviantart.net #cs20.wpc.edgecastcdn.net
-68.232.45.40 img04.deviantart.net #cs20.wpc.edgecastcdn.net
-68.232.45.40 img05.deviantart.net #cs20.wpc.edgecastcdn.net
-68.232.45.40 img06.deviantart.net #cs20.wpc.edgecastcdn.net
-68.232.45.40 img07.deviantart.net #cs20.wpc.edgecastcdn.net
-68.232.45.40 img08.deviantart.net #cs20.wpc.edgecastcdn.net
-68.232.45.40 img09.deviantart.net #cs20.wpc.edgecastcdn.net
-68.232.45.40 img10.deviantart.net #cs20.wpc.edgecastcdn.net
-68.232.45.40 img11.deviantart.net #cs20.wpc.edgecastcdn.net
-68.232.45.40 img12.deviantart.net #cs20.wpc.edgecastcdn.net
-68.232.45.40 img13.deviantart.net #cs20.wpc.edgecastcdn.net
-68.232.45.40 img14.deviantart.net #cs20.wpc.edgecastcdn.net
-68.232.45.40 img15.deviantart.net #cs20.wpc.edgecastcdn.net
-68.232.45.40 fc00.deviantart.net #cs20.wpc.edgecastcdn.net
-68.232.45.40 fc01.deviantart.net #cs20.wpc.edgecastcdn.net
-68.232.45.40 fc02.deviantart.net #cs20.wpc.edgecastcdn.net
-68.232.45.40 fc03.deviantart.net #cs20.wpc.edgecastcdn.net
-68.232.45.40 fc04.deviantart.net #cs20.wpc.edgecastcdn.net
-68.232.45.40 fc05.deviantart.net #cs20.wpc.edgecastcdn.net
-68.232.45.40 fc06.deviantart.net #cs20.wpc.edgecastcdn.net
-68.232.45.40 fc07.deviantart.net #cs20.wpc.edgecastcdn.net
-68.232.45.40 fc08.deviantart.net #cs20.wpc.edgecastcdn.net
-68.232.45.40 fc09.deviantart.net #cs20.wpc.edgecastcdn.net
-68.232.44.148 t01.deviantart.net #cs116.wac.edgecastcdn.net
-68.232.44.148 t02.deviantart.net #cs116.wac.edgecastcdn.net
-68.232.44.148 t03.deviantart.net #cs116.wac.edgecastcdn.net
-68.232.44.148 t04.deviantart.net #cs116.wac.edgecastcdn.net
-68.232.44.148 t05.deviantart.net #cs116.wac.edgecastcdn.net
-68.232.44.148 t06.deviantart.net #cs116.wac.edgecastcdn.net
-68.232.44.148 t07.deviantart.net #cs116.wac.edgecastcdn.net
-68.232.44.148 t08.deviantart.net #cs116.wac.edgecastcdn.net
-68.232.44.148 t09.deviantart.net #cs116.wac.edgecastcdn.net
-68.232.44.148 t10.deviantart.net #cs116.wac.edgecastcdn.net
-68.232.44.148 t11.deviantart.net #cs116.wac.edgecastcdn.net
-68.232.44.148 t12.deviantart.net #cs116.wac.edgecastcdn.net
-68.232.44.148 t13.deviantart.net #cs116.wac.edgecastcdn.net
-68.232.44.148 t14.deviantart.net #cs116.wac.edgecastcdn.net
-68.232.44.148 t15.deviantart.net #cs116.wac.edgecastcdn.net
-68.232.44.148 th00.deviantart.net #cs116.wac.edgecastcdn.net
-68.232.44.148 th01.deviantart.net #cs116.wac.edgecastcdn.net
-68.232.44.148 th02.deviantart.net #cs116.wac.edgecastcdn.net
-68.232.44.148 th03.deviantart.net #cs116.wac.edgecastcdn.net
-68.232.44.148 th04.deviantart.net #cs116.wac.edgecastcdn.net
-68.232.44.148 th05.deviantart.net #cs116.wac.edgecastcdn.net
-68.232.44.148 th06.deviantart.net #cs116.wac.edgecastcdn.net
-68.232.44.148 th07.deviantart.net #cs116.wac.edgecastcdn.net
-68.232.44.148 th08.deviantart.net #cs116.wac.edgecastcdn.net
-68.232.44.148 th09.deviantart.net #cs116.wac.edgecastcdn.net
-68.232.44.253 www.da-files.com #wac.2a59.edgecastcdn.net
+54.230.148.59 deviantart.com
+54.148.28.105 deviantart.net
+54.230.148.131 st.deviantart.net #cs116.wac.edgecastcdn.net
+54.230.148.69 a.deviantart.net #cs116.wac.edgecastcdn.net
+54.230.148.29 b.deviantart.net #cs123.adn.edgecastcdn.net
+54.230.148.59 c.deviantart.net #cs123.adn.edgecastcdn.net
+54.230.148.20 d.deviantart.net #cs123.adn.edgecastcdn.net
+54.230.148.50 e.deviantart.net #cs116.wac.edgecastcdn.net
+54.230.148.62 img01.deviantart.net #cs20.wpc.edgecastcdn.net
+54.230.148.133 img02.deviantart.net #cs20.wpc.edgecastcdn.net
+54.230.148.62 img03.deviantart.net #cs20.wpc.edgecastcdn.net
+54.230.148.125 img04.deviantart.net #cs20.wpc.edgecastcdn.net
+54.230.148.62 img05.deviantart.net #cs20.wpc.edgecastcdn.net
+54.230.148.25 img06.deviantart.net #cs20.wpc.edgecastcdn.net
+54.230.148.62 img07.deviantart.net #cs20.wpc.edgecastcdn.net
+54.230.148.44 img08.deviantart.net #cs20.wpc.edgecastcdn.net
+54.192.151.155 img09.deviantart.net #cs20.wpc.edgecastcdn.net
+54.230.148.125 img10.deviantart.net #cs20.wpc.edgecastcdn.net
+54.230.148.133 img11.deviantart.net #cs20.wpc.edgecastcdn.net
+54.230.148.62 img12.deviantart.net #cs20.wpc.edgecastcdn.net
+54.230.148.62 img13.deviantart.net #cs20.wpc.edgecastcdn.net
+54.230.148.133 img14.deviantart.net #cs20.wpc.edgecastcdn.net
+54.230.148.11 img15.deviantart.net #cs20.wpc.edgecastcdn.net
+52.26.254.147 fc00.deviantart.net #cs20.wpc.edgecastcdn.net
+52.11.30.247 fc01.deviantart.net #cs20.wpc.edgecastcdn.net
+52.11.30.247 fc02.deviantart.net #cs20.wpc.edgecastcdn.net
+52.26.254.147 fc03.deviantart.net #cs20.wpc.edgecastcdn.net
+52.11.30.247 fc04.deviantart.net #cs20.wpc.edgecastcdn.net
+52.11.30.247 fc05.deviantart.net #cs20.wpc.edgecastcdn.net
+54.69.39.69 fc06.deviantart.net #cs20.wpc.edgecastcdn.net
+52.11.30.247 fc07.deviantart.net #cs20.wpc.edgecastcdn.net
+54.69.39.69 fc08.deviantart.net #cs20.wpc.edgecastcdn.net
+52.26.254.147 fc09.deviantart.net #cs20.wpc.edgecastcdn.net
+54.230.148.77 t01.deviantart.net #cs116.wac.edgecastcdn.net
+54.230.148.75 t02.deviantart.net #cs116.wac.edgecastcdn.net
+54.230.148.70 t03.deviantart.net #cs116.wac.edgecastcdn.net
+54.230.148.40 t04.deviantart.net #cs116.wac.edgecastcdn.net
+54.230.148.75 t05.deviantart.net #cs116.wac.edgecastcdn.net
+54.230.148.38 t06.deviantart.net #cs116.wac.edgecastcdn.net
+54.230.148.75 t07.deviantart.net #cs116.wac.edgecastcdn.net
+54.230.148.40 t08.deviantart.net #cs116.wac.edgecastcdn.net
+54.230.148.125 t09.deviantart.net #cs116.wac.edgecastcdn.net
+54.230.148.40 t10.deviantart.net #cs116.wac.edgecastcdn.net
+54.230.148.111 t11.deviantart.net #cs116.wac.edgecastcdn.net
+54.230.148.70 t12.deviantart.net #cs116.wac.edgecastcdn.net
+54.230.148.38 t13.deviantart.net #cs116.wac.edgecastcdn.net
+54.230.148.125 t14.deviantart.net #cs116.wac.edgecastcdn.net
+54.230.148.77 t15.deviantart.net #cs116.wac.edgecastcdn.net
+52.26.254.147 th00.deviantart.net #cs116.wac.edgecastcdn.net
+52.11.30.247 th01.deviantart.net #cs116.wac.edgecastcdn.net
+54.69.39.69 th02.deviantart.net #cs116.wac.edgecastcdn.net
+52.26.254.147 th03.deviantart.net #cs116.wac.edgecastcdn.net
+52.26.254.147 th04.deviantart.net #cs116.wac.edgecastcdn.net
+54.69.39.69 th05.deviantart.net #cs116.wac.edgecastcdn.net
+52.26.254.147 th06.deviantart.net #cs116.wac.edgecastcdn.net
+54.69.39.69 th07.deviantart.net #cs116.wac.edgecastcdn.net
+52.11.30.247 th08.deviantart.net #cs116.wac.edgecastcdn.net
+52.11.30.247 th09.deviantart.net #cs116.wac.edgecastcdn.net
+204.246.164.72 www.da-files.com #wac.2a59.edgecastcdn.net
 
 ## Dropbox
 108.160.172.206 www.dropbox.com #www.v.dropbox.com

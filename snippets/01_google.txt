@@ -819,6 +819,8 @@
 2404:6800:4005:80b::2004 t1.gstatic.com
 2404:6800:4005:80a::2004 t2.gstatic.com
 2404:6800:4005:80b::2004 t3.gstatic.com
+2404:6800:4005:808::200e p5-klu7rokygdnwu-mst6xj5a4c7xsmqz-424575-i1-v6exp3-v4.metric.gstatic.com
+2404:6800:4005:808::200e p5-klu7rokygdnwu-mst6xj5a4c7xsmqz-424575-s1-v6exp3-v4.metric.gstatic.com
 
 ## Google APIs 开发接口服务
 2404:6800:4005:808::200e apis.google.com #plus.l.google.com

@@ -799,10 +799,10 @@
 2404:6800:4005:809::2003 ssl.gstatic.com
 2404:6800:4005:808::2003 www.gstatic.com
 2404:6800:4008:c04::a0 www.gstatic.cn
-2404:6800:4005:808::200e encrypted-tbn0.gstatic.com
-2404:6800:4005:808::200e encrypted-tbn1.gstatic.com
-2404:6800:4005:808::200e encrypted-tbn2.gstatic.com
-2404:6800:4005:808::200e encrypted-tbn3.gstatic.com
+2404:6800:4005:808::2003 encrypted-tbn0.gstatic.com
+2404:6800:4005:808::2003 encrypted-tbn1.gstatic.com
+2404:6800:4005:808::2003 encrypted-tbn2.gstatic.com
+2404:6800:4005:808::2003 encrypted-tbn3.gstatic.com
 2404:6800:4005:808::2003 g0.gstatic.com
 2404:6800:4005:808::2003 g1.gstatic.com
 2404:6800:4005:80a::2003 g2.gstatic.com

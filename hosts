@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Tue, 06 Oct 2015 13:29:57 +0800                  |
+## |         Update : Tue, 27 Oct 2015 01:07:17 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -2450,6 +2450,10 @@
 2404:6800:4003:c02::84 newsstand.googleusercontent.com
 2404:6800:4003:c02::84 oauth.googleusercontent.com
 2404:6800:4003:c02::84 producer.googleusercontent.com
+2404:6800:4005:809::2001 1-ps.googleusercontent.com
+2404:6800:4005:809::2001 2-ps.googleusercontent.com
+2404:6800:4005:809::2001 3-ps.googleusercontent.com
+2404:6800:4005:809::2001 4-ps.googleusercontent.com
 2404:6800:4005:80a::2001 reader.googleusercontent.com
 2404:6800:4005:808::2001 s1.googleusercontent.com
 2404:6800:4005:80a::2001 s2.googleusercontent.com

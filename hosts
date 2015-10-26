@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Tue, 27 Oct 2015 01:07:17 +0800                  |
+## |         Update : Tue, 27 Oct 2015 04:16:47 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -19,54 +19,54 @@
 2001:4860:4860::8888 google-public-dns-a.google.com
 2001:4860:4860::8844 google-public-dns-b.google.com
 
-2404:6800:4005:80a::200e abc.xyz
+2404:6800:4005:808::200e abc.xyz
 
 2404:6800:4005:808::200e google.com
 2404:6800:4005:809::2004 www.google.com
-2404:6800:4005:80a::200e admin.google.com
+2404:6800:4005:808::200e admin.google.com
 2404:6800:4008:c03::54 accounts.google.com #accounts.l.google.com
-2404:6800:4005:80a::200e bpui0.google.com #www3.l.google.com
-2404:6800:4005:809::200e clients1.google.com #clients.l.google.com
-2404:6800:4005:80a::200e clients2.google.com #clients.l.google.com
-2404:6800:4005:80a::200e clients3.google.com #clients.l.google.com
-2404:6800:4005:809::200e clients4.google.com #clients.l.google.com
-2404:6800:4005:809::200e clients5.google.com #clients.l.google.com
-2404:6800:4005:80b::200e clients6.google.com #clients.l.google.com
-2404:6800:4005:80a::200e contacts.google.com #plus.l.google.com
-2404:6800:4005:80b::200e contributor.google.com #www3.l.google.com
-2404:6800:4005:80b::200e cse.google.com
+2404:6800:4005:808::200e bpui0.google.com #www3.l.google.com
+2404:6800:4005:808::200e clients1.google.com #clients.l.google.com
+2404:6800:4005:808::200e clients2.google.com #clients.l.google.com
+2404:6800:4005:808::200e clients3.google.com #clients.l.google.com
+2404:6800:4005:808::200e clients4.google.com #clients.l.google.com
+2404:6800:4005:808::200e clients5.google.com #clients.l.google.com
+2404:6800:4005:808::200e clients6.google.com #clients.l.google.com
+2404:6800:4005:808::200e contacts.google.com #plus.l.google.com
+2404:6800:4005:808::200e contributor.google.com #www3.l.google.com
+2404:6800:4005:808::200e cse.google.com
 2404:6800:4005:808::200e encrypted.google.com #www3.l.google.com
-2404:6800:4005:80a::200e encrypted-tbn0.google.com #encrypted-tbn.l.google.com
-2404:6800:4005:80a::200e encrypted-tbn1.google.com #encrypted-tbn.l.google.com
-2404:6800:4005:809::200e encrypted-tbn2.google.com #encrypted-tbn.l.google.com
-2404:6800:4005:80b::200e encrypted-tbn3.google.com #encrypted-tbn.l.google.com
+2404:6800:4005:808::200e encrypted-tbn0.google.com #encrypted-tbn.l.google.com
+2404:6800:4005:808::200e encrypted-tbn1.google.com #encrypted-tbn.l.google.com
+2404:6800:4005:808::200e encrypted-tbn2.google.com #encrypted-tbn.l.google.com
+2404:6800:4005:808::200e encrypted-tbn3.google.com #encrypted-tbn.l.google.com
 2404:6800:4005:808::200e fi.google.com #www3.l.google.com
-2404:6800:4005:80a::200e get.google.com
-2404:6800:4005:809::200e goto.google.com #www3.l.google.com
+2404:6800:4005:808::200e get.google.com
+2404:6800:4005:808::200e goto.google.com #www3.l.google.com
 2404:6800:4005:808::200e gxc.google.com #www3.l.google.com
-2404:6800:4005:809::200e hangouts.google.com #www3.l.google.com
+2404:6800:4005:808::200e hangouts.google.com #www3.l.google.com
 2404:6800:4003:c02::8b history.google.com #history.l.google.com
-2404:6800:4005:80a::200e investor.google.com #www3.l.google.com
+2404:6800:4005:808::200e investor.google.com #www3.l.google.com
 2404:6800:4005:808::200e ipv6.google.com #ipv6.l.google.com
-2404:6800:4005:80b::200e jmt0.google.com #www3.l.google.com
-2404:6800:4005:80a::200e linkhelp.clients.google.com #clients.l.google.com
-2404:6800:4005:80a::200e upload.clients.google.com #clients.l.google.com
+2404:6800:4005:808::200e jmt0.google.com #www3.l.google.com
+2404:6800:4005:808::200e linkhelp.clients.google.com #clients.l.google.com
+2404:6800:4005:808::200e upload.clients.google.com #clients.l.google.com
 2404:6800:4005:809::200b m.google.com #mobile.l.google.com
 2404:6800:4005:808::200b mobile.google.com #mobile.l.google.com
 2404:6800:4005:808::200e myaccount.google.com #www3.l.google.com
-2404:6800:4005:809::200e on.google.com #www3.l.google.com
+2404:6800:4005:808::200e on.google.com #www3.l.google.com
 2404:6800:4003:c00::8d onetoday.google.com #appspot.l.google.com
 2404:6800:4005:808::200e peering.google.com #www3.l.google.com
-2404:6800:4005:800::200e pixel.google.com
-2404:6800:4005:809::200e pki.google.com #www3.l.google.com
-2404:6800:4005:80b::200e security.google.com #www3.l.google.com
-2404:6800:4005:80b::200e services.google.com #www3.l.google.com
+2404:6800:4005:808::200e pixel.google.com
+2404:6800:4005:808::200e pki.google.com #www3.l.google.com
+2404:6800:4005:808::200e security.google.com #www3.l.google.com
+2404:6800:4005:808::200e services.google.com #www3.l.google.com
 2404:6800:4005:808::200e store.google.com
-2404:6800:4005:80a::200e suggestqueries.google.com #suggestqueries.l.google.com
+2404:6800:4005:808::200e suggestqueries.google.com #suggestqueries.l.google.com
 2404:6800:4003:c00::c0 supl.google.com
 2404:6800:4005:808::200e support.google.com #www3.l.google.com
 2404:6800:4005:80a::200f upload.google.com #large-uploads.l.google.com
-2404:6800:4005:80b::200e client-channel.google.com
+2404:6800:4005:808::200e client-channel.google.com
 2404:6800:4003:c00::bd 0.client-channel.google.com
 2404:6800:4003:c02::bd 1.client-channel.google.com
 2404:6800:4003:c00::bd 2.client-channel.google.com
@@ -107,18 +107,18 @@
 2404:6800:4005:809::2003 clients1.google.com.hk #clients-cctld.l.google.com
 #2404:6800:4008:c00::63 desktop.google.com.hk #desktop.l.google.com
 2404:6800:4005:80a::200b m.google.com.hk #m.google.com
-2404:6800:4005:80b::200e gxc.google.com.hk #www3.l.google.com
+2404:6800:4005:808::200e gxc.google.com.hk #www3.l.google.com
 2404:6800:4005:80b::2003 id.google.com.hk #id.l.google.com
-2404:6800:4005:80b::200e ipv6.google.com.hk #ipv6.google.com
+2404:6800:4005:808::200e ipv6.google.com.hk #ipv6.google.com
 2404:6800:4005:80a::2004 mobile.google.com.hk #www.google.com
-2404:6800:4005:80a::200e picasaweb.google.com.hk #picasaweb.google.com
+2404:6800:4005:808::200e picasaweb.google.com.hk #picasaweb.google.com
 2404:6800:4005:80b::2004 www.googlechinawebmaster.com
 
 ## 谷歌中国
 2404:6800:4008:c06::a0 g.cn
 2404:6800:4008:c03::a0 google.cn
 2404:6800:4008:c01::a0 www.google.cn
-2404:6800:4005:80a::200e ipv6.google.cn #ipv6.l.google.com
+2404:6800:4005:808::200e ipv6.google.cn #ipv6.l.google.com
 2404:6800:4008:c02::a0 m.google.cn #www.google.cn
 2404:6800:4008:c04::a0 news.google.cn #www.google.cn
 2404:6800:4008:c04::a0 video.google.cn #www.google.cn
@@ -129,11 +129,11 @@
 ## Google 台湾
 2404:6800:4005:809::2003 www.google.com.tw
 2404:6800:4005:808::2003 clients1.google.com.tw #clients-cctld.l.google.com
-2404:6800:4005:809::200e picasaweb.google.com.tw #picasaweb.google.com
+2404:6800:4005:808::200e picasaweb.google.com.tw #picasaweb.google.com
 
 ## Google 日本
 2404:6800:4005:809::2003 www.google.co.jp
-2404:6800:4005:809::200e ipv6.google.co.jp #ipv6.google.com
+2404:6800:4005:808::200e ipv6.google.co.jp #ipv6.google.com
 
 ## 其他
 2404:6800:4005:808::2003 www.google.ae
@@ -175,7 +175,7 @@
 2404:6800:4005:80a::2003 www.google.co.za
 
 ## Google Apps 企业应用套件
-2404:6800:4005:809::200e apps.google.com #www3.l.google.com
+2404:6800:4005:808::200e apps.google.com #www3.l.google.com
 2404:6800:4003:c01::79 ghs.google.com #ghs.l.google.com
 2404:6800:4003:c01::79 ghs46.google.com #ghs46.l.google.com
 
@@ -183,7 +183,7 @@
 2404:6800:4005:809::2004 googlemashups.com
 2404:6800:4003:c01::63 www.googlemashups.com #www2.l.google.com
 2404:6800:4003:c01::93 *.googlemashups.com #www2.l.google.com
-2404:6800:4005:809::200e appengine.google.com #www3.l.google.com
+2404:6800:4005:808::200e appengine.google.com #www3.l.google.com
 2404:6800:4003:c00::8d appspot.com
 2404:6800:4003:c02::8d *.appspot.com #appspot.l.google.com
 2404:6800:4003:c01::8d www.appspot.com #appspot.l.google.com
@@ -207,10 +207,10 @@
 2404:6800:4003:c00::8d yt-debates.appspot.com #appspot.l.google.com
 
 ## Answers/Guru/WenDa 问答社区（国际版已停止运营）
-2404:6800:4005:80a::200e answers.google.com #www3.l.google.com
+2404:6800:4005:808::200e answers.google.com #www3.l.google.com
 #2404:6800:4008:c00::62 guru.google.com
 2404:6800:4003:c00::6a guru.google.co.th #www2.l.google.com
-2404:6800:4005:809::200e wenda.google.com.hk #wenda-china.l.google.com
+2404:6800:4005:808::200e wenda.google.com.hk #wenda-china.l.google.com
 
 ## Blog 博客搜索
 2404:6800:4003:c01::68 blogsearch.google.com #www2.l.google.com
@@ -233,10 +233,10 @@
 2404:6800:4003:c00::bf status.blogger.com #blogger.l.google.com
 2404:6800:4003:807::1013 help.blogger.com #www2.l.google.com
 2404:6800:4005:809::2004 photos1.blogger.com #photos1.l.google.com
-2404:6800:4005:80a::200e bp0.blogger.com #bloggerphotos.l.google.com
-2404:6800:4005:80a::200e bp1.blogger.com #bloggerphotos.l.google.com
-2404:6800:4005:80b::200e bp2.blogger.com #bloggerphotos.l.google.com
-2404:6800:4005:80a::200e bp3.blogger.com #bloggerphotos.l.google.com
+2404:6800:4005:808::200e bp0.blogger.com #bloggerphotos.l.google.com
+2404:6800:4005:808::200e bp1.blogger.com #bloggerphotos.l.google.com
+2404:6800:4005:808::200e bp2.blogger.com #bloggerphotos.l.google.com
+2404:6800:4005:808::200e bp3.blogger.com #bloggerphotos.l.google.com
 2404:6800:4003:c02::84 img.blogblog.com #blogspot.l.googleusercontent.com
 2404:6800:4003:c01::bf img1.blogblog.com #blogger.l.google.com
 2404:6800:4003:c00::bf img2.blogblog.com #blogger.l.google.com
@@ -296,30 +296,30 @@
 
 ## Books 图书
 2404:6800:4008:c01::a0 books.google.cn #www.google.cn
-2404:6800:4005:80b::200e books.google.com #www3.l.google.com
+2404:6800:4005:808::200e books.google.com #www3.l.google.com
 2404:6800:4005:808::200e books.google.com.hk #books.google.com
-2404:6800:4005:80b::200e bks0.books.google.com #books.google.com
-2404:6800:4005:809::200e bks1.books.google.com #books.google.com
-2404:6800:4005:80b::200e bks2.books.google.com #books.google.com
-2404:6800:4005:80b::200e bks3.books.google.com #books.google.com
-2404:6800:4005:80b::200e bks4.books.google.com #books.google.com
-2404:6800:4005:80a::200e bks5.books.google.com #books.google.com
-2404:6800:4005:80a::200e bks6.books.google.com #books.google.com
-2404:6800:4005:80b::200e bks7.books.google.com #books.google.com
-2404:6800:4005:80b::200e bks8.books.google.com #books.google.com
-2404:6800:4005:80b::200e bks9.books.google.com #books.google.com
-2404:6800:4005:809::200e bks10.books.google.com #books.google.com
+2404:6800:4005:808::200e bks0.books.google.com #books.google.com
+2404:6800:4005:808::200e bks1.books.google.com #books.google.com
+2404:6800:4005:808::200e bks2.books.google.com #books.google.com
+2404:6800:4005:808::200e bks3.books.google.com #books.google.com
+2404:6800:4005:808::200e bks4.books.google.com #books.google.com
+2404:6800:4005:808::200e bks5.books.google.com #books.google.com
+2404:6800:4005:808::200e bks6.books.google.com #books.google.com
+2404:6800:4005:808::200e bks7.books.google.com #books.google.com
+2404:6800:4005:808::200e bks8.books.google.com #books.google.com
+2404:6800:4005:808::200e bks9.books.google.com #books.google.com
+2404:6800:4005:808::200e bks10.books.google.com #books.google.com
 2404:6800:4005:808::200e bks0.books.google.com.hk #books.google.com
-2404:6800:4005:809::200e bks1.books.google.com.hk #books.google.com
+2404:6800:4005:808::200e bks1.books.google.com.hk #books.google.com
 2404:6800:4005:808::200e bks2.books.google.com.hk #books.google.com
-2404:6800:4005:80b::200e bks3.books.google.com.hk #books.google.com
-2404:6800:4005:80b::200e bks4.books.google.com.hk #books.google.com
-2404:6800:4005:80a::200e bks5.books.google.com.hk #books.google.com
+2404:6800:4005:808::200e bks3.books.google.com.hk #books.google.com
+2404:6800:4005:808::200e bks4.books.google.com.hk #books.google.com
+2404:6800:4005:808::200e bks5.books.google.com.hk #books.google.com
 2404:6800:4005:808::200e bks6.books.google.com.hk #books.google.com
-2404:6800:4005:80a::200e bks7.books.google.com.hk #books.google.com
-2404:6800:4005:80b::200e bks8.books.google.com.hk #books.google.com
-2404:6800:4005:80b::200e bks9.books.google.com.hk #books.google.com
-2404:6800:4005:80b::200e bks10.books.google.com.hk #books.google.com
+2404:6800:4005:808::200e bks7.books.google.com.hk #books.google.com
+2404:6800:4005:808::200e bks8.books.google.com.hk #books.google.com
+2404:6800:4005:808::200e bks9.books.google.com.hk #books.google.com
+2404:6800:4005:808::200e bks10.books.google.com.hk #books.google.com
 2404:6800:4005:808::200e buzz.google.com #www3.l.google.com
 
 ## Calendar 日历
@@ -327,19 +327,19 @@
 
 ## Checkout 买家
 #2404:6800:4008:c00::73 checkout.google.com #checkout.l.google.com
-2404:6800:4005:80b::200e wallet.google.com
+2404:6800:4005:808::200e wallet.google.com
 
 ## Chrome 谷歌浏览器
 2607:f8b0:4005:800::1000 www.chrome.com
 2404:6800:4003:c01::8d developer.chrome.com #appspot.l.google.com
-2404:6800:4005:80a::200e chrome.google.com #www3.l.google.com
+2404:6800:4005:808::200e chrome.google.com #www3.l.google.com
 #2404:6800:4008:c00::66 browsersync.google.com #browsersync.l.google.com
 2404:6800:4005:808::2004 toolbarqueries.google.com #toolbarqueries.l.google.com
 2404:6800:4005:808::2004 toolbarqueries.google.com.hk #toolbarqueries.google.com
-2404:6800:4005:809::200e toolbarqueries.clients.google.com #clients.l.google.com
+2404:6800:4005:808::200e toolbarqueries.clients.google.com #clients.l.google.com
 
 ## Chromium Chromium 项目
-2404:6800:4005:80a::200e chromium.org
+2404:6800:4005:808::200e chromium.org
 #2001:4860:400b:c01::79 www.chromium.org #ghs.l.google.com
 #2001:4860:400b:c01::79 dev.chromium.org #ghs.l.google.com
 #2001:4860:400b:c01::79 blog.chromium.org #ghs.l.google.com
@@ -365,31 +365,31 @@
 #2404:6800:4008:c00::68 desktop.google.com #desktop.l.google.com
 
 ## Developers 开发者
-2404:6800:4005:809::200e cloud.google.com #www3.l.google.com
-2404:6800:4005:809::200e developers.google.com #www3.l.google.com
-2404:6800:4005:809::200e cloudssh.developers.google.com #www3.l.google.com
+2404:6800:4005:808::200e cloud.google.com #www3.l.google.com
+2404:6800:4005:808::200e developers.google.com #www3.l.google.com
+2404:6800:4005:808::200e cloudssh.developers.google.com #www3.l.google.com
 #2607:f8b0:4007:804::1007 console.developers.google.com
 2404:6800:4003:c02::52 source.developers.google.com
 
 ## Directory 网页目录
-2404:6800:4005:809::200e directory.google.com #www3.l.google.com
-2404:6800:4005:809::200e dir.google.com #directory.google.com
+2404:6800:4005:808::200e directory.google.com #www3.l.google.com
+2404:6800:4005:808::200e dir.google.com #directory.google.com
 
 ## Docs 文档
 2404:6800:4003:c00::84 googledrive.com
 2404:6800:4005:808::200e docs.google.com
-2404:6800:4005:80b::200e drive.google.com
+2404:6800:4005:808::200e drive.google.com
 2404:6800:4005:808::200e docs0.google.com #www3.l.google.com
-2404:6800:4005:809::200e docs1.google.com #www3.l.google.com
-2404:6800:4005:80a::200e docs2.google.com #www3.l.google.com
-2404:6800:4005:809::200e docs3.google.com #www3.l.google.com
-2404:6800:4005:80a::200e docs4.google.com #www3.l.google.com
-2404:6800:4005:80b::200e docs5.google.com #www3.l.google.com
-2404:6800:4005:809::200e docs6.google.com #www3.l.google.com
-2404:6800:4005:80b::200e docs7.google.com #www3.l.google.com
-2404:6800:4005:80a::200e docs8.google.com #www3.l.google.com
-2404:6800:4005:80b::200e docs9.google.com #www3.l.google.com
-2404:6800:4005:809::200e writely.google.com #www3.l.google.com
+2404:6800:4005:808::200e docs1.google.com #www3.l.google.com
+2404:6800:4005:808::200e docs2.google.com #www3.l.google.com
+2404:6800:4005:808::200e docs3.google.com #www3.l.google.com
+2404:6800:4005:808::200e docs4.google.com #www3.l.google.com
+2404:6800:4005:808::200e docs5.google.com #www3.l.google.com
+2404:6800:4005:808::200e docs6.google.com #www3.l.google.com
+2404:6800:4005:808::200e docs7.google.com #www3.l.google.com
+2404:6800:4005:808::200e docs8.google.com #www3.l.google.com
+2404:6800:4005:808::200e docs9.google.com #www3.l.google.com
+2404:6800:4005:808::200e writely.google.com #www3.l.google.com
 2404:6800:4005:808::200f upload.docs.google.com #large-uploads.l.google.com
 2404:6800:4005:80a::200f upload.drive.google.com #large-uploads.l.google.com
 2404:6800:4003:c00::bd *.docs.google.com #browserchannel-docs.l.google.com
@@ -428,17 +428,17 @@
 2404:6800:4003:c00::bd 14.drive.google.com #browserchannel-docs.l.google.com
 2404:6800:4003:c02::bd 15.drive.google.com #browserchannel-docs.l.google.com
 2404:6800:4003:c00::bd 16.drive.google.com #browserchannel-docs.l.google.com
-2404:6800:4005:80b::200e spreadsheet.google.com #spreadsheets.l.google.com
-2404:6800:4005:80a::200e spreadsheets.google.com #spreadsheets.l.google.com
-2404:6800:4005:809::200e spreadsheets0.google.com #www3.l.google.com
-2404:6800:4005:809::200e spreadsheets1.google.com #www3.l.google.com
-2404:6800:4005:80b::200e spreadsheets2.google.com #www3.l.google.com
-2404:6800:4005:80a::200e spreadsheets3.google.com #www3.l.google.com
+2404:6800:4005:808::200e spreadsheet.google.com #spreadsheets.l.google.com
+2404:6800:4005:808::200e spreadsheets.google.com #spreadsheets.l.google.com
+2404:6800:4005:808::200e spreadsheets0.google.com #www3.l.google.com
+2404:6800:4005:808::200e spreadsheets1.google.com #www3.l.google.com
+2404:6800:4005:808::200e spreadsheets2.google.com #www3.l.google.com
+2404:6800:4005:808::200e spreadsheets3.google.com #www3.l.google.com
 2404:6800:4005:808::200e spreadsheets4.google.com #www3.l.google.com
-2404:6800:4005:80b::200e spreadsheets5.google.com #www3.l.google.com
-2404:6800:4005:80b::200e spreadsheets6.google.com #www3.l.google.com
-2404:6800:4005:80a::200e spreadsheets7.google.com #www3.l.google.com
-2404:6800:4005:80a::200e spreadsheets8.google.com #www3.l.google.com
+2404:6800:4005:808::200e spreadsheets5.google.com #www3.l.google.com
+2404:6800:4005:808::200e spreadsheets6.google.com #www3.l.google.com
+2404:6800:4005:808::200e spreadsheets7.google.com #www3.l.google.com
+2404:6800:4005:808::200e spreadsheets8.google.com #www3.l.google.com
 2404:6800:4005:808::200e spreadsheets9.google.com #www3.l.google.com
 
 2001:4860:4001:3::6 r1---sn-nwj7knel.c.docs.google.com #r1.sn-nwj7knel.c.docs.google.com
@@ -463,19 +463,19 @@
 2001:4860:4001:3::19 r20---sn-nwj7knel.c.docs.google.com #r20.sn-nwj7knel.c.docs.google.com
 
 ## Domains 域名
-2404:6800:4005:80b::200e domains.google.com
+2404:6800:4005:808::200e domains.google.com
 
 ## Download 下载
 2404:6800:4008:c01::88 dl.google.com #dl.l.google.com
 2404:6800:4003:c02::88 dl-ssl.google.com #dl-ssl.l.google.com
 
 ## Google Earth 地球
-2404:6800:4005:80a::200e earth.google.com #www3.l.google.com
+2404:6800:4005:808::200e earth.google.com #www3.l.google.com
 2404:6800:4005:808::200e auth.keyhole.com #geoauth.google.com
 2404:6800:4005:808::200e geoauth.google.com #www3.l.google.com
 
 ## Finance 财经
-2404:6800:4005:809::200e finance.google.com #www3.l.google.com
+2404:6800:4005:808::200e finance.google.com #www3.l.google.com
 
 ## Fusion RSS 聚合指南
 2404:6800:4003:c01::63 fusion.google.com #www2.l.google.com
@@ -485,7 +485,7 @@
 2404:6800:4005:809::2007 chatenabled.mail.google.com #b.googlemail.l.google.com
 2404:6800:4005:808::2007 filetransferenabled.mail.google.com #b.googlemail.l.google.com
 #2404:6800:4008:c00::62 talk.gmail.com #Gmail中Gtalk聊天服务
-2404:6800:4005:809::200e gmail.google.com #www3.l.google.com
+2404:6800:4005:808::200e gmail.google.com #www3.l.google.com
 2404:6800:4005:80a::2005 www.gmail.com #mail.google.com
 2404:6800:4005:80b::2005 gmail.com
 2404:6800:4005:809::2005 m.gmail.com #mail.google.com
@@ -512,7 +512,7 @@
 2404:6800:4003:c00::89 blob-s-docs.googlegroups.com #googlegroups.l.googleusercontent.com
 
 ## Health 健康
-2404:6800:4005:80a::200e health.google.com #www3.l.google.com
+2404:6800:4005:808::200e health.google.com #www3.l.google.com
 
 ## Images 图片
 2404:6800:4003:c02::64 images.google.com #images.l.google.com
@@ -532,11 +532,11 @@
 2404:6800:4003:c00::76 inputtools.google.com #www4.l.google.com
 
 ## Knol 在线百科全书
-2404:6800:4005:809::200e knol.google.com #www3.l.google.com
+2404:6800:4005:808::200e knol.google.com #www3.l.google.com
 
 ## Labs 实验室
-2404:6800:4005:80b::200e labs.google.cn #www3.l.google.com
-2404:6800:4005:809::200e labs.google.com #www3.l.google.com
+2404:6800:4005:808::200e labs.google.cn #www3.l.google.com
+2404:6800:4005:808::200e labs.google.com #www3.l.google.com
 2404:6800:4003:c01::8d www.googlelabs.com #appspot.l.google.com
 2404:6800:4003:c00::8d browsersize.googlelabs.com #appspot.l.google.com
 2404:6800:4003:c01::8d bodybrowser.googlelabs.com #appspot.l.google.com
@@ -563,16 +563,16 @@
 2404:6800:4003:c02::8d tables.googlelabs.com #appspot.l.google.com
 
 ## Google Mars 火星地图
-2404:6800:4005:80a::200e mars.google.com #www3.l.google.com
+2404:6800:4005:808::200e mars.google.com #www3.l.google.com
 
 ## Maps 地图
-2404:6800:4005:80b::200e maps.google.com
+2404:6800:4005:808::200e maps.google.com
 2404:6800:4005:809::2003 maps.google.com.hk #maps-cctld.l.google.com
 2404:6800:4005:808::2003 maps.google.com.tw #maps-cctld.l.google.com
 2404:6800:4005:808::200e local.google.com #maps.l.google.com
-2404:6800:4005:80a::200e ditu.google.com #local.google.com
-2404:6800:4005:80b::200e maps-api-ssl.google.com #clients.l.google.com
-2404:6800:4005:809::200e map.google.com #maps.google.com
+2404:6800:4005:808::200e ditu.google.com #local.google.com
+2404:6800:4005:808::200e maps-api-ssl.google.com #clients.l.google.com
+2404:6800:4005:808::200e map.google.com #maps.google.com
 2404:6800:4008:c06::5b kh.google.com #keyhole.l.google.com
 2404:6800:4008:c04::8b khmdb.google.com #khmdb.l.google.com
 2404:6800:4008:c03::65 khm.google.com #khm.l.google.com
@@ -595,13 +595,13 @@
 2404:6800:4003:c02::8a cbks3.google.com #khms.l.google.com
 2404:6800:4003:c02::76 mw1.google.com #mw-small.l.google.com
 2404:6800:4003:c00::76 mw2.google.com #mw-medium.l.google.com
-2404:6800:4005:80a::200e mt.google.com #mt.l.google.com
-2404:6800:4005:80b::200e mt0.google.com #mt.l.google.com
-2404:6800:4005:80b::200e mt1.google.com #mt.l.google.com
-2404:6800:4005:809::200e mt2.google.com #mt.l.google.com
-2404:6800:4005:80a::200e mt3.google.com #mt.l.google.com
-2404:6800:4005:80a::200e gg.google.com
-2404:6800:4005:809::200e gg.google.cn
+2404:6800:4005:808::200e mt.google.com #mt.l.google.com
+2404:6800:4005:808::200e mt0.google.com #mt.l.google.com
+2404:6800:4005:808::200e mt1.google.com #mt.l.google.com
+2404:6800:4005:808::200e mt2.google.com #mt.l.google.com
+2404:6800:4005:808::200e mt3.google.com #mt.l.google.com
+2404:6800:4005:808::200e gg.google.com
+2404:6800:4005:808::200e gg.google.cn
 2404:6800:4005:80a::2003 id.google.com #id.l.google.com
 2404:6800:4005:809::2003 id.google.cn #id.l.google.com
 2404:6800:4008:c01::a0 ditu.google.cn
@@ -610,22 +610,22 @@
 2404:6800:4008:c02::a0 mt1.google.cn
 2404:6800:4008:c03::a0 mt2.google.cn
 2404:6800:4008:c01::a0 mt3.google.cn
-2404:6800:4005:809::200e mts.google.com #mts.l.google.com
+2404:6800:4005:808::200e mts.google.com #mts.l.google.com
 2404:6800:4005:808::200e mts0.google.com #mts.l.google.com
-2404:6800:4005:80a::200e mts1.google.com #mts.l.google.com
+2404:6800:4005:808::200e mts1.google.com #mts.l.google.com
 2404:6800:4005:808::200e mts2.google.com #mts.l.google.com
 2404:6800:4005:808::200e mts3.google.com #mts.l.google.com
 2404:6800:4008:c02::a0 maps.gstatic.cn #www.gstatic.cn
-2404:6800:4005:80b::200e mobilemaps.clients.google.com #clients.l.google.com
+2404:6800:4005:808::200e mobilemaps.clients.google.com #clients.l.google.com
 
 ## Music Beta by Google 云音乐服务
-2404:6800:4005:809::200e music.google.com #www3.l.google.com
+2404:6800:4005:808::200e music.google.com #www3.l.google.com
 2404:6800:4003:c00::74 t.doc-0-0-sj.sj.googleusercontent.com #music-streaming.l.google.com
 2404:6800:4003:c00::84 music.googleusercontent.com #googlehosted.l.googleusercontent.com
 2404:6800:4005:808::200f uploadsj.clients.google.com #large-uploads.l.google.com
 
 ## News 资讯
-2404:6800:4005:809::200e news.google.com #news.l.google.com
+2404:6800:4005:808::200e news.google.com #news.l.google.com
 2404:6800:4005:80a::2003 news.google.com.hk #news-cctld.l.google.com
 2404:6800:4005:809::2003 news.google.com.tw #news-cctld.l.google.com
 
@@ -654,24 +654,24 @@
 
 ## Pack 软件精选
 2404:6800:4003:c00::67 pack.google.com #www2.l.google.com
-2404:6800:4005:80b::200e cache.pack.google.com #redirector.c.pack.google.com
+2404:6800:4005:808::200e cache.pack.google.com #redirector.c.pack.google.com
 2404:6800:4003:809::2004 pack.google.cn #www2.l.google.com
 
 ## Photo/Picasa 照片/网络相册
 2404:6800:4005:808::200e photos.google.com #picasaweb.l.google.com
 2404:6800:4003:c01::69 picasa.google.com #www2.l.google.com
-2404:6800:4005:809::200e picasaweb.google.com #picasaweb.l.google.com
+2404:6800:4005:808::200e picasaweb.google.com #picasaweb.l.google.com
 2404:6800:4005:808::200e lh2.google.com #lh2.l.google.com
 2404:6800:4005:808::200e lh3.google.com #lh2.l.google.com
-2404:6800:4005:80a::200e lh4.google.com #lh2.l.google.com
-2404:6800:4005:809::200e lh5.google.com #lh2.l.google.com
-2404:6800:4005:80b::200e lh6.google.com #lh2.l.google.com
+2404:6800:4005:808::200e lh4.google.com #lh2.l.google.com
+2404:6800:4005:808::200e lh5.google.com #lh2.l.google.com
+2404:6800:4005:808::200e lh6.google.com #lh2.l.google.com
 2404:6800:4005:80a::200f upload.photos.google.com #large-uploads.l.google.com
 
 ## Profiles 个人主页
 2404:6800:4005:808::200e profiles.google.com
-2404:6800:4005:80a::200e plusone.google.com #plus.l.google.com
-2404:6800:4005:80b::200e plus.google.com #plus-china.l.google.com
+2404:6800:4005:808::200e plusone.google.com #plus.l.google.com
+2404:6800:4005:808::200e plus.google.com #plus-china.l.google.com
 #2404:6800:4008:c00::8a plus.google.com.hk # URL 重定向
 2404:6800:4005:808::200e plus.url.google.com #www3.l.google.com
 #2404:6800:4008:c00::8a plus.url.google.com.hk #实际上不存在的域名
@@ -688,7 +688,7 @@
 2404:6800:4003:c00::88 safebrowsing.google.com #sb.l.google.com
 2404:6800:4008:c01::5d alt1-safebrowsing.google.com
 2404:6800:4005:808::200e safebrowsing.clients.google.com #clients.l.google.com
-2404:6800:4005:809::200e safebrowsing-cache.google.com #safebrowsing.cache.l.google.com
+2404:6800:4005:808::200e safebrowsing-cache.google.com #safebrowsing.cache.l.google.com
 
 ## Sandbox 服务沙盒
 2404:6800:4003:c01::451 sandbox.google.com #sandbox.l.google.com
@@ -700,7 +700,7 @@
 2404:6800:4008:c01::a0 scholar.google.cn #www.google.cn
 
 ## Sites 协作平台
-2404:6800:4005:809::200e sites.google.com #sites-china.l.google.com
+2404:6800:4005:808::200e sites.google.com #sites-china.l.google.com
 2404:6800:4003:c00::79 gsamplemaps.googlepages.com #ghs.googlehosted.com
 
 ## SketchUp 3D 建模工具
@@ -709,7 +709,7 @@
 ## Google Talk/Chat 聊天
 2404:6800:4003:c02::7d talk.google.com #talk.l.google.com
 #2404:6800:4008:c00::62 default.talk.google.com
-2404:6800:4005:80a::200e talkgadget.google.com #talkgadget.l.google.com
+2404:6800:4005:808::200e talkgadget.google.com #talkgadget.l.google.com
 #2404:6800:4008:c00::62 rtmp0.google.com
 #2404:6800:4008:c00::62 users.talk.google.com
 2404:6800:4003:c02::bc mtalk.google.com #mobile-gtalk.l.google.com
@@ -720,7 +720,7 @@
 2404:6800:4003:c00::64 toolbar.google.com.hk #toolbar.google.com
 
 ## Translate 翻译
-2404:6800:4005:809::200e translate.google.com #www3.l.google.com
+2404:6800:4005:808::200e translate.google.com #www3.l.google.com
 2404:6800:4005:808::2003 translate.google.com.hk
 2404:6800:4005:809::2003 translate.google.com.tw
 2404:6800:4008:c02::a0 translate.google.cn #www.google.cn
@@ -816,30 +816,30 @@
 2404:6800:4005:809::2003 ssl.gstatic.com
 2404:6800:4005:808::2003 www.gstatic.com
 2404:6800:4008:c04::a0 www.gstatic.cn
-2404:6800:4005:80a::200e encrypted-tbn0.gstatic.com
-2404:6800:4005:80a::200e encrypted-tbn1.gstatic.com
-2404:6800:4005:809::200e encrypted-tbn2.gstatic.com
+2404:6800:4005:808::200e encrypted-tbn0.gstatic.com
+2404:6800:4005:808::200e encrypted-tbn1.gstatic.com
+2404:6800:4005:808::200e encrypted-tbn2.gstatic.com
 2404:6800:4005:808::200e encrypted-tbn3.gstatic.com
 2404:6800:4005:808::2003 g0.gstatic.com
 2404:6800:4005:808::2003 g1.gstatic.com
 2404:6800:4005:80a::2003 g2.gstatic.com
 2404:6800:4005:808::2003 g3.gstatic.com
-2404:6800:4005:80a::200e mt0.gstatic.com
-2404:6800:4005:809::200e mt1.gstatic.com
+2404:6800:4005:808::200e mt0.gstatic.com
+2404:6800:4005:808::200e mt1.gstatic.com
 2404:6800:4005:808::200e mt2.gstatic.com
 2404:6800:4005:808::200e mt3.gstatic.com
 2404:6800:4005:808::200e mt4.gstatic.com
-2404:6800:4005:80b::200e mt5.gstatic.com
+2404:6800:4005:808::200e mt5.gstatic.com
 2404:6800:4005:808::200e mt6.gstatic.com
-2404:6800:4005:80b::200e mt7.gstatic.com
+2404:6800:4005:808::200e mt7.gstatic.com
 2404:6800:4005:80a::2004 t0.gstatic.com
 2404:6800:4005:80b::2004 t1.gstatic.com
 2404:6800:4005:80a::2004 t2.gstatic.com
 2404:6800:4005:80b::2004 t3.gstatic.com
 
 ## Google APIs 开发接口服务
-2404:6800:4005:80a::200e apis.google.com #plus.l.google.com
-2404:6800:4005:809::200e chart.apis.google.com #clients.l.google.com
+2404:6800:4005:808::200e apis.google.com #plus.l.google.com
+2404:6800:4005:808::200e chart.apis.google.com #clients.l.google.com
 2404:6800:4005:809::2004 googleapis.com
 2404:6800:4003:809::200a www.googleapis.com #googleapis.l.google.com
 2404:6800:4003:c00::5f *.googleapis.com #googleapis.l.google.com
@@ -856,10 +856,10 @@
 2404:6800:4003:c01::5f translate.googleapis.com #googleapis.l.google.com
 2404:6800:4003:c02::5f youtube.googleapis.com #googleapis.l.google.com
 #2404:6800:4008:c00::5f googleapis-ajax.google.com
-2404:6800:4005:80a::200e mt0.googleapis.com #mt.l.google.com
-2404:6800:4005:80b::200e mt1.googleapis.com #mt.l.google.com
-2404:6800:4005:809::200e mt2.googleapis.com #mt.l.google.com
-2404:6800:4005:809::200e mt3.googleapis.com #mt.l.google.com
+2404:6800:4005:808::200e mt0.googleapis.com #mt.l.google.com
+2404:6800:4005:808::200e mt1.googleapis.com #mt.l.google.com
+2404:6800:4005:808::200e mt2.googleapis.com #mt.l.google.com
+2404:6800:4005:808::200e mt3.googleapis.com #mt.l.google.com
 2404:6800:4003:c00::5f mts0.googleapis.com #googleapis.l.google.com
 2404:6800:4003:804::200a mts1.googleapis.com #googleapis.l.google.com
 2404:6800:4003:c01::5f mts2.googleapis.com #googleapis.l.google.com
@@ -910,15 +910,15 @@
 2404:6800:4001:800::101e ssl.google-analytics.com #ssl-google-analytics.l.google.com
 #2404:6800:4008:c00::61 *.google-analytics.com
 2404:6800:4001:802::1007 service.urchin.com #www-google-analytics.l.google.com
-2404:6800:4005:80a::200e analytics.google.com #www3.l.google.com
+2404:6800:4005:808::200e analytics.google.com #www3.l.google.com
 
 ## Google Art Project
-2404:6800:4005:809::200e www.googleartproject.com #www3.l.google.com
+2404:6800:4005:808::200e www.googleartproject.com #www3.l.google.com
 2404:6800:4003:c00::8d art-project-media.appspot.com #appspot.l.google.com
 
 ## FeedBurner
-2404:6800:4005:80b::200e feedburner.google.com #www3.l.google.com
-2404:6800:4005:80b::200e www.feedburner.com #www3.l.google.com
+2404:6800:4005:808::200e feedburner.google.com #www3.l.google.com
+2404:6800:4005:808::200e www.feedburner.com #www3.l.google.com
 2404:6800:4003:c01::76 feeds.feedburner.com #www4.l.google.com
 2404:6800:4003:c02::76 feeds2.feedburner.com #www4.l.google.com
 2404:6800:4003:c00::76 feedproxy.google.com #www4.l.google.com
@@ -932,8 +932,8 @@
 2404:6800:4003:c00::8d tour.golang.org #golang.org
 
 ## Goo.gl Google短网址服务
-2404:6800:4005:80b::200e goo.gl
-2404:6800:4005:80b::200e g.co
+2404:6800:4005:808::200e goo.gl
+2404:6800:4005:808::200e g.co
 
 ## html5rocks HTML5 推广专题网站
 2404:6800:4003:c01::79 www.html5rocks.com #ghs.google.com
@@ -965,7 +965,7 @@
 
 ## The WebM Project WebM 开放多媒体项目
 2404:6800:4005:808::2004 webmproject.org
-2404:6800:4005:80a::200e www.webmproject.org #www3.l.google.com
+2404:6800:4005:808::200e www.webmproject.org #www3.l.google.com
 2404:6800:4003:c02::79 lists.webmproject.org #ghs.google.com
 2404:6800:4003:c02::79 blog.webmproject.org #ghs.google.com
 2404:6800:4003:c02::79 www.webm-ccl.org #ghs.l.google.com
@@ -977,7 +977,7 @@
 2404:6800:4005:809::200c proxy-dev.googlezip.net
 
 ## Chrome 相关专题网站
-2404:6800:4005:809::200e www.chromercise.com #www3.l.google.com
+2404:6800:4005:808::200e www.chromercise.com #www3.l.google.com
 2404:6800:4003:c00::79 www.chromeexperiments.com #ghs.google.com
 2404:6800:4003:c00::79 www.20thingsilearned.com #ghs.google.com
 
@@ -990,8 +990,8 @@
 
 ## 其他专题站
 2404:6800:4003:c00::79 www.creativelab5.com #ghs.google.com
-2404:6800:4005:80a::200e www.data-vocabulary.org #www3.l.google.com
-2404:6800:4005:80a::200e www.googleinsidesearch.com #www3.l.google.com
+2404:6800:4005:808::200e www.data-vocabulary.org #www3.l.google.com
+2404:6800:4005:808::200e www.googleinsidesearch.com #www3.l.google.com
 2404:6800:4005:808::200e www.teachparentstech.org #www3.l.google.com
 2404:6800:4003:c00::79 www.agoogleaday.com #ghs.l.google.com
 2404:6800:4003:c01::79 www.gosetsuden.jp #ghs.google.com
@@ -1001,7 +1001,7 @@
 2404:6800:4003:c00::8d www.thinkwithgoogle.com
 2404:6800:4005:808::200e www.oneworldmanystories.com #www3.l.google.com
 2404:6800:4003:c02::79 www.googlezeitgeist.com #ghs.google.com
-2404:6800:4005:80a::200e www.googleinsidesearch.com #www3.l.google.com
+2404:6800:4005:808::200e www.googleinsidesearch.com #www3.l.google.com
 #2404:6800:4008:c00::79 www.emailintervention.com #ghs.l.google.com
 #2404:6800:4008:c00::79 www.dartlang.org #ghs.l.google.com
 #2404:6800:4008:c00::79 try.dartlang.org #ghs.l.google.com
@@ -1010,7 +1010,7 @@
 ## l.google.com
 2404:6800:4005:80a::2004 www.l.google.com
 2404:6800:4003:809::2004 www2.l.google.com
-2404:6800:4005:80a::200e www3.l.google.com #www3-china.l.google.com
+2404:6800:4005:808::200e www3.l.google.com #www3-china.l.google.com
 2404:6800:4003:c00::76 www4.l.google.com
 2404:6800:4008:c01::54 accounts.l.google.com #accounts-china.l.google.com
 2404:6800:4005:808::2003 accounts-cctld.l.google.com
@@ -1034,14 +1034,14 @@
 2404:6800:4003:c02::65 code.l.google.com
 #2404:6800:4008:c00::73 checkout.l.google.com
 2607:f8b0:400e:c01::97 chromeecho.l.google.com
-2404:6800:4005:80b::200e clients.l.google.com #clients-china.l.google.com
+2404:6800:4005:808::200e clients.l.google.com #clients-china.l.google.com
 2404:6800:4005:809::2003 clients-cctld.l.google.com
 2a00:1450:4016:802::1017 csi.l.google.com
 #2404:6800:4008:c00::68 desktop.l.google.com
 2404:6800:4008:c04::5d dl.l.google.com
 2404:6800:4003:c02::5b dl-ssl.l.google.com
 2404:6800:4005:808::2004 ds.ipv6test.l.google.com
-2404:6800:4005:80b::200e encrypted-tbn.l.google.com
+2404:6800:4005:808::200e encrypted-tbn.l.google.com
 2404:6800:4005:808::200e gadgets.l.google.com
 2404:6800:4003:c01::6c gmail-imap.l.google.com
 2404:6800:4003:c00::6c gmail-pop.l.google.com
@@ -1062,18 +1062,18 @@
 2404:6800:4003:c00::8b groups.l.google.com #groups-china.l.google.com
 2404:6800:4003:c00::8a history.l.google.com
 2404:6800:4005:80b::2003 id.l.google.com
-2404:6800:4005:80b::200e images.l.google.com
+2404:6800:4005:808::200e images.l.google.com
 #2404:6800:4008:c00::63 ipv4.l.google.com
-2404:6800:4005:80a::200e ipv6.l.google.com
+2404:6800:4005:808::200e ipv6.l.google.com
 #2404:6800:4008:c00::63 ipv6test.l.google.com
 2404:6800:4008:c02::be keyhole.l.google.com
 2404:6800:4008:c04::5d kh.l.google.com
-2404:6800:4005:809::200e khm.l.google.com
-2404:6800:4005:80a::200e khmdb.l.google.com
-2404:6800:4005:80b::200e khms.l.google.com #khms-china.l.google.com
+2404:6800:4005:808::200e khm.l.google.com
+2404:6800:4005:808::200e khmdb.l.google.com
+2404:6800:4005:808::200e khms.l.google.com #khms-china.l.google.com
 2404:6800:4005:80a::200f large-uploads.l.google.com
-2404:6800:4005:809::200e lh2.l.google.com
-2404:6800:4005:80b::200e maps.l.google.com #maps-china.l.google.com
+2404:6800:4005:808::200e lh2.l.google.com
+2404:6800:4005:808::200e maps.l.google.com #maps-china.l.google.com
 2404:6800:4005:80b::2003 maps-cctld.l.google.com
 2404:6800:4005:808::200b mobile.l.google.com
 2404:6800:4003:c02::bc mobile-gtalk.l.google.com
@@ -1083,7 +1083,7 @@
 2404:6800:4003:c02::74 music-streaming.l.google.com
 2404:6800:4003:c00::76 mw-medium.l.google.com
 2404:6800:4003:c01::76 mw-small.l.google.com
-2404:6800:4005:80a::200e news.l.google.com
+2404:6800:4005:808::200e news.l.google.com
 2404:6800:4003:c01::57 orkut-fe.l.google.com
 2404:6800:4003:c02::56 orkut-images.l.google.com
 2404:6800:4003:c02::57 orkut-opensocial.l.google.com
@@ -1093,24 +1093,24 @@
 2404:6800:4003:c02::84 pagead-tpc.l.google.com
 2404:6800:4001:807::2001 pagead-googlehosted.l.google.com
 #2404:6800:4008:c00::9a partnerad.l.google.com
-2404:6800:4005:80a::200e picasaweb.l.google.com
-2404:6800:4005:809::200e plus.l.google.com #plus-china.l.google.com
+2404:6800:4005:808::200e picasaweb.l.google.com
+2404:6800:4005:808::200e plus.l.google.com #plus-china.l.google.com
 #2607:f8b0:4007:804::100c photos-ugc.l.google.com
 2404:6800:4003:c00::451 sandbox.l.google.com
-2404:6800:4005:80b::200e safebrowsing.cache.l.google.com
+2404:6800:4005:808::200e safebrowsing.cache.l.google.com
 2a00:1450:4001:80a::1003 sb.l.google.com
 2404:6800:4003:c01::5b sb-ssl.l.google.com
 2404:6800:4005:808::200e scholar.l.google.com
 #2404:6800:4008:c00::66 sketchup.l.google.com
-2404:6800:4005:80b::200e spreadsheets.l.google.com #spreadsheets-china.l.google.com
-2404:6800:4005:809::200e spreadsheets-china.l.google.com
+2404:6800:4005:808::200e spreadsheets.l.google.com #spreadsheets-china.l.google.com
+2404:6800:4005:808::200e spreadsheets-china.l.google.com
 2404:6800:4005:809::200f sslvideo-upload.l.google.com
 2404:6800:4001:803::101e ssl-google-analytics.l.google.com
 2607:f8b0:4005:400::17 static.cache.l.google.com
-2404:6800:4005:80b::200e suggestqueries.l.google.com
+2404:6800:4005:808::200e suggestqueries.l.google.com
 2404:6800:4005:809::2004 tbn.l.google.com
 #2607:f8b0:400e:c04::7d talk.l.google.com
-2404:6800:4005:80a::200e talkgadget.l.google.com
+2404:6800:4005:808::200e talkgadget.l.google.com
 2404:6800:4008:c01::7d talkx.l.google.com #alt1.talk.l.google.com
 2404:6800:4005:809::2004 toolbarqueries.l.google.com
 2404:6800:4003:808::1001 tools.l.google.com #tools-china.l.google.com
@@ -1121,14 +1121,14 @@
 #2607:f8b0:400e:c04::7b wifi.l.google.com
 2404:6800:4005:808::200e writely.l.google.com #writely-china.l.google.com
 #2404:6800:4008:c00::62 writely-com.l.google.com
-2404:6800:4005:80a::200e writely-china.l.google.com
+2404:6800:4005:808::200e writely-china.l.google.com
 2404:6800:4001:805::1007 www-google-analytics.l.google.com
 2404:6800:4001:806::2008 www-googletagmanager.l.google.com
 2404:6800:4003:c02::c7 www-wide.l.google.com
-2404:6800:4005:80b::200e youtube-ui.l.google.com #youtube-ui-china.l.google.com
+2404:6800:4005:808::200e youtube-ui.l.google.com #youtube-ui-china.l.google.com
 2404:6800:4005:80a::200f yt-video-upload.l.google.com
-2404:6800:4005:80b::200e ytimg.l.google.com
-2404:6800:4005:809::200e ytstatic.l.google.com
+2404:6800:4005:808::200e ytimg.l.google.com
+2404:6800:4005:808::200e ytstatic.l.google.com
 
 ## AdWords/AdSense 广告服务
 #2404:6800:4008:c00::62 www.googlesyndication.com
@@ -1144,67 +1144,67 @@
 2404:6800:4001:802::100c tpc.googlesyndication.com #pagead-googlehosted.l.google.com
 2404:6800:4005:808::200e v1.cache1.c.googlesyndication.com
 2404:6800:4005:808::200e v1.cache2.c.googlesyndication.com
-2404:6800:4005:80b::200e v1.cache3.c.googlesyndication.com
-2404:6800:4005:80b::200e v1.cache4.c.googlesyndication.com
-2404:6800:4005:80b::200e v1.cache5.c.googlesyndication.com
-2404:6800:4005:80b::200e v1.cache6.c.googlesyndication.com
+2404:6800:4005:808::200e v1.cache3.c.googlesyndication.com
+2404:6800:4005:808::200e v1.cache4.c.googlesyndication.com
+2404:6800:4005:808::200e v1.cache5.c.googlesyndication.com
+2404:6800:4005:808::200e v1.cache6.c.googlesyndication.com
 2404:6800:4005:808::200e v1.cache7.c.googlesyndication.com
-2404:6800:4005:80b::200e v1.cache8.c.googlesyndication.com
+2404:6800:4005:808::200e v1.cache8.c.googlesyndication.com
 2404:6800:4005:808::200e v2.cache1.c.googlesyndication.com
-2404:6800:4005:80b::200e v2.cache2.c.googlesyndication.com
+2404:6800:4005:808::200e v2.cache2.c.googlesyndication.com
 2404:6800:4005:808::200e v2.cache3.c.googlesyndication.com
-2404:6800:4005:80b::200e v2.cache4.c.googlesyndication.com
+2404:6800:4005:808::200e v2.cache4.c.googlesyndication.com
 2404:6800:4005:808::200e v2.cache5.c.googlesyndication.com
 2404:6800:4005:808::200e v2.cache6.c.googlesyndication.com
 2404:6800:4005:808::200e v2.cache7.c.googlesyndication.com
-2404:6800:4005:80b::200e v2.cache8.c.googlesyndication.com
-2404:6800:4005:80b::200e v3.cache1.c.googlesyndication.com
-2404:6800:4005:80b::200e v3.cache2.c.googlesyndication.com
-2404:6800:4005:80b::200e v3.cache3.c.googlesyndication.com
+2404:6800:4005:808::200e v2.cache8.c.googlesyndication.com
+2404:6800:4005:808::200e v3.cache1.c.googlesyndication.com
+2404:6800:4005:808::200e v3.cache2.c.googlesyndication.com
+2404:6800:4005:808::200e v3.cache3.c.googlesyndication.com
 2404:6800:4005:808::200e v3.cache4.c.googlesyndication.com
 2404:6800:4005:808::200e v3.cache5.c.googlesyndication.com
-2404:6800:4005:80b::200e v3.cache6.c.googlesyndication.com
+2404:6800:4005:808::200e v3.cache6.c.googlesyndication.com
 2404:6800:4005:808::200e v3.cache7.c.googlesyndication.com
 2404:6800:4005:808::200e v3.cache8.c.googlesyndication.com
-2404:6800:4005:80b::200e v4.cache1.c.googlesyndication.com
+2404:6800:4005:808::200e v4.cache1.c.googlesyndication.com
 2404:6800:4005:808::200e v4.cache2.c.googlesyndication.com
-2404:6800:4005:80b::200e v4.cache3.c.googlesyndication.com
-2404:6800:4005:80b::200e v4.cache4.c.googlesyndication.com
-2404:6800:4005:80b::200e v4.cache5.c.googlesyndication.com
+2404:6800:4005:808::200e v4.cache3.c.googlesyndication.com
+2404:6800:4005:808::200e v4.cache4.c.googlesyndication.com
+2404:6800:4005:808::200e v4.cache5.c.googlesyndication.com
 2404:6800:4005:808::200e v4.cache6.c.googlesyndication.com
-2404:6800:4005:80b::200e v4.cache7.c.googlesyndication.com
+2404:6800:4005:808::200e v4.cache7.c.googlesyndication.com
 2404:6800:4005:808::200e v4.cache8.c.googlesyndication.com
 2404:6800:4005:808::200e v5.cache1.c.googlesyndication.com
 2404:6800:4005:808::200e v5.cache2.c.googlesyndication.com
-2404:6800:4005:80b::200e v5.cache3.c.googlesyndication.com
+2404:6800:4005:808::200e v5.cache3.c.googlesyndication.com
 2404:6800:4005:808::200e v5.cache4.c.googlesyndication.com
-2404:6800:4005:80b::200e v5.cache5.c.googlesyndication.com
-2404:6800:4005:80b::200e v5.cache6.c.googlesyndication.com
-2404:6800:4005:80b::200e v5.cache7.c.googlesyndication.com
+2404:6800:4005:808::200e v5.cache5.c.googlesyndication.com
+2404:6800:4005:808::200e v5.cache6.c.googlesyndication.com
+2404:6800:4005:808::200e v5.cache7.c.googlesyndication.com
 2404:6800:4005:808::200e v5.cache8.c.googlesyndication.com
 2404:6800:4005:808::200e v6.cache1.c.googlesyndication.com
-2404:6800:4005:80b::200e v6.cache2.c.googlesyndication.com
+2404:6800:4005:808::200e v6.cache2.c.googlesyndication.com
 2404:6800:4005:808::200e v6.cache3.c.googlesyndication.com
-2404:6800:4005:80b::200e v6.cache4.c.googlesyndication.com
-2404:6800:4005:80b::200e v6.cache5.c.googlesyndication.com
+2404:6800:4005:808::200e v6.cache4.c.googlesyndication.com
+2404:6800:4005:808::200e v6.cache5.c.googlesyndication.com
 2404:6800:4005:808::200e v6.cache6.c.googlesyndication.com
-2404:6800:4005:80b::200e v6.cache7.c.googlesyndication.com
-2404:6800:4005:80b::200e v6.cache8.c.googlesyndication.com
-2404:6800:4005:80b::200e v7.cache1.c.googlesyndication.com
+2404:6800:4005:808::200e v6.cache7.c.googlesyndication.com
+2404:6800:4005:808::200e v6.cache8.c.googlesyndication.com
+2404:6800:4005:808::200e v7.cache1.c.googlesyndication.com
 2404:6800:4005:808::200e v7.cache2.c.googlesyndication.com
-2404:6800:4005:80b::200e v7.cache3.c.googlesyndication.com
+2404:6800:4005:808::200e v7.cache3.c.googlesyndication.com
 2404:6800:4005:808::200e v7.cache4.c.googlesyndication.com
 2404:6800:4005:808::200e v7.cache5.c.googlesyndication.com
 2404:6800:4005:808::200e v7.cache6.c.googlesyndication.com
-2404:6800:4005:80b::200e v7.cache7.c.googlesyndication.com
-2404:6800:4005:80b::200e v7.cache8.c.googlesyndication.com
+2404:6800:4005:808::200e v7.cache7.c.googlesyndication.com
+2404:6800:4005:808::200e v7.cache8.c.googlesyndication.com
 2404:6800:4005:808::200e v8.cache1.c.googlesyndication.com
-2404:6800:4005:80b::200e v8.cache2.c.googlesyndication.com
-2404:6800:4005:80b::200e v8.cache3.c.googlesyndication.com
-2404:6800:4005:80b::200e v8.cache4.c.googlesyndication.com
+2404:6800:4005:808::200e v8.cache2.c.googlesyndication.com
+2404:6800:4005:808::200e v8.cache3.c.googlesyndication.com
+2404:6800:4005:808::200e v8.cache4.c.googlesyndication.com
 2404:6800:4005:808::200e v8.cache5.c.googlesyndication.com
-2404:6800:4005:80b::200e v8.cache6.c.googlesyndication.com
-2404:6800:4005:80b::200e v8.cache7.c.googlesyndication.com
+2404:6800:4005:808::200e v8.cache6.c.googlesyndication.com
+2404:6800:4005:808::200e v8.cache7.c.googlesyndication.com
 2404:6800:4005:808::200e v8.cache8.c.googlesyndication.com
 2401:3800:4001:3::10 v1.lscache1.c.googlesyndication.com
 2401:3800:4001:3::10 v1.lscache2.c.googlesyndication.com
@@ -1400,397 +1400,397 @@
 2401:3800:4001:2::1b v24.lscache8.c.googlesyndication.com
 
 ## Android Google 移动操作系统
-2404:6800:4005:80a::200e www.android.com #www3.l.google.com
+2404:6800:4005:808::200e www.android.com #www3.l.google.com
 2404:6800:4005:808::2004 android.com
-2404:6800:4005:80b::200e connectivitycheck.android.com
-2404:6800:4005:809::200e developer.android.com #www3.l.google.com
-2404:6800:4005:80b::200e source.android.com #www3.l.google.com
+2404:6800:4005:808::200e connectivitycheck.android.com
+2404:6800:4005:808::200e developer.android.com #www3.l.google.com
+2404:6800:4005:808::200e source.android.com #www3.l.google.com
 2404:6800:4003:804::200e market.android.com #android-market.l.google.com
 2404:6800:4003:804::200e android.clients.google.com #android.l.google.com
-2404:6800:4005:80a::200e play.google.com #play.l.google.com
+2404:6800:4005:808::200e play.google.com #play.l.google.com
 2404:6800:4005:808::200e v1.lscache1.c.android.clients.google.com #bandaid-redirector.l.google.com
-2404:6800:4005:80b::200e v1.lscache2.c.android.clients.google.com
+2404:6800:4005:808::200e v1.lscache2.c.android.clients.google.com
 2404:6800:4005:808::200e v1.lscache3.c.android.clients.google.com
 2404:6800:4005:808::200e v1.lscache4.c.android.clients.google.com
-2404:6800:4005:80b::200e v1.lscache5.c.android.clients.google.com
+2404:6800:4005:808::200e v1.lscache5.c.android.clients.google.com
 2404:6800:4005:808::200e v1.lscache6.c.android.clients.google.com
 2404:6800:4005:808::200e v1.lscache7.c.android.clients.google.com
-2404:6800:4005:80b::200e v1.lscache8.c.android.clients.google.com
+2404:6800:4005:808::200e v1.lscache8.c.android.clients.google.com
 2404:6800:4005:808::200e v2.lscache1.c.android.clients.google.com
 2404:6800:4005:808::200e v2.lscache2.c.android.clients.google.com
 2404:6800:4005:808::200e v2.lscache3.c.android.clients.google.com
 2404:6800:4005:808::200e v2.lscache4.c.android.clients.google.com
-2404:6800:4005:80b::200e v2.lscache5.c.android.clients.google.com
+2404:6800:4005:808::200e v2.lscache5.c.android.clients.google.com
 2404:6800:4005:808::200e v2.lscache6.c.android.clients.google.com
-2404:6800:4005:80b::200e v2.lscache7.c.android.clients.google.com
+2404:6800:4005:808::200e v2.lscache7.c.android.clients.google.com
 2404:6800:4005:808::200e v2.lscache8.c.android.clients.google.com
-2404:6800:4005:80b::200e v3.lscache1.c.android.clients.google.com
+2404:6800:4005:808::200e v3.lscache1.c.android.clients.google.com
 2404:6800:4005:808::200e v3.lscache2.c.android.clients.google.com
-2404:6800:4005:80b::200e v3.lscache3.c.android.clients.google.com
+2404:6800:4005:808::200e v3.lscache3.c.android.clients.google.com
 2404:6800:4005:808::200e v3.lscache4.c.android.clients.google.com
 2404:6800:4005:808::200e v3.lscache5.c.android.clients.google.com
-2404:6800:4005:80b::200e v3.lscache6.c.android.clients.google.com
-2404:6800:4005:80b::200e v3.lscache7.c.android.clients.google.com
-2404:6800:4005:80b::200e v3.lscache8.c.android.clients.google.com
-2404:6800:4005:80b::200e v4.lscache1.c.android.clients.google.com
-2404:6800:4005:80b::200e v4.lscache2.c.android.clients.google.com
+2404:6800:4005:808::200e v3.lscache6.c.android.clients.google.com
+2404:6800:4005:808::200e v3.lscache7.c.android.clients.google.com
+2404:6800:4005:808::200e v3.lscache8.c.android.clients.google.com
+2404:6800:4005:808::200e v4.lscache1.c.android.clients.google.com
+2404:6800:4005:808::200e v4.lscache2.c.android.clients.google.com
 2404:6800:4005:808::200e v4.lscache3.c.android.clients.google.com
 2404:6800:4005:808::200e v4.lscache4.c.android.clients.google.com
 2404:6800:4005:808::200e v4.lscache5.c.android.clients.google.com
-2404:6800:4005:80b::200e v4.lscache6.c.android.clients.google.com
-2404:6800:4005:80b::200e v4.lscache7.c.android.clients.google.com
-2404:6800:4005:80b::200e v4.lscache8.c.android.clients.google.com
+2404:6800:4005:808::200e v4.lscache6.c.android.clients.google.com
+2404:6800:4005:808::200e v4.lscache7.c.android.clients.google.com
+2404:6800:4005:808::200e v4.lscache8.c.android.clients.google.com
 2404:6800:4005:808::200e v5.lscache1.c.android.clients.google.com
 2404:6800:4005:808::200e v5.lscache2.c.android.clients.google.com
-2404:6800:4005:80b::200e v5.lscache3.c.android.clients.google.com
-2404:6800:4005:80b::200e v5.lscache4.c.android.clients.google.com
+2404:6800:4005:808::200e v5.lscache3.c.android.clients.google.com
+2404:6800:4005:808::200e v5.lscache4.c.android.clients.google.com
 2404:6800:4005:808::200e v5.lscache5.c.android.clients.google.com
-2404:6800:4005:80b::200e v5.lscache6.c.android.clients.google.com
-2404:6800:4005:80b::200e v5.lscache7.c.android.clients.google.com
-2404:6800:4005:80b::200e v5.lscache8.c.android.clients.google.com
-2404:6800:4005:80b::200e v6.lscache1.c.android.clients.google.com
-2404:6800:4005:80b::200e v6.lscache2.c.android.clients.google.com
+2404:6800:4005:808::200e v5.lscache6.c.android.clients.google.com
+2404:6800:4005:808::200e v5.lscache7.c.android.clients.google.com
+2404:6800:4005:808::200e v5.lscache8.c.android.clients.google.com
+2404:6800:4005:808::200e v6.lscache1.c.android.clients.google.com
+2404:6800:4005:808::200e v6.lscache2.c.android.clients.google.com
 2404:6800:4005:808::200e v6.lscache3.c.android.clients.google.com
-2404:6800:4005:80b::200e v6.lscache4.c.android.clients.google.com
-2404:6800:4005:80b::200e v6.lscache5.c.android.clients.google.com
-2404:6800:4005:80b::200e v6.lscache6.c.android.clients.google.com
+2404:6800:4005:808::200e v6.lscache4.c.android.clients.google.com
+2404:6800:4005:808::200e v6.lscache5.c.android.clients.google.com
+2404:6800:4005:808::200e v6.lscache6.c.android.clients.google.com
 2404:6800:4005:808::200e v6.lscache7.c.android.clients.google.com
-2404:6800:4005:80b::200e v6.lscache8.c.android.clients.google.com
-2404:6800:4005:80b::200e v7.lscache1.c.android.clients.google.com
-2404:6800:4005:80b::200e v7.lscache2.c.android.clients.google.com
+2404:6800:4005:808::200e v6.lscache8.c.android.clients.google.com
+2404:6800:4005:808::200e v7.lscache1.c.android.clients.google.com
+2404:6800:4005:808::200e v7.lscache2.c.android.clients.google.com
 2404:6800:4005:808::200e v7.lscache3.c.android.clients.google.com
 2404:6800:4005:808::200e v7.lscache4.c.android.clients.google.com
-2404:6800:4005:80b::200e v7.lscache5.c.android.clients.google.com
-2404:6800:4005:80b::200e v7.lscache6.c.android.clients.google.com
+2404:6800:4005:808::200e v7.lscache5.c.android.clients.google.com
+2404:6800:4005:808::200e v7.lscache6.c.android.clients.google.com
 2404:6800:4005:808::200e v7.lscache7.c.android.clients.google.com
-2404:6800:4005:80b::200e v7.lscache8.c.android.clients.google.com
+2404:6800:4005:808::200e v7.lscache8.c.android.clients.google.com
 2404:6800:4005:808::200e v8.lscache1.c.android.clients.google.com
-2404:6800:4005:80b::200e v8.lscache2.c.android.clients.google.com
+2404:6800:4005:808::200e v8.lscache2.c.android.clients.google.com
 2404:6800:4005:808::200e v8.lscache3.c.android.clients.google.com
 2404:6800:4005:808::200e v8.lscache4.c.android.clients.google.com
-2404:6800:4005:80b::200e v8.lscache5.c.android.clients.google.com
+2404:6800:4005:808::200e v8.lscache5.c.android.clients.google.com
 2404:6800:4005:808::200e v8.lscache6.c.android.clients.google.com
-2404:6800:4005:80b::200e v8.lscache7.c.android.clients.google.com
+2404:6800:4005:808::200e v8.lscache7.c.android.clients.google.com
 2404:6800:4005:808::200e v8.lscache8.c.android.clients.google.com
-2404:6800:4005:80b::200e v9.lscache1.c.android.clients.google.com
+2404:6800:4005:808::200e v9.lscache1.c.android.clients.google.com
 2404:6800:4005:808::200e v9.lscache2.c.android.clients.google.com
 2404:6800:4005:808::200e v9.lscache3.c.android.clients.google.com
 2404:6800:4005:808::200e v9.lscache4.c.android.clients.google.com
-2404:6800:4005:80b::200e v9.lscache5.c.android.clients.google.com
-2404:6800:4005:80b::200e v9.lscache6.c.android.clients.google.com
-2404:6800:4005:80b::200e v9.lscache7.c.android.clients.google.com
-2404:6800:4005:80b::200e v9.lscache8.c.android.clients.google.com
-2404:6800:4005:80b::200e v10.lscache1.c.android.clients.google.com
-2404:6800:4005:80b::200e v10.lscache2.c.android.clients.google.com
-2404:6800:4005:80b::200e v10.lscache3.c.android.clients.google.com
-2404:6800:4005:80b::200e v10.lscache4.c.android.clients.google.com
-2404:6800:4005:80b::200e v10.lscache5.c.android.clients.google.com
-2404:6800:4005:80b::200e v10.lscache6.c.android.clients.google.com
-2404:6800:4005:80b::200e v10.lscache7.c.android.clients.google.com
+2404:6800:4005:808::200e v9.lscache5.c.android.clients.google.com
+2404:6800:4005:808::200e v9.lscache6.c.android.clients.google.com
+2404:6800:4005:808::200e v9.lscache7.c.android.clients.google.com
+2404:6800:4005:808::200e v9.lscache8.c.android.clients.google.com
+2404:6800:4005:808::200e v10.lscache1.c.android.clients.google.com
+2404:6800:4005:808::200e v10.lscache2.c.android.clients.google.com
+2404:6800:4005:808::200e v10.lscache3.c.android.clients.google.com
+2404:6800:4005:808::200e v10.lscache4.c.android.clients.google.com
+2404:6800:4005:808::200e v10.lscache5.c.android.clients.google.com
+2404:6800:4005:808::200e v10.lscache6.c.android.clients.google.com
+2404:6800:4005:808::200e v10.lscache7.c.android.clients.google.com
 2404:6800:4005:808::200e v10.lscache8.c.android.clients.google.com
-2404:6800:4005:80b::200e v11.lscache1.c.android.clients.google.com
-2404:6800:4005:80b::200e v11.lscache2.c.android.clients.google.com
+2404:6800:4005:808::200e v11.lscache1.c.android.clients.google.com
+2404:6800:4005:808::200e v11.lscache2.c.android.clients.google.com
 2404:6800:4005:808::200e v11.lscache3.c.android.clients.google.com
 2404:6800:4005:808::200e v11.lscache4.c.android.clients.google.com
-2404:6800:4005:80b::200e v11.lscache5.c.android.clients.google.com
+2404:6800:4005:808::200e v11.lscache5.c.android.clients.google.com
 2404:6800:4005:808::200e v11.lscache6.c.android.clients.google.com
-2404:6800:4005:80b::200e v11.lscache7.c.android.clients.google.com
-2404:6800:4005:80b::200e v11.lscache8.c.android.clients.google.com
-2404:6800:4005:80b::200e v12.lscache1.c.android.clients.google.com
-2404:6800:4005:80b::200e v12.lscache2.c.android.clients.google.com
-2404:6800:4005:80b::200e v12.lscache3.c.android.clients.google.com
-2404:6800:4005:80b::200e v12.lscache4.c.android.clients.google.com
-2404:6800:4005:80b::200e v12.lscache5.c.android.clients.google.com
-2404:6800:4005:80b::200e v12.lscache6.c.android.clients.google.com
+2404:6800:4005:808::200e v11.lscache7.c.android.clients.google.com
+2404:6800:4005:808::200e v11.lscache8.c.android.clients.google.com
+2404:6800:4005:808::200e v12.lscache1.c.android.clients.google.com
+2404:6800:4005:808::200e v12.lscache2.c.android.clients.google.com
+2404:6800:4005:808::200e v12.lscache3.c.android.clients.google.com
+2404:6800:4005:808::200e v12.lscache4.c.android.clients.google.com
+2404:6800:4005:808::200e v12.lscache5.c.android.clients.google.com
+2404:6800:4005:808::200e v12.lscache6.c.android.clients.google.com
 2404:6800:4005:808::200e v12.lscache7.c.android.clients.google.com
-2404:6800:4005:80b::200e v12.lscache8.c.android.clients.google.com
-2404:6800:4005:80b::200e v13.lscache1.c.android.clients.google.com
+2404:6800:4005:808::200e v12.lscache8.c.android.clients.google.com
+2404:6800:4005:808::200e v13.lscache1.c.android.clients.google.com
 2404:6800:4005:808::200e v13.lscache2.c.android.clients.google.com
 2404:6800:4005:808::200e v13.lscache3.c.android.clients.google.com
-2404:6800:4005:80b::200e v13.lscache4.c.android.clients.google.com
-2404:6800:4005:80b::200e v13.lscache5.c.android.clients.google.com
+2404:6800:4005:808::200e v13.lscache4.c.android.clients.google.com
+2404:6800:4005:808::200e v13.lscache5.c.android.clients.google.com
 2404:6800:4005:808::200e v13.lscache6.c.android.clients.google.com
 2404:6800:4005:808::200e v13.lscache7.c.android.clients.google.com
-2404:6800:4005:80b::200e v13.lscache8.c.android.clients.google.com
-2404:6800:4005:80b::200e v14.lscache1.c.android.clients.google.com
-2404:6800:4005:80b::200e v14.lscache2.c.android.clients.google.com
-2404:6800:4005:80b::200e v14.lscache3.c.android.clients.google.com
+2404:6800:4005:808::200e v13.lscache8.c.android.clients.google.com
+2404:6800:4005:808::200e v14.lscache1.c.android.clients.google.com
+2404:6800:4005:808::200e v14.lscache2.c.android.clients.google.com
+2404:6800:4005:808::200e v14.lscache3.c.android.clients.google.com
 2404:6800:4005:808::200e v14.lscache4.c.android.clients.google.com
 2404:6800:4005:808::200e v14.lscache5.c.android.clients.google.com
-2404:6800:4005:80b::200e v14.lscache6.c.android.clients.google.com
-2404:6800:4005:80b::200e v14.lscache7.c.android.clients.google.com
-2404:6800:4005:80b::200e v14.lscache8.c.android.clients.google.com
+2404:6800:4005:808::200e v14.lscache6.c.android.clients.google.com
+2404:6800:4005:808::200e v14.lscache7.c.android.clients.google.com
+2404:6800:4005:808::200e v14.lscache8.c.android.clients.google.com
 2404:6800:4005:808::200e v15.lscache1.c.android.clients.google.com
 2404:6800:4005:808::200e v15.lscache2.c.android.clients.google.com
-2404:6800:4005:80b::200e v15.lscache3.c.android.clients.google.com
+2404:6800:4005:808::200e v15.lscache3.c.android.clients.google.com
 2404:6800:4005:808::200e v15.lscache4.c.android.clients.google.com
-2404:6800:4005:80b::200e v15.lscache5.c.android.clients.google.com
+2404:6800:4005:808::200e v15.lscache5.c.android.clients.google.com
 2404:6800:4005:808::200e v15.lscache6.c.android.clients.google.com
 2404:6800:4005:808::200e v15.lscache7.c.android.clients.google.com
-2404:6800:4005:80b::200e v15.lscache8.c.android.clients.google.com
+2404:6800:4005:808::200e v15.lscache8.c.android.clients.google.com
 2404:6800:4005:808::200e v16.lscache1.c.android.clients.google.com
-2404:6800:4005:80b::200e v16.lscache2.c.android.clients.google.com
-2404:6800:4005:80b::200e v16.lscache3.c.android.clients.google.com
-2404:6800:4005:80b::200e v16.lscache4.c.android.clients.google.com
+2404:6800:4005:808::200e v16.lscache2.c.android.clients.google.com
+2404:6800:4005:808::200e v16.lscache3.c.android.clients.google.com
+2404:6800:4005:808::200e v16.lscache4.c.android.clients.google.com
 2404:6800:4005:808::200e v16.lscache5.c.android.clients.google.com
 2404:6800:4005:808::200e v16.lscache6.c.android.clients.google.com
 2404:6800:4005:808::200e v16.lscache7.c.android.clients.google.com
-2404:6800:4005:80b::200e v16.lscache8.c.android.clients.google.com
-2404:6800:4005:80b::200e v17.lscache1.c.android.clients.google.com
+2404:6800:4005:808::200e v16.lscache8.c.android.clients.google.com
+2404:6800:4005:808::200e v17.lscache1.c.android.clients.google.com
 2404:6800:4005:808::200e v17.lscache2.c.android.clients.google.com
 2404:6800:4005:808::200e v17.lscache3.c.android.clients.google.com
-2404:6800:4005:80b::200e v17.lscache4.c.android.clients.google.com
+2404:6800:4005:808::200e v17.lscache4.c.android.clients.google.com
 2404:6800:4005:808::200e v17.lscache5.c.android.clients.google.com
 2404:6800:4005:808::200e v17.lscache6.c.android.clients.google.com
-2404:6800:4005:80b::200e v17.lscache7.c.android.clients.google.com
-2404:6800:4005:80a::200e v17.lscache8.c.android.clients.google.com
+2404:6800:4005:808::200e v17.lscache7.c.android.clients.google.com
+2404:6800:4005:808::200e v17.lscache8.c.android.clients.google.com
 2404:6800:4005:808::200e v18.lscache1.c.android.clients.google.com
 2404:6800:4005:808::200e v18.lscache2.c.android.clients.google.com
 2404:6800:4005:808::200e v18.lscache3.c.android.clients.google.com
-2404:6800:4005:80b::200e v18.lscache4.c.android.clients.google.com
-2404:6800:4005:80b::200e v18.lscache5.c.android.clients.google.com
-2404:6800:4005:80b::200e v18.lscache6.c.android.clients.google.com
-2404:6800:4005:80b::200e v18.lscache7.c.android.clients.google.com
-2404:6800:4005:80b::200e v18.lscache8.c.android.clients.google.com
-2404:6800:4005:80b::200e v19.lscache1.c.android.clients.google.com
-2404:6800:4005:80b::200e v19.lscache2.c.android.clients.google.com
+2404:6800:4005:808::200e v18.lscache4.c.android.clients.google.com
+2404:6800:4005:808::200e v18.lscache5.c.android.clients.google.com
+2404:6800:4005:808::200e v18.lscache6.c.android.clients.google.com
+2404:6800:4005:808::200e v18.lscache7.c.android.clients.google.com
+2404:6800:4005:808::200e v18.lscache8.c.android.clients.google.com
+2404:6800:4005:808::200e v19.lscache1.c.android.clients.google.com
+2404:6800:4005:808::200e v19.lscache2.c.android.clients.google.com
 2404:6800:4005:808::200e v19.lscache3.c.android.clients.google.com
 2404:6800:4005:808::200e v19.lscache4.c.android.clients.google.com
-2404:6800:4005:80b::200e v19.lscache5.c.android.clients.google.com
-2404:6800:4005:80b::200e v19.lscache6.c.android.clients.google.com
+2404:6800:4005:808::200e v19.lscache5.c.android.clients.google.com
+2404:6800:4005:808::200e v19.lscache6.c.android.clients.google.com
 2404:6800:4005:808::200e v19.lscache7.c.android.clients.google.com
-2404:6800:4005:80b::200e v19.lscache8.c.android.clients.google.com
-2404:6800:4005:80b::200e v20.lscache1.c.android.clients.google.com
-2404:6800:4005:80b::200e v20.lscache2.c.android.clients.google.com
+2404:6800:4005:808::200e v19.lscache8.c.android.clients.google.com
+2404:6800:4005:808::200e v20.lscache1.c.android.clients.google.com
+2404:6800:4005:808::200e v20.lscache2.c.android.clients.google.com
 2404:6800:4005:808::200e v20.lscache3.c.android.clients.google.com
 2404:6800:4005:808::200e v20.lscache4.c.android.clients.google.com
-2404:6800:4005:80b::200e v20.lscache5.c.android.clients.google.com
+2404:6800:4005:808::200e v20.lscache5.c.android.clients.google.com
 2404:6800:4005:808::200e v20.lscache6.c.android.clients.google.com
-2404:6800:4005:80b::200e v20.lscache7.c.android.clients.google.com
+2404:6800:4005:808::200e v20.lscache7.c.android.clients.google.com
 2404:6800:4005:808::200e v20.lscache8.c.android.clients.google.com
 2404:6800:4005:808::200e v21.lscache1.c.android.clients.google.com
 2404:6800:4005:808::200e v21.lscache2.c.android.clients.google.com
-2404:6800:4005:80b::200e v21.lscache3.c.android.clients.google.com
-2404:6800:4005:80b::200e v21.lscache4.c.android.clients.google.com
+2404:6800:4005:808::200e v21.lscache3.c.android.clients.google.com
+2404:6800:4005:808::200e v21.lscache4.c.android.clients.google.com
 2404:6800:4005:808::200e v21.lscache5.c.android.clients.google.com
-2404:6800:4005:80b::200e v21.lscache6.c.android.clients.google.com
-2404:6800:4005:80b::200e v21.lscache7.c.android.clients.google.com
-2404:6800:4005:80b::200e v21.lscache8.c.android.clients.google.com
+2404:6800:4005:808::200e v21.lscache6.c.android.clients.google.com
+2404:6800:4005:808::200e v21.lscache7.c.android.clients.google.com
+2404:6800:4005:808::200e v21.lscache8.c.android.clients.google.com
 2404:6800:4005:808::200e v22.lscache1.c.android.clients.google.com
 2404:6800:4005:808::200e v22.lscache2.c.android.clients.google.com
 2404:6800:4005:808::200e v22.lscache3.c.android.clients.google.com
-2404:6800:4005:80b::200e v22.lscache4.c.android.clients.google.com
-2404:6800:4005:80b::200e v22.lscache5.c.android.clients.google.com
+2404:6800:4005:808::200e v22.lscache4.c.android.clients.google.com
+2404:6800:4005:808::200e v22.lscache5.c.android.clients.google.com
 2404:6800:4005:808::200e v22.lscache6.c.android.clients.google.com
-2404:6800:4005:80b::200e v22.lscache7.c.android.clients.google.com
-2404:6800:4005:80b::200e v22.lscache8.c.android.clients.google.com
-2404:6800:4005:80b::200e v23.lscache1.c.android.clients.google.com
-2404:6800:4005:80b::200e v23.lscache2.c.android.clients.google.com
-2404:6800:4005:80b::200e v23.lscache3.c.android.clients.google.com
+2404:6800:4005:808::200e v22.lscache7.c.android.clients.google.com
+2404:6800:4005:808::200e v22.lscache8.c.android.clients.google.com
+2404:6800:4005:808::200e v23.lscache1.c.android.clients.google.com
+2404:6800:4005:808::200e v23.lscache2.c.android.clients.google.com
+2404:6800:4005:808::200e v23.lscache3.c.android.clients.google.com
 2404:6800:4005:808::200e v23.lscache4.c.android.clients.google.com
 2404:6800:4005:808::200e v23.lscache5.c.android.clients.google.com
-2404:6800:4005:80b::200e v23.lscache6.c.android.clients.google.com
-2404:6800:4005:80b::200e v23.lscache7.c.android.clients.google.com
+2404:6800:4005:808::200e v23.lscache6.c.android.clients.google.com
+2404:6800:4005:808::200e v23.lscache7.c.android.clients.google.com
 2404:6800:4005:808::200e v23.lscache8.c.android.clients.google.com
-2404:6800:4005:80b::200e v24.lscache1.c.android.clients.google.com
-2404:6800:4005:80b::200e v24.lscache2.c.android.clients.google.com
+2404:6800:4005:808::200e v24.lscache1.c.android.clients.google.com
+2404:6800:4005:808::200e v24.lscache2.c.android.clients.google.com
 2404:6800:4005:808::200e v24.lscache3.c.android.clients.google.com
 2404:6800:4005:808::200e v24.lscache4.c.android.clients.google.com
-2404:6800:4005:80b::200e v24.lscache5.c.android.clients.google.com
-2404:6800:4005:80b::200e v24.lscache6.c.android.clients.google.com
+2404:6800:4005:808::200e v24.lscache5.c.android.clients.google.com
+2404:6800:4005:808::200e v24.lscache6.c.android.clients.google.com
 2404:6800:4005:808::200e v24.lscache7.c.android.clients.google.com
-2404:6800:4005:80b::200e v24.lscache8.c.android.clients.google.com
-2404:6800:4005:80b::200e v1.nonxt1.c.android.clients.google.com
-2404:6800:4005:80b::200e v1.nonxt2.c.android.clients.google.com
+2404:6800:4005:808::200e v24.lscache8.c.android.clients.google.com
+2404:6800:4005:808::200e v1.nonxt1.c.android.clients.google.com
+2404:6800:4005:808::200e v1.nonxt2.c.android.clients.google.com
 2404:6800:4005:808::200e v1.nonxt3.c.android.clients.google.com
 2404:6800:4005:808::200e v1.nonxt4.c.android.clients.google.com
 2404:6800:4005:808::200e v1.nonxt5.c.android.clients.google.com
-2404:6800:4005:80b::200e v1.nonxt6.c.android.clients.google.com
-2404:6800:4005:80b::200e v1.nonxt7.c.android.clients.google.com
+2404:6800:4005:808::200e v1.nonxt6.c.android.clients.google.com
+2404:6800:4005:808::200e v1.nonxt7.c.android.clients.google.com
 2404:6800:4005:808::200e v1.nonxt8.c.android.clients.google.com
 2404:6800:4005:808::200e v2.nonxt1.c.android.clients.google.com
 2404:6800:4005:808::200e v2.nonxt2.c.android.clients.google.com
-2404:6800:4005:80b::200e v2.nonxt3.c.android.clients.google.com
-2404:6800:4005:80b::200e v2.nonxt4.c.android.clients.google.com
+2404:6800:4005:808::200e v2.nonxt3.c.android.clients.google.com
+2404:6800:4005:808::200e v2.nonxt4.c.android.clients.google.com
 2404:6800:4005:808::200e v2.nonxt5.c.android.clients.google.com
-2404:6800:4005:80b::200e v2.nonxt6.c.android.clients.google.com
-2404:6800:4005:80b::200e v2.nonxt7.c.android.clients.google.com
+2404:6800:4005:808::200e v2.nonxt6.c.android.clients.google.com
+2404:6800:4005:808::200e v2.nonxt7.c.android.clients.google.com
 2404:6800:4005:808::200e v2.nonxt8.c.android.clients.google.com
-2404:6800:4005:80b::200e v3.nonxt1.c.android.clients.google.com
+2404:6800:4005:808::200e v3.nonxt1.c.android.clients.google.com
 2404:6800:4005:808::200e v3.nonxt2.c.android.clients.google.com
-2404:6800:4005:80b::200e v3.nonxt3.c.android.clients.google.com
-2404:6800:4005:80b::200e v3.nonxt4.c.android.clients.google.com
-2404:6800:4005:80b::200e v3.nonxt5.c.android.clients.google.com
+2404:6800:4005:808::200e v3.nonxt3.c.android.clients.google.com
+2404:6800:4005:808::200e v3.nonxt4.c.android.clients.google.com
+2404:6800:4005:808::200e v3.nonxt5.c.android.clients.google.com
 2404:6800:4005:808::200e v3.nonxt6.c.android.clients.google.com
-2404:6800:4005:80b::200e v3.nonxt7.c.android.clients.google.com
+2404:6800:4005:808::200e v3.nonxt7.c.android.clients.google.com
 2404:6800:4005:808::200e v3.nonxt8.c.android.clients.google.com
-2404:6800:4005:80b::200e v4.nonxt1.c.android.clients.google.com
+2404:6800:4005:808::200e v4.nonxt1.c.android.clients.google.com
 2404:6800:4005:808::200e v4.nonxt2.c.android.clients.google.com
-2404:6800:4005:80b::200e v4.nonxt3.c.android.clients.google.com
+2404:6800:4005:808::200e v4.nonxt3.c.android.clients.google.com
 2404:6800:4005:808::200e v4.nonxt4.c.android.clients.google.com
 2404:6800:4005:808::200e v4.nonxt5.c.android.clients.google.com
-2404:6800:4005:80b::200e v4.nonxt6.c.android.clients.google.com
+2404:6800:4005:808::200e v4.nonxt6.c.android.clients.google.com
 2404:6800:4005:808::200e v4.nonxt7.c.android.clients.google.com
 2404:6800:4005:808::200e v4.nonxt8.c.android.clients.google.com
-2404:6800:4005:80b::200e v5.nonxt1.c.android.clients.google.com
-2404:6800:4005:80b::200e v5.nonxt2.c.android.clients.google.com
-2404:6800:4005:80b::200e v5.nonxt3.c.android.clients.google.com
-2404:6800:4005:80b::200e v5.nonxt4.c.android.clients.google.com
-2404:6800:4005:80b::200e v5.nonxt5.c.android.clients.google.com
-2404:6800:4005:80b::200e v5.nonxt6.c.android.clients.google.com
+2404:6800:4005:808::200e v5.nonxt1.c.android.clients.google.com
+2404:6800:4005:808::200e v5.nonxt2.c.android.clients.google.com
+2404:6800:4005:808::200e v5.nonxt3.c.android.clients.google.com
+2404:6800:4005:808::200e v5.nonxt4.c.android.clients.google.com
+2404:6800:4005:808::200e v5.nonxt5.c.android.clients.google.com
+2404:6800:4005:808::200e v5.nonxt6.c.android.clients.google.com
 2404:6800:4005:808::200e v5.nonxt7.c.android.clients.google.com
-2404:6800:4005:80b::200e v5.nonxt8.c.android.clients.google.com
+2404:6800:4005:808::200e v5.nonxt8.c.android.clients.google.com
 2404:6800:4005:808::200e v6.nonxt1.c.android.clients.google.com
 2404:6800:4005:808::200e v6.nonxt2.c.android.clients.google.com
 2404:6800:4005:808::200e v6.nonxt3.c.android.clients.google.com
 2404:6800:4005:808::200e v6.nonxt4.c.android.clients.google.com
 2404:6800:4005:808::200e v6.nonxt5.c.android.clients.google.com
 2404:6800:4005:808::200e v6.nonxt6.c.android.clients.google.com
-2404:6800:4005:80b::200e v6.nonxt7.c.android.clients.google.com
-2404:6800:4005:80b::200e v6.nonxt8.c.android.clients.google.com
+2404:6800:4005:808::200e v6.nonxt7.c.android.clients.google.com
+2404:6800:4005:808::200e v6.nonxt8.c.android.clients.google.com
 2404:6800:4005:808::200e v7.nonxt1.c.android.clients.google.com
-2404:6800:4005:80b::200e v7.nonxt2.c.android.clients.google.com
-2404:6800:4005:80b::200e v7.nonxt3.c.android.clients.google.com
-2404:6800:4005:80b::200e v7.nonxt4.c.android.clients.google.com
-2404:6800:4005:80b::200e v7.nonxt5.c.android.clients.google.com
+2404:6800:4005:808::200e v7.nonxt2.c.android.clients.google.com
+2404:6800:4005:808::200e v7.nonxt3.c.android.clients.google.com
+2404:6800:4005:808::200e v7.nonxt4.c.android.clients.google.com
+2404:6800:4005:808::200e v7.nonxt5.c.android.clients.google.com
 2404:6800:4005:808::200e v7.nonxt6.c.android.clients.google.com
-2404:6800:4005:80b::200e v7.nonxt7.c.android.clients.google.com
+2404:6800:4005:808::200e v7.nonxt7.c.android.clients.google.com
 2404:6800:4005:808::200e v7.nonxt8.c.android.clients.google.com
 2404:6800:4005:808::200e v8.nonxt1.c.android.clients.google.com
-2404:6800:4005:80b::200e v8.nonxt2.c.android.clients.google.com
-2404:6800:4005:80b::200e v8.nonxt3.c.android.clients.google.com
+2404:6800:4005:808::200e v8.nonxt2.c.android.clients.google.com
+2404:6800:4005:808::200e v8.nonxt3.c.android.clients.google.com
 2404:6800:4005:808::200e v8.nonxt4.c.android.clients.google.com
-2404:6800:4005:80b::200e v8.nonxt5.c.android.clients.google.com
+2404:6800:4005:808::200e v8.nonxt5.c.android.clients.google.com
 2404:6800:4005:808::200e v8.nonxt6.c.android.clients.google.com
-2404:6800:4005:80b::200e v8.nonxt7.c.android.clients.google.com
+2404:6800:4005:808::200e v8.nonxt7.c.android.clients.google.com
 2404:6800:4005:808::200e v8.nonxt8.c.android.clients.google.com
-2404:6800:4005:80b::200e v9.nonxt1.c.android.clients.google.com
-2404:6800:4005:80b::200e v9.nonxt2.c.android.clients.google.com
-2404:6800:4005:80b::200e v9.nonxt3.c.android.clients.google.com
-2404:6800:4005:80b::200e v9.nonxt4.c.android.clients.google.com
-2404:6800:4005:80b::200e v9.nonxt5.c.android.clients.google.com
+2404:6800:4005:808::200e v9.nonxt1.c.android.clients.google.com
+2404:6800:4005:808::200e v9.nonxt2.c.android.clients.google.com
+2404:6800:4005:808::200e v9.nonxt3.c.android.clients.google.com
+2404:6800:4005:808::200e v9.nonxt4.c.android.clients.google.com
+2404:6800:4005:808::200e v9.nonxt5.c.android.clients.google.com
 2404:6800:4005:808::200e v9.nonxt6.c.android.clients.google.com
-2404:6800:4005:80b::200e v9.nonxt7.c.android.clients.google.com
-2404:6800:4005:80b::200e v9.nonxt8.c.android.clients.google.com
+2404:6800:4005:808::200e v9.nonxt7.c.android.clients.google.com
+2404:6800:4005:808::200e v9.nonxt8.c.android.clients.google.com
 2404:6800:4005:808::200e v10.nonxt1.c.android.clients.google.com
-2404:6800:4005:80b::200e v10.nonxt2.c.android.clients.google.com
+2404:6800:4005:808::200e v10.nonxt2.c.android.clients.google.com
 2404:6800:4005:808::200e v10.nonxt3.c.android.clients.google.com
 2404:6800:4005:808::200e v10.nonxt4.c.android.clients.google.com
-2404:6800:4005:80b::200e v10.nonxt5.c.android.clients.google.com
+2404:6800:4005:808::200e v10.nonxt5.c.android.clients.google.com
 2404:6800:4005:808::200e v10.nonxt6.c.android.clients.google.com
-2404:6800:4005:80b::200e v10.nonxt7.c.android.clients.google.com
+2404:6800:4005:808::200e v10.nonxt7.c.android.clients.google.com
 2404:6800:4005:808::200e v10.nonxt8.c.android.clients.google.com
-2404:6800:4005:80b::200e v11.nonxt1.c.android.clients.google.com
-2404:6800:4005:80b::200e v11.nonxt2.c.android.clients.google.com
-2404:6800:4005:80b::200e v11.nonxt3.c.android.clients.google.com
-2404:6800:4005:80b::200e v11.nonxt4.c.android.clients.google.com
-2404:6800:4005:80b::200e v11.nonxt5.c.android.clients.google.com
-2404:6800:4005:80b::200e v11.nonxt6.c.android.clients.google.com
-2404:6800:4005:80b::200e v11.nonxt7.c.android.clients.google.com
-2404:6800:4005:80b::200e v11.nonxt8.c.android.clients.google.com
+2404:6800:4005:808::200e v11.nonxt1.c.android.clients.google.com
+2404:6800:4005:808::200e v11.nonxt2.c.android.clients.google.com
+2404:6800:4005:808::200e v11.nonxt3.c.android.clients.google.com
+2404:6800:4005:808::200e v11.nonxt4.c.android.clients.google.com
+2404:6800:4005:808::200e v11.nonxt5.c.android.clients.google.com
+2404:6800:4005:808::200e v11.nonxt6.c.android.clients.google.com
+2404:6800:4005:808::200e v11.nonxt7.c.android.clients.google.com
+2404:6800:4005:808::200e v11.nonxt8.c.android.clients.google.com
 2404:6800:4005:808::200e v12.nonxt1.c.android.clients.google.com
-2404:6800:4005:80b::200e v12.nonxt2.c.android.clients.google.com
-2404:6800:4005:80b::200e v12.nonxt3.c.android.clients.google.com
-2404:6800:4005:80b::200e v12.nonxt4.c.android.clients.google.com
-2404:6800:4005:80b::200e v12.nonxt5.c.android.clients.google.com
-2404:6800:4005:80b::200e v12.nonxt6.c.android.clients.google.com
-2404:6800:4005:80b::200e v12.nonxt7.c.android.clients.google.com
-2404:6800:4005:80b::200e v12.nonxt8.c.android.clients.google.com
-2404:6800:4005:80b::200e v13.nonxt1.c.android.clients.google.com
-2404:6800:4005:80b::200e v13.nonxt2.c.android.clients.google.com
-2404:6800:4005:80b::200e v13.nonxt3.c.android.clients.google.com
-2404:6800:4005:80b::200e v13.nonxt4.c.android.clients.google.com
+2404:6800:4005:808::200e v12.nonxt2.c.android.clients.google.com
+2404:6800:4005:808::200e v12.nonxt3.c.android.clients.google.com
+2404:6800:4005:808::200e v12.nonxt4.c.android.clients.google.com
+2404:6800:4005:808::200e v12.nonxt5.c.android.clients.google.com
+2404:6800:4005:808::200e v12.nonxt6.c.android.clients.google.com
+2404:6800:4005:808::200e v12.nonxt7.c.android.clients.google.com
+2404:6800:4005:808::200e v12.nonxt8.c.android.clients.google.com
+2404:6800:4005:808::200e v13.nonxt1.c.android.clients.google.com
+2404:6800:4005:808::200e v13.nonxt2.c.android.clients.google.com
+2404:6800:4005:808::200e v13.nonxt3.c.android.clients.google.com
+2404:6800:4005:808::200e v13.nonxt4.c.android.clients.google.com
 2404:6800:4005:808::200e v13.nonxt5.c.android.clients.google.com
 2404:6800:4005:808::200e v13.nonxt6.c.android.clients.google.com
-2404:6800:4005:80b::200e v13.nonxt7.c.android.clients.google.com
+2404:6800:4005:808::200e v13.nonxt7.c.android.clients.google.com
 2404:6800:4005:808::200e v13.nonxt8.c.android.clients.google.com
 2404:6800:4005:808::200e v14.nonxt1.c.android.clients.google.com
-2404:6800:4005:80b::200e v14.nonxt2.c.android.clients.google.com
+2404:6800:4005:808::200e v14.nonxt2.c.android.clients.google.com
 2404:6800:4005:808::200e v14.nonxt3.c.android.clients.google.com
-2404:6800:4005:80b::200e v14.nonxt4.c.android.clients.google.com
+2404:6800:4005:808::200e v14.nonxt4.c.android.clients.google.com
 2404:6800:4005:808::200e v14.nonxt5.c.android.clients.google.com
-2404:6800:4005:80b::200e v14.nonxt6.c.android.clients.google.com
-2404:6800:4005:80b::200e v14.nonxt7.c.android.clients.google.com
-2404:6800:4005:80b::200e v14.nonxt8.c.android.clients.google.com
+2404:6800:4005:808::200e v14.nonxt6.c.android.clients.google.com
+2404:6800:4005:808::200e v14.nonxt7.c.android.clients.google.com
+2404:6800:4005:808::200e v14.nonxt8.c.android.clients.google.com
 2404:6800:4005:808::200e v15.nonxt1.c.android.clients.google.com
 2404:6800:4005:808::200e v15.nonxt2.c.android.clients.google.com
-2404:6800:4005:80b::200e v15.nonxt3.c.android.clients.google.com
-2404:6800:4005:80b::200e v15.nonxt4.c.android.clients.google.com
-2404:6800:4005:80b::200e v15.nonxt5.c.android.clients.google.com
-2404:6800:4005:80b::200e v15.nonxt6.c.android.clients.google.com
-2404:6800:4005:80b::200e v15.nonxt7.c.android.clients.google.com
-2404:6800:4005:80b::200e v15.nonxt8.c.android.clients.google.com
-2404:6800:4005:80b::200e v16.nonxt1.c.android.clients.google.com
+2404:6800:4005:808::200e v15.nonxt3.c.android.clients.google.com
+2404:6800:4005:808::200e v15.nonxt4.c.android.clients.google.com
+2404:6800:4005:808::200e v15.nonxt5.c.android.clients.google.com
+2404:6800:4005:808::200e v15.nonxt6.c.android.clients.google.com
+2404:6800:4005:808::200e v15.nonxt7.c.android.clients.google.com
+2404:6800:4005:808::200e v15.nonxt8.c.android.clients.google.com
+2404:6800:4005:808::200e v16.nonxt1.c.android.clients.google.com
 2404:6800:4005:808::200e v16.nonxt2.c.android.clients.google.com
 2404:6800:4005:808::200e v16.nonxt3.c.android.clients.google.com
 2404:6800:4005:808::200e v16.nonxt4.c.android.clients.google.com
 2404:6800:4005:808::200e v16.nonxt5.c.android.clients.google.com
-2404:6800:4005:80b::200e v16.nonxt6.c.android.clients.google.com
-2404:6800:4005:80b::200e v16.nonxt7.c.android.clients.google.com
-2404:6800:4005:80b::200e v16.nonxt8.c.android.clients.google.com
-2404:6800:4005:80b::200e v17.nonxt1.c.android.clients.google.com
+2404:6800:4005:808::200e v16.nonxt6.c.android.clients.google.com
+2404:6800:4005:808::200e v16.nonxt7.c.android.clients.google.com
+2404:6800:4005:808::200e v16.nonxt8.c.android.clients.google.com
+2404:6800:4005:808::200e v17.nonxt1.c.android.clients.google.com
 2404:6800:4005:808::200e v17.nonxt2.c.android.clients.google.com
-2404:6800:4005:80b::200e v17.nonxt3.c.android.clients.google.com
+2404:6800:4005:808::200e v17.nonxt3.c.android.clients.google.com
 2404:6800:4005:808::200e v17.nonxt4.c.android.clients.google.com
-2404:6800:4005:80b::200e v17.nonxt5.c.android.clients.google.com
-2404:6800:4005:80b::200e v17.nonxt6.c.android.clients.google.com
+2404:6800:4005:808::200e v17.nonxt5.c.android.clients.google.com
+2404:6800:4005:808::200e v17.nonxt6.c.android.clients.google.com
 2404:6800:4005:808::200e v17.nonxt7.c.android.clients.google.com
 2404:6800:4005:808::200e v17.nonxt8.c.android.clients.google.com
 2404:6800:4005:808::200e v18.nonxt1.c.android.clients.google.com
 2404:6800:4005:808::200e v18.nonxt2.c.android.clients.google.com
 2404:6800:4005:808::200e v18.nonxt3.c.android.clients.google.com
 2404:6800:4005:808::200e v18.nonxt4.c.android.clients.google.com
-2404:6800:4005:80b::200e v18.nonxt5.c.android.clients.google.com
-2404:6800:4005:80b::200e v18.nonxt6.c.android.clients.google.com
-2404:6800:4005:80b::200e v18.nonxt7.c.android.clients.google.com
-2404:6800:4005:80b::200e v18.nonxt8.c.android.clients.google.com
+2404:6800:4005:808::200e v18.nonxt5.c.android.clients.google.com
+2404:6800:4005:808::200e v18.nonxt6.c.android.clients.google.com
+2404:6800:4005:808::200e v18.nonxt7.c.android.clients.google.com
+2404:6800:4005:808::200e v18.nonxt8.c.android.clients.google.com
 2404:6800:4005:808::200e v19.nonxt1.c.android.clients.google.com
-2404:6800:4005:80b::200e v19.nonxt2.c.android.clients.google.com
+2404:6800:4005:808::200e v19.nonxt2.c.android.clients.google.com
 2404:6800:4005:808::200e v19.nonxt3.c.android.clients.google.com
-2404:6800:4005:80b::200e v19.nonxt4.c.android.clients.google.com
-2404:6800:4005:80b::200e v19.nonxt5.c.android.clients.google.com
-2404:6800:4005:80b::200e v19.nonxt6.c.android.clients.google.com
-2404:6800:4005:80b::200e v19.nonxt7.c.android.clients.google.com
-2404:6800:4005:80b::200e v19.nonxt8.c.android.clients.google.com
-2404:6800:4005:80b::200e v20.nonxt1.c.android.clients.google.com
-2404:6800:4005:80b::200e v20.nonxt2.c.android.clients.google.com
+2404:6800:4005:808::200e v19.nonxt4.c.android.clients.google.com
+2404:6800:4005:808::200e v19.nonxt5.c.android.clients.google.com
+2404:6800:4005:808::200e v19.nonxt6.c.android.clients.google.com
+2404:6800:4005:808::200e v19.nonxt7.c.android.clients.google.com
+2404:6800:4005:808::200e v19.nonxt8.c.android.clients.google.com
+2404:6800:4005:808::200e v20.nonxt1.c.android.clients.google.com
+2404:6800:4005:808::200e v20.nonxt2.c.android.clients.google.com
 2404:6800:4005:808::200e v20.nonxt3.c.android.clients.google.com
-2404:6800:4005:80b::200e v20.nonxt4.c.android.clients.google.com
+2404:6800:4005:808::200e v20.nonxt4.c.android.clients.google.com
 2404:6800:4005:808::200e v20.nonxt5.c.android.clients.google.com
-2404:6800:4005:80b::200e v20.nonxt6.c.android.clients.google.com
-2404:6800:4005:80b::200e v20.nonxt7.c.android.clients.google.com
+2404:6800:4005:808::200e v20.nonxt6.c.android.clients.google.com
+2404:6800:4005:808::200e v20.nonxt7.c.android.clients.google.com
 2404:6800:4005:808::200e v20.nonxt8.c.android.clients.google.com
 2404:6800:4005:808::200e v21.nonxt1.c.android.clients.google.com
-2404:6800:4005:80b::200e v21.nonxt2.c.android.clients.google.com
-2404:6800:4005:80b::200e v21.nonxt3.c.android.clients.google.com
-2404:6800:4005:80b::200e v21.nonxt4.c.android.clients.google.com
-2404:6800:4005:80b::200e v21.nonxt5.c.android.clients.google.com
-2404:6800:4005:80b::200e v21.nonxt6.c.android.clients.google.com
+2404:6800:4005:808::200e v21.nonxt2.c.android.clients.google.com
+2404:6800:4005:808::200e v21.nonxt3.c.android.clients.google.com
+2404:6800:4005:808::200e v21.nonxt4.c.android.clients.google.com
+2404:6800:4005:808::200e v21.nonxt5.c.android.clients.google.com
+2404:6800:4005:808::200e v21.nonxt6.c.android.clients.google.com
 2404:6800:4005:808::200e v21.nonxt7.c.android.clients.google.com
-2404:6800:4005:80b::200e v21.nonxt8.c.android.clients.google.com
-2404:6800:4005:80b::200e v22.nonxt1.c.android.clients.google.com
-2404:6800:4005:80b::200e v22.nonxt2.c.android.clients.google.com
+2404:6800:4005:808::200e v21.nonxt8.c.android.clients.google.com
+2404:6800:4005:808::200e v22.nonxt1.c.android.clients.google.com
+2404:6800:4005:808::200e v22.nonxt2.c.android.clients.google.com
 2404:6800:4005:808::200e v22.nonxt3.c.android.clients.google.com
 2404:6800:4005:808::200e v22.nonxt4.c.android.clients.google.com
-2404:6800:4005:80b::200e v22.nonxt5.c.android.clients.google.com
-2404:6800:4005:80b::200e v22.nonxt6.c.android.clients.google.com
+2404:6800:4005:808::200e v22.nonxt5.c.android.clients.google.com
+2404:6800:4005:808::200e v22.nonxt6.c.android.clients.google.com
 2404:6800:4005:808::200e v22.nonxt7.c.android.clients.google.com
-2404:6800:4005:80b::200e v22.nonxt8.c.android.clients.google.com
-2404:6800:4005:80b::200e v23.nonxt1.c.android.clients.google.com
+2404:6800:4005:808::200e v22.nonxt8.c.android.clients.google.com
+2404:6800:4005:808::200e v23.nonxt1.c.android.clients.google.com
 2404:6800:4005:808::200e v23.nonxt2.c.android.clients.google.com
-2404:6800:4005:80b::200e v23.nonxt3.c.android.clients.google.com
+2404:6800:4005:808::200e v23.nonxt3.c.android.clients.google.com
 2404:6800:4005:808::200e v23.nonxt4.c.android.clients.google.com
 2404:6800:4005:808::200e v23.nonxt5.c.android.clients.google.com
-2404:6800:4005:80b::200e v23.nonxt6.c.android.clients.google.com
+2404:6800:4005:808::200e v23.nonxt6.c.android.clients.google.com
 2404:6800:4005:808::200e v23.nonxt7.c.android.clients.google.com
 2404:6800:4005:808::200e v23.nonxt8.c.android.clients.google.com
 2404:6800:4005:808::200e v24.nonxt1.c.android.clients.google.com
 2404:6800:4005:808::200e v24.nonxt2.c.android.clients.google.com
-2404:6800:4005:80b::200e v24.nonxt3.c.android.clients.google.com
-2404:6800:4005:80b::200e v24.nonxt4.c.android.clients.google.com
-2404:6800:4005:80b::200e v24.nonxt5.c.android.clients.google.com
-2404:6800:4005:80b::200e v24.nonxt6.c.android.clients.google.com
-2404:6800:4005:80b::200e v24.nonxt7.c.android.clients.google.com
+2404:6800:4005:808::200e v24.nonxt3.c.android.clients.google.com
+2404:6800:4005:808::200e v24.nonxt4.c.android.clients.google.com
+2404:6800:4005:808::200e v24.nonxt5.c.android.clients.google.com
+2404:6800:4005:808::200e v24.nonxt6.c.android.clients.google.com
+2404:6800:4005:808::200e v24.nonxt7.c.android.clients.google.com
 2404:6800:4005:808::200e v24.nonxt8.c.android.clients.google.com
 
 2607:f8b0:4007:7::6 r1---sn-a5m7znee.c.android.clients.google.com
@@ -1962,262 +1962,262 @@
 2404:6800:4003:7::19 r20---sn-npo7enes.c.android.clients.google.com
 
 ## BigCache (Google Storage)
-2404:6800:4005:80b::200e v1.lscache1.c.bigcache.googleapis.com #bandaid-redirector.l.google.com
+2404:6800:4005:808::200e v1.lscache1.c.bigcache.googleapis.com #bandaid-redirector.l.google.com
 2404:6800:4005:808::200e v1.lscache2.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v1.lscache3.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v1.lscache4.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v1.lscache5.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v1.lscache3.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v1.lscache4.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v1.lscache5.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v1.lscache6.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v1.lscache7.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v1.lscache8.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v2.lscache1.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v2.lscache2.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v2.lscache3.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v2.lscache4.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v2.lscache5.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v2.lscache6.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v1.lscache7.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v1.lscache8.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v2.lscache1.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v2.lscache2.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v2.lscache3.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v2.lscache4.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v2.lscache5.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v2.lscache6.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v2.lscache7.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v2.lscache8.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v3.lscache1.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v3.lscache2.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v3.lscache1.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v3.lscache2.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v3.lscache3.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v3.lscache4.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v3.lscache4.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v3.lscache5.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v3.lscache6.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v3.lscache7.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v3.lscache8.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v4.lscache1.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v3.lscache6.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v3.lscache7.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v3.lscache8.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v4.lscache1.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v4.lscache2.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v4.lscache3.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v4.lscache4.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v4.lscache5.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v4.lscache6.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v4.lscache7.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v4.lscache8.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v5.lscache1.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v4.lscache6.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v4.lscache7.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v4.lscache8.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v5.lscache1.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v5.lscache2.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v5.lscache3.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v5.lscache4.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v5.lscache5.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v5.lscache6.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v5.lscache7.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v5.lscache5.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v5.lscache6.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v5.lscache7.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v5.lscache8.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v6.lscache1.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v6.lscache1.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v6.lscache2.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v6.lscache3.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v6.lscache4.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v6.lscache5.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v6.lscache6.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v6.lscache7.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v6.lscache8.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v7.lscache1.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v6.lscache4.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v6.lscache5.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v6.lscache6.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v6.lscache7.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v6.lscache8.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v7.lscache1.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v7.lscache2.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v7.lscache3.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v7.lscache4.c.bigcache.googleapis.com
-2404:6800:4005:80a::200e v7.lscache5.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v7.lscache6.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v7.lscache3.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v7.lscache4.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v7.lscache5.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v7.lscache6.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v7.lscache7.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v7.lscache8.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v8.lscache1.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v8.lscache1.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v8.lscache2.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v8.lscache3.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v8.lscache4.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v8.lscache5.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v8.lscache5.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v8.lscache6.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v8.lscache7.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v8.lscache8.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v9.lscache1.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v9.lscache2.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v9.lscache3.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v8.lscache7.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v8.lscache8.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v9.lscache1.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v9.lscache2.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v9.lscache3.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v9.lscache4.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v9.lscache5.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v9.lscache5.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v9.lscache6.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v9.lscache7.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v9.lscache8.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v9.lscache7.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v9.lscache8.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v10.lscache1.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v10.lscache2.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v10.lscache2.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v10.lscache3.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v10.lscache4.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v10.lscache5.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v10.lscache6.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v10.lscache7.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v10.lscache8.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v11.lscache1.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v11.lscache2.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v11.lscache3.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v11.lscache4.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v11.lscache5.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v11.lscache6.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v11.lscache1.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v11.lscache2.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v11.lscache3.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v11.lscache4.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v11.lscache5.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v11.lscache6.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v11.lscache7.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v11.lscache8.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v12.lscache1.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v11.lscache8.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v12.lscache1.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v12.lscache2.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v12.lscache3.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v12.lscache4.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v12.lscache5.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v12.lscache6.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v12.lscache7.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v12.lscache6.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v12.lscache7.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v12.lscache8.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v13.lscache1.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v13.lscache1.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v13.lscache2.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v13.lscache3.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v13.lscache4.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v13.lscache5.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v13.lscache3.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v13.lscache4.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v13.lscache5.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v13.lscache6.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v13.lscache7.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v13.lscache7.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v13.lscache8.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v14.lscache1.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v14.lscache1.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v14.lscache2.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v14.lscache3.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v14.lscache3.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v14.lscache4.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v14.lscache5.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v14.lscache6.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v14.lscache7.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v14.lscache8.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v15.lscache1.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v14.lscache8.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v15.lscache1.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v15.lscache2.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v15.lscache3.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v15.lscache3.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v15.lscache4.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v15.lscache5.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v15.lscache6.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v15.lscache7.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v15.lscache8.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v15.lscache5.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v15.lscache6.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v15.lscache7.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v15.lscache8.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v16.lscache1.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v16.lscache2.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v16.lscache3.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v16.lscache4.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v16.lscache3.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v16.lscache4.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v16.lscache5.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v16.lscache6.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v16.lscache6.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v16.lscache7.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v16.lscache8.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v17.lscache1.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v17.lscache2.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v17.lscache3.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v17.lscache2.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v17.lscache3.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v17.lscache4.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v17.lscache5.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v17.lscache6.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v17.lscache7.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v17.lscache6.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v17.lscache7.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v17.lscache8.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v18.lscache1.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v18.lscache1.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v18.lscache2.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v18.lscache3.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v18.lscache3.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v18.lscache4.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v18.lscache5.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v18.lscache6.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v18.lscache5.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v18.lscache6.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v18.lscache7.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v18.lscache8.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v19.lscache1.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v19.lscache2.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v19.lscache3.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v19.lscache1.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v19.lscache2.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v19.lscache3.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v19.lscache4.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v19.lscache5.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v19.lscache6.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v19.lscache5.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v19.lscache6.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v19.lscache7.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v19.lscache8.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v20.lscache1.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v20.lscache2.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v20.lscache3.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v20.lscache4.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v20.lscache5.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v20.lscache1.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v20.lscache2.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v20.lscache3.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v20.lscache4.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v20.lscache5.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v20.lscache6.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v20.lscache7.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v20.lscache8.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v20.lscache7.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v20.lscache8.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v21.lscache1.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v21.lscache2.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v21.lscache3.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v21.lscache4.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v21.lscache5.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v21.lscache6.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v21.lscache2.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v21.lscache3.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v21.lscache4.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v21.lscache5.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v21.lscache6.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v21.lscache7.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v21.lscache8.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v21.lscache8.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v22.lscache1.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v22.lscache2.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v22.lscache3.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v22.lscache4.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v22.lscache2.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v22.lscache3.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v22.lscache4.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v22.lscache5.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v22.lscache6.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v22.lscache6.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v22.lscache7.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v22.lscache8.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v23.lscache1.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v22.lscache8.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v23.lscache1.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v23.lscache2.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v23.lscache3.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v23.lscache3.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v23.lscache4.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v23.lscache5.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v23.lscache6.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v23.lscache7.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v23.lscache8.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v24.lscache1.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v23.lscache6.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v23.lscache7.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v23.lscache8.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v24.lscache1.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v24.lscache2.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v24.lscache3.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v24.lscache3.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v24.lscache4.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v24.lscache5.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v24.lscache6.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v24.lscache7.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v24.lscache8.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v1.cache1.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v1.cache2.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v1.cache3.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v1.cache4.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v24.lscache5.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v24.lscache6.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v24.lscache7.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v24.lscache8.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v1.cache1.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v1.cache2.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v1.cache3.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v1.cache4.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v1.cache5.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v1.cache6.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v1.cache7.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v1.cache7.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v1.cache8.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v2.cache1.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v2.cache2.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v2.cache3.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v2.cache1.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v2.cache2.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v2.cache3.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v2.cache4.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v2.cache5.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v2.cache5.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v2.cache6.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v2.cache7.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v2.cache7.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v2.cache8.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v3.cache1.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v3.cache2.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v3.cache3.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v3.cache4.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v3.cache5.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v3.cache5.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v3.cache6.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v3.cache7.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v3.cache8.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v4.cache1.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v3.cache7.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v3.cache8.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v4.cache1.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v4.cache2.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v4.cache3.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v4.cache3.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v4.cache4.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v4.cache5.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v4.cache6.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v4.cache7.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v4.cache5.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v4.cache6.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v4.cache7.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v4.cache8.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v5.cache1.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v5.cache2.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v5.cache3.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v5.cache4.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v5.cache5.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v5.cache2.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v5.cache3.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v5.cache4.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v5.cache5.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v5.cache6.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v5.cache7.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v5.cache8.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v6.cache1.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v6.cache1.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v6.cache2.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v6.cache3.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v6.cache3.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v6.cache4.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v6.cache5.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v6.cache6.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v6.cache7.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v6.cache6.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v6.cache7.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v6.cache8.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v7.cache1.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v7.cache2.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v7.cache3.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v7.cache3.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v7.cache4.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v7.cache5.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v7.cache6.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v7.cache5.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v7.cache6.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v7.cache7.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v7.cache8.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v8.cache1.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v8.cache2.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v7.cache8.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v8.cache1.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v8.cache2.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v8.cache3.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v8.cache4.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v8.cache4.c.bigcache.googleapis.com
 2404:6800:4005:808::200e v8.cache5.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v8.cache6.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v8.cache7.c.bigcache.googleapis.com
-2404:6800:4005:80b::200e v8.cache8.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v8.cache6.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v8.cache7.c.bigcache.googleapis.com
+2404:6800:4005:808::200e v8.cache8.c.bigcache.googleapis.com
 
 #2404:6800:4005:4::6 r1.hkg03s05.c.bigcache.googleapis.com
 #2404:6800:4005:4::7 r2.hkg03s05.c.bigcache.googleapis.com
@@ -2309,7 +2309,7 @@
 2404:6800:4005:80b::2001 apidata.googleusercontent.com
 2404:6800:4005:808::2001 blogger.googleusercontent.com
 2404:6800:4003:c00::84 blogspot.l.googleusercontent.com
-2404:6800:4005:80a::200e gadgets.l.googleusercontent.com
+2404:6800:4005:808::200e gadgets.l.googleusercontent.com
 2404:6800:4005:80a::2001 googlehosted.l.googleusercontent.com
 2404:6800:4003:c00::52 googlecode.l.googleusercontent.com
 2404:6800:4003:c02::89 googlegroups.l.googleusercontent.com
@@ -2571,38 +2571,38 @@
 2404:6800:4003:c00::84 40-wave-opensocial.googleusercontent.com
 
 ## YouTube
-2404:6800:4005:809::200e youtube.com
-2404:6800:4005:80a::200e www.youtube.com #youtube-ui.l.google.com
-2404:6800:4005:809::200e au.youtube.com #youtube-ui.l.google.com
-2404:6800:4005:80a::200e ca.youtube.com #youtube-ui.l.google.com
-2404:6800:4005:809::200e de.youtube.com #youtube-ui.l.google.com
-2404:6800:4005:80a::200e fr.youtube.com #youtube-ui.l.google.com
-2404:6800:4005:80a::200e jp.youtube.com #youtube-ui.l.google.com
-2404:6800:4005:809::200e ru.youtube.com #youtube-ui.l.google.com
+2404:6800:4005:808::200e youtube.com
+2404:6800:4005:808::200e www.youtube.com #youtube-ui.l.google.com
+2404:6800:4005:808::200e au.youtube.com #youtube-ui.l.google.com
+2404:6800:4005:808::200e ca.youtube.com #youtube-ui.l.google.com
+2404:6800:4005:808::200e de.youtube.com #youtube-ui.l.google.com
+2404:6800:4005:808::200e fr.youtube.com #youtube-ui.l.google.com
+2404:6800:4005:808::200e jp.youtube.com #youtube-ui.l.google.com
+2404:6800:4005:808::200e ru.youtube.com #youtube-ui.l.google.com
 2404:6800:4005:808::200e uk.youtube.com #youtube-ui.l.google.com
-2404:6800:4005:80a::200e tw.youtube.com #youtube-ui.l.google.com
-2404:6800:4005:80a::200e ads.youtube.com #www3.l.google.com
+2404:6800:4005:808::200e tw.youtube.com #youtube-ui.l.google.com
+2404:6800:4005:808::200e ads.youtube.com #www3.l.google.com
 2404:6800:4005:808::200e www.youtube-nocookie.com #youtube-ui.l.google.com
-2404:6800:4005:809::200e m.youtube.com
-2404:6800:4005:809::200e youtu.be
+2404:6800:4005:808::200e m.youtube.com
+2404:6800:4005:808::200e youtu.be
 2404:6800:4003:c02::76 gdata.youtube.com #www4.l.google.com
 2404:6800:4005:809::200f stage.gdata.youtube.com #yt-video-upload.l.google.com
 2404:6800:4003:804::200e s.youtube.com #video-stats.l.google.com
 #2607:f8b0:4007:805::100e s2.youtube.com
-2404:6800:4005:809::200e accounts.youtube.com #www3.l.google.com
-2404:6800:4005:80a::200e img.youtube.com #ytimg.l.google.com
+2404:6800:4005:808::200e accounts.youtube.com #www3.l.google.com
+2404:6800:4005:808::200e img.youtube.com #ytimg.l.google.com
 2404:6800:4005:809::2004 help.youtube.com #www.google.com
 2404:6800:4005:809::200f upload.youtube.com #yt-video-upload.l.google.com
 2404:6800:4005:80a::200f uploads.stage.gdata.youtube.com #yt-video-upload.l.google.com
 2404:6800:4003:c02::65 insight.youtube.com #video-analytics.google.com
-2404:6800:4005:80b::200e apiblog.youtube.com #www3.l.google.com
+2404:6800:4005:808::200e apiblog.youtube.com #www3.l.google.com
 #2404:6800:4008:c00::64 clients1.youtube.com
 
-2404:6800:4005:80a::200e i.ytimg.com #ytimg.l.google.com
-2404:6800:4005:809::200e i1.ytimg.com #ytimg.l.google.com
-2404:6800:4005:80a::200e i2.ytimg.com #ytimg.l.google.com
-2404:6800:4005:809::200e i3.ytimg.com #ytimg.l.google.com
-2404:6800:4005:80b::200e i4.ytimg.com #ytimg.l.google.com
+2404:6800:4005:808::200e i.ytimg.com #ytimg.l.google.com
+2404:6800:4005:808::200e i1.ytimg.com #ytimg.l.google.com
+2404:6800:4005:808::200e i2.ytimg.com #ytimg.l.google.com
+2404:6800:4005:808::200e i3.ytimg.com #ytimg.l.google.com
+2404:6800:4005:808::200e i4.ytimg.com #ytimg.l.google.com
 2404:6800:4003:c01::8b s.ytimg.com #ytstatic.l.google.com
 
 ## Google Video
@@ -2619,7 +2619,7 @@
 
 2404:6800:4005:808::200f upload.video.google.com #sslvideo-upload.l.google.com
 2404:6800:4003:c00::65 video-stats.video.google.com #video-stats.l.google.com
-2404:6800:4005:80b::200e manifest.googlevideo.com
+2404:6800:4005:808::200e manifest.googlevideo.com
 
 ## c.youtube.com和googlevideo.com指向的IP相同
 2404:6800:4001:806::200e redirector.googlevideo.com
@@ -2650,7 +2650,7 @@
 2404:6800:4005:808::200e v3.lscache7.googlevideo.com
 2404:6800:4001:805::1002 v3.lscache8.googlevideo.com
 2404:6800:4005:808::200e v4.lscache1.googlevideo.com
-2404:6800:4005:80b::200e v4.lscache2.googlevideo.com
+2404:6800:4005:808::200e v4.lscache2.googlevideo.com
 2404:6800:4005:808::200e v4.lscache3.googlevideo.com
 2404:6800:4005:808::200e v4.lscache4.googlevideo.com
 2404:6800:4005:808::200e v4.lscache5.googlevideo.com
@@ -2709,7 +2709,7 @@
 2404:6800:4005:808::200e v11.lscache2.googlevideo.com
 2404:6800:4005:808::200e v11.lscache3.googlevideo.com
 2404:6800:4005:808::200e v11.lscache4.googlevideo.com
-2404:6800:4005:80b::200e v11.lscache5.googlevideo.com
+2404:6800:4005:808::200e v11.lscache5.googlevideo.com
 2404:6800:4005:808::200e v11.lscache6.googlevideo.com
 2404:6800:4005:808::200e v11.lscache7.googlevideo.com
 2404:6800:4005:808::200e v11.lscache8.googlevideo.com
@@ -2726,12 +2726,12 @@
 2404:6800:4005:808::200e v13.lscache3.googlevideo.com
 2404:6800:4005:808::200e v13.lscache4.googlevideo.com
 2404:6800:4005:808::200e v13.lscache5.googlevideo.com
-2404:6800:4005:80b::200e v13.lscache6.googlevideo.com
+2404:6800:4005:808::200e v13.lscache6.googlevideo.com
 2404:6800:4005:808::200e v13.lscache7.googlevideo.com
 2404:6800:4005:808::200e v13.lscache8.googlevideo.com
 2404:6800:4005:808::200e v14.lscache1.googlevideo.com
 2404:6800:4005:808::200e v14.lscache2.googlevideo.com
-2404:6800:4005:80b::200e v14.lscache3.googlevideo.com
+2404:6800:4005:808::200e v14.lscache3.googlevideo.com
 2404:6800:4005:808::200e v14.lscache4.googlevideo.com
 2404:6800:4005:808::200e v14.lscache5.googlevideo.com
 2404:6800:4005:808::200e v14.lscache6.googlevideo.com
@@ -2849,28 +2849,28 @@
 2404:6800:4005:808::200e v4.nonxt4.googlevideo.com
 2404:6800:4005:808::200e v4.nonxt5.googlevideo.com
 2404:6800:4005:808::200e v4.nonxt6.googlevideo.com
-2404:6800:4005:80b::200e v4.nonxt7.googlevideo.com
+2404:6800:4005:808::200e v4.nonxt7.googlevideo.com
 2404:6800:4005:808::200e v4.nonxt8.googlevideo.com
 2404:6800:4005:808::200e v5.nonxt1.googlevideo.com
-2404:6800:4005:80b::200e v5.nonxt2.googlevideo.com
-2404:6800:4005:80b::200e v5.nonxt3.googlevideo.com
+2404:6800:4005:808::200e v5.nonxt2.googlevideo.com
+2404:6800:4005:808::200e v5.nonxt3.googlevideo.com
 2404:6800:4005:808::200e v5.nonxt4.googlevideo.com
 2404:6800:4005:808::200e v5.nonxt5.googlevideo.com
-2404:6800:4005:80b::200e v5.nonxt6.googlevideo.com
+2404:6800:4005:808::200e v5.nonxt6.googlevideo.com
 2404:6800:4005:808::200e v5.nonxt7.googlevideo.com
 2404:6800:4005:808::200e v5.nonxt8.googlevideo.com
 2404:6800:4005:808::200e v6.nonxt1.googlevideo.com
 2404:6800:4005:808::200e v6.nonxt2.googlevideo.com
 2404:6800:4001:800::1002 v6.nonxt3.googlevideo.com
 2404:6800:4005:808::200e v6.nonxt4.googlevideo.com
-2404:6800:4005:80b::200e v6.nonxt5.googlevideo.com
+2404:6800:4005:808::200e v6.nonxt5.googlevideo.com
 2404:6800:4005:808::200e v6.nonxt6.googlevideo.com
 2404:6800:4005:808::200e v6.nonxt7.googlevideo.com
 2404:6800:4001:802::1009 v6.nonxt8.googlevideo.com
-2404:6800:4005:80b::200e v7.nonxt1.googlevideo.com
+2404:6800:4005:808::200e v7.nonxt1.googlevideo.com
 2404:6800:4005:808::200e v7.nonxt2.googlevideo.com
 2404:6800:4005:808::200e v7.nonxt3.googlevideo.com
-2404:6800:4005:80b::200e v7.nonxt4.googlevideo.com
+2404:6800:4005:808::200e v7.nonxt4.googlevideo.com
 2404:6800:4005:808::200e v7.nonxt5.googlevideo.com
 2404:6800:4001:803::1008 v7.nonxt6.googlevideo.com
 2404:6800:4005:808::200e v7.nonxt7.googlevideo.com
@@ -2895,7 +2895,7 @@
 2404:6800:4001:802::1007 v10.nonxt2.googlevideo.com
 2404:6800:4001:806::200e v10.nonxt3.googlevideo.com
 2404:6800:4001:805::1000 v10.nonxt4.googlevideo.com
-2404:6800:4005:80b::200e v10.nonxt5.googlevideo.com
+2404:6800:4005:808::200e v10.nonxt5.googlevideo.com
 2404:6800:4005:808::200e v10.nonxt6.googlevideo.com
 2404:6800:4001:805::1004 v10.nonxt7.googlevideo.com
 2404:6800:4005:808::200e v10.nonxt8.googlevideo.com
@@ -2947,7 +2947,7 @@
 2404:6800:4005:808::200e v16.nonxt6.googlevideo.com
 2404:6800:4001:804::1008 v16.nonxt7.googlevideo.com
 2404:6800:4005:808::200e v16.nonxt8.googlevideo.com
-2404:6800:4005:80b::200e v17.nonxt1.googlevideo.com
+2404:6800:4005:808::200e v17.nonxt1.googlevideo.com
 2404:6800:4005:808::200e v17.nonxt2.googlevideo.com
 2404:6800:4005:808::200e v17.nonxt3.googlevideo.com
 2404:6800:4005:808::200e v17.nonxt4.googlevideo.com
@@ -2964,7 +2964,7 @@
 2404:6800:4005:808::200e v18.nonxt7.googlevideo.com
 2404:6800:4005:808::200e v18.nonxt8.googlevideo.com
 2404:6800:4005:808::200e v19.nonxt1.googlevideo.com
-2404:6800:4005:80b::200e v19.nonxt2.googlevideo.com
+2404:6800:4005:808::200e v19.nonxt2.googlevideo.com
 2404:6800:4005:808::200e v19.nonxt3.googlevideo.com
 2404:6800:4005:808::200e v19.nonxt4.googlevideo.com
 2404:6800:4005:808::200e v19.nonxt5.googlevideo.com
@@ -2979,7 +2979,7 @@
 2404:6800:4005:808::200e v20.nonxt6.googlevideo.com
 2404:6800:4005:808::200e v20.nonxt7.googlevideo.com
 2404:6800:4005:808::200e v20.nonxt8.googlevideo.com
-2404:6800:4005:80b::200e v21.nonxt1.googlevideo.com
+2404:6800:4005:808::200e v21.nonxt1.googlevideo.com
 2404:6800:4005:808::200e v21.nonxt2.googlevideo.com
 2404:6800:4005:808::200e v21.nonxt3.googlevideo.com
 2404:6800:4005:808::200e v21.nonxt4.googlevideo.com
@@ -2989,27 +2989,27 @@
 2404:6800:4005:808::200e v21.nonxt8.googlevideo.com
 2404:6800:4005:808::200e v22.nonxt1.googlevideo.com
 2404:6800:4005:808::200e v22.nonxt2.googlevideo.com
-2404:6800:4005:80b::200e v22.nonxt3.googlevideo.com
+2404:6800:4005:808::200e v22.nonxt3.googlevideo.com
 2404:6800:4005:808::200e v22.nonxt4.googlevideo.com
 2404:6800:4005:808::200e v22.nonxt5.googlevideo.com
 2404:6800:4005:808::200e v22.nonxt6.googlevideo.com
-2404:6800:4005:80b::200e v22.nonxt7.googlevideo.com
-2404:6800:4005:80b::200e v22.nonxt8.googlevideo.com
+2404:6800:4005:808::200e v22.nonxt7.googlevideo.com
+2404:6800:4005:808::200e v22.nonxt8.googlevideo.com
 2404:6800:4005:808::200e v23.nonxt1.googlevideo.com
 2404:6800:4005:808::200e v23.nonxt2.googlevideo.com
 2404:6800:4005:808::200e v23.nonxt3.googlevideo.com
-2404:6800:4005:80b::200e v23.nonxt4.googlevideo.com
+2404:6800:4005:808::200e v23.nonxt4.googlevideo.com
 2404:6800:4005:808::200e v23.nonxt5.googlevideo.com
 2404:6800:4001:804::1006 v23.nonxt6.googlevideo.com
-2404:6800:4005:80b::200e v23.nonxt7.googlevideo.com
+2404:6800:4005:808::200e v23.nonxt7.googlevideo.com
 2404:6800:4001:802::1007 v23.nonxt8.googlevideo.com
 2404:6800:4005:808::200e v24.nonxt1.googlevideo.com
 2404:6800:4005:808::200e v24.nonxt2.googlevideo.com
-2404:6800:4005:80b::200e v24.nonxt3.googlevideo.com
+2404:6800:4005:808::200e v24.nonxt3.googlevideo.com
 2404:6800:4005:808::200e v24.nonxt4.googlevideo.com
-2404:6800:4005:80b::200e v24.nonxt5.googlevideo.com
-2404:6800:4005:80b::200e v24.nonxt6.googlevideo.com
-2404:6800:4005:80b::200e v24.nonxt7.googlevideo.com
+2404:6800:4005:808::200e v24.nonxt5.googlevideo.com
+2404:6800:4005:808::200e v24.nonxt6.googlevideo.com
+2404:6800:4005:808::200e v24.nonxt7.googlevideo.com
 2404:6800:4001:806::200e v24.nonxt8.googlevideo.com
 
 ## 未命中缓存
@@ -3088,7 +3088,7 @@
 2404:6800:4005:808::200e tc.v1.cache7.googlevideo.com
 2404:6800:4005:808::200e tc.v1.cache8.googlevideo.com
 2404:6800:4005:808::200e tc.v2.cache1.googlevideo.com
-2404:6800:4005:80b::200e tc.v2.cache2.googlevideo.com
+2404:6800:4005:808::200e tc.v2.cache2.googlevideo.com
 2404:6800:4005:808::200e tc.v2.cache3.googlevideo.com
 2404:6800:4005:808::200e tc.v2.cache4.googlevideo.com
 2404:6800:4005:808::200e tc.v2.cache5.googlevideo.com
@@ -3103,31 +3103,31 @@
 2404:6800:4005:808::200e tc.v3.cache6.googlevideo.com
 2404:6800:4005:808::200e tc.v3.cache7.googlevideo.com
 2404:6800:4005:808::200e tc.v3.cache8.googlevideo.com
-2404:6800:4005:80b::200e tc.v4.cache1.googlevideo.com
+2404:6800:4005:808::200e tc.v4.cache1.googlevideo.com
 2404:6800:4005:808::200e tc.v4.cache2.googlevideo.com
 2404:6800:4005:808::200e tc.v4.cache3.googlevideo.com
-2404:6800:4005:80b::200e tc.v4.cache4.googlevideo.com
+2404:6800:4005:808::200e tc.v4.cache4.googlevideo.com
 2404:6800:4005:808::200e tc.v4.cache5.googlevideo.com
 2404:6800:4005:808::200e tc.v4.cache6.googlevideo.com
 2404:6800:4005:808::200e tc.v4.cache7.googlevideo.com
-2404:6800:4005:80b::200e tc.v4.cache8.googlevideo.com
-2404:6800:4005:80b::200e tc.v5.cache1.googlevideo.com
-2404:6800:4005:80b::200e tc.v5.cache2.googlevideo.com
+2404:6800:4005:808::200e tc.v4.cache8.googlevideo.com
+2404:6800:4005:808::200e tc.v5.cache1.googlevideo.com
+2404:6800:4005:808::200e tc.v5.cache2.googlevideo.com
 2404:6800:4005:808::200e tc.v5.cache3.googlevideo.com
 2404:6800:4005:808::200e tc.v5.cache4.googlevideo.com
 2404:6800:4005:808::200e tc.v5.cache5.googlevideo.com
 2404:6800:4005:808::200e tc.v5.cache6.googlevideo.com
 2404:6800:4005:808::200e tc.v5.cache7.googlevideo.com
-2404:6800:4005:80b::200e tc.v5.cache8.googlevideo.com
+2404:6800:4005:808::200e tc.v5.cache8.googlevideo.com
 2404:6800:4005:808::200e tc.v6.cache1.googlevideo.com
 2404:6800:4005:808::200e tc.v6.cache2.googlevideo.com
-2404:6800:4005:80b::200e tc.v6.cache3.googlevideo.com
+2404:6800:4005:808::200e tc.v6.cache3.googlevideo.com
 2404:6800:4005:808::200e tc.v6.cache4.googlevideo.com
 2404:6800:4005:808::200e tc.v6.cache5.googlevideo.com
 2404:6800:4005:808::200e tc.v6.cache6.googlevideo.com
 2404:6800:4005:808::200e tc.v6.cache7.googlevideo.com
-2404:6800:4005:80b::200e tc.v6.cache8.googlevideo.com
-2404:6800:4005:80b::200e tc.v7.cache1.googlevideo.com
+2404:6800:4005:808::200e tc.v6.cache8.googlevideo.com
+2404:6800:4005:808::200e tc.v7.cache1.googlevideo.com
 2404:6800:4005:808::200e tc.v7.cache2.googlevideo.com
 2404:6800:4005:808::200e tc.v7.cache3.googlevideo.com
 2404:6800:4005:808::200e tc.v7.cache4.googlevideo.com
@@ -3144,7 +3144,7 @@
 2404:6800:4005:808::200e tc.v8.cache7.googlevideo.com
 2404:6800:4005:808::200e tc.v8.cache8.googlevideo.com
 2404:6800:4005:808::200e tc.v9.cache1.googlevideo.com
-2404:6800:4005:80b::200e tc.v9.cache2.googlevideo.com
+2404:6800:4005:808::200e tc.v9.cache2.googlevideo.com
 2404:6800:4001:801::1009 tc.v9.cache3.googlevideo.com
 2404:6800:4001:806::200e tc.v9.cache4.googlevideo.com
 2404:6800:4005:808::200e tc.v9.cache5.googlevideo.com
@@ -3235,15 +3235,15 @@
 2404:6800:4005:808::200e tc.v20.cache2.googlevideo.com
 2404:6800:4005:808::200e tc.v20.cache3.googlevideo.com
 2404:6800:4005:808::200e tc.v20.cache4.googlevideo.com
-2404:6800:4005:80b::200e tc.v20.cache5.googlevideo.com
+2404:6800:4005:808::200e tc.v20.cache5.googlevideo.com
 2404:6800:4005:808::200e tc.v20.cache6.googlevideo.com
 2404:6800:4005:808::200e tc.v20.cache7.googlevideo.com
-2404:6800:4005:80b::200e tc.v20.cache8.googlevideo.com
+2404:6800:4005:808::200e tc.v20.cache8.googlevideo.com
 2404:6800:4005:808::200e tc.v21.cache1.googlevideo.com
-2404:6800:4005:80b::200e tc.v21.cache2.googlevideo.com
+2404:6800:4005:808::200e tc.v21.cache2.googlevideo.com
 2404:6800:4005:808::200e tc.v21.cache3.googlevideo.com
 2404:6800:4005:808::200e tc.v21.cache4.googlevideo.com
-2404:6800:4005:80b::200e tc.v21.cache5.googlevideo.com
+2404:6800:4005:808::200e tc.v21.cache5.googlevideo.com
 2404:6800:4005:808::200e tc.v21.cache6.googlevideo.com
 2404:6800:4005:808::200e tc.v21.cache7.googlevideo.com
 2404:6800:4005:808::200e tc.v21.cache8.googlevideo.com
@@ -3251,7 +3251,7 @@
 2404:6800:4005:808::200e tc.v22.cache2.googlevideo.com
 2404:6800:4005:808::200e tc.v22.cache3.googlevideo.com
 2404:6800:4005:808::200e tc.v22.cache4.googlevideo.com
-2404:6800:4005:80b::200e tc.v22.cache5.googlevideo.com
+2404:6800:4005:808::200e tc.v22.cache5.googlevideo.com
 2404:6800:4005:808::200e tc.v22.cache6.googlevideo.com
 2404:6800:4005:808::200e tc.v22.cache7.googlevideo.com
 2404:6800:4005:808::200e tc.v22.cache8.googlevideo.com
@@ -3265,12 +3265,12 @@
 2404:6800:4005:808::200e tc.v23.cache8.googlevideo.com
 2404:6800:4005:808::200e tc.v24.cache1.googlevideo.com
 2404:6800:4001:803::100e tc.v24.cache2.googlevideo.com
-2404:6800:4005:80b::200e tc.v24.cache3.googlevideo.com
+2404:6800:4005:808::200e tc.v24.cache3.googlevideo.com
 2404:6800:4005:808::200e tc.v24.cache4.googlevideo.com
-2404:6800:4005:80b::200e tc.v24.cache5.googlevideo.com
+2404:6800:4005:808::200e tc.v24.cache5.googlevideo.com
 2404:6800:4005:808::200e tc.v24.cache6.googlevideo.com
 2404:6800:4005:808::200e tc.v24.cache7.googlevideo.com
-2404:6800:4005:80b::200e tc.v24.cache8.googlevideo.com
+2404:6800:4005:808::200e tc.v24.cache8.googlevideo.com
 
 ## 前缀限定
 #2404:6800:4005:4::6 r1---hkg03s05.googlevideo.com

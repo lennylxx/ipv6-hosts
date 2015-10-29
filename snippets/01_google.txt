@@ -42,6 +42,7 @@
 2404:6800:4005:808::2003 peering.google.com #www3.l.google.com
 2404:6800:4005:808::2003 pixel.google.com
 2404:6800:4005:808::2003 pki.google.com #www3.l.google.com
+2404:6800:4005:808::2003 privacy.google.com
 2404:6800:4005:808::2003 security.google.com #www3.l.google.com
 2404:6800:4005:808::2003 services.google.com #www3.l.google.com
 2404:6800:4005:808::2003 store.google.com
@@ -411,6 +412,9 @@
 2404:6800:4003:c00::bd 14.drive.google.com #browserchannel-docs.l.google.com
 2404:6800:4003:c02::bd 15.drive.google.com #browserchannel-docs.l.google.com
 2404:6800:4003:c00::bd 16.drive.google.com #browserchannel-docs.l.google.com
+2404:6800:4005:808::2003 script.google.com #www3.l.google.com
+2404:6800:4005:808::2003 sheets.google.com #www3.l.google.com
+2404:6800:4005:808::2003 slides.google.com #www3.l.google.com
 2404:6800:4005:808::2003 spreadsheet.google.com #spreadsheets.l.google.com
 2404:6800:4005:808::2003 spreadsheets.google.com #spreadsheets.l.google.com
 2404:6800:4005:808::2003 spreadsheets0.google.com #www3.l.google.com

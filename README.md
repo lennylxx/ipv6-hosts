@@ -1,5 +1,3 @@
-# **DISCONTINUED, RIP.**
-
 What
 ----
 

@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Thu, 29 Oct 2015 14:13:20 +0800                  |
+## |         Update : Thu, 05 Nov 2015 22:50:00 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -20,6 +20,11 @@
 2001:4860:4860::8844 google-public-dns-b.google.com
 
 2404:6800:4005:808::2003 abc.xyz
+
+2404:6800:4005:808::2003 com.google
+2404:6800:4005:808::2003 www.registry.google
+2001:4860:4802:32::1d registry.google
+2001:4860:4802:32::1d nic.google
 
 2404:6800:4005:808::2003 google.com
 2404:6800:4005:809::2004 www.google.com
@@ -55,7 +60,7 @@
 2404:6800:4005:808::200b mobile.google.com #mobile.l.google.com
 2404:6800:4005:808::2003 myaccount.google.com #www3.l.google.com
 2404:6800:4005:808::2003 on.google.com #www3.l.google.com
-2404:6800:4003:c00::8d onetoday.google.com #appspot.l.google.com
+2404:6800:4005:800::2011 onetoday.google.com #appspot.l.google.com
 2404:6800:4005:808::2003 peering.google.com #www3.l.google.com
 2404:6800:4005:808::2003 pixel.google.com
 2404:6800:4005:808::2003 pki.google.com #www3.l.google.com
@@ -185,27 +190,64 @@
 2404:6800:4003:c01::63 www.googlemashups.com #www2.l.google.com
 2404:6800:4003:c01::93 *.googlemashups.com #www2.l.google.com
 2404:6800:4005:808::2003 appengine.google.com #www3.l.google.com
-2404:6800:4003:c00::8d appspot.com
-2404:6800:4003:c02::8d *.appspot.com #appspot.l.google.com
-2404:6800:4003:c01::8d www.appspot.com #appspot.l.google.com
-2404:6800:4003:c00::8d betaspike.appspot.com #appspot.l.google.com
-2404:6800:4003:c00::8d chrometophone.appspot.com #appspot.l.google.com
-2404:6800:4003:c01::8d codereview.appspot.com #appspot.l.google.com
-2404:6800:4003:c02::8d evolutionofweb.appspot.com #appspot.l.google.com
-2404:6800:4003:c00::8d feedly-beta.appspot.com #appspot.l.google.com
-2404:6800:4003:c00::8d googcloudlabs.appspot.com #appspot.l.google.com
-2404:6800:4003:c00::8d googlesharedspaces.appspot.com #appspot.l.google.com
-2404:6800:4003:c01::8d gv-gadget.appspot.com #appspot.l.google.com
-2404:6800:4003:c02::8d haiticrisis.appspot.com #appspot.l.google.com
-2404:6800:4003:c00::8d i18napis.appspot.com #appspot.l.google.com
-2404:6800:4003:c01::8d moderator.appspot.com #appspot.l.google.com
-2404:6800:4003:c00::8d newsfeed-dot-latest-dot-rovio-ad-engine.appspot.com #appspot.l.google.com
-2404:6800:4003:c00::8d productideas.appspot.com #appspot.l.google.com
-2404:6800:4003:c00::8d project-slingshot-gp.appspot.com #appspot.l.google.com
-2404:6800:4003:c01::8d r3269-dot-latest-dot-project-slingshot-gp.appspot.com #appspot.l.google.com
-2404:6800:4003:c01::8d storegadgetwizard.appspot.com #appspot.l.google.com
-2404:6800:4003:c00::8d welcome-cros.appspot.com #appspot.l.google.com
-2404:6800:4003:c00::8d yt-debates.appspot.com #appspot.l.google.com
+2404:6800:4005:800::2011 appspot.com
+2404:6800:4005:800::2011 *.appspot.com #appspot.l.google.com
+2404:6800:4005:800::2011 www.appspot.com #appspot.l.google.com
+2404:6800:4005:800::2011 betaspike.appspot.com #appspot.l.google.com
+2404:6800:4005:800::2011 chrometophone.appspot.com #appspot.l.google.com
+2404:6800:4005:800::2011 codereview.appspot.com #appspot.l.google.com
+2404:6800:4005:800::2011 evolutionofweb.appspot.com #appspot.l.google.com
+2404:6800:4005:800::2011 feedly-beta.appspot.com #appspot.l.google.com
+2404:6800:4005:800::2011 googcloudlabs.appspot.com #appspot.l.google.com
+2404:6800:4005:800::2011 googlesharedspaces.appspot.com #appspot.l.google.com
+2404:6800:4005:800::2011 gv-gadget.appspot.com #appspot.l.google.com
+2404:6800:4005:800::2011 haiticrisis.appspot.com #appspot.l.google.com
+2404:6800:4005:800::2011 i18napis.appspot.com #appspot.l.google.com
+2404:6800:4005:800::2011 moderator.appspot.com #appspot.l.google.com
+2404:6800:4005:800::2011 newsfeed-dot-latest-dot-rovio-ad-engine.appspot.com #appspot.l.google.com
+2404:6800:4005:800::2011 productideas.appspot.com #appspot.l.google.com
+2404:6800:4005:800::2011 project-slingshot-gp.appspot.com #appspot.l.google.com
+2404:6800:4005:800::2011 r3269-dot-latest-dot-project-slingshot-gp.appspot.com #appspot.l.google.com
+2404:6800:4005:800::2011 storegadgetwizard.appspot.com #appspot.l.google.com
+2404:6800:4005:800::2011 welcome-cros.appspot.com #appspot.l.google.com
+2404:6800:4005:800::2011 yt-debates.appspot.com #appspot.l.google.com
+
+## WithGoogle.com
+2404:6800:4005:800::2000 withgoogle.com
+2404:6800:4005:800::2011 accelerate.withgoogle.com
+2404:6800:4005:800::2011 atmosphere.withgoogle.com
+2404:6800:4005:800::2011 atmospheretokyo.withgoogle.com
+2404:6800:4005:800::2011 brasilfreewifi.withgoogle.com
+2404:6800:4005:800::2011 candidatos.withgoogle.com
+2404:6800:4005:800::2011 cardboard.withgoogle.com
+2404:6800:4005:800::2011 chinesenewyear.withgoogle.com
+2404:6800:4005:800::2011 connectedclassrooms.withgoogle.com
+2404:6800:4005:800::2011 datasense.withgoogle.com
+2404:6800:4005:800::2011 devart.withgoogle.com
+2404:6800:4005:800::2011 docchinogame.withgoogle.com
+2404:6800:4005:800::2011 edudirectory.withgoogle.com
+2404:6800:4005:800::2011 foobar.withgoogle.com
+2404:6800:4005:800::2011 fvm.withgoogle.com
+2404:6800:4005:800::2011 impactchallenge.withgoogle.com
+2404:6800:4005:800::2011 insgruene.withgoogle.com
+2404:6800:4005:800::2011 insideabbeyroad.withgoogle.com
+2404:6800:4005:800::2011 interstellar.withgoogle.com
+2404:6800:4005:800::2011 kickwithchrome.withgoogle.com
+2404:6800:4005:800::2011 mapping.withgoogle.com
+2404:6800:4005:800::2011 nikhelp.withgoogle.com
+2404:6800:4005:800::2011 projectshield.withgoogle.com
+2404:6800:4005:800::2011 smartypins.withgoogle.com
+2404:6800:4005:800::2011 spellup.withgoogle.com
+2404:6800:4005:800::2011 streetart.withgoogle.com
+2404:6800:4005:800::2011 takeaction.withgoogle.com
+2404:6800:4005:800::2011 think.withgoogle.com
+2404:6800:4005:800::2011 trendstw.withgoogle.com
+2404:6800:4005:800::2011 yourtour.withgoogle.com
+2404:6800:4005:800::2011 whichphone.withgoogle.com
+2404:6800:4005:800::2011 whichphone-api.withgoogle.com
+2404:6800:4005:800::2011 www.fvm.withgoogle.com
+2404:6800:4005:800::2011 www.thinkwithgoogle.com
+2404:6800:4005:800::2000 thinkwithgoogle.com
 
 ## Answers/Guru/WenDa 问答社区（国际版已停止运营）
 2404:6800:4005:808::2003 answers.google.com #www3.l.google.com
@@ -332,7 +374,7 @@
 
 ## Chrome 谷歌浏览器
 2607:f8b0:4005:800::1000 www.chrome.com
-2404:6800:4003:c01::8d developer.chrome.com #appspot.l.google.com
+2404:6800:4005:800::2011 developer.chrome.com #appspot.l.google.com
 2404:6800:4005:808::2003 chrome.google.com #www3.l.google.com
 #2404:6800:4008:c00::66 browsersync.google.com #browsersync.l.google.com
 2404:6800:4005:808::2004 toolbarqueries.google.com #toolbarqueries.l.google.com
@@ -541,30 +583,30 @@
 ## Labs 实验室
 2404:6800:4005:808::2003 labs.google.cn #www3.l.google.com
 2404:6800:4005:808::2003 labs.google.com #www3.l.google.com
-2404:6800:4003:c01::8d www.googlelabs.com #appspot.l.google.com
-2404:6800:4003:c00::8d browsersize.googlelabs.com #appspot.l.google.com
-2404:6800:4003:c01::8d bodybrowser.googlelabs.com #appspot.l.google.com
-2404:6800:4003:c02::8d citytours.googlelabs.com #appspot.l.google.com
-2404:6800:4003:c00::8d correlate.googlelabs.com #appspot.l.google.com
-2404:6800:4003:c01::8d datawiki.googlelabs.com #appspot.l.google.com
-2404:6800:4003:c00::8d earthengine.googlelabs.com #appspot.l.google.com
-2404:6800:4003:c02::8d fastflip.googlelabs.com #appspot.l.google.com
-2404:6800:4003:c01::8d followfinder.googlelabs.com #appspot.l.google.com
-2404:6800:4003:c00::8d guru.googlelabs.com #appspot.l.google.com
-2404:6800:4003:c02::8d image-swirl.googlelabs.com #appspot.l.google.com
-2404:6800:4003:c02::8d juliamap.googlelabs.com #appspot.l.google.com
-2404:6800:4003:c02::8d listen.googlelabs.com #appspot.l.google.com
-2404:6800:4003:c00::8d livingstories.googlelabs.com #appspot.l.google.com
-2404:6800:4003:c00::8d newstimeline.googlelabs.com #appspot.l.google.com
-2404:6800:4003:c00::8d ngrams.googlelabs.com #appspot.l.google.com
-2404:6800:4003:c01::8d pagespeed.googlelabs.com #appspot.l.google.com
-2404:6800:4003:c00::8d relatedlinks.googlelabs.com #appspot.l.google.com
-2404:6800:4003:c00::8d scribe.googlelabs.com #appspot.l.google.com
-2404:6800:4003:c00::8d scriptconv.googlelabs.com #appspot.l.google.com
-2404:6800:4003:c00::8d similar-images.googlelabs.com #appspot.l.google.com
-2404:6800:4003:c00::8d storegadget.googlelabs.com #appspot.l.google.com
-2404:6800:4003:c01::8d swiffy.googlelabs.com #appspot.l.google.com
-2404:6800:4003:c02::8d tables.googlelabs.com #appspot.l.google.com
+2404:6800:4005:800::2011 www.googlelabs.com #appspot.l.google.com
+2404:6800:4005:800::2011 browsersize.googlelabs.com #appspot.l.google.com
+2404:6800:4005:800::2011 bodybrowser.googlelabs.com #appspot.l.google.com
+2404:6800:4005:800::2011 citytours.googlelabs.com #appspot.l.google.com
+2404:6800:4005:800::2011 correlate.googlelabs.com #appspot.l.google.com
+2404:6800:4005:800::2011 datawiki.googlelabs.com #appspot.l.google.com
+2404:6800:4005:800::2011 earthengine.googlelabs.com #appspot.l.google.com
+2404:6800:4005:800::2011 fastflip.googlelabs.com #appspot.l.google.com
+2404:6800:4005:800::2011 followfinder.googlelabs.com #appspot.l.google.com
+2404:6800:4005:800::2011 guru.googlelabs.com #appspot.l.google.com
+2404:6800:4005:800::2011 image-swirl.googlelabs.com #appspot.l.google.com
+2404:6800:4005:800::2011 juliamap.googlelabs.com #appspot.l.google.com
+2404:6800:4005:800::2011 listen.googlelabs.com #appspot.l.google.com
+2404:6800:4005:800::2011 livingstories.googlelabs.com #appspot.l.google.com
+2404:6800:4005:800::2011 newstimeline.googlelabs.com #appspot.l.google.com
+2404:6800:4005:800::2011 ngrams.googlelabs.com #appspot.l.google.com
+2404:6800:4005:800::2011 pagespeed.googlelabs.com #appspot.l.google.com
+2404:6800:4005:800::2011 relatedlinks.googlelabs.com #appspot.l.google.com
+2404:6800:4005:800::2011 scribe.googlelabs.com #appspot.l.google.com
+2404:6800:4005:800::2011 scriptconv.googlelabs.com #appspot.l.google.com
+2404:6800:4005:800::2011 similar-images.googlelabs.com #appspot.l.google.com
+2404:6800:4005:800::2011 storegadget.googlelabs.com #appspot.l.google.com
+2404:6800:4005:800::2011 swiffy.googlelabs.com #appspot.l.google.com
+2404:6800:4005:800::2011 tables.googlelabs.com #appspot.l.google.com
 
 ## Google Mars 火星地图
 2404:6800:4005:808::2003 mars.google.com #www3.l.google.com
@@ -920,7 +962,7 @@
 
 ## Google Art Project
 2404:6800:4005:808::2003 www.googleartproject.com #www3.l.google.com
-2404:6800:4003:c00::8d art-project-media.appspot.com #appspot.l.google.com
+2404:6800:4005:800::2011 art-project-media.appspot.com #appspot.l.google.com
 
 ## FeedBurner
 2404:6800:4005:808::2003 feedburner.google.com #www3.l.google.com
@@ -930,12 +972,12 @@
 2404:6800:4003:c00::76 feedproxy.google.com #www4.l.google.com
 
 ## The Go Programming Language Go 编程语言
-2404:6800:4003:c01::8d golang.org
-2404:6800:4003:c00::8d www.golang.org #golang.org
-2404:6800:4003:c02::8d blog.golang.org #golang.org
-2404:6800:4003:c01::8d play.golang.org #golang.org
-2404:6800:4003:c00::8d tip.golang.org #golang.org
-2404:6800:4003:c00::8d tour.golang.org #golang.org
+2404:6800:4005:800::2011 golang.org
+2404:6800:4005:800::2011 www.golang.org #golang.org
+2404:6800:4005:800::2011 blog.golang.org #golang.org
+2404:6800:4005:800::2011 play.golang.org #golang.org
+2404:6800:4005:800::2011 tip.golang.org #golang.org
+2404:6800:4005:800::2011 tour.golang.org #golang.org
 
 ## Goo.gl Google短网址服务
 2404:6800:4005:808::2003 goo.gl
@@ -949,10 +991,11 @@
 
 ## Google.org Google 公益
 2404:6800:4005:808::2003 www.google.org
+2404:6800:4005:808::2003 google.org
 2404:6800:4003:c00::79 blog.google.org #ghs.google.com
 
 ## Panoramio
-2404:6800:4003:c01::8d www.panoramio.com #appspot.l.google.com
+2404:6800:4005:800::2011 www.panoramio.com #appspot.l.google.com
 2404:6800:4003:c02::80 static.panoramio.com #c.storage.googleapis.com
 2404:6800:4003:c00::79 blog.panoramio.com #ghs.google.com
 
@@ -1004,7 +1047,6 @@
 2404:6800:4003:c00::79 www.gwtproject.org #ghs.google.com
 2404:6800:4003:c00::79 www.thegooglepuzzle.com #ghs.google.com
 2404:6800:4003:c00::79 www.thegobridgeoglepuzzle.com #ghs.google.com
-2404:6800:4003:c00::8d www.thinkwithgoogle.com
 2404:6800:4005:808::2003 www.oneworldmanystories.com #www3.l.google.com
 2404:6800:4003:c02::79 www.googlezeitgeist.com #ghs.google.com
 2404:6800:4005:808::2003 www.googleinsidesearch.com #www3.l.google.com
@@ -1212,198 +1254,198 @@
 2404:6800:4005:808::2003 v8.cache6.c.googlesyndication.com
 2404:6800:4005:808::2003 v8.cache7.c.googlesyndication.com
 2404:6800:4005:808::2003 v8.cache8.c.googlesyndication.com
-2401:3800:4001:3::10 v1.lscache1.c.googlesyndication.com
-2401:3800:4001:3::10 v1.lscache2.c.googlesyndication.com
-2401:3800:4001:3::10 v1.lscache3.c.googlesyndication.com
-2401:3800:4001:3::10 v1.lscache4.c.googlesyndication.com
-2401:3800:4001:3::10 v1.lscache5.c.googlesyndication.com
-2401:3800:4001:3::10 v1.lscache6.c.googlesyndication.com
-2401:3800:4001:3::10 v1.lscache7.c.googlesyndication.com
-2401:3800:4001:2::10 v1.lscache8.c.googlesyndication.com
-2401:3800:4001:3::11 v2.lscache1.c.googlesyndication.com
-2401:3800:4001:2::11 v2.lscache2.c.googlesyndication.com
-2401:3800:4001:2::11 v2.lscache3.c.googlesyndication.com
-2401:3800:4001:3::11 v2.lscache4.c.googlesyndication.com
-2401:3800:4001:3::11 v2.lscache5.c.googlesyndication.com
-2401:3800:4001:2::11 v2.lscache6.c.googlesyndication.com
-2401:3800:4001:2::11 v2.lscache7.c.googlesyndication.com
-2401:3800:4001:2::11 v2.lscache8.c.googlesyndication.com
-2401:3800:4001:3::12 v3.lscache1.c.googlesyndication.com
-2401:3800:4001:3::12 v3.lscache2.c.googlesyndication.com
-2401:3800:4001:3::12 v3.lscache3.c.googlesyndication.com
-2401:3800:4001:3::12 v3.lscache4.c.googlesyndication.com
-2401:3800:4001:3::12 v3.lscache5.c.googlesyndication.com
-2401:3800:4001:3::12 v3.lscache6.c.googlesyndication.com
-2401:3800:4001:2::12 v3.lscache7.c.googlesyndication.com
-2401:3800:4001:2::12 v3.lscache8.c.googlesyndication.com
-2401:3800:4001:3::13 v4.lscache1.c.googlesyndication.com
-2401:3800:4001:2::13 v4.lscache2.c.googlesyndication.com
-2401:3800:4001:3::13 v4.lscache3.c.googlesyndication.com
-2401:3800:4001:2::13 v4.lscache4.c.googlesyndication.com
-2401:3800:4001:3::13 v4.lscache5.c.googlesyndication.com
-2401:3800:4001:3::13 v4.lscache6.c.googlesyndication.com
-2401:3800:4001:2::13 v4.lscache7.c.googlesyndication.com
-2401:3800:4001:3::13 v4.lscache8.c.googlesyndication.com
-2401:3800:4001:2::14 v5.lscache1.c.googlesyndication.com
-2401:3800:4001:2::14 v5.lscache2.c.googlesyndication.com
-2401:3800:4001:2::14 v5.lscache3.c.googlesyndication.com
-2401:3800:4001:3::14 v5.lscache4.c.googlesyndication.com
-2401:3800:4001:3::14 v5.lscache5.c.googlesyndication.com
-2401:3800:4001:2::14 v5.lscache6.c.googlesyndication.com
-2401:3800:4001:2::14 v5.lscache7.c.googlesyndication.com
-2401:3800:4001:2::14 v5.lscache8.c.googlesyndication.com
-2401:3800:4001:2::15 v6.lscache1.c.googlesyndication.com
-2401:3800:4001:3::15 v6.lscache2.c.googlesyndication.com
-2401:3800:4001:3::15 v6.lscache3.c.googlesyndication.com
-2401:3800:4001:2::15 v6.lscache4.c.googlesyndication.com
-2401:3800:4001:3::15 v6.lscache5.c.googlesyndication.com
-2401:3800:4001:3::15 v6.lscache6.c.googlesyndication.com
-2401:3800:4001:2::15 v6.lscache7.c.googlesyndication.com
-2401:3800:4001:3::15 v6.lscache8.c.googlesyndication.com
-2401:3800:4001:3::16 v7.lscache1.c.googlesyndication.com
-2401:3800:4001:3::16 v7.lscache2.c.googlesyndication.com
-2401:3800:4001:3::16 v7.lscache3.c.googlesyndication.com
-2401:3800:4001:2::16 v7.lscache4.c.googlesyndication.com
-2401:3800:4001:3::16 v7.lscache5.c.googlesyndication.com
-2401:3800:4001:3::16 v7.lscache6.c.googlesyndication.com
-2401:3800:4001:2::16 v7.lscache7.c.googlesyndication.com
-2401:3800:4001:3::16 v7.lscache8.c.googlesyndication.com
-2401:3800:4001:3::17 v8.lscache1.c.googlesyndication.com
-2401:3800:4001:3::17 v8.lscache2.c.googlesyndication.com
-2401:3800:4001:2::17 v8.lscache3.c.googlesyndication.com
-2401:3800:4001:2::17 v8.lscache4.c.googlesyndication.com
-2401:3800:4001:3::17 v8.lscache5.c.googlesyndication.com
-2401:3800:4001:3::17 v8.lscache6.c.googlesyndication.com
-2401:3800:4001:2::17 v8.lscache7.c.googlesyndication.com
-2401:3800:4001:3::17 v8.lscache8.c.googlesyndication.com
-2401:3800:4001:2::18 v9.lscache1.c.googlesyndication.com
-2401:3800:4001:2::18 v9.lscache2.c.googlesyndication.com
-2401:3800:4001:3::18 v9.lscache3.c.googlesyndication.com
-2401:3800:4001:3::18 v9.lscache4.c.googlesyndication.com
-2401:3800:4001:2::18 v9.lscache5.c.googlesyndication.com
-2401:3800:4001:3::18 v9.lscache6.c.googlesyndication.com
-2401:3800:4001:3::18 v9.lscache7.c.googlesyndication.com
-2401:3800:4001:2::19 v9.lscache8.c.googlesyndication.com
-2401:3800:4001:2::19 v10.lscache1.c.googlesyndication.com
-2401:3800:4001:2::19 v10.lscache2.c.googlesyndication.com
-2401:3800:4001:3::19 v10.lscache3.c.googlesyndication.com
-2401:3800:4001:2::19 v10.lscache4.c.googlesyndication.com
-2401:3800:4001:2::19 v10.lscache5.c.googlesyndication.com
-2401:3800:4001:2::19 v10.lscache6.c.googlesyndication.com
-2401:3800:4001:2::19 v10.lscache7.c.googlesyndication.com
-2401:3800:4001:2::19 v10.lscache8.c.googlesyndication.com
-2401:3800:4001:3::1a v11.lscache1.c.googlesyndication.com
-2401:3800:4001:2::1a v11.lscache2.c.googlesyndication.com
-2401:3800:4001:2::1a v11.lscache3.c.googlesyndication.com
-2401:3800:4001:3::1a v11.lscache4.c.googlesyndication.com
-2401:3800:4001:2::1a v11.lscache5.c.googlesyndication.com
-2401:3800:4001:2::1a v11.lscache6.c.googlesyndication.com
-2401:3800:4001:3::1a v11.lscache7.c.googlesyndication.com
-2401:3800:4001:3::1a v11.lscache8.c.googlesyndication.com
-2401:3800:4001:2::1b v12.lscache1.c.googlesyndication.com
-2401:3800:4001:3::1b v12.lscache2.c.googlesyndication.com
-2401:3800:4001:3::1b v12.lscache3.c.googlesyndication.com
-2401:3800:4001:2::1b v12.lscache4.c.googlesyndication.com
-2401:3800:4001:3::1b v12.lscache5.c.googlesyndication.com
-2401:3800:4001:3::1b v12.lscache6.c.googlesyndication.com
-2401:3800:4001:2::1b v12.lscache7.c.googlesyndication.com
-2401:3800:4001:3::1b v12.lscache8.c.googlesyndication.com
-2401:3800:4001:3::10 v13.lscache1.c.googlesyndication.com
-2401:3800:4001:3::10 v13.lscache2.c.googlesyndication.com
-2401:3800:4001:2::10 v13.lscache3.c.googlesyndication.com
-2401:3800:4001:3::10 v13.lscache4.c.googlesyndication.com
-2401:3800:4001:3::10 v13.lscache5.c.googlesyndication.com
-2401:3800:4001:2::10 v13.lscache6.c.googlesyndication.com
-2401:3800:4001:3::10 v13.lscache7.c.googlesyndication.com
-2401:3800:4001:2::10 v13.lscache8.c.googlesyndication.com
-2401:3800:4001:2::11 v14.lscache1.c.googlesyndication.com
-2401:3800:4001:3::11 v14.lscache2.c.googlesyndication.com
-2401:3800:4001:2::11 v14.lscache3.c.googlesyndication.com
-2401:3800:4001:3::11 v14.lscache4.c.googlesyndication.com
-2401:3800:4001:3::11 v14.lscache5.c.googlesyndication.com
-2401:3800:4001:2::11 v14.lscache6.c.googlesyndication.com
-2401:3800:4001:2::11 v14.lscache7.c.googlesyndication.com
-2401:3800:4001:3::11 v14.lscache8.c.googlesyndication.com
-2401:3800:4001:2::12 v15.lscache1.c.googlesyndication.com
-2401:3800:4001:2::12 v15.lscache2.c.googlesyndication.com
-2401:3800:4001:3::12 v15.lscache3.c.googlesyndication.com
-2401:3800:4001:2::12 v15.lscache4.c.googlesyndication.com
-2401:3800:4001:2::12 v15.lscache5.c.googlesyndication.com
-2401:3800:4001:3::12 v15.lscache6.c.googlesyndication.com
-2401:3800:4001:2::12 v15.lscache7.c.googlesyndication.com
-2401:3800:4001:2::12 v15.lscache8.c.googlesyndication.com
-2401:3800:4001:2::13 v16.lscache1.c.googlesyndication.com
-2401:3800:4001:2::13 v16.lscache2.c.googlesyndication.com
-2401:3800:4001:3::13 v16.lscache3.c.googlesyndication.com
-2401:3800:4001:2::13 v16.lscache4.c.googlesyndication.com
-2401:3800:4001:2::13 v16.lscache5.c.googlesyndication.com
-2401:3800:4001:3::13 v16.lscache6.c.googlesyndication.com
-2401:3800:4001:3::13 v16.lscache7.c.googlesyndication.com
-2401:3800:4001:2::13 v16.lscache8.c.googlesyndication.com
-2401:3800:4001:3::14 v17.lscache1.c.googlesyndication.com
-2401:3800:4001:2::14 v17.lscache2.c.googlesyndication.com
-2401:3800:4001:3::14 v17.lscache3.c.googlesyndication.com
-2401:3800:4001:2::14 v17.lscache4.c.googlesyndication.com
-2401:3800:4001:2::14 v17.lscache5.c.googlesyndication.com
-2401:3800:4001:3::14 v17.lscache6.c.googlesyndication.com
-2401:3800:4001:2::14 v17.lscache7.c.googlesyndication.com
-2401:3800:4001:3::14 v17.lscache8.c.googlesyndication.com
-2401:3800:4001:3::15 v18.lscache1.c.googlesyndication.com
-2401:3800:4001:3::15 v18.lscache2.c.googlesyndication.com
-2401:3800:4001:3::15 v18.lscache3.c.googlesyndication.com
-2401:3800:4001:2::15 v18.lscache4.c.googlesyndication.com
-2401:3800:4001:3::15 v18.lscache5.c.googlesyndication.com
-2401:3800:4001:2::15 v18.lscache6.c.googlesyndication.com
-2401:3800:4001:2::15 v18.lscache7.c.googlesyndication.com
-2401:3800:4001:3::15 v18.lscache8.c.googlesyndication.com
-2401:3800:4001:3::16 v19.lscache1.c.googlesyndication.com
-2401:3800:4001:3::16 v19.lscache2.c.googlesyndication.com
-2401:3800:4001:3::16 v19.lscache3.c.googlesyndication.com
-2401:3800:4001:2::16 v19.lscache4.c.googlesyndication.com
-2401:3800:4001:2::16 v19.lscache5.c.googlesyndication.com
-2401:3800:4001:2::16 v19.lscache6.c.googlesyndication.com
-2401:3800:4001:2::16 v19.lscache7.c.googlesyndication.com
-2401:3800:4001:2::16 v19.lscache8.c.googlesyndication.com
-2401:3800:4001:3::17 v20.lscache1.c.googlesyndication.com
-2401:3800:4001:2::17 v20.lscache2.c.googlesyndication.com
-2401:3800:4001:2::17 v20.lscache3.c.googlesyndication.com
-2401:3800:4001:2::17 v20.lscache4.c.googlesyndication.com
-2401:3800:4001:3::17 v20.lscache5.c.googlesyndication.com
-2401:3800:4001:3::17 v20.lscache6.c.googlesyndication.com
-2401:3800:4001:2::17 v20.lscache7.c.googlesyndication.com
-2401:3800:4001:2::17 v20.lscache8.c.googlesyndication.com
-2401:3800:4001:2::18 v21.lscache1.c.googlesyndication.com
-2401:3800:4001:2::18 v21.lscache2.c.googlesyndication.com
-2401:3800:4001:3::18 v21.lscache3.c.googlesyndication.com
-2401:3800:4001:3::18 v21.lscache4.c.googlesyndication.com
-2401:3800:4001:2::18 v21.lscache5.c.googlesyndication.com
-2401:3800:4001:3::18 v21.lscache6.c.googlesyndication.com
-2401:3800:4001:2::18 v21.lscache7.c.googlesyndication.com
-2401:3800:4001:3::18 v21.lscache8.c.googlesyndication.com
-2401:3800:4001:2::19 v22.lscache1.c.googlesyndication.com
-2401:3800:4001:2::19 v22.lscache2.c.googlesyndication.com
-2401:3800:4001:2::19 v22.lscache3.c.googlesyndication.com
-2401:3800:4001:2::19 v22.lscache4.c.googlesyndication.com
-2401:3800:4001:2::19 v22.lscache5.c.googlesyndication.com
-2401:3800:4001:3::19 v22.lscache6.c.googlesyndication.com
-2401:3800:4001:3::19 v22.lscache7.c.googlesyndication.com
-2401:3800:4001:3::19 v22.lscache8.c.googlesyndication.com
-2401:3800:4001:3::1a v23.lscache1.c.googlesyndication.com
-2401:3800:4001:3::1a v23.lscache2.c.googlesyndication.com
-2401:3800:4001:3::1a v23.lscache3.c.googlesyndication.com
-2401:3800:4001:3::1a v23.lscache4.c.googlesyndication.com
-2401:3800:4001:2::1a v23.lscache5.c.googlesyndication.com
-2401:3800:4001:2::1a v23.lscache6.c.googlesyndication.com
-2401:3800:4001:3::1a v23.lscache7.c.googlesyndication.com
-2401:3800:4001:3::1a v23.lscache8.c.googlesyndication.com
-2401:3800:4001:3::1b v24.lscache1.c.googlesyndication.com
-2401:3800:4001:2::1b v24.lscache2.c.googlesyndication.com
-2401:3800:4001:3::1b v24.lscache3.c.googlesyndication.com
-2401:3800:4001:2::1b v24.lscache4.c.googlesyndication.com
-2401:3800:4001:2::1b v24.lscache5.c.googlesyndication.com
-2401:3800:4001:3::1b v24.lscache6.c.googlesyndication.com
-2401:3800:4001:3::1b v24.lscache7.c.googlesyndication.com
-2401:3800:4001:2::1b v24.lscache8.c.googlesyndication.com
+#2401:3800:4001:3::10 v1.lscache1.c.googlesyndication.com
+#2401:3800:4001:3::10 v1.lscache2.c.googlesyndication.com
+#2401:3800:4001:3::10 v1.lscache3.c.googlesyndication.com
+#2401:3800:4001:3::10 v1.lscache4.c.googlesyndication.com
+#2401:3800:4001:3::10 v1.lscache5.c.googlesyndication.com
+#2401:3800:4001:3::10 v1.lscache6.c.googlesyndication.com
+#2401:3800:4001:3::10 v1.lscache7.c.googlesyndication.com
+#2401:3800:4001:2::10 v1.lscache8.c.googlesyndication.com
+#2401:3800:4001:3::11 v2.lscache1.c.googlesyndication.com
+#2401:3800:4001:2::11 v2.lscache2.c.googlesyndication.com
+#2401:3800:4001:2::11 v2.lscache3.c.googlesyndication.com
+#2401:3800:4001:3::11 v2.lscache4.c.googlesyndication.com
+#2401:3800:4001:3::11 v2.lscache5.c.googlesyndication.com
+#2401:3800:4001:2::11 v2.lscache6.c.googlesyndication.com
+#2401:3800:4001:2::11 v2.lscache7.c.googlesyndication.com
+#2401:3800:4001:2::11 v2.lscache8.c.googlesyndication.com
+#2401:3800:4001:3::12 v3.lscache1.c.googlesyndication.com
+#2401:3800:4001:3::12 v3.lscache2.c.googlesyndication.com
+#2401:3800:4001:3::12 v3.lscache3.c.googlesyndication.com
+#2401:3800:4001:3::12 v3.lscache4.c.googlesyndication.com
+#2401:3800:4001:3::12 v3.lscache5.c.googlesyndication.com
+#2401:3800:4001:3::12 v3.lscache6.c.googlesyndication.com
+#2401:3800:4001:2::12 v3.lscache7.c.googlesyndication.com
+#2401:3800:4001:2::12 v3.lscache8.c.googlesyndication.com
+#2401:3800:4001:3::13 v4.lscache1.c.googlesyndication.com
+#2401:3800:4001:2::13 v4.lscache2.c.googlesyndication.com
+#2401:3800:4001:3::13 v4.lscache3.c.googlesyndication.com
+#2401:3800:4001:2::13 v4.lscache4.c.googlesyndication.com
+#2401:3800:4001:3::13 v4.lscache5.c.googlesyndication.com
+#2401:3800:4001:3::13 v4.lscache6.c.googlesyndication.com
+#2401:3800:4001:2::13 v4.lscache7.c.googlesyndication.com
+#2401:3800:4001:3::13 v4.lscache8.c.googlesyndication.com
+#2401:3800:4001:2::14 v5.lscache1.c.googlesyndication.com
+#2401:3800:4001:2::14 v5.lscache2.c.googlesyndication.com
+#2401:3800:4001:2::14 v5.lscache3.c.googlesyndication.com
+#2401:3800:4001:3::14 v5.lscache4.c.googlesyndication.com
+#2401:3800:4001:3::14 v5.lscache5.c.googlesyndication.com
+#2401:3800:4001:2::14 v5.lscache6.c.googlesyndication.com
+#2401:3800:4001:2::14 v5.lscache7.c.googlesyndication.com
+#2401:3800:4001:2::14 v5.lscache8.c.googlesyndication.com
+#2401:3800:4001:2::15 v6.lscache1.c.googlesyndication.com
+#2401:3800:4001:3::15 v6.lscache2.c.googlesyndication.com
+#2401:3800:4001:3::15 v6.lscache3.c.googlesyndication.com
+#2401:3800:4001:2::15 v6.lscache4.c.googlesyndication.com
+#2401:3800:4001:3::15 v6.lscache5.c.googlesyndication.com
+#2401:3800:4001:3::15 v6.lscache6.c.googlesyndication.com
+#2401:3800:4001:2::15 v6.lscache7.c.googlesyndication.com
+#2401:3800:4001:3::15 v6.lscache8.c.googlesyndication.com
+#2401:3800:4001:3::16 v7.lscache1.c.googlesyndication.com
+#2401:3800:4001:3::16 v7.lscache2.c.googlesyndication.com
+#2401:3800:4001:3::16 v7.lscache3.c.googlesyndication.com
+#2401:3800:4001:2::16 v7.lscache4.c.googlesyndication.com
+#2401:3800:4001:3::16 v7.lscache5.c.googlesyndication.com
+#2401:3800:4001:3::16 v7.lscache6.c.googlesyndication.com
+#2401:3800:4001:2::16 v7.lscache7.c.googlesyndication.com
+#2401:3800:4001:3::16 v7.lscache8.c.googlesyndication.com
+#2401:3800:4001:3::17 v8.lscache1.c.googlesyndication.com
+#2401:3800:4001:3::17 v8.lscache2.c.googlesyndication.com
+#2401:3800:4001:2::17 v8.lscache3.c.googlesyndication.com
+#2401:3800:4001:2::17 v8.lscache4.c.googlesyndication.com
+#2401:3800:4001:3::17 v8.lscache5.c.googlesyndication.com
+#2401:3800:4001:3::17 v8.lscache6.c.googlesyndication.com
+#2401:3800:4001:2::17 v8.lscache7.c.googlesyndication.com
+#2401:3800:4001:3::17 v8.lscache8.c.googlesyndication.com
+#2401:3800:4001:2::18 v9.lscache1.c.googlesyndication.com
+#2401:3800:4001:2::18 v9.lscache2.c.googlesyndication.com
+#2401:3800:4001:3::18 v9.lscache3.c.googlesyndication.com
+#2401:3800:4001:3::18 v9.lscache4.c.googlesyndication.com
+#2401:3800:4001:2::18 v9.lscache5.c.googlesyndication.com
+#2401:3800:4001:3::18 v9.lscache6.c.googlesyndication.com
+#2401:3800:4001:3::18 v9.lscache7.c.googlesyndication.com
+#2401:3800:4001:2::19 v9.lscache8.c.googlesyndication.com
+#2401:3800:4001:2::19 v10.lscache1.c.googlesyndication.com
+#2401:3800:4001:2::19 v10.lscache2.c.googlesyndication.com
+#2401:3800:4001:3::19 v10.lscache3.c.googlesyndication.com
+#2401:3800:4001:2::19 v10.lscache4.c.googlesyndication.com
+#2401:3800:4001:2::19 v10.lscache5.c.googlesyndication.com
+#2401:3800:4001:2::19 v10.lscache6.c.googlesyndication.com
+#2401:3800:4001:2::19 v10.lscache7.c.googlesyndication.com
+#2401:3800:4001:2::19 v10.lscache8.c.googlesyndication.com
+#2401:3800:4001:3::1a v11.lscache1.c.googlesyndication.com
+#2401:3800:4001:2::1a v11.lscache2.c.googlesyndication.com
+#2401:3800:4001:2::1a v11.lscache3.c.googlesyndication.com
+#2401:3800:4001:3::1a v11.lscache4.c.googlesyndication.com
+#2401:3800:4001:2::1a v11.lscache5.c.googlesyndication.com
+#2401:3800:4001:2::1a v11.lscache6.c.googlesyndication.com
+#2401:3800:4001:3::1a v11.lscache7.c.googlesyndication.com
+#2401:3800:4001:3::1a v11.lscache8.c.googlesyndication.com
+#2401:3800:4001:2::1b v12.lscache1.c.googlesyndication.com
+#2401:3800:4001:3::1b v12.lscache2.c.googlesyndication.com
+#2401:3800:4001:3::1b v12.lscache3.c.googlesyndication.com
+#2401:3800:4001:2::1b v12.lscache4.c.googlesyndication.com
+#2401:3800:4001:3::1b v12.lscache5.c.googlesyndication.com
+#2401:3800:4001:3::1b v12.lscache6.c.googlesyndication.com
+#2401:3800:4001:2::1b v12.lscache7.c.googlesyndication.com
+#2401:3800:4001:3::1b v12.lscache8.c.googlesyndication.com
+#2401:3800:4001:3::10 v13.lscache1.c.googlesyndication.com
+#2401:3800:4001:3::10 v13.lscache2.c.googlesyndication.com
+#2401:3800:4001:2::10 v13.lscache3.c.googlesyndication.com
+#2401:3800:4001:3::10 v13.lscache4.c.googlesyndication.com
+#2401:3800:4001:3::10 v13.lscache5.c.googlesyndication.com
+#2401:3800:4001:2::10 v13.lscache6.c.googlesyndication.com
+#2401:3800:4001:3::10 v13.lscache7.c.googlesyndication.com
+#2401:3800:4001:2::10 v13.lscache8.c.googlesyndication.com
+#2401:3800:4001:2::11 v14.lscache1.c.googlesyndication.com
+#2401:3800:4001:3::11 v14.lscache2.c.googlesyndication.com
+#2401:3800:4001:2::11 v14.lscache3.c.googlesyndication.com
+#2401:3800:4001:3::11 v14.lscache4.c.googlesyndication.com
+#2401:3800:4001:3::11 v14.lscache5.c.googlesyndication.com
+#2401:3800:4001:2::11 v14.lscache6.c.googlesyndication.com
+#2401:3800:4001:2::11 v14.lscache7.c.googlesyndication.com
+#2401:3800:4001:3::11 v14.lscache8.c.googlesyndication.com
+#2401:3800:4001:2::12 v15.lscache1.c.googlesyndication.com
+#2401:3800:4001:2::12 v15.lscache2.c.googlesyndication.com
+#2401:3800:4001:3::12 v15.lscache3.c.googlesyndication.com
+#2401:3800:4001:2::12 v15.lscache4.c.googlesyndication.com
+#2401:3800:4001:2::12 v15.lscache5.c.googlesyndication.com
+#2401:3800:4001:3::12 v15.lscache6.c.googlesyndication.com
+#2401:3800:4001:2::12 v15.lscache7.c.googlesyndication.com
+#2401:3800:4001:2::12 v15.lscache8.c.googlesyndication.com
+#2401:3800:4001:2::13 v16.lscache1.c.googlesyndication.com
+#2401:3800:4001:2::13 v16.lscache2.c.googlesyndication.com
+#2401:3800:4001:3::13 v16.lscache3.c.googlesyndication.com
+#2401:3800:4001:2::13 v16.lscache4.c.googlesyndication.com
+#2401:3800:4001:2::13 v16.lscache5.c.googlesyndication.com
+#2401:3800:4001:3::13 v16.lscache6.c.googlesyndication.com
+#2401:3800:4001:3::13 v16.lscache7.c.googlesyndication.com
+#2401:3800:4001:2::13 v16.lscache8.c.googlesyndication.com
+#2401:3800:4001:3::14 v17.lscache1.c.googlesyndication.com
+#2401:3800:4001:2::14 v17.lscache2.c.googlesyndication.com
+#2401:3800:4001:3::14 v17.lscache3.c.googlesyndication.com
+#2401:3800:4001:2::14 v17.lscache4.c.googlesyndication.com
+#2401:3800:4001:2::14 v17.lscache5.c.googlesyndication.com
+#2401:3800:4001:3::14 v17.lscache6.c.googlesyndication.com
+#2401:3800:4001:2::14 v17.lscache7.c.googlesyndication.com
+#2401:3800:4001:3::14 v17.lscache8.c.googlesyndication.com
+#2401:3800:4001:3::15 v18.lscache1.c.googlesyndication.com
+#2401:3800:4001:3::15 v18.lscache2.c.googlesyndication.com
+#2401:3800:4001:3::15 v18.lscache3.c.googlesyndication.com
+#2401:3800:4001:2::15 v18.lscache4.c.googlesyndication.com
+#2401:3800:4001:3::15 v18.lscache5.c.googlesyndication.com
+#2401:3800:4001:2::15 v18.lscache6.c.googlesyndication.com
+#2401:3800:4001:2::15 v18.lscache7.c.googlesyndication.com
+#2401:3800:4001:3::15 v18.lscache8.c.googlesyndication.com
+#2401:3800:4001:3::16 v19.lscache1.c.googlesyndication.com
+#2401:3800:4001:3::16 v19.lscache2.c.googlesyndication.com
+#2401:3800:4001:3::16 v19.lscache3.c.googlesyndication.com
+#2401:3800:4001:2::16 v19.lscache4.c.googlesyndication.com
+#2401:3800:4001:2::16 v19.lscache5.c.googlesyndication.com
+#2401:3800:4001:2::16 v19.lscache6.c.googlesyndication.com
+#2401:3800:4001:2::16 v19.lscache7.c.googlesyndication.com
+#2401:3800:4001:2::16 v19.lscache8.c.googlesyndication.com
+#2401:3800:4001:3::17 v20.lscache1.c.googlesyndication.com
+#2401:3800:4001:2::17 v20.lscache2.c.googlesyndication.com
+#2401:3800:4001:2::17 v20.lscache3.c.googlesyndication.com
+#2401:3800:4001:2::17 v20.lscache4.c.googlesyndication.com
+#2401:3800:4001:3::17 v20.lscache5.c.googlesyndication.com
+#2401:3800:4001:3::17 v20.lscache6.c.googlesyndication.com
+#2401:3800:4001:2::17 v20.lscache7.c.googlesyndication.com
+#2401:3800:4001:2::17 v20.lscache8.c.googlesyndication.com
+#2401:3800:4001:2::18 v21.lscache1.c.googlesyndication.com
+#2401:3800:4001:2::18 v21.lscache2.c.googlesyndication.com
+#2401:3800:4001:3::18 v21.lscache3.c.googlesyndication.com
+#2401:3800:4001:3::18 v21.lscache4.c.googlesyndication.com
+#2401:3800:4001:2::18 v21.lscache5.c.googlesyndication.com
+#2401:3800:4001:3::18 v21.lscache6.c.googlesyndication.com
+#2401:3800:4001:2::18 v21.lscache7.c.googlesyndication.com
+#2401:3800:4001:3::18 v21.lscache8.c.googlesyndication.com
+#2401:3800:4001:2::19 v22.lscache1.c.googlesyndication.com
+#2401:3800:4001:2::19 v22.lscache2.c.googlesyndication.com
+#2401:3800:4001:2::19 v22.lscache3.c.googlesyndication.com
+#2401:3800:4001:2::19 v22.lscache4.c.googlesyndication.com
+#2401:3800:4001:2::19 v22.lscache5.c.googlesyndication.com
+#2401:3800:4001:3::19 v22.lscache6.c.googlesyndication.com
+#2401:3800:4001:3::19 v22.lscache7.c.googlesyndication.com
+#2401:3800:4001:3::19 v22.lscache8.c.googlesyndication.com
+#2401:3800:4001:3::1a v23.lscache1.c.googlesyndication.com
+#2401:3800:4001:3::1a v23.lscache2.c.googlesyndication.com
+#2401:3800:4001:3::1a v23.lscache3.c.googlesyndication.com
+#2401:3800:4001:3::1a v23.lscache4.c.googlesyndication.com
+#2401:3800:4001:2::1a v23.lscache5.c.googlesyndication.com
+#2401:3800:4001:2::1a v23.lscache6.c.googlesyndication.com
+#2401:3800:4001:3::1a v23.lscache7.c.googlesyndication.com
+#2401:3800:4001:3::1a v23.lscache8.c.googlesyndication.com
+#2401:3800:4001:3::1b v24.lscache1.c.googlesyndication.com
+#2401:3800:4001:2::1b v24.lscache2.c.googlesyndication.com
+#2401:3800:4001:3::1b v24.lscache3.c.googlesyndication.com
+#2401:3800:4001:2::1b v24.lscache4.c.googlesyndication.com
+#2401:3800:4001:2::1b v24.lscache5.c.googlesyndication.com
+#2401:3800:4001:3::1b v24.lscache6.c.googlesyndication.com
+#2401:3800:4001:3::1b v24.lscache7.c.googlesyndication.com
+#2401:3800:4001:2::1b v24.lscache8.c.googlesyndication.com
 
 ## Android Google 移动操作系统
 2404:6800:4005:808::2003 www.android.com #www3.l.google.com
@@ -16131,6 +16173,7 @@
 2a03:2880:f002:109:face:b00c::2 login.facebook.com #star.facebook.com
 2a03:2880:f002:109:face:b00c::2 m.facebook.com #star.c10r.facebook.com
 2a03:2880:20:9f04:face:b00c::d6 mqtt.facebook.com #mqtt.vvv.facebook.com
+2a03:2880:f002:105:face:b00c::8e edge-mqtt.facebook.com #mqtt.c10r.facebook.com
 2a03:2880:f002:109:face:b00c::2 pixel.facebook.com #star.facebook.com
 2a03:2880:f002:109:face:b00c::2 star.facebook.com #star.c10r.facebook.com
 2a03:2880:f002:109:face:b00c::2 upload.facebook.com #star.c10r.facebook.com
@@ -16145,66 +16188,96 @@
 2a03:2880:20:8f08:face:b00c::1 www.v6.facebook.com #v6.vvv.facebook.com
 2a03:2880:20:8f08:face:b00c::1 v6.vvv.facebook.com
 2a03:2880:f002:109:face:b00c::2 attachment.fbsbx.com #star.c10r.facebook.com
-2001:590:1:600::451f:7789 static.ak.facebook.com #static.ak.facebook.com.edgesuite.net
-2600:1417:3f:28f::236 s-static.ak.facebook.com #s-static.ak.facebook.com.edgekey.net
+2600:1417:9::b833:f93 static.ak.facebook.com #static.ak.facebook.com.edgesuite.net
+2600:1417:9:18e::236 s-static.ak.facebook.com #s-static.ak.facebook.com.edgekey.net
 2610:d0:face::9 www.lisp6.facebook.com
 2610:d0:face::9 m.lisp6.facebook.com #www.lisp6.facebook.com
+2a03:2880:f002:109:face:b00c::2 www.messenger.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c::2 messenger.com
+2a03:2880:f002:109:face:b00c::2 edge-chat.messenger.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c::2 0-edge-chat.messenger.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c::2 1-edge-chat.messenger.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c::2 2-edge-chat.messenger.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c::2 3-edge-chat.messenger.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c::2 4-edge-chat.messenger.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c::2 5-edge-chat.messenger.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c::2 6-edge-chat.messenger.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c::2 www.fb.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c::2 fb.com
+2600:1417:9:192::172d investor.fb.com #e5933.dscb.akamaiedge.net
+2a03:2880:f002:109:face:b00c::2 thefacebook.com
+2a03:2880:f002:109:face:b00c::2 www.thefacebook.com #star.c10r.facebook.com
 
 ## fbcdn.net
-2600:1417:3f:297::eed connect.facebook.net #connect.facebook.net.edgekey.net
-2001:590:1:600::451f:77a0 creative.ak.fbcdn.net #ads.ak.facebook.com.edgesuite.net
-2001:590:1:600::451f:77a3 external.ak.fbcdn.net #external.ak.fbcdn.net.edgesuite.net
-2001:590:1:600::451f:7793 platform.ak.fbcdn.net #platform.ak.facebook.com.edgesuite.net
-2001:418:1401:71::8cae:b0b profile.ak.fbcdn.net #profile.ak.facebook.com.edgesuite.net
-2600:1417:3f:291::38a s-external.ak.fbcdn.net #s-external.ak.fbcdn.net.edgekey.net
-2600:1417:3f:281::d19 s-static.ak.fbcdn.net #s-static.ak.fbcdn.net.edgekey.net
-2001:590:1:600::451f:77bb static.ak.fbcdn.net #static.ak.facebook.com.edgesuite.net
-2001:438:fffd:13::d0b9:7358 vthumb.ak.fbcdn.net #vthumb.facebook.com.edgesuite.net
+2600:1417:9:189::eed connect.facebook.net #connect.facebook.net.edgekey.net
+2600:1417:9::6007:3623 creative.ak.fbcdn.net #ads.ak.facebook.com.edgesuite.net
+2600:1417:9::6007:3642 external.ak.fbcdn.net #external.ak.fbcdn.net.edgesuite.net
+2600:1417:9::6007:3619 platform.ak.fbcdn.net #platform.ak.facebook.com.edgesuite.net
+2600:1417:9::6007:3629 profile.ak.fbcdn.net #profile.ak.facebook.com.edgesuite.net
+2600:1417:9:192::38a s-external.ak.fbcdn.net #s-external.ak.fbcdn.net.edgekey.net
+2600:1417:9:192::d19 s-static.ak.fbcdn.net #s-static.ak.fbcdn.net.edgekey.net
+2600:1417:9::6007:3631 static.ak.fbcdn.net #static.ak.facebook.com.edgesuite.net
+2600:1417:9::6007:3628 vthumb.ak.fbcdn.net #vthumb.facebook.com.edgesuite.net
 2a03:2880:f002:110:face:b00c::3 scontent-a.xx.fbcdn.net
 2a03:2880:f002:110:face:b00c::3 scontent-b.xx.fbcdn.net
 2a03:2880:f00c:b:face:b00c::3 scontent-a-sin.xx.fbcdn.net
 2a03:2880:f00c:b:face:b00c::3 scontent-b-sin.xx.fbcdn.net
 2a03:2880:f00d:8:face:b00c::1 scontent-a-lax.xx.fbcdn.net
 2a03:2880:f00d:8:face:b00c::1 scontent-b-lax.xx.fbcdn.net
+2a03:2880:f002:110:face:b00c::3 ent-a.xx.fbcdn.net
+2a03:2880:f002:110:face:b00c::3 ent-b.xx.fbcdn.net
+2a03:2880:f002:110:face:b00c::3 scontent.xx.fbcdn.net
+2a03:2880:f002:110:face:b00c::3 external.xx.fbcdn.net
+2a03:2880:f002:110:face:b00c::3 static.xx.fbcdn.net
+2a03:2880:f002:112:face:b00c::1823 video.xx.fbcdn.net
 
-2600:1404:18::17da:9d91 fbcdn-photos-a.akamaihd.net #fbcdn-photos-a.akamaihd.net.edgesuite.net
-2600:1404:18::17da:9da0 fbcdn-photos-e-a.akamaihd.net #fbcdn-photos-e-a.akamaihd.net.edgesuite.net
-2001:418:1401:71::8cae:b18 fbcdn-profile-a.akamaihd.net #a2047.dspl.akamai.net
-2001:590:1:501::42ab:e020 fbcdn-sphotos-a.akamaihd.net #fbcdn-sphotos-a.akamaihd.net.edgesuite.net
-2001:590:1:501::42ab:e019 fbcdn-sphotos-b-a.akamaihd.net #fbcdn-sphotos-b-a.akamaihd.net.edgesuite.net
-2600:1404:2::1702:1193 fbcdn-sphotos-c-a.akamaihd.net #fbcdn-sphotos-c-a.akamaihd.net.edgesuite.net
-2600:1404:2::1702:1191 fbcdn-sphotos-d-a.akamaihd.net #fbcdn-sphotos-d-a.akamaihd.net.edgesuite.net
-2600:1409:a::173b:be2b fbcdn-sphotos-g-a.akamaihd.net #fbcdn-sphotos-g-a.akamaihd.net.edgesuite.net
-2600:1409:a::173b:be0a fbcdn-sphotos-h-a.akamaihd.net #fbcdn-sphotos-h-a.akamaihd.net.edgesuite.net
-2001:428:2001:302::3fe9:7e30 fbcdn-sphotos-f-a.akamaihd.net #fbcdn-sphotos-f-a.akamaihd.net.edgesuite.net
-2001:438:fffd:13::d0b9:7372 fbcdn-video-a-a.akamaihd.net #fbcdn-video-a-a.akamaihd.net.edgesuite.net
-2001:438:fffd:13::d0b9:7378 fbcdn-video-b-a.akamaihd.net #fbcdn-video-b-a.akamaihd.net.edgesuite.net
-2001:438:fffd:13::d0b9:7369 fbcdn-video-c-a.akamaihd.net #fbcdn-video-c-a.akamaihd.net.edgesuite.net
-2001:438:fffd:13::d0b9:7371 fbcdn-video-d-a.akamaihd.net #fbcdn-video-d-a.akamaihd.net.edgesuite.net
-2001:438:fffd:13::d0b9:7360 fbcdn-video-e-a.akamaihd.net #fbcdn-video-e-a.akamaihd.net.edgesuite.net
-2001:438:fffd:13::d0b9:7378 fbcdn-video-f-a.akamaihd.net #fbcdn-video-f-a.akamaihd.net.edgesuite.net
-2001:438:fffd:13::d0b9:7379 fbcdn-video-g-a.akamaihd.net #fbcdn-video-g-a.akamaihd.net.edgesuite.net
-2001:438:fffd:13::d0b9:736b fbcdn-video-h-a.akamaihd.net #fbcdn-video-h-a.akamaihd.net.edgesuite.net
-2001:438:fffd:13::d0b9:7382 fbcdn-video-i-a.akamaihd.net #fbcdn-video-i-a.akamaihd.net.edgesuite.net
-2001:438:fffd:13::d0b9:7372 fbcdn-video-j-a.akamaihd.net #fbcdn-video-j-a.akamaihd.net.edgesuite.net
-2001:438:fffd:13::d0b9:7381 fbcdn-video-k-a.akamaihd.net #fbcdn-video-k-a.akamaihd.net.edgesuite.net
-2001:438:fffd:13::d0b9:7360 fbcdn-video-l-a.akamaihd.net #fbcdn-video-l-a.akamaihd.net.edgesuite.net
-2001:438:fffd:13::d0b9:7358 fbcdn-video-m-a.akamaihd.net #fbcdn-video-m-a.akamaihd.net.edgesuite.net
-2001:438:fffd:13::d0b9:7363 fbcdn-video-n-a.akamaihd.net #fbcdn-video-n-a.akamaihd.net.edgesuite.net
-2001:438:fffd:13::d0b9:737b fbcdn-video-o-a.akamaihd.net #fbcdn-video-o-a.akamaihd.net.edgesuite.net
-2001:438:fffd:13::d0b9:7372 fbcdn-video-p-a.akamaihd.net #fbcdn-video-p-a.akamaihd.net.edgesuite.net
-2001:438:fffd:13::d0b9:7358 fbcdn-vthumb-a.akamaihd.net #fbcdn-vthumb-a.akamaihd.net.edgesuite.net
-2001:590:1:600::451f:77c0 fbstatic-a.akamaihd.net #fbstatic-a.akamaihd.net.edgesuite.net
-2001:590:1:600::451f:778b fbexternal-a.akamaihd.net #fbexternal-a.akamaihd.net.edgesuite.net
-2001:590:1:600::451f:77aa fbcdn-creative-a.akamaihd.net #fbcdn-creative-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-photos-a.akamaihd.net #fbcdn-photos-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-photos-a-a.akamaihd.net #fbcdn-photos-a-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-photos-b-a.akamaihd.net #fbcdn-photos-b-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-photos-c-a.akamaihd.net #fbcdn-photos-c-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-photos-d-a.akamaihd.net #fbcdn-photos-d-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-photos-e-a.akamaihd.net #fbcdn-photos-e-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-photos-f-a.akamaihd.net #fbcdn-photos-f-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-photos-g-a.akamaihd.net #fbcdn-photos-g-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-photos-h-a.akamaihd.net #fbcdn-photos-h-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-profile-a.akamaihd.net #a2047.dspl.akamai.net
+2600:1417:9::b833:f90 fbcdn-sphotos-a.akamaihd.net #fbcdn-sphotos-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-sphotos-a-a.akamaihd.net #fbcdn-sphotos-a-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-sphotos-b-a.akamaihd.net #fbcdn-sphotos-b-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-sphotos-c-a.akamaihd.net #fbcdn-sphotos-c-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-sphotos-d-a.akamaihd.net #fbcdn-sphotos-d-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-sphotos-e-a.akamaihd.net #fbcdn-sphotos-e-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-sphotos-f-a.akamaihd.net #fbcdn-sphotos-f-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-sphotos-g-a.akamaihd.net #fbcdn-sphotos-g-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-sphotos-h-a.akamaihd.net #fbcdn-sphotos-h-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-video-a-a.akamaihd.net #fbcdn-video-a-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-video-b-a.akamaihd.net #fbcdn-video-b-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-video-c-a.akamaihd.net #fbcdn-video-c-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-video-d-a.akamaihd.net #fbcdn-video-d-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-video-e-a.akamaihd.net #fbcdn-video-e-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-video-f-a.akamaihd.net #fbcdn-video-f-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-video-g-a.akamaihd.net #fbcdn-video-g-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-video-h-a.akamaihd.net #fbcdn-video-h-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-video-i-a.akamaihd.net #fbcdn-video-i-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-video-j-a.akamaihd.net #fbcdn-video-j-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-video-k-a.akamaihd.net #fbcdn-video-k-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-video-l-a.akamaihd.net #fbcdn-video-l-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-video-m-a.akamaihd.net #fbcdn-video-m-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-video-n-a.akamaihd.net #fbcdn-video-n-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-video-o-a.akamaihd.net #fbcdn-video-o-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-video-p-a.akamaihd.net #fbcdn-video-p-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-vthumb-a.akamaihd.net #fbcdn-vthumb-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbstatic-a.akamaihd.net #fbstatic-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbexternal-a.akamaihd.net #fbexternal-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-creative-a.akamaihd.net #fbcdn-creative-a.akamaihd.net.edgesuite.net
 
-2600:1404:18::17da:9d91 photos-a.ak.fbcdn.net #photos-a.ak.facebook.com.edgesuite.net
-2600:1404:18::17da:9d90 photos-b.ak.fbcdn.net #photos-b.ak.facebook.com.edgesuite.net
-2600:1404:18::17da:9d90 photos-c.ak.fbcdn.net #photos-c.ak.facebook.com.edgesuite.net
-2600:1404:18::17da:9d91 photos-e.ak.fbcdn.net #photos-a.ak.facebook.com.edgesuite.net
-2600:1404:18::17da:9d8b photos-f.ak.fbcdn.net #photos-b.ak.facebook.com.edgesuite.net
-2600:1404:18::17da:9d90 photos-g.ak.fbcdn.net #photos-c.ak.facebook.com.edgesuite.net
-2600:1404:18::17da:9d98 photos-h.ak.fbcdn.net #photos-d.ak.facebook.com.edgesuite.net
+2600:1417:9::b833:f90 photos-a.ak.fbcdn.net #photos-a.ak.facebook.com.edgesuite.net
+2600:1417:9::b833:f90 photos-b.ak.fbcdn.net #photos-b.ak.facebook.com.edgesuite.net
+2600:1417:9::b833:f90 photos-c.ak.fbcdn.net #photos-c.ak.facebook.com.edgesuite.net
+2600:1417:9::b833:f90 photos-e.ak.fbcdn.net #photos-a.ak.facebook.com.edgesuite.net
+2600:1417:9::b833:f90 photos-f.ak.fbcdn.net #photos-b.ak.facebook.com.edgesuite.net
+2600:1417:9::b833:f90 photos-g.ak.fbcdn.net #photos-c.ak.facebook.com.edgesuite.net
+2600:1417:9::b833:f90 photos-h.ak.fbcdn.net #photos-d.ak.facebook.com.edgesuite.net
 #2600:1406:1a::173d:c228 a1.sphotos.ak.fbcdn.net #a1001.dspw40.akamai.net
 #2600:1406:1a::173d:c220 a2.sphotos.ak.fbcdn.net #a1402.dspw40.akamai.net
 #2600:1406:1a::173d:c221 a3.sphotos.ak.fbcdn.net #a1003.dspw41.akamai.net
@@ -17101,8 +17174,11 @@
 2620:10b:9006:600:dad3:85ff:fed9:ce24 ipv6.blizzard.com
 
 ## Gravatar
-2606:280:20d:1047:6cf:353:607:e8a 0.gravatar.com #cs91.wac.edgecastcdn.net
+2606:2800:20d:1047:6cf:353:607:e8a www.gravatar.com #cs91.wac.edgecastcdn.net
+2606:2800:20d:1047:6cf:353:607:e8a s.gravatar.com #cs91.wac.edgecastcdn.net
+2606:2800:20d:1047:6cf:353:607:e8a 0.gravatar.com #cs91.wac.edgecastcdn.net
 2606:2800:20d:1047:6cf:353:607:e8a 1.gravatar.com #cs91.wac.edgecastcdn.net
+2606:2800:20d:1047:6cf:353:607:e8a 2.gravatar.com #cs91.wac.edgecastcdn.net
 
 ## Plurk
 #2607:f128:47::1:1 plurk.com
@@ -17144,7 +17220,7 @@
 204.79.197.217 webedgegeo.skyprod.akadns.net
 2600:140b:13:192::1aff s1-word-view-15.cdn.office.net #wildcard.cdn.office.net.edgekey.net
 #2600:140b:4:18b::1aff s1-officeapps-15.cdn.office.net #e6911.dspg.akamaiedge.net
-61.213.171.16 a248.e.akamai.net
+2600:1417:9::6007:3619 a248.e.akamai.net
 
 ## ARIN
 2001:500:4:c000::43 www.arin.net
@@ -17214,7 +17290,7 @@
 2001:778::37 dns64.litnet.lt
 
 ## deviantART
-54.230.148.29 www.deviantart.com #cs123.adn.edgecastcdn.net
+54.230.148.29 www.deviantart.com
 54.230.148.22 about.deviantart.com
 54.68.114.41 chat.deviantart.com
 54.230.148.59 critiques.deviantart.com
@@ -17230,63 +17306,63 @@
 110.232.178.146 cs123.adn.edgecastcdn.net
 54.230.148.59 deviantart.com
 54.148.28.105 deviantart.net
-54.230.148.131 st.deviantart.net #cs116.wac.edgecastcdn.net
-54.230.148.69 a.deviantart.net #cs116.wac.edgecastcdn.net
-54.230.148.29 b.deviantart.net #cs123.adn.edgecastcdn.net
-54.230.148.59 c.deviantart.net #cs123.adn.edgecastcdn.net
-54.230.148.20 d.deviantart.net #cs123.adn.edgecastcdn.net
-54.230.148.50 e.deviantart.net #cs116.wac.edgecastcdn.net
-54.230.148.62 img01.deviantart.net #cs20.wpc.edgecastcdn.net
-54.230.148.133 img02.deviantart.net #cs20.wpc.edgecastcdn.net
-54.230.148.62 img03.deviantart.net #cs20.wpc.edgecastcdn.net
-54.230.148.125 img04.deviantart.net #cs20.wpc.edgecastcdn.net
-54.230.148.62 img05.deviantart.net #cs20.wpc.edgecastcdn.net
-54.230.148.25 img06.deviantart.net #cs20.wpc.edgecastcdn.net
-54.230.148.62 img07.deviantart.net #cs20.wpc.edgecastcdn.net
-54.230.148.44 img08.deviantart.net #cs20.wpc.edgecastcdn.net
-54.192.151.155 img09.deviantart.net #cs20.wpc.edgecastcdn.net
-54.230.148.125 img10.deviantart.net #cs20.wpc.edgecastcdn.net
-54.230.148.133 img11.deviantart.net #cs20.wpc.edgecastcdn.net
-54.230.148.62 img12.deviantart.net #cs20.wpc.edgecastcdn.net
-54.230.148.62 img13.deviantart.net #cs20.wpc.edgecastcdn.net
-54.230.148.133 img14.deviantart.net #cs20.wpc.edgecastcdn.net
-54.230.148.11 img15.deviantart.net #cs20.wpc.edgecastcdn.net
-52.26.254.147 fc00.deviantart.net #cs20.wpc.edgecastcdn.net
-52.11.30.247 fc01.deviantart.net #cs20.wpc.edgecastcdn.net
-52.11.30.247 fc02.deviantart.net #cs20.wpc.edgecastcdn.net
-52.26.254.147 fc03.deviantart.net #cs20.wpc.edgecastcdn.net
-52.11.30.247 fc04.deviantart.net #cs20.wpc.edgecastcdn.net
-52.11.30.247 fc05.deviantart.net #cs20.wpc.edgecastcdn.net
-54.69.39.69 fc06.deviantart.net #cs20.wpc.edgecastcdn.net
-52.11.30.247 fc07.deviantart.net #cs20.wpc.edgecastcdn.net
-54.69.39.69 fc08.deviantart.net #cs20.wpc.edgecastcdn.net
-52.26.254.147 fc09.deviantart.net #cs20.wpc.edgecastcdn.net
-54.230.148.77 t01.deviantart.net #cs116.wac.edgecastcdn.net
-54.230.148.75 t02.deviantart.net #cs116.wac.edgecastcdn.net
-54.230.148.70 t03.deviantart.net #cs116.wac.edgecastcdn.net
-54.230.148.40 t04.deviantart.net #cs116.wac.edgecastcdn.net
-54.230.148.75 t05.deviantart.net #cs116.wac.edgecastcdn.net
-54.230.148.38 t06.deviantart.net #cs116.wac.edgecastcdn.net
-54.230.148.75 t07.deviantart.net #cs116.wac.edgecastcdn.net
-54.230.148.40 t08.deviantart.net #cs116.wac.edgecastcdn.net
-54.230.148.125 t09.deviantart.net #cs116.wac.edgecastcdn.net
-54.230.148.40 t10.deviantart.net #cs116.wac.edgecastcdn.net
-54.230.148.111 t11.deviantart.net #cs116.wac.edgecastcdn.net
-54.230.148.70 t12.deviantart.net #cs116.wac.edgecastcdn.net
-54.230.148.38 t13.deviantart.net #cs116.wac.edgecastcdn.net
-54.230.148.125 t14.deviantart.net #cs116.wac.edgecastcdn.net
-54.230.148.77 t15.deviantart.net #cs116.wac.edgecastcdn.net
-52.26.254.147 th00.deviantart.net #cs116.wac.edgecastcdn.net
-52.11.30.247 th01.deviantart.net #cs116.wac.edgecastcdn.net
-54.69.39.69 th02.deviantart.net #cs116.wac.edgecastcdn.net
-52.26.254.147 th03.deviantart.net #cs116.wac.edgecastcdn.net
-52.26.254.147 th04.deviantart.net #cs116.wac.edgecastcdn.net
-54.69.39.69 th05.deviantart.net #cs116.wac.edgecastcdn.net
-52.26.254.147 th06.deviantart.net #cs116.wac.edgecastcdn.net
-54.69.39.69 th07.deviantart.net #cs116.wac.edgecastcdn.net
-52.11.30.247 th08.deviantart.net #cs116.wac.edgecastcdn.net
-52.11.30.247 th09.deviantart.net #cs116.wac.edgecastcdn.net
-204.246.164.72 www.da-files.com #wac.2a59.edgecastcdn.net
+54.230.148.131 st.deviantart.net
+54.230.148.69 a.deviantart.net
+54.230.148.29 b.deviantart.net
+54.230.148.59 c.deviantart.net
+54.230.148.20 d.deviantart.net
+54.230.148.50 e.deviantart.net
+54.230.148.62 img01.deviantart.net
+54.230.148.133 img02.deviantart.net
+54.230.148.62 img03.deviantart.net
+54.230.148.125 img04.deviantart.net
+54.230.148.62 img05.deviantart.net
+54.230.148.25 img06.deviantart.net
+54.230.148.62 img07.deviantart.net
+54.230.148.44 img08.deviantart.net
+54.192.151.155 img09.deviantart.net
+54.230.148.125 img10.deviantart.net
+54.230.148.133 img11.deviantart.net
+54.230.148.62 img12.deviantart.net
+54.230.148.62 img13.deviantart.net
+54.230.148.133 img14.deviantart.net
+54.230.148.11 img15.deviantart.net
+52.26.254.147 fc00.deviantart.net
+52.11.30.247 fc01.deviantart.net
+52.11.30.247 fc02.deviantart.net
+52.26.254.147 fc03.deviantart.net
+52.11.30.247 fc04.deviantart.net
+52.11.30.247 fc05.deviantart.net
+54.69.39.69 fc06.deviantart.net
+52.11.30.247 fc07.deviantart.net
+54.69.39.69 fc08.deviantart.net
+52.26.254.147 fc09.deviantart.net
+54.230.148.77 t01.deviantart.net
+54.230.148.75 t02.deviantart.net
+54.230.148.70 t03.deviantart.net
+54.230.148.40 t04.deviantart.net
+54.230.148.75 t05.deviantart.net
+54.230.148.38 t06.deviantart.net
+54.230.148.75 t07.deviantart.net
+54.230.148.40 t08.deviantart.net
+54.230.148.125 t09.deviantart.net
+54.230.148.40 t10.deviantart.net
+54.230.148.111 t11.deviantart.net
+54.230.148.70 t12.deviantart.net
+54.230.148.38 t13.deviantart.net
+54.230.148.125 t14.deviantart.net
+54.230.148.77 t15.deviantart.net
+52.26.254.147 th00.deviantart.net
+52.11.30.247 th01.deviantart.net
+54.69.39.69 th02.deviantart.net
+52.26.254.147 th03.deviantart.net
+52.26.254.147 th04.deviantart.net
+54.69.39.69 th05.deviantart.net
+52.26.254.147 th06.deviantart.net
+54.69.39.69 th07.deviantart.net
+52.11.30.247 th08.deviantart.net
+52.11.30.247 th09.deviantart.net
+204.246.164.72 www.da-files.com
 
 ## Dropbox
 108.160.172.206 www.dropbox.com #www.v.dropbox.com
@@ -17294,20 +17370,20 @@
 108.160.172.206 dropbox.com
 108.160.172.193 d.dropbox.com #d.v.dropbox.com
 108.160.172.193 d.v.dropbox.com
-54.230.235.30 m.dropbox.com
+108.160.172.200 m.dropbox.com
 54.230.74.189 dt8kf6553cww8.cloudfront.net
-54.243.79.100 dl.dropbox.com #dl-balancer.x.dropbox.com
-54.243.79.100 dl-balancer.x.dropbox.com
-54.225.184.81 dl.dropboxusercontent.com #duc-balancer.x.dropbox.com
-54.225.184.81 duc-balancer.x.dropbox.com
+107.22.199.7 dl.dropbox.com #dl-balancer.x.dropbox.com
+107.22.199.7 dl-balancer.x.dropbox.com
+54.235.147.68 dl.dropboxusercontent.com #duc-balancer.x.dropbox.com
+54.235.147.68 duc-balancer.x.dropbox.com
 54.230.235.234 cf.dropboxstatic.com
-107.20.145.190 photos-thumb.x.dropbox.com
-107.20.145.190 photos-1.dropbox.com #photos-thumb.x.dropbox.com
-107.20.145.190 photos-2.dropbox.com #photos-thumb.x.dropbox.com
-107.20.145.190 photos-3.dropbox.com #photos-thumb.x.dropbox.com
-107.20.145.190 photos-4.dropbox.com #photos-thumb.x.dropbox.com
-107.20.145.190 photos-5.dropbox.com #photos-thumb.x.dropbox.com
-107.20.145.190 photos-6.dropbox.com #photos-thumb.x.dropbox.com
+52.7.223.64 photos-thumb.x.dropbox.com
+52.7.223.64 photos-1.dropbox.com #photos-thumb.x.dropbox.com
+52.7.223.64 photos-2.dropbox.com #photos-thumb.x.dropbox.com
+52.7.223.64 photos-3.dropbox.com #photos-thumb.x.dropbox.com
+52.7.223.64 photos-4.dropbox.com #photos-thumb.x.dropbox.com
+52.7.223.64 photos-5.dropbox.com #photos-thumb.x.dropbox.com
+52.7.223.64 photos-6.dropbox.com #photos-thumb.x.dropbox.com
 
 ## DuckDuckGo
 46.51.216.186 duckduckgo.com

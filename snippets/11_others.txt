@@ -5,8 +5,11 @@
 2620:10b:9006:600:dad3:85ff:fed9:ce24 ipv6.blizzard.com
 
 ## Gravatar
-2606:280:20d:1047:6cf:353:607:e8a 0.gravatar.com #cs91.wac.edgecastcdn.net
+2606:2800:20d:1047:6cf:353:607:e8a www.gravatar.com #cs91.wac.edgecastcdn.net
+2606:2800:20d:1047:6cf:353:607:e8a s.gravatar.com #cs91.wac.edgecastcdn.net
+2606:2800:20d:1047:6cf:353:607:e8a 0.gravatar.com #cs91.wac.edgecastcdn.net
 2606:2800:20d:1047:6cf:353:607:e8a 1.gravatar.com #cs91.wac.edgecastcdn.net
+2606:2800:20d:1047:6cf:353:607:e8a 2.gravatar.com #cs91.wac.edgecastcdn.net
 
 ## Plurk
 #2607:f128:47::1:1 plurk.com
@@ -48,7 +51,7 @@
 204.79.197.217 webedgegeo.skyprod.akadns.net
 2600:140b:13:192::1aff s1-word-view-15.cdn.office.net #wildcard.cdn.office.net.edgekey.net
 #2600:140b:4:18b::1aff s1-officeapps-15.cdn.office.net #e6911.dspg.akamaiedge.net
-61.213.171.16 a248.e.akamai.net
+2600:1417:9::6007:3619 a248.e.akamai.net
 
 ## ARIN
 2001:500:4:c000::43 www.arin.net

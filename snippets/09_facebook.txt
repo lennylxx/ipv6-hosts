@@ -23,6 +23,7 @@
 2a03:2880:f002:109:face:b00c::2 login.facebook.com #star.facebook.com
 2a03:2880:f002:109:face:b00c::2 m.facebook.com #star.c10r.facebook.com
 2a03:2880:20:9f04:face:b00c::d6 mqtt.facebook.com #mqtt.vvv.facebook.com
+2a03:2880:f002:105:face:b00c::8e edge-mqtt.facebook.com #mqtt.c10r.facebook.com
 2a03:2880:f002:109:face:b00c::2 pixel.facebook.com #star.facebook.com
 2a03:2880:f002:109:face:b00c::2 star.facebook.com #star.c10r.facebook.com
 2a03:2880:f002:109:face:b00c::2 upload.facebook.com #star.c10r.facebook.com
@@ -37,66 +38,96 @@
 2a03:2880:20:8f08:face:b00c::1 www.v6.facebook.com #v6.vvv.facebook.com
 2a03:2880:20:8f08:face:b00c::1 v6.vvv.facebook.com
 2a03:2880:f002:109:face:b00c::2 attachment.fbsbx.com #star.c10r.facebook.com
-2001:590:1:600::451f:7789 static.ak.facebook.com #static.ak.facebook.com.edgesuite.net
-2600:1417:3f:28f::236 s-static.ak.facebook.com #s-static.ak.facebook.com.edgekey.net
+2600:1417:9::b833:f93 static.ak.facebook.com #static.ak.facebook.com.edgesuite.net
+2600:1417:9:18e::236 s-static.ak.facebook.com #s-static.ak.facebook.com.edgekey.net
 2610:d0:face::9 www.lisp6.facebook.com
 2610:d0:face::9 m.lisp6.facebook.com #www.lisp6.facebook.com
+2a03:2880:f002:109:face:b00c::2 www.messenger.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c::2 messenger.com
+2a03:2880:f002:109:face:b00c::2 edge-chat.messenger.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c::2 0-edge-chat.messenger.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c::2 1-edge-chat.messenger.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c::2 2-edge-chat.messenger.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c::2 3-edge-chat.messenger.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c::2 4-edge-chat.messenger.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c::2 5-edge-chat.messenger.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c::2 6-edge-chat.messenger.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c::2 www.fb.com #star.c10r.facebook.com
+2a03:2880:f002:109:face:b00c::2 fb.com
+2600:1417:9:192::172d investor.fb.com #e5933.dscb.akamaiedge.net
+2a03:2880:f002:109:face:b00c::2 thefacebook.com
+2a03:2880:f002:109:face:b00c::2 www.thefacebook.com #star.c10r.facebook.com
 
 ## fbcdn.net
-2600:1417:3f:297::eed connect.facebook.net #connect.facebook.net.edgekey.net
-2001:590:1:600::451f:77a0 creative.ak.fbcdn.net #ads.ak.facebook.com.edgesuite.net
-2001:590:1:600::451f:77a3 external.ak.fbcdn.net #external.ak.fbcdn.net.edgesuite.net
-2001:590:1:600::451f:7793 platform.ak.fbcdn.net #platform.ak.facebook.com.edgesuite.net
-2001:418:1401:71::8cae:b0b profile.ak.fbcdn.net #profile.ak.facebook.com.edgesuite.net
-2600:1417:3f:291::38a s-external.ak.fbcdn.net #s-external.ak.fbcdn.net.edgekey.net
-2600:1417:3f:281::d19 s-static.ak.fbcdn.net #s-static.ak.fbcdn.net.edgekey.net
-2001:590:1:600::451f:77bb static.ak.fbcdn.net #static.ak.facebook.com.edgesuite.net
-2001:438:fffd:13::d0b9:7358 vthumb.ak.fbcdn.net #vthumb.facebook.com.edgesuite.net
+2600:1417:9:189::eed connect.facebook.net #connect.facebook.net.edgekey.net
+2600:1417:9::6007:3623 creative.ak.fbcdn.net #ads.ak.facebook.com.edgesuite.net
+2600:1417:9::6007:3642 external.ak.fbcdn.net #external.ak.fbcdn.net.edgesuite.net
+2600:1417:9::6007:3619 platform.ak.fbcdn.net #platform.ak.facebook.com.edgesuite.net
+2600:1417:9::6007:3629 profile.ak.fbcdn.net #profile.ak.facebook.com.edgesuite.net
+2600:1417:9:192::38a s-external.ak.fbcdn.net #s-external.ak.fbcdn.net.edgekey.net
+2600:1417:9:192::d19 s-static.ak.fbcdn.net #s-static.ak.fbcdn.net.edgekey.net
+2600:1417:9::6007:3631 static.ak.fbcdn.net #static.ak.facebook.com.edgesuite.net
+2600:1417:9::6007:3628 vthumb.ak.fbcdn.net #vthumb.facebook.com.edgesuite.net
 2a03:2880:f002:110:face:b00c::3 scontent-a.xx.fbcdn.net
 2a03:2880:f002:110:face:b00c::3 scontent-b.xx.fbcdn.net
 2a03:2880:f00c:b:face:b00c::3 scontent-a-sin.xx.fbcdn.net
 2a03:2880:f00c:b:face:b00c::3 scontent-b-sin.xx.fbcdn.net
 2a03:2880:f00d:8:face:b00c::1 scontent-a-lax.xx.fbcdn.net
 2a03:2880:f00d:8:face:b00c::1 scontent-b-lax.xx.fbcdn.net
+2a03:2880:f002:110:face:b00c::3 ent-a.xx.fbcdn.net
+2a03:2880:f002:110:face:b00c::3 ent-b.xx.fbcdn.net
+2a03:2880:f002:110:face:b00c::3 scontent.xx.fbcdn.net
+2a03:2880:f002:110:face:b00c::3 external.xx.fbcdn.net
+2a03:2880:f002:110:face:b00c::3 static.xx.fbcdn.net
+2a03:2880:f002:112:face:b00c::1823 video.xx.fbcdn.net
 
-2600:1404:18::17da:9d91 fbcdn-photos-a.akamaihd.net #fbcdn-photos-a.akamaihd.net.edgesuite.net
-2600:1404:18::17da:9da0 fbcdn-photos-e-a.akamaihd.net #fbcdn-photos-e-a.akamaihd.net.edgesuite.net
-2001:418:1401:71::8cae:b18 fbcdn-profile-a.akamaihd.net #a2047.dspl.akamai.net
-2001:590:1:501::42ab:e020 fbcdn-sphotos-a.akamaihd.net #fbcdn-sphotos-a.akamaihd.net.edgesuite.net
-2001:590:1:501::42ab:e019 fbcdn-sphotos-b-a.akamaihd.net #fbcdn-sphotos-b-a.akamaihd.net.edgesuite.net
-2600:1404:2::1702:1193 fbcdn-sphotos-c-a.akamaihd.net #fbcdn-sphotos-c-a.akamaihd.net.edgesuite.net
-2600:1404:2::1702:1191 fbcdn-sphotos-d-a.akamaihd.net #fbcdn-sphotos-d-a.akamaihd.net.edgesuite.net
-2600:1409:a::173b:be2b fbcdn-sphotos-g-a.akamaihd.net #fbcdn-sphotos-g-a.akamaihd.net.edgesuite.net
-2600:1409:a::173b:be0a fbcdn-sphotos-h-a.akamaihd.net #fbcdn-sphotos-h-a.akamaihd.net.edgesuite.net
-2001:428:2001:302::3fe9:7e30 fbcdn-sphotos-f-a.akamaihd.net #fbcdn-sphotos-f-a.akamaihd.net.edgesuite.net
-2001:438:fffd:13::d0b9:7372 fbcdn-video-a-a.akamaihd.net #fbcdn-video-a-a.akamaihd.net.edgesuite.net
-2001:438:fffd:13::d0b9:7378 fbcdn-video-b-a.akamaihd.net #fbcdn-video-b-a.akamaihd.net.edgesuite.net
-2001:438:fffd:13::d0b9:7369 fbcdn-video-c-a.akamaihd.net #fbcdn-video-c-a.akamaihd.net.edgesuite.net
-2001:438:fffd:13::d0b9:7371 fbcdn-video-d-a.akamaihd.net #fbcdn-video-d-a.akamaihd.net.edgesuite.net
-2001:438:fffd:13::d0b9:7360 fbcdn-video-e-a.akamaihd.net #fbcdn-video-e-a.akamaihd.net.edgesuite.net
-2001:438:fffd:13::d0b9:7378 fbcdn-video-f-a.akamaihd.net #fbcdn-video-f-a.akamaihd.net.edgesuite.net
-2001:438:fffd:13::d0b9:7379 fbcdn-video-g-a.akamaihd.net #fbcdn-video-g-a.akamaihd.net.edgesuite.net
-2001:438:fffd:13::d0b9:736b fbcdn-video-h-a.akamaihd.net #fbcdn-video-h-a.akamaihd.net.edgesuite.net
-2001:438:fffd:13::d0b9:7382 fbcdn-video-i-a.akamaihd.net #fbcdn-video-i-a.akamaihd.net.edgesuite.net
-2001:438:fffd:13::d0b9:7372 fbcdn-video-j-a.akamaihd.net #fbcdn-video-j-a.akamaihd.net.edgesuite.net
-2001:438:fffd:13::d0b9:7381 fbcdn-video-k-a.akamaihd.net #fbcdn-video-k-a.akamaihd.net.edgesuite.net
-2001:438:fffd:13::d0b9:7360 fbcdn-video-l-a.akamaihd.net #fbcdn-video-l-a.akamaihd.net.edgesuite.net
-2001:438:fffd:13::d0b9:7358 fbcdn-video-m-a.akamaihd.net #fbcdn-video-m-a.akamaihd.net.edgesuite.net
-2001:438:fffd:13::d0b9:7363 fbcdn-video-n-a.akamaihd.net #fbcdn-video-n-a.akamaihd.net.edgesuite.net
-2001:438:fffd:13::d0b9:737b fbcdn-video-o-a.akamaihd.net #fbcdn-video-o-a.akamaihd.net.edgesuite.net
-2001:438:fffd:13::d0b9:7372 fbcdn-video-p-a.akamaihd.net #fbcdn-video-p-a.akamaihd.net.edgesuite.net
-2001:438:fffd:13::d0b9:7358 fbcdn-vthumb-a.akamaihd.net #fbcdn-vthumb-a.akamaihd.net.edgesuite.net
-2001:590:1:600::451f:77c0 fbstatic-a.akamaihd.net #fbstatic-a.akamaihd.net.edgesuite.net
-2001:590:1:600::451f:778b fbexternal-a.akamaihd.net #fbexternal-a.akamaihd.net.edgesuite.net
-2001:590:1:600::451f:77aa fbcdn-creative-a.akamaihd.net #fbcdn-creative-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-photos-a.akamaihd.net #fbcdn-photos-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-photos-a-a.akamaihd.net #fbcdn-photos-a-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-photos-b-a.akamaihd.net #fbcdn-photos-b-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-photos-c-a.akamaihd.net #fbcdn-photos-c-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-photos-d-a.akamaihd.net #fbcdn-photos-d-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-photos-e-a.akamaihd.net #fbcdn-photos-e-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-photos-f-a.akamaihd.net #fbcdn-photos-f-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-photos-g-a.akamaihd.net #fbcdn-photos-g-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-photos-h-a.akamaihd.net #fbcdn-photos-h-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-profile-a.akamaihd.net #a2047.dspl.akamai.net
+2600:1417:9::b833:f90 fbcdn-sphotos-a.akamaihd.net #fbcdn-sphotos-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-sphotos-a-a.akamaihd.net #fbcdn-sphotos-a-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-sphotos-b-a.akamaihd.net #fbcdn-sphotos-b-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-sphotos-c-a.akamaihd.net #fbcdn-sphotos-c-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-sphotos-d-a.akamaihd.net #fbcdn-sphotos-d-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-sphotos-e-a.akamaihd.net #fbcdn-sphotos-e-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-sphotos-f-a.akamaihd.net #fbcdn-sphotos-f-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-sphotos-g-a.akamaihd.net #fbcdn-sphotos-g-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-sphotos-h-a.akamaihd.net #fbcdn-sphotos-h-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-video-a-a.akamaihd.net #fbcdn-video-a-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-video-b-a.akamaihd.net #fbcdn-video-b-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-video-c-a.akamaihd.net #fbcdn-video-c-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-video-d-a.akamaihd.net #fbcdn-video-d-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-video-e-a.akamaihd.net #fbcdn-video-e-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-video-f-a.akamaihd.net #fbcdn-video-f-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-video-g-a.akamaihd.net #fbcdn-video-g-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-video-h-a.akamaihd.net #fbcdn-video-h-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-video-i-a.akamaihd.net #fbcdn-video-i-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-video-j-a.akamaihd.net #fbcdn-video-j-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-video-k-a.akamaihd.net #fbcdn-video-k-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-video-l-a.akamaihd.net #fbcdn-video-l-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-video-m-a.akamaihd.net #fbcdn-video-m-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-video-n-a.akamaihd.net #fbcdn-video-n-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-video-o-a.akamaihd.net #fbcdn-video-o-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-video-p-a.akamaihd.net #fbcdn-video-p-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-vthumb-a.akamaihd.net #fbcdn-vthumb-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbstatic-a.akamaihd.net #fbstatic-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbexternal-a.akamaihd.net #fbexternal-a.akamaihd.net.edgesuite.net
+2600:1417:9::b833:f90 fbcdn-creative-a.akamaihd.net #fbcdn-creative-a.akamaihd.net.edgesuite.net
 
-2600:1404:18::17da:9d91 photos-a.ak.fbcdn.net #photos-a.ak.facebook.com.edgesuite.net
-2600:1404:18::17da:9d90 photos-b.ak.fbcdn.net #photos-b.ak.facebook.com.edgesuite.net
-2600:1404:18::17da:9d90 photos-c.ak.fbcdn.net #photos-c.ak.facebook.com.edgesuite.net
-2600:1404:18::17da:9d91 photos-e.ak.fbcdn.net #photos-a.ak.facebook.com.edgesuite.net
-2600:1404:18::17da:9d8b photos-f.ak.fbcdn.net #photos-b.ak.facebook.com.edgesuite.net
-2600:1404:18::17da:9d90 photos-g.ak.fbcdn.net #photos-c.ak.facebook.com.edgesuite.net
-2600:1404:18::17da:9d98 photos-h.ak.fbcdn.net #photos-d.ak.facebook.com.edgesuite.net
+2600:1417:9::b833:f90 photos-a.ak.fbcdn.net #photos-a.ak.facebook.com.edgesuite.net
+2600:1417:9::b833:f90 photos-b.ak.fbcdn.net #photos-b.ak.facebook.com.edgesuite.net
+2600:1417:9::b833:f90 photos-c.ak.fbcdn.net #photos-c.ak.facebook.com.edgesuite.net
+2600:1417:9::b833:f90 photos-e.ak.fbcdn.net #photos-a.ak.facebook.com.edgesuite.net
+2600:1417:9::b833:f90 photos-f.ak.fbcdn.net #photos-b.ak.facebook.com.edgesuite.net
+2600:1417:9::b833:f90 photos-g.ak.fbcdn.net #photos-c.ak.facebook.com.edgesuite.net
+2600:1417:9::b833:f90 photos-h.ak.fbcdn.net #photos-d.ak.facebook.com.edgesuite.net
 #2600:1406:1a::173d:c228 a1.sphotos.ak.fbcdn.net #a1001.dspw40.akamai.net
 #2600:1406:1a::173d:c220 a2.sphotos.ak.fbcdn.net #a1402.dspw40.akamai.net
 #2600:1406:1a::173d:c221 a3.sphotos.ak.fbcdn.net #a1003.dspw41.akamai.net

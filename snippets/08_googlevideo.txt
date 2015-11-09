@@ -13720,6 +13720,31 @@
 2a00:1450:4017:c::b r5---sn-nv47ened.googlevideo.com
 2a00:1450:4017:c::c r6---sn-nv47ened.googlevideo.com
 
+2a00:1450:4019::10 r1---sn-4wg7en7e.googlevideo.com
+2a00:1450:4019::11 r2---sn-4wg7en7e.googlevideo.com
+2a00:1450:4019::12 r3---sn-4wg7en7e.googlevideo.com
+2a00:1450:4019::13 r4---sn-4wg7en7e.googlevideo.com
+2a00:1450:4019::14 r5---sn-4wg7en7e.googlevideo.com
+2a00:1450:4019::15 r6---sn-4wg7en7e.googlevideo.com
+2a00:1450:4019::16 r7---sn-4wg7en7e.googlevideo.com
+2a00:1450:4019::17 r8---sn-4wg7en7e.googlevideo.com
+2a00:1450:4019::18 r9---sn-4wg7en7e.googlevideo.com
+2a00:1450:4019::19 r10---sn-4wg7en7e.googlevideo.com
+2a00:1450:4019::1a r11---sn-4wg7en7e.googlevideo.com
+2a00:1450:4019::1b r12---sn-4wg7en7e.googlevideo.com
+2a00:1450:4019:1::10 r1---sn-4wg7en7l.googlevideo.com
+2a00:1450:4019:1::11 r2---sn-4wg7en7l.googlevideo.com
+2a00:1450:4019:1::12 r3---sn-4wg7en7l.googlevideo.com
+2a00:1450:4019:1::13 r4---sn-4wg7en7l.googlevideo.com
+2a00:1450:4019:1::14 r5---sn-4wg7en7l.googlevideo.com
+2a00:1450:4019:1::15 r6---sn-4wg7en7l.googlevideo.com
+2a00:1450:4019:1::16 r7---sn-4wg7en7l.googlevideo.com
+2a00:1450:4019:1::17 r8---sn-4wg7en7l.googlevideo.com
+2a00:1450:4019:1::18 r9---sn-4wg7en7l.googlevideo.com
+2a00:1450:4019:1::19 r10---sn-4wg7en7l.googlevideo.com
+2a00:1450:4019:1::1a r11---sn-4wg7en7l.googlevideo.com
+2a00:1450:4019:1::1b r12---sn-4wg7en7l.googlevideo.com
+
 2a00:1450:401b::7 r1---sn-f5f7ln7e.googlevideo.com
 2a00:1450:401b::8 r2---sn-f5f7ln7e.googlevideo.com
 2a00:1450:401b::9 r3---sn-f5f7ln7e.googlevideo.com

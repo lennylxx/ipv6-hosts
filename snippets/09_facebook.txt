@@ -30,6 +30,9 @@
 2a03:2880:f002:109:face:b00c::2 zh-cn.facebook.com #star.facebook.com
 2a03:2880:f002:109:face:b00c::2 zh-tw.facebook.com #star.facebook.com
 2a03:2880:f002:109:face:b00c::2 star.c10r.facebook.com
+2a03:2880:f002:107:face:b00c::4381 snaptu-z.facebook.com #snaptu-p1.c10r.facebook.com
+2a03:2880:f002:107:face:b00c::4381 snaptu-p1.facebook.com #snaptu-p1.c10r.facebook.com
+2a03:2880:f002:114:face:b00c::4382 snaptu-p2.facebook.com #snaptu-p2.c10r.facebook.com
 2a03:2880:2010:ef00:face:b00c::12e vupload.facebook.com #vupload2.facebook.com
 2a03:2880:2020:8f06:face:b00c::12e vupload2.vvv.facebook.com
 2a03:2880:20:8f08:face:b00c::1 apps.v6.facebook.com #v6.vvv.facebook.com

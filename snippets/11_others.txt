@@ -47,10 +47,15 @@
 2600:1417:e::48f6:6711 i4.microsoft.com #i.toggle.www.ms.akadns.net
 2002:836b:9820::836b:9886 www.ipv6.microsoft.com
 204.79.197.217 onedrive.live.com #skyweb.skyprod.akadns.net
+134.170.120.48 skyapi.onedrive.live.com
 204.79.197.217 skyweb.skyprod.akadns.net
 204.79.197.217 webedgegeo.skyprod.akadns.net
 2600:140b:13:192::1aff s1-word-view-15.cdn.office.net #wildcard.cdn.office.net.edgekey.net
 #2600:140b:4:18b::1aff s1-officeapps-15.cdn.office.net #e6911.dspg.akamaiedge.net
+2a01:111:2003::200 www.bing.com
+2a01:111:2003::200 cn.bing.com
+2a01:111:2003::200 ssl.bing.com
+2a01:111:2003::200 global.bing.com
 2600:1417:9::6007:3619 a248.e.akamai.net
 
 ## ARIN

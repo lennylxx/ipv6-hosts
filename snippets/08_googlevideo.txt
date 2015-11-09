@@ -1175,6 +1175,10 @@
 2001:1438:1:1::e r3---sn-8xgn5uxa-quhe.googlevideo.com
 2001:1438:1:1::f r4---sn-8xgn5uxa-quhe.googlevideo.com
 
+2001:16d8:4:7::c r1---sn-585pav-ch5e.googlevideo.com
+2001:16d8:4:7::d r2---sn-585pav-ch5e.googlevideo.com
+2001:16d8:4:7::e r3---sn-585pav-ch5e.googlevideo.com
+
 #2001:1900:2200:f::c r1---sn-a8au-p5qz.googlevideo.com
 #2001:1900:2200:f::d r2---sn-a8au-p5qz.googlevideo.com
 #2001:1900:2200:f::e r3---sn-a8au-p5qz.googlevideo.com
@@ -1210,6 +1214,19 @@
 2001:1900:2200:80::11 r6---sn-a8au-co5e.googlevideo.com
 2001:1900:2200:80::12 r7---sn-a8au-co5e.googlevideo.com
 2001:1900:2200:80::13 r8---sn-a8au-co5e.googlevideo.com
+
+2001:1900:229e::c r1---sn-a8au-a5me.googlevideo.com
+2001:1900:229e::d r2---sn-a8au-a5me.googlevideo.com
+2001:1900:229e::e r3---sn-a8au-a5me.googlevideo.com
+2001:1900:229e::f r4---sn-a8au-a5me.googlevideo.com
+2001:1900:229e::10 r5---sn-a8au-a5me.googlevideo.com
+2001:1900:229e::11 r6---sn-a8au-a5me.googlevideo.com
+2001:1900:229e::12 r7---sn-a8au-a5me.googlevideo.com
+2001:1900:229e::13 r8---sn-a8au-a5me.googlevideo.com
+
+2001:1a80:100:1c::c r1---sn-9nj-4g5e.googlevideo.com
+2001:1a80:100:1c::d r2---sn-9nj-4g5e.googlevideo.com
+2001:1a80:100:1c::e r3---sn-9nj-4g5e.googlevideo.com
 
 2001:1bc8:100:1b::c r1---sn-oxc0a5-ixae.googlevideo.com
 2001:1bc8:100:1b::d r2---sn-oxc0a5-ixae.googlevideo.com
@@ -1278,6 +1295,15 @@
 2001:b032:2101::11 r6---sn-ipoxu-un5z.googlevideo.com
 2001:b032:2101::12 r7---sn-ipoxu-un5z.googlevideo.com
 2001:b032:2101::13 r8---sn-ipoxu-un5z.googlevideo.com
+
+2001:b032:5d00::c r1---sn-ipoxu-u2xs.googlevideo.com
+2001:b032:5d00::d r2---sn-ipoxu-u2xs.googlevideo.com
+2001:b032:5d00::e r3---sn-ipoxu-u2xs.googlevideo.com
+2001:b032:5d00::f r4---sn-ipoxu-u2xs.googlevideo.com
+2001:b032:5d00::10 r5---sn-ipoxu-u2xs.googlevideo.com
+2001:b032:5d00::11 r6---sn-ipoxu-u2xs.googlevideo.com
+2001:b032:5d00::12 r7---sn-ipoxu-u2xs.googlevideo.com
+2001:b032:5d00::13 r8---sn-ipoxu-u2xs.googlevideo.com
 
 #2400:9800:0:f021::c r1---sn-xmjxajvh-jb3e.googlevideo.com
 #2400:9800:0:f021::d r2---sn-xmjxajvh-jb3e.googlevideo.com
@@ -1367,6 +1393,10 @@
 2a00:800:1100:1::f r4---sn-uxaxufv-8pxl.googlevideo.com
 2a00:800:1100:1::10 r5---sn-uxaxufv-8pxl.googlevideo.com
 2a00:800:1100:1::11 r6---sn-uxaxufv-8pxl.googlevideo.com
+
+2a00:ff0:1234:2::c r1---sn-pouxga5o-vu2l.googlevideo.com
+2a00:ff0:1234:2::d r2---sn-pouxga5o-vu2l.googlevideo.com
+2a00:ff0:1234:2::e r3---sn-pouxga5o-vu2l.googlevideo.com
 
 #2a00:1e48:1:b::c r1---sn-ug5onuxaxjvh-v8ce.googlevideo.com
 #2a00:1e48:1:b::d r2---sn-ug5onuxaxjvh-v8ce.googlevideo.com

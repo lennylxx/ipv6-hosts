@@ -56,6 +56,16 @@
 2a01:111:2003::200 cn.bing.com
 2a01:111:2003::200 ssl.bing.com
 2a01:111:2003::200 global.bing.com
+2a01:111:2003::200 api.bing.com
+2a01:111:2003::200 bj1.api.bing.com
+2a01:111:2003::200 tse1.mm.bing.net
+2a01:111:2003::200 tse2.mm.bing.net
+2a01:111:2003::200 tse3.mm.bing.net
+2a01:111:2003::200 tse4.mm.bing.net
+2a01:111:2003::200 tse1-mm.cn.bing.net
+2a01:111:2003::200 tse2-mm.cn.bing.net
+2a01:111:2003::200 tse3-mm.cn.bing.net
+2a01:111:2003::200 tse4-mm.cn.bing.net
 2600:1417:9::6007:3619 a248.e.akamai.net
 
 ## ARIN

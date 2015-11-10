@@ -366,9 +366,9 @@
 
 ## Chromium Chromium 项目
 2404:6800:4005:808::2003 chromium.org
-#2001:4860:400b:c01::79 www.chromium.org #ghs.l.google.com
-#2001:4860:400b:c01::79 dev.chromium.org #ghs.l.google.com
-#2001:4860:400b:c01::79 blog.chromium.org #ghs.l.google.com
+2404:6800:4005:808::2003 www.chromium.org
+2404:6800:4005:808::2003 dev.chromium.org
+2404:6800:4005:808::2003 blog.chromium.org
 #2404:6800:4008:c00::62 build.chromium.org #planet.chromium.org
 #2404:6800:4008:c00::79 codereview.chromium.org #ghs.l.google.com
 
@@ -394,7 +394,7 @@
 2404:6800:4005:808::2003 cloud.google.com #www3.l.google.com
 2404:6800:4005:808::2003 developers.google.com #www3.l.google.com
 2404:6800:4005:808::2003 cloudssh.developers.google.com #www3.l.google.com
-#2607:f8b0:4007:804::1007 console.developers.google.com
+2404:6800:4005:808::2003 console.developers.google.com
 2404:6800:4003:c02::52 source.developers.google.com
 
 ## Directory 网页目录
@@ -402,7 +402,7 @@
 2404:6800:4005:808::2003 dir.google.com #directory.google.com
 
 ## Docs 文档
-2404:6800:4003:c00::84 googledrive.com
+2404:6800:4005:80a::2001 googledrive.com
 2404:6800:4005:808::2003 docs.google.com
 2404:6800:4005:808::2003 drive.google.com
 2404:6800:4005:808::2003 docs0.google.com #www3.l.google.com
@@ -897,11 +897,11 @@
 2404:6800:4003:c02::5f mts3.googleapis.com #googleapis.l.google.com
 
 ## Google Hosted 托管服务
-2404:6800:4003:c00::80 storage.googleapis.com #storage.l.googleusercontent.com
-2404:6800:4003:c00::80 commondatastorage.googleapis.com #storage.l.googleusercontent.com
-2404:6800:4003:c02::80 bucket.commondatastorage.googleapis.com #storage.l.googleusercontent.com
-2404:6800:4003:c00::80 chromium-browser-symbols.commondatastorage.googleapis.com #storage.l.googleusercontent.com
-2404:6800:4003:804::2010 c.commondatastorage.googleapis.com #storage.l.googleusercontent.com
+2404:6800:4005:800::2010 storage.googleapis.com #storage.l.googleusercontent.com
+2404:6800:4005:800::2010 commondatastorage.googleapis.com #storage.l.googleusercontent.com
+2404:6800:4005:800::2010 bucket.commondatastorage.googleapis.com #storage.l.googleusercontent.com
+2404:6800:4005:800::2010 chromium-browser-symbols.commondatastorage.googleapis.com #storage.l.googleusercontent.com
+2404:6800:4005:800::2010 c.commondatastorage.googleapis.com #storage.l.googleusercontent.com
 2404:6800:4003:c00::84 www.googlehosted.com #googlehosted.l.googleusercontent.com
 2404:6800:4003:c00::93 base.googlehosted.com #www2.l.google.com
 2404:6800:4003:c01::93 base0.googlehosted.com #www2.l.google.com
@@ -979,7 +979,7 @@
 
 ## Panoramio
 2404:6800:4005:800::2011 www.panoramio.com #appspot.l.google.com
-2404:6800:4003:c02::80 static.panoramio.com #c.storage.googleapis.com
+2404:6800:4005:800::2010 static.panoramio.com #c.storage.googleapis.com
 2404:6800:4003:c00::79 blog.panoramio.com #ghs.google.com
 
 ## Polymer project

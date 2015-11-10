@@ -80,7 +80,7 @@
 108.160.172.193 d.dropbox.com #d.v.dropbox.com
 108.160.172.193 d.v.dropbox.com
 108.160.172.200 m.dropbox.com
-54.230.74.189 dt8kf6553cww8.cloudfront.net
+#54.230.74.189 dt8kf6553cww8.cloudfront.net
 107.22.199.7 dl.dropbox.com #dl-balancer.x.dropbox.com
 107.22.199.7 dl-balancer.x.dropbox.com
 54.235.147.68 dl.dropboxusercontent.com #duc-balancer.x.dropbox.com
@@ -119,7 +119,7 @@
 #203.84.208.52 s.yimg.com #s.gycs.b.yahoodns.net
 
 ## Geeksforgeeks
-54.240.168.68 d2dskowxfbo68o.cloudfront.net
+54.239.130.34 d2dskowxfbo68o.cloudfront.net
 
 ## GitHub
 192.30.252.130 github.com
@@ -169,7 +169,7 @@
 192.229.145.102 static.squarespace.com #cs301.wpc.taucdn.net
 
 ## StackExchange/StackOverflow
-190.93.244.58 cdn.sstatic.net #sstatic.net
+2400:cb00:2048:1::6810:68cc cdn.sstatic.net #sstatic.net
 
 ## Tumblr
 68.232.44.253 gs1.wac.edgecastcdn.net
@@ -211,7 +211,7 @@
 199.96.57.57 a6.twimg.com #us-west-img.tw.map.fastly.net
 2606:2800:248:1e1b:fb6:1881:1834:cf2 g.twimg.com
 2606:2800:248:2f:1d8a:787:dc7:17df o.twimg.com #cs472.wac.edgecastcdn.net
-2606:2800:248:2f:1d8a:787:dc7:17df oem.twimg.com #cs472.wac.edgecastcdn.net
+2606:2800:248:5f:1d30:1967:1659:bd2 oem.twimg.com
 2606:2800:248:2f:1d8a:787:dc7:17df si0.twimg.com
 2606:2800:248:2f:1d8a:787:dc7:17df si1.twimg.com
 2606:2800:248:2f:1d8a:787:dc7:17df si2.twimg.com

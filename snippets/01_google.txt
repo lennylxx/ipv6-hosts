@@ -104,16 +104,16 @@
 2404:6800:4005:80b::2004 www.googlechinawebmaster.com
 
 ## 谷歌中国
-2404:6800:4008:c06::a0 g.cn
-2404:6800:4008:c03::a0 google.cn
-2404:6800:4008:c01::a0 www.google.cn
+2404:6800:4005:800::2003 g.cn
+2404:6800:4005:800::2003 google.cn
+2404:6800:4005:800::2003 www.google.cn
 2404:6800:4005:808::2003 ipv6.google.cn #ipv6.l.google.com
-2404:6800:4008:c02::a0 m.google.cn #www.google.cn
-2404:6800:4008:c04::a0 news.google.cn #www.google.cn
-2404:6800:4008:c04::a0 video.google.cn #www.google.cn
+2404:6800:4005:800::2003 m.google.cn #www.google.cn
+2404:6800:4005:800::2003 news.google.cn #www.google.cn
+2404:6800:4005:800::2003 video.google.cn #www.google.cn
 2404:6800:4003:c02::84 music.googleusercontent.cn #music-china.l.google.com
-2404:6800:4008:c07::a0 www.265.com #265.com
-2404:6800:4008:c02::a0 265.com
+2404:6800:4005:800::2003 www.265.com #265.com
+2404:6800:4005:800::2003 265.com
 
 ## Google 台湾
 2404:6800:4005:809::2003 www.google.com.tw
@@ -242,7 +242,7 @@
 2404:6800:4003:c01::68 blogsearch.google.com #www2.l.google.com
 2404:6800:4003:c02::93 blogsearch.google.com.hk #blogsearch.google.com
 2404:6800:4003:c00::68 blogsearch.google.com.tw #blogsearch.google.com
-2404:6800:4008:c01::a0 blogsearch.google.cn #www.google.cn
+2404:6800:4005:800::2003 blogsearch.google.cn #www.google.cn
 
 ## Blogger 博客服务
 2404:6800:4003:c01::bf www.blogger.com #blogger.l.google.com
@@ -321,7 +321,7 @@
 2404:6800:4003:804::2001 youtube-global.blogspot.com #blogspot.l.googleusercontent.com
 
 ## Books 图书
-2404:6800:4008:c01::a0 books.google.cn #www.google.cn
+2404:6800:4005:800::2003 books.google.cn #www.google.cn
 2404:6800:4005:808::2003 books.google.com #www3.l.google.com
 2404:6800:4005:808::2003 books.google.com.hk #books.google.com
 2404:6800:4005:808::2003 bks0.books.google.com #books.google.com
@@ -633,18 +633,18 @@
 2404:6800:4005:808::2003 gg.google.cn
 2404:6800:4005:80a::2003 id.google.com #id.l.google.com
 2404:6800:4005:809::2003 id.google.cn #id.l.google.com
-2404:6800:4008:c01::a0 ditu.google.cn
-2404:6800:4008:c01::a0 mt.google.cn #ditu.google.cn
-2404:6800:4008:c06::a0 mt0.google.cn
-2404:6800:4008:c02::a0 mt1.google.cn
-2404:6800:4008:c03::a0 mt2.google.cn
-2404:6800:4008:c01::a0 mt3.google.cn
+2404:6800:4005:800::2003 ditu.google.cn
+2404:6800:4005:800::2003 mt.google.cn #ditu.google.cn
+2404:6800:4005:800::2003 mt0.google.cn
+2404:6800:4005:800::2003 mt1.google.cn
+2404:6800:4005:800::2003 mt2.google.cn
+2404:6800:4005:800::2003 mt3.google.cn
 2404:6800:4005:808::2003 mts.google.com #mts.l.google.com
 2404:6800:4005:808::2003 mts0.google.com #mts.l.google.com
 2404:6800:4005:808::2003 mts1.google.com #mts.l.google.com
 2404:6800:4005:808::2003 mts2.google.com #mts.l.google.com
 2404:6800:4005:808::2003 mts3.google.com #mts.l.google.com
-2404:6800:4008:c02::a0 maps.gstatic.cn #www.gstatic.cn
+2404:6800:4005:800::2003 maps.gstatic.cn #www.gstatic.cn
 2404:6800:4005:808::2003 mobilemaps.clients.google.com #clients.l.google.com
 
 ## Music Beta by Google 云音乐服务
@@ -726,7 +726,7 @@
 2404:6800:4005:808::2003 scholar.google.com
 2404:6800:4005:808::2003 scholar.google.com.hk
 2404:6800:4005:808::2003 scholar.google.com.tw
-2404:6800:4008:c01::a0 scholar.google.cn #www.google.cn
+2404:6800:4005:800::2003 scholar.google.cn #www.google.cn
 
 ## Sites 协作平台
 2404:6800:4005:808::2003 sites.google.com #sites-china.l.google.com
@@ -752,15 +752,15 @@
 2404:6800:4005:808::2003 translate.google.com #www3.l.google.com
 2404:6800:4005:808::2003 translate.google.com.hk
 2404:6800:4005:809::2003 translate.google.com.tw
-2404:6800:4008:c02::a0 translate.google.cn #www.google.cn
+2404:6800:4005:800::2003 translate.google.cn #www.google.cn
 
 ## Trends 趋势
 2404:6800:4003:c00::6a trends.google.com #www2.l.google.com
-2404:6800:4008:c01::a0 www.gvt0.cn
-2404:6800:4008:c07::a0 0.gvt0.cn #www.gvt0.cn
-2404:6800:4008:c05::a0 1.gvt0.cn #www.gvt0.cn
-2404:6800:4008:c01::a0 2.gvt0.cn #www.gvt0.cn
-2404:6800:4008:c03::a0 3.gvt0.cn #www.gvt0.cn
+2404:6800:4005:800::2003 www.gvt0.cn
+2404:6800:4005:800::2003 0.gvt0.cn #www.gvt0.cn
+2404:6800:4005:800::2003 1.gvt0.cn #www.gvt0.cn
+2404:6800:4005:800::2003 2.gvt0.cn #www.gvt0.cn
+2404:6800:4005:800::2003 3.gvt0.cn #www.gvt0.cn
 
 ## Wave 波浪
 2404:6800:4003:c00::76 wave.google.com #www4.l.google.com
@@ -844,7 +844,7 @@
 2404:6800:4005:809::2003 maps.gstatic.com
 2404:6800:4005:809::2003 ssl.gstatic.com
 2404:6800:4005:808::2003 www.gstatic.com
-2404:6800:4008:c04::a0 www.gstatic.cn
+2404:6800:4005:800::2003 www.gstatic.cn
 2404:6800:4005:808::2003 encrypted-tbn0.gstatic.com
 2404:6800:4005:808::2003 encrypted-tbn1.gstatic.com
 2404:6800:4005:808::2003 encrypted-tbn2.gstatic.com

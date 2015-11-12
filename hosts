@@ -121,16 +121,16 @@
 2404:6800:4005:80b::2004 www.googlechinawebmaster.com
 
 ## 谷歌中国
-2404:6800:4008:c06::a0 g.cn
-2404:6800:4008:c03::a0 google.cn
-2404:6800:4008:c01::a0 www.google.cn
+2404:6800:4005:800::2003 g.cn
+2404:6800:4005:800::2003 google.cn
+2404:6800:4005:800::2003 www.google.cn
 2404:6800:4005:808::2003 ipv6.google.cn #ipv6.l.google.com
-2404:6800:4008:c02::a0 m.google.cn #www.google.cn
-2404:6800:4008:c04::a0 news.google.cn #www.google.cn
-2404:6800:4008:c04::a0 video.google.cn #www.google.cn
+2404:6800:4005:800::2003 m.google.cn #www.google.cn
+2404:6800:4005:800::2003 news.google.cn #www.google.cn
+2404:6800:4005:800::2003 video.google.cn #www.google.cn
 2404:6800:4003:c02::84 music.googleusercontent.cn #music-china.l.google.com
-2404:6800:4008:c07::a0 www.265.com #265.com
-2404:6800:4008:c02::a0 265.com
+2404:6800:4005:800::2003 www.265.com #265.com
+2404:6800:4005:800::2003 265.com
 
 ## Google 台湾
 2404:6800:4005:809::2003 www.google.com.tw
@@ -259,7 +259,7 @@
 2404:6800:4003:c01::68 blogsearch.google.com #www2.l.google.com
 2404:6800:4003:c02::93 blogsearch.google.com.hk #blogsearch.google.com
 2404:6800:4003:c00::68 blogsearch.google.com.tw #blogsearch.google.com
-2404:6800:4008:c01::a0 blogsearch.google.cn #www.google.cn
+2404:6800:4005:800::2003 blogsearch.google.cn #www.google.cn
 
 ## Blogger 博客服务
 2404:6800:4003:c01::bf www.blogger.com #blogger.l.google.com
@@ -338,7 +338,7 @@
 2404:6800:4003:804::2001 youtube-global.blogspot.com #blogspot.l.googleusercontent.com
 
 ## Books 图书
-2404:6800:4008:c01::a0 books.google.cn #www.google.cn
+2404:6800:4005:800::2003 books.google.cn #www.google.cn
 2404:6800:4005:808::2003 books.google.com #www3.l.google.com
 2404:6800:4005:808::2003 books.google.com.hk #books.google.com
 2404:6800:4005:808::2003 bks0.books.google.com #books.google.com
@@ -650,18 +650,18 @@
 2404:6800:4005:808::2003 gg.google.cn
 2404:6800:4005:80a::2003 id.google.com #id.l.google.com
 2404:6800:4005:809::2003 id.google.cn #id.l.google.com
-2404:6800:4008:c01::a0 ditu.google.cn
-2404:6800:4008:c01::a0 mt.google.cn #ditu.google.cn
-2404:6800:4008:c06::a0 mt0.google.cn
-2404:6800:4008:c02::a0 mt1.google.cn
-2404:6800:4008:c03::a0 mt2.google.cn
-2404:6800:4008:c01::a0 mt3.google.cn
+2404:6800:4005:800::2003 ditu.google.cn
+2404:6800:4005:800::2003 mt.google.cn #ditu.google.cn
+2404:6800:4005:800::2003 mt0.google.cn
+2404:6800:4005:800::2003 mt1.google.cn
+2404:6800:4005:800::2003 mt2.google.cn
+2404:6800:4005:800::2003 mt3.google.cn
 2404:6800:4005:808::2003 mts.google.com #mts.l.google.com
 2404:6800:4005:808::2003 mts0.google.com #mts.l.google.com
 2404:6800:4005:808::2003 mts1.google.com #mts.l.google.com
 2404:6800:4005:808::2003 mts2.google.com #mts.l.google.com
 2404:6800:4005:808::2003 mts3.google.com #mts.l.google.com
-2404:6800:4008:c02::a0 maps.gstatic.cn #www.gstatic.cn
+2404:6800:4005:800::2003 maps.gstatic.cn #www.gstatic.cn
 2404:6800:4005:808::2003 mobilemaps.clients.google.com #clients.l.google.com
 
 ## Music Beta by Google 云音乐服务
@@ -743,7 +743,7 @@
 2404:6800:4005:808::2003 scholar.google.com
 2404:6800:4005:808::2003 scholar.google.com.hk
 2404:6800:4005:808::2003 scholar.google.com.tw
-2404:6800:4008:c01::a0 scholar.google.cn #www.google.cn
+2404:6800:4005:800::2003 scholar.google.cn #www.google.cn
 
 ## Sites 协作平台
 2404:6800:4005:808::2003 sites.google.com #sites-china.l.google.com
@@ -769,15 +769,15 @@
 2404:6800:4005:808::2003 translate.google.com #www3.l.google.com
 2404:6800:4005:808::2003 translate.google.com.hk
 2404:6800:4005:809::2003 translate.google.com.tw
-2404:6800:4008:c02::a0 translate.google.cn #www.google.cn
+2404:6800:4005:800::2003 translate.google.cn #www.google.cn
 
 ## Trends 趋势
 2404:6800:4003:c00::6a trends.google.com #www2.l.google.com
-2404:6800:4008:c01::a0 www.gvt0.cn
-2404:6800:4008:c07::a0 0.gvt0.cn #www.gvt0.cn
-2404:6800:4008:c05::a0 1.gvt0.cn #www.gvt0.cn
-2404:6800:4008:c01::a0 2.gvt0.cn #www.gvt0.cn
-2404:6800:4008:c03::a0 3.gvt0.cn #www.gvt0.cn
+2404:6800:4005:800::2003 www.gvt0.cn
+2404:6800:4005:800::2003 0.gvt0.cn #www.gvt0.cn
+2404:6800:4005:800::2003 1.gvt0.cn #www.gvt0.cn
+2404:6800:4005:800::2003 2.gvt0.cn #www.gvt0.cn
+2404:6800:4005:800::2003 3.gvt0.cn #www.gvt0.cn
 
 ## Wave 波浪
 2404:6800:4003:c00::76 wave.google.com #www4.l.google.com
@@ -861,7 +861,7 @@
 2404:6800:4005:809::2003 maps.gstatic.com
 2404:6800:4005:809::2003 ssl.gstatic.com
 2404:6800:4005:808::2003 www.gstatic.com
-2404:6800:4008:c04::a0 www.gstatic.cn
+2404:6800:4005:800::2003 www.gstatic.cn
 2404:6800:4005:808::2003 encrypted-tbn0.gstatic.com
 2404:6800:4005:808::2003 encrypted-tbn1.gstatic.com
 2404:6800:4005:808::2003 encrypted-tbn2.gstatic.com
@@ -18684,6 +18684,76 @@
 2400:cb00:2048:1::681c:193a images.uncyc.org
 2400:cb00:2048:1::681c:193a static.uncyc.org
 2400:cb00:2048:1::681c:1009 ansaikuropedia.org
+
+## Vine
+2606:2800:247:22e4:1f0b:18b4:207d:15b0 v.cdn.vine.co #cs189.wpc.edgecastcdn.net
+2606:2800:247:22e4:1f0b:18b4:207d:15b0 mtc.cdn.vine.co
+
+## Steam
+2600:1417:9::b833:f5b cdn.akamai.steamstatic.com #a1507.dscd.akamai.net
+2600:1417:9::b833:f5b store.akamai.steamstatic.com
+2600:1417:9::b833:f5b steamcdn-a.akamaihd.net
+2600:1417:9::b833:f5b steamstore-a.akamaihd.net
+2600:1417:9::b833:f5b steamcommunity-a.akamaihd.net
+2600:1417:9::b833:f5b cdn.store.steampowered.com
+2600:1417:9::b833:f5b cdn.steampowered.com
+2600:1417:9::b833:f5b media.steampowered.com
+2600:1417:9::b833:f5b cdn.steamcommunity.com
+2600:1417:9::b833:f5b cloud-3.steamusercontent.com
+2600:1417:9::b833:f5b images.akamai.steamusercontent.com
+2600:1417:9::b833:f5b store.valvesoftware.com
+
+## NVIDIA 
+2600:1417:9:192::376 www.nvidia.com
+2600:1417:9:192::376 arg.nvidia.com
+2600:1417:9:192::376 blogs.nvidia.com
+2600:1417:9:192::376 br.nvidia.com
+2600:1417:9:192::376 chl.nvidia.com
+2600:1417:9:192::376 clm.nvidia.com
+2600:1417:9:192::376 research.nvidia.com
+2600:1417:9:192::376 ven.nvidia.com
+2600:1417:9:192::a90 images.nvidia.com
+2600:1417:9:192::a90 developer.nvidia.com
+2600:1417:9:192::778 www.nvidia.cn
+2600:1417:9:192::c8c blogs.nvidia.cn
+2600:1417:9::6007:3629 cn.nvidia.com
+2600:1417:9:192::778 contests.nvidia.com
+2600:1417:9:192::778 services.gfe.nvidia.com
+2600:1417:9:192::a91 download.gfe.nvidia.com
+2600:1417:9:192::778 shield.nvidia.com
+2600:1417:9::6007:3629 cn.download.nvidia.com
+2600:1417:9::6007:3629 international.download.nvidia.com
+2600:1417:9::6007:3629 international-gfe.download.nvidia.com
+2600:1417:9:192::7b4 www.geforce.com
+2600:1417:9:192::7b4 gfwsl.geforce.com
+2600:1417:9::6007:3629 www.geforce.cn
+2600:1417:9:192::c8c nfans.geforce.cn
+2600:1417:9::6007:3629 www.tegrazone.com
+
+## AMD 
+2600:1417:9:192::b51 www.amd.com
+2600:1417:9:192::2c4b community.amd.com
+2600:1417:9::6007:3629 ir.amd.com
+2600:1417:9::6007:3629 shop.amd.com
+2600:1417:9:192::b51 www.amd.com
+2600:1417:9:192::b51 www.amd.com
+2600:1417:9:192::b51 support.amd.com
+2600:1417:9:192::1c7b www2.ati.com
+
+## Intel
+2600:1417:9::6007:3629 www.intel.cn
+2600:1417:9::6007:3629 www.intel.com
+2600:1417:9::6007:3629 ark.intel.com
+2600:1417:9::6007:3629 corpredirect.intel.com
+2600:1417:9:192::b www-ssl.intel.com
+2600:1417:9:192::b communities.intel.com
+2600:1417:9:192::b downloadcenter.intel.com
+2600:1417:9:192::b downloadmirror.intel.com
+2600:1417:9:192::b engage.intel.com
+2600:1417:9:192::b iq.intel.com
+2600:1417:9:192::b newsroom.intel.com
+2600:1417:9:192::b software.intel.com
+2600:1417:9:192::ae6 embedded.communities.intel.com
 
 ## AT 奥地利
 ## Tor Project

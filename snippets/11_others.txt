@@ -98,6 +98,76 @@
 2400:cb00:2048:1::681c:193a static.uncyc.org
 2400:cb00:2048:1::681c:1009 ansaikuropedia.org
 
+## Vine
+2606:2800:247:22e4:1f0b:18b4:207d:15b0 v.cdn.vine.co #cs189.wpc.edgecastcdn.net
+2606:2800:247:22e4:1f0b:18b4:207d:15b0 mtc.cdn.vine.co
+
+## Steam
+2600:1417:9::b833:f5b cdn.akamai.steamstatic.com #a1507.dscd.akamai.net
+2600:1417:9::b833:f5b store.akamai.steamstatic.com
+2600:1417:9::b833:f5b steamcdn-a.akamaihd.net
+2600:1417:9::b833:f5b steamstore-a.akamaihd.net
+2600:1417:9::b833:f5b steamcommunity-a.akamaihd.net
+2600:1417:9::b833:f5b cdn.store.steampowered.com
+2600:1417:9::b833:f5b cdn.steampowered.com
+2600:1417:9::b833:f5b media.steampowered.com
+2600:1417:9::b833:f5b cdn.steamcommunity.com
+2600:1417:9::b833:f5b cloud-3.steamusercontent.com
+2600:1417:9::b833:f5b images.akamai.steamusercontent.com
+2600:1417:9::b833:f5b store.valvesoftware.com
+
+## NVIDIA 
+2600:1417:9:192::376 www.nvidia.com
+2600:1417:9:192::376 arg.nvidia.com
+2600:1417:9:192::376 blogs.nvidia.com
+2600:1417:9:192::376 br.nvidia.com
+2600:1417:9:192::376 chl.nvidia.com
+2600:1417:9:192::376 clm.nvidia.com
+2600:1417:9:192::376 research.nvidia.com
+2600:1417:9:192::376 ven.nvidia.com
+2600:1417:9:192::a90 images.nvidia.com
+2600:1417:9:192::a90 developer.nvidia.com
+2600:1417:9:192::778 www.nvidia.cn
+2600:1417:9:192::c8c blogs.nvidia.cn
+2600:1417:9::6007:3629 cn.nvidia.com
+2600:1417:9:192::778 contests.nvidia.com
+2600:1417:9:192::778 services.gfe.nvidia.com
+2600:1417:9:192::a91 download.gfe.nvidia.com
+2600:1417:9:192::778 shield.nvidia.com
+2600:1417:9::6007:3629 cn.download.nvidia.com
+2600:1417:9::6007:3629 international.download.nvidia.com
+2600:1417:9::6007:3629 international-gfe.download.nvidia.com
+2600:1417:9:192::7b4 www.geforce.com
+2600:1417:9:192::7b4 gfwsl.geforce.com
+2600:1417:9::6007:3629 www.geforce.cn
+2600:1417:9:192::c8c nfans.geforce.cn
+2600:1417:9::6007:3629 www.tegrazone.com
+
+## AMD 
+2600:1417:9:192::b51 www.amd.com
+2600:1417:9:192::2c4b community.amd.com
+2600:1417:9::6007:3629 ir.amd.com
+2600:1417:9::6007:3629 shop.amd.com
+2600:1417:9:192::b51 www.amd.com
+2600:1417:9:192::b51 www.amd.com
+2600:1417:9:192::b51 support.amd.com
+2600:1417:9:192::1c7b www2.ati.com
+
+## Intel
+2600:1417:9::6007:3629 www.intel.cn
+2600:1417:9::6007:3629 www.intel.com
+2600:1417:9::6007:3629 ark.intel.com
+2600:1417:9::6007:3629 corpredirect.intel.com
+2600:1417:9:192::b www-ssl.intel.com
+2600:1417:9:192::b communities.intel.com
+2600:1417:9:192::b downloadcenter.intel.com
+2600:1417:9:192::b downloadmirror.intel.com
+2600:1417:9:192::b engage.intel.com
+2600:1417:9:192::b iq.intel.com
+2600:1417:9:192::b newsroom.intel.com
+2600:1417:9:192::b software.intel.com
+2600:1417:9:192::ae6 embedded.communities.intel.com
+
 ## AT 奥地利
 ## Tor Project
 2620::6b0:b:1a1a:0:26e5:4810 torproject.org

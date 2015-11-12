@@ -132,7 +132,7 @@
 2600:1417:9::6007:3629 cn.nvidia.com
 2600:1417:9:192::778 contests.nvidia.com
 2600:1417:9:192::778 services.gfe.nvidia.com
-2600:1417:9:192::a91 download.gfe.nvidia.com
+2600:1417:9:192::a91 download-cdn.gfe.nvidia.com
 2600:1417:9:192::778 shield.nvidia.com
 2600:1417:9::6007:3629 cn.download.nvidia.com
 2600:1417:9::6007:3629 international.download.nvidia.com

@@ -37,6 +37,7 @@
 2404:6800:4005:808::2003 investor.google.com #www3.l.google.com
 2404:6800:4005:808::2003 ipv6.google.com #ipv6.l.google.com
 2404:6800:4005:808::2003 jmt0.google.com #www3.l.google.com
+2404:6800:4005:808::2003 keep.google.com #www3.l.google.com
 2404:6800:4005:808::2003 linkhelp.clients.google.com #clients.l.google.com
 2404:6800:4005:808::2003 upload.clients.google.com #clients.l.google.com
 2404:6800:4005:809::200b m.google.com #mobile.l.google.com

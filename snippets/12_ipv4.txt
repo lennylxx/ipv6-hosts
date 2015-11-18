@@ -74,18 +74,16 @@
 204.246.164.72 www.da-files.com
 
 ## Dropbox
-108.160.172.206 www.dropbox.com #www.v.dropbox.com
-108.160.172.206 www.v.dropbox.com
-108.160.172.206 dropbox.com
+108.160.173.207 www.dropbox.com #www.v.dropbox.com
+108.160.173.207 www.v.dropbox.com
+108.160.172.232 dropbox.com
 108.160.172.193 d.dropbox.com #d.v.dropbox.com
 108.160.172.193 d.v.dropbox.com
 108.160.172.200 m.dropbox.com
-#54.230.74.189 dt8kf6553cww8.cloudfront.net
-107.22.199.7 dl.dropbox.com #dl-balancer.x.dropbox.com
-107.22.199.7 dl-balancer.x.dropbox.com
-54.235.147.68 dl.dropboxusercontent.com #duc-balancer.x.dropbox.com
-54.235.147.68 duc-balancer.x.dropbox.com
+108.160.173.6 dl.dropbox.com #block-misc-iad.v.dropbox.com
+199.47.217.69 dl.dropboxusercontent.com #block-www.v.dropbox.com
 54.182.3.132 cf.dropboxstatic.com
+108.160.172.239 photos.dropbox.com
 52.7.223.64 photos-thumb.x.dropbox.com
 52.7.223.64 photos-1.dropbox.com #photos-thumb.x.dropbox.com
 52.7.223.64 photos-2.dropbox.com #photos-thumb.x.dropbox.com
@@ -163,13 +161,75 @@
 68.232.46.220 ec-rtmp-media.soundcloud.com #fms.658d.edgecastcdn.net
 54.171.137.74 eventlogger.soundcloud.com #eventgateway.soundcloud.com
 52.17.240.17 eventgateway.soundcloud.com #eventgateway-production-2-1558049626.eu-west-1.elb.amazonaws.com
-111.119.3.1 soundcloud.hs.llnwd.net
+#111.119.3.1 soundcloud.hs.llnwd.net
 
 ## Squarespace
 192.229.145.102 static.squarespace.com #cs301.wpc.taucdn.net
 
 ## StackExchange/StackOverflow
-2400:cb00:2048:1::6810:68cc cdn.sstatic.net #sstatic.net
+2400:cb00:2048:1::6810:24f9 stackoverflow.com
+2400:cb00:2048:1::6810:24f9 blog.stackoverflow.com
+2400:cb00:2048:1::6810:76b6 stackexchange.com
+2400:cb00:2048:1::6810:76b6 academia.stackexchange.com
+2400:cb00:2048:1::6810:76b6 android.stackexchange.com
+2400:cb00:2048:1::6810:76b6 apple.stackexchange.com
+2400:cb00:2048:1::6810:76b6 area51.stackexchange.com
+2400:cb00:2048:1::6810:76b6 astronomy.stackexchange.com
+2400:cb00:2048:1::6810:76b6 bicycles.stackexchange.com
+2400:cb00:2048:1::6810:76b6 biology.stackexchange.com
+2400:cb00:2048:1::6810:76b6 chemistry.stackexchange.com
+2400:cb00:2048:1::6810:76b6 christianity.stackexchange.com
+2400:cb00:2048:1::6810:76b6 cooking.stackexchange.com
+2400:cb00:2048:1::6810:76b6 cs.stackexchange.com
+2400:cb00:2048:1::6810:76b6 cstheory.stackexchange.com
+2400:cb00:2048:1::6810:76b6 dba.stackexchange.com
+2400:cb00:2048:1::6810:76b6 diy.stackexchange.com
+2400:cb00:2048:1::6810:76b6 drupal.stackexchange.com
+2400:cb00:2048:1::6810:76b6 economics.stackexchange.com
+2400:cb00:2048:1::6810:76b6 electronics.stackexchange.com
+2400:cb00:2048:1::6810:76b6 english.stackexchange.com
+2400:cb00:2048:1::6810:76b6 expressionengine.stackexchange.com
+2400:cb00:2048:1::6810:76b6 gamedev.stackexchange.com
+2400:cb00:2048:1::6810:76b6 gaming.stackexchange.com
+2400:cb00:2048:1::6810:76b6 gis.stackexchange.com
+2400:cb00:2048:1::6810:76b6 graphicdesign.stackexchange.com
+2400:cb00:2048:1::6810:76b6 judaism.stackexchange.com
+2400:cb00:2048:1::6810:76b6 magento.stackexchange.com
+2400:cb00:2048:1::6810:76b6 math.stackexchange.com
+2400:cb00:2048:1::6810:76b6 mathematica.stackexchange.com
+2400:cb00:2048:1::6810:76b6 meta.stackexchange.com
+2400:cb00:2048:1::6810:76b6 money.stackexchange.com
+2400:cb00:2048:1::6810:76b6 movies.stackexchange.com
+2400:cb00:2048:1::6810:76b6 photo.stackexchange.com
+2400:cb00:2048:1::6810:76b6 physics.stackexchange.com
+2400:cb00:2048:1::6810:76b6 programmers.stackexchange.com
+2400:cb00:2048:1::6810:76b6 rpg.stackexchange.com
+2400:cb00:2048:1::6810:76b6 salesforce.stackexchange.com
+2400:cb00:2048:1::6810:76b6 scifi.stackexchange.com
+2400:cb00:2048:1::6810:76b6 security.stackexchange.com
+2400:cb00:2048:1::6810:76b6 sharepoint.stackexchange.com
+2400:cb00:2048:1::6810:76b6 skeptics.stackexchange.com
+2400:cb00:2048:1::6810:76b6 stats.stackexchange.com
+2400:cb00:2048:1::6810:76b6 tex.stackexchange.com
+2400:cb00:2048:1::6810:76b6 travel.stackexchange.com
+2400:cb00:2048:1::6810:76b6 unix.stackexchange.com
+2400:cb00:2048:1::6810:76b6 ux.stackexchange.com
+2400:cb00:2048:1::6810:76b6 webapps.stackexchange.com
+2400:cb00:2048:1::6810:76b6 webmasters.stackexchange.com
+2400:cb00:2048:1::6810:76b6 wordpress.stackexchange.com
+2400:cb00:2048:1::6810:76b6 workplace.stackexchange.com
+2400:cb00:2048:1::6810:76b6 worldbuilding.stackexchange.com
+2400:cb00:2048:1::6810:68cc sstatic.net
+2400:cb00:2048:1::6810:68cc cdn.sstatic.net
+2400:cb00:2048:1::6810:68cc cdn-careers.sstatic.net
+2400:cb00:2048:1::6810:5aec stackapps.com
+2400:cb00:2048:1::6810:20c1 superuser.com
+2400:cb00:2048:1::6810:70bc askubuntu.com
+2400:cb00:2048:1::6810:30e8 serverfault.com
+2400:cb00:2048:1::6810:30ec mathoverflow.net
+2400:cb00:2048:1::6810:5afe i.stack.imgur.com
+2406:da00:ff00::3211:e080 s.stack.imgur.com
+2406:da00:ff00::3211:e080 stack.imgur.com
 
 ## Tumblr
 68.232.44.253 gs1.wac.edgecastcdn.net

@@ -103,17 +103,21 @@
 2606:2800:247:22e4:1f0b:18b4:207d:15b0 mtc.cdn.vine.co
 
 ## Steam
+2600:1417:9:192::3a7 support.steampowered.com
 2600:1417:9::b833:f5b cdn.akamai.steamstatic.com #a1507.dscd.akamai.net
 2600:1417:9::b833:f5b store.akamai.steamstatic.com
-2600:1417:9::b833:f5b steamcdn-a.akamaihd.net
-2600:1417:9::b833:f5b steamstore-a.akamaihd.net
-2600:1417:9::b833:f5b steamcommunity-a.akamaihd.net
 2600:1417:9::b833:f5b cdn.store.steampowered.com
 2600:1417:9::b833:f5b cdn.steampowered.com
 2600:1417:9::b833:f5b media.steampowered.com
-2600:1417:9::b833:f5b cdn.steamcommunity.com
+2600:1417:9::b833:f5b media4.steampowered.com
+2600:1417:9::b833:f5b content8.steampowered.com
+2600:1417:9::b833:f5b cloud-3.steampowered.com
 2600:1417:9::b833:f5b cloud-3.steamusercontent.com
 2600:1417:9::b833:f5b images.akamai.steamusercontent.com
+2600:1417:9::b833:f5b steamcdn-a.akamaihd.net
+2600:1417:9::b833:f5b steamstore-a.akamaihd.net
+2600:1417:9::b833:f5b steamcommunity-a.akamaihd.net
+2600:1417:9::b833:f5b cdn.steamcommunity.com
 2600:1417:9::b833:f5b store.valvesoftware.com
 
 ## NVIDIA 

@@ -19101,9 +19101,10 @@
 192.0.76.3 pixel.wp.com
 192.0.76.3 stats.wp.com
 192.0.77.2 i0.wp.com
-68.232.44.111 s0.wp.com #cs82.wac.edgecastcdn.net
-68.232.44.111 s1.wp.com #cs82.wac.edgecastcdn.net
-68.232.44.111 s2.wp.com #cs82.wac.edgecastcdn.net
+2606:2800:20d:559:1b1e:a49:202a:14b5 s0.wp.com #cs82.wac.edgecastcdn.net
+2606:2800:20d:559:1b1e:a49:202a:14b5 s1.wp.com #cs82.wac.edgecastcdn.net
+2606:2800:20d:559:1b1e:a49:202a:14b5 s2.wp.com #cs82.wac.edgecastcdn.net
+2606:2800:20d:559:1b1e:a49:202a:14b5 widgets.wp.com #cs82.wac.edgecastcdn.net
 66.155.40.250 wordpress.org
 66.155.40.250 www.wordpress.org
 192.229.144.127 s.w.org #cs287.wac.edgecastcdn.net

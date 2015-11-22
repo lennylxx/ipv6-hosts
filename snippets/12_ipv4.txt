@@ -228,8 +228,8 @@
 2400:cb00:2048:1::6810:30e8 serverfault.com
 2400:cb00:2048:1::6810:30ec mathoverflow.net
 2400:cb00:2048:1::6810:5afe i.stack.imgur.com
-2406:da00:ff00::3211:e080 s.stack.imgur.com
-2406:da00:ff00::3211:e080 stack.imgur.com
+2406:da00:ff00::3213:e2d3 s.stack.imgur.com
+2406:da00:ff00::3213:e2d3 stack.imgur.com
 
 ## Tumblr
 68.232.44.253 gs1.wac.edgecastcdn.net
@@ -300,10 +300,10 @@
 76.74.254.122 files.wordpress.com
 192.0.76.3 pixel.wp.com
 192.0.76.3 stats.wp.com
-192.0.77.2 i0.wp.com
-68.232.44.111 s0.wp.com #cs82.wac.edgecastcdn.net
-68.232.44.111 s1.wp.com #cs82.wac.edgecastcdn.net
-68.232.44.111 s2.wp.com #cs82.wac.edgecastcdn.net
+2606:2800:20d:559:1b1e:a49:202a:14b5 s0.wp.com #cs82.wac.edgecastcdn.net
+2606:2800:20d:559:1b1e:a49:202a:14b5 s1.wp.com #cs82.wac.edgecastcdn.net
+2606:2800:20d:559:1b1e:a49:202a:14b5 s2.wp.com #cs82.wac.edgecastcdn.net
+2606:2800:20d:559:1b1e:a49:202a:14b5 widgets.wp.com #cs82.wac.edgecastcdn.net
 66.155.40.250 wordpress.org
 66.155.40.250 www.wordpress.org
 192.229.144.127 s.w.org #cs287.wac.edgecastcdn.net

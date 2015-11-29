@@ -100,9 +100,6 @@
 2001:da8:8000:600f:16fe:b5ff:fed4:4309 p4.img.cctvpic.com
 2001:da8:8000:600f:16fe:b5ff:fed4:4309 p5.img.cctvpic.com
 2001:da8:8000:600f:16fe:b5ff:fed4:4309 r.img.cctvpic.com
-2001:da8:8000:600f:16fe:b5ff:fed4:4309 www.cntv.cn
-2001:da8:8000:600f:16fe:b5ff:fed4:4309 www.cntv.cn
-2001:da8:8000:600f:16fe:b5ff:fed4:4309 www.cntv.cn
 
 2001:da8:8000:600f:16fe:b5ff:fed4:4309 analytics.oneplus.cn
 2001:da8:8000:600f:16fe:b5ff:fed4:4309 image01.oneplus.cn

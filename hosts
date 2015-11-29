@@ -18741,8 +18741,6 @@
 2600:1417:9:192::2c4b community.amd.com
 2600:1417:9::6007:3629 ir.amd.com
 2600:1417:9::6007:3629 shop.amd.com
-2600:1417:9:192::b51 www.amd.com
-2600:1417:9:192::b51 www.amd.com
 2600:1417:9:192::b51 support.amd.com
 2600:1417:9:192::1c7b www2.ati.com
 
@@ -19028,8 +19026,8 @@
 2400:cb00:2048:1::6810:30e8 serverfault.com
 2400:cb00:2048:1::6810:30ec mathoverflow.net
 2400:cb00:2048:1::6810:5afe i.stack.imgur.com
-2406:da00:ff00::3213:e2d3 s.stack.imgur.com
-2406:da00:ff00::3213:e2d3 stack.imgur.com
+2406:da00:ff00::1715:538b s.stack.imgur.com
+2406:da00:ff00::1715:538b stack.imgur.com
 
 ## Tumblr
 68.232.44.253 gs1.wac.edgecastcdn.net

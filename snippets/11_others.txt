@@ -152,8 +152,6 @@
 2600:1417:9:192::2c4b community.amd.com
 2600:1417:9::6007:3629 ir.amd.com
 2600:1417:9::6007:3629 shop.amd.com
-2600:1417:9:192::b51 www.amd.com
-2600:1417:9:192::b51 www.amd.com
 2600:1417:9:192::b51 support.amd.com
 2600:1417:9:192::1c7b www2.ati.com
 

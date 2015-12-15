@@ -99,8 +99,8 @@
 2400:cb00:2048:1::681c:1009 ansaikuropedia.org
 
 ## Vine
-2606:2800:247:22e4:1f0b:18b4:207d:15b0 v.cdn.vine.co #cs189.wpc.edgecastcdn.net
-2606:2800:247:22e4:1f0b:18b4:207d:15b0 mtc.cdn.vine.co
+2606:1f80:a000:100::5 v.cdn.vine.co
+2606:1f80:a000:100::5 mtc.cdn.vine.co
 
 ## Steam
 2600:1417:9:192::3a7 support.steampowered.com

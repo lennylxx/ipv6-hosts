@@ -205,11 +205,13 @@
 2404:6800:4005:800::2011 gv-gadget.appspot.com #appspot.l.google.com
 2404:6800:4005:800::2011 haiticrisis.appspot.com #appspot.l.google.com
 2404:6800:4005:800::2011 i18napis.appspot.com #appspot.l.google.com
+2404:6800:4005:800::2011 ld-social-stats.appspot.com #appspot.l.google.com
 2404:6800:4005:800::2011 moderator.appspot.com #appspot.l.google.com
 2404:6800:4005:800::2011 newsfeed-dot-latest-dot-rovio-ad-engine.appspot.com #appspot.l.google.com
 2404:6800:4005:800::2011 productideas.appspot.com #appspot.l.google.com
 2404:6800:4005:800::2011 project-slingshot-gp.appspot.com #appspot.l.google.com
 2404:6800:4005:800::2011 r3269-dot-latest-dot-project-slingshot-gp.appspot.com #appspot.l.google.com
+2404:6800:4005:800::2011 santa-api.appspot.com #appspot.l.google.com
 2404:6800:4005:800::2011 storegadgetwizard.appspot.com #appspot.l.google.com
 2404:6800:4005:800::2011 welcome-cros.appspot.com #appspot.l.google.com
 2404:6800:4005:800::2011 yt-debates.appspot.com #appspot.l.google.com
@@ -235,6 +237,7 @@
 2404:6800:4005:800::2011 insideabbeyroad.withgoogle.com
 2404:6800:4005:800::2011 interstellar.withgoogle.com
 2404:6800:4005:800::2011 kickwithchrome.withgoogle.com
+2404:6800:4005:800::2011 lightsaber.withgoogle.com
 2404:6800:4005:800::2011 mapping.withgoogle.com
 2404:6800:4005:800::2011 nikhelp.withgoogle.com
 2404:6800:4005:800::2011 projectshield.withgoogle.com
@@ -375,7 +378,7 @@
 2404:6800:4005:808::2003 wallet.google.com
 
 ## Chrome 谷歌浏览器
-2607:f8b0:4005:800::1000 www.chrome.com
+2404:6800:4005:800::2000 www.chrome.com
 2404:6800:4005:800::2011 developer.chrome.com #appspot.l.google.com
 2404:6800:4005:808::2003 chrome.google.com #www3.l.google.com
 #2404:6800:4008:c00::66 browsersync.google.com #browsersync.l.google.com
@@ -914,6 +917,7 @@
 2404:6800:4003:804::200a mts1.googleapis.com #googleapis.l.google.com
 2404:6800:4003:c01::5f mts2.googleapis.com #googleapis.l.google.com
 2404:6800:4003:c02::5f mts3.googleapis.com #googleapis.l.google.com
+2404:6800:4005:809::200a beyond-pa.clients6.google.com
 
 ## Google Hosted 托管服务
 2404:6800:4005:800::2010 storage.googleapis.com #storage.l.googleusercontent.com

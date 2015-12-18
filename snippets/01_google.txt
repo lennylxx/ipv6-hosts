@@ -1043,4 +1043,5 @@
 #2404:6800:4008:c00::79 www.dartlang.org #ghs.l.google.com
 #2404:6800:4008:c00::79 try.dartlang.org #ghs.l.google.com
 2404:6800:4003:c00::79 news.dartlang.org #ghs.google.com
+2404:6800:4005:808::2003 santatracker.google.com #www3.l.google.com
 

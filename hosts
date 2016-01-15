@@ -20165,25 +20165,25 @@
 ## 其他IPv6网站
 ## US 美国
 ## Mozilla
-2620:101:8008:5::2:1 www.mozilla.org #mozorg.dynect.mozilla.net
+2400:cb00:2048:1::6810:2902 www.mozilla.org #www.mozilla.org.cdn.cloudflare.net
 #2620:101:8008:5::2:6 air.mozilla.org #generic.zlb.phx.mozilla.net
-2620:101:8020:5::2:132 addons.mozilla.org #addons.dynect.mozilla.net
+#2620:101:8020:5::2:132 addons.mozilla.org #addons.dynect.mozilla.net
 #2620:101:8008:5::2:6 blog.mozilla.org #generic.zlb.phx.mozilla.net
 #2620:101:8008:5::2:9 bugzilla.mozilla.org #bugzilla.zlb.phx.mozilla.net
-2620:101:8008:5::2:7 dnt.mozilla.org #static.zlb.phx.mozilla.net
-2620:101:8008:5::2:6 firefoxflicks.mozilla.org #generic.zlb.phx.mozilla.net
+#2620:101:8008:5::2:7 dnt.mozilla.org #static.zlb.phx.mozilla.net
+#2620:101:8008:5::2:6 firefoxflicks.mozilla.org #generic.zlb.phx.mozilla.net
 #2620:101:8008:5::2:6 hacks.mozilla.org #generic.zlb.phx.mozilla.net
 #2620:101:8008:5::2:7 nightly.mozilla.org #static.zlb.phx.mozilla.net
-2620:101:8008:5::2:6 pastebin.mozilla.org #generic.zlb.phx.mozilla.net
-2620:101:8008:5::2:7 planet.mozilla.org #static.zlb.phx.mozilla.net
+#2620:101:8008:5::2:6 pastebin.mozilla.org #generic.zlb.phx.mozilla.net
+#2620:101:8008:5::2:7 planet.mozilla.org #static.zlb.phx.mozilla.net
 #2620:101:8008:5::2:6 quality.mozilla.org
 #2620:101:8008:5::2:8 releases.mozilla.org #static-non-ssl.zlb.phx.mozilla.net
-2620:101:8008:5::2:3 support.mozilla.org #sumo.zlb.phx.mozilla.net
-2620:101:8008:5::2:7 tbpl.mozilla.org #static-redirect.zlb.phx.mozilla.net
-2620:101:8008:5::2:6 wiki.mozilla.org #generic.zlb.phx.mozilla.net
-2620:101:8008:5::2:7 www.mozilla.com #static-redirect.zlb.phx.mozilla.net
-2620:101:8008:5::2:8 www.firefox.com #firefox.com
-2620:101:8008:5::2:8 firefox.com
+#2620:101:8008:5::2:3 support.mozilla.org #sumo.zlb.phx.mozilla.net
+#2620:101:8008:5::2:7 tbpl.mozilla.org #static-redirect.zlb.phx.mozilla.net
+#2620:101:8008:5::2:6 wiki.mozilla.org #generic.zlb.phx.mozilla.net
+#2620:101:8008:5::2:7 www.mozilla.com #static-redirect.zlb.phx.mozilla.net
+#2620:101:8008:5::2:8 www.firefox.com #firefox.com
+#2620:101:8008:5::2:8 firefox.com
 
 ## Microsoft 微软
 2600:140b:4:1b6::2768 www.microsoft.com #e10088.dscb.akamaiedge.net

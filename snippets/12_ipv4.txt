@@ -112,9 +112,17 @@
 2406:2000:108:2::1000 m.flickr.com
 2406:2000:108:2::1000 heartbeat.flickr.com
 192.0.79.32 code.flickr.com
-#119.161.17.27 c1.staticflickr.com #ds-geoycs-ct.gy1.b.yahoodns.net
-#119.161.17.27 c2.staticflickr.com #ds-geoycs-ct.gy1.b.yahoodns.net
-#203.84.208.52 s.yimg.com #s.gycs.b.yahoodns.net
+2406:2000:fc:402::c:2207 c.staticflickr.com
+2406:2000:fc:402::c:2207 c1.staticflickr.com
+2406:2000:fc:402::c:2207 c2.staticflickr.com
+2406:2000:fc:402::c:2207 c3.staticflickr.com
+2406:2000:fc:402::c:2207 c4.staticflickr.com
+2406:2000:fc:402::c:2207 c5.staticflickr.com
+2406:2000:fc:402::c:2207 c6.staticflickr.com
+2406:2000:fc:402::c:2207 c7.staticflickr.com
+2406:2000:fc:402::c:2207 c8.staticflickr.com
+2406:2000:fc:402::c:2207 c9.staticflickr.com
+2406:2000:108:3::1000 s.yimg.com #s.gycs.b.yahoodns.net
 
 ## Geeksforgeeks
 54.239.130.34 d2dskowxfbo68o.cloudfront.net

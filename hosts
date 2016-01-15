@@ -20251,8 +20251,10 @@
 2606:1f80:a000:100::5 mtc.cdn.vine.co
 
 ## Steam
+2600:1417:9:192::3a7 api.steampowered.com
 2600:1417:9:192::3a7 support.steampowered.com
-2600:1417:9::b833:f5b cdn.akamai.steamstatic.com #a1507.dscd.akamai.net
+2600:1417:9::b833:f5b repo.steampowered.com
+2600:1417:9::b833:f5b cdn.akamai.steamstatic.com
 2600:1417:9::b833:f5b store.akamai.steamstatic.com
 2600:1417:9::b833:f5b cdn.store.steampowered.com
 2600:1417:9::b833:f5b cdn.steampowered.com
@@ -20287,6 +20289,7 @@
 2600:1417:9:192::a91 download-cdn.gfe.nvidia.com
 2600:1417:9:192::778 shield.nvidia.com
 2600:1417:9::6007:3629 cn.download.nvidia.com
+2600:1417:9::6007:3629 us.download.nvidia.com
 2600:1417:9::6007:3629 international.download.nvidia.com
 2600:1417:9::6007:3629 international-gfe.download.nvidia.com
 2600:1417:9:192::7b4 www.geforce.com
@@ -20308,6 +20311,8 @@
 2600:1417:9::6007:3629 www.intel.com
 2600:1417:9::6007:3629 ark.intel.com
 2600:1417:9::6007:3629 corpredirect.intel.com
+2600:1417:9::6007:3629 pcdoeswhat.intel.cn
+2600:1417:9:192::75 newsroom.intel.cn
 2600:1417:9:192::b www-ssl.intel.com
 2600:1417:9:192::b communities.intel.com
 2600:1417:9:192::b downloadcenter.intel.com

@@ -15,7 +15,8 @@
 2404:6800:4005:808::2003 manifest.googlevideo.com
 
 ## c.youtube.com和googlevideo.com指向的IP相同
-2404:6800:4001:806::200e redirector.googlevideo.com
+2404:6800:4005:808::2003 redirector.googlevideo.com
+2404:6800:4005:808::2003 redirector.gvt1.com
 
 ## 公开视频 bandaid-redirector.l.google.com
 2404:6800:4005:808::2003 v1.lscache1.googlevideo.com

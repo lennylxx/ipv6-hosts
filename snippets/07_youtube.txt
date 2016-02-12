@@ -9,6 +9,8 @@
 2404:6800:4005:808::2003 ru.youtube.com #youtube-ui.l.google.com
 2404:6800:4005:808::2003 uk.youtube.com #youtube-ui.l.google.com
 2404:6800:4005:808::2003 tw.youtube.com #youtube-ui.l.google.com
+2404:6800:4005:808::2003 gaming.youtube.com #youtube-ui.l.google.com
+2404:6800:4005:808::2003 music.youtube.com #youtube-ui.l.google.com
 2404:6800:4005:808::2003 ads.youtube.com #www3.l.google.com
 2404:6800:4005:808::2003 www.youtube-nocookie.com #youtube-ui.l.google.com
 2404:6800:4005:808::2003 m.youtube.com
@@ -24,6 +26,7 @@
 2404:6800:4005:80a::200f uploads.stage.gdata.youtube.com #yt-video-upload.l.google.com
 2404:6800:4003:c02::65 insight.youtube.com #video-analytics.google.com
 2404:6800:4005:808::2003 apiblog.youtube.com #www3.l.google.com
+
 #2404:6800:4008:c00::64 clients1.youtube.com
 
 2404:6800:4005:808::2003 i.ytimg.com #ytimg.l.google.com
@@ -31,5 +34,5 @@
 2404:6800:4005:808::2003 i2.ytimg.com #ytimg.l.google.com
 2404:6800:4005:808::2003 i3.ytimg.com #ytimg.l.google.com
 2404:6800:4005:808::2003 i4.ytimg.com #ytimg.l.google.com
-2404:6800:4003:c01::8b s.ytimg.com #ytstatic.l.google.com
+2404:6800:4005:808::2003 s.ytimg.com #ytstatic.l.google.com
 

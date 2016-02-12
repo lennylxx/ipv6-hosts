@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Wed, 03 Feb 2016 22:35:17 +0800                  |
+## |         Update : Sat, 13 Feb 2016 00:12:50 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -2636,6 +2636,8 @@
 2404:6800:4005:808::2003 ru.youtube.com #youtube-ui.l.google.com
 2404:6800:4005:808::2003 uk.youtube.com #youtube-ui.l.google.com
 2404:6800:4005:808::2003 tw.youtube.com #youtube-ui.l.google.com
+2404:6800:4005:808::2003 gaming.youtube.com #youtube-ui.l.google.com
+2404:6800:4005:808::2003 music.youtube.com #youtube-ui.l.google.com
 2404:6800:4005:808::2003 ads.youtube.com #www3.l.google.com
 2404:6800:4005:808::2003 www.youtube-nocookie.com #youtube-ui.l.google.com
 2404:6800:4005:808::2003 m.youtube.com
@@ -2658,7 +2660,7 @@
 2404:6800:4005:808::2003 i2.ytimg.com #ytimg.l.google.com
 2404:6800:4005:808::2003 i3.ytimg.com #ytimg.l.google.com
 2404:6800:4005:808::2003 i4.ytimg.com #ytimg.l.google.com
-2404:6800:4003:c01::8b s.ytimg.com #ytstatic.l.google.com
+2404:6800:4005:808::2003 s.ytimg.com #ytstatic.l.google.com
 
 ## Google Video
 2404:6800:4003:c00::8b video.google.com #video.l.google.com
@@ -2677,7 +2679,8 @@
 2404:6800:4005:808::2003 manifest.googlevideo.com
 
 ## c.youtube.com和googlevideo.com指向的IP相同
-2404:6800:4001:806::200e redirector.googlevideo.com
+2404:6800:4005:808::2003 redirector.googlevideo.com
+2404:6800:4005:808::2003 redirector.gvt1.com
 
 ## 公开视频 bandaid-redirector.l.google.com
 2404:6800:4005:808::2003 v1.lscache1.googlevideo.com

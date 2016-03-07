@@ -918,6 +918,7 @@
 2404:6800:4003:c01::5f mts2.googleapis.com #googleapis.l.google.com
 2404:6800:4003:c02::5f mts3.googleapis.com #googleapis.l.google.com
 2404:6800:4005:809::200a beyond-pa.clients6.google.com
+2404:6800:4008:c05::ef datasaver.googleapis.com
 
 ## Google Hosted 托管服务
 2404:6800:4005:800::2010 storage.googleapis.com #storage.l.googleusercontent.com
@@ -1061,6 +1062,7 @@
 #2404:6800:4008:c00::79 try.dartlang.org #ghs.l.google.com
 2404:6800:4003:c00::79 news.dartlang.org #ghs.google.com
 2404:6800:4005:808::2003 santatracker.google.com #www3.l.google.com
+2404:6800:4005:800::2000 posts.google.com
 
 ## l.google.com
 2404:6800:4005:80a::2004 www.l.google.com

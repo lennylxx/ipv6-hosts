@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Sat, 13 Feb 2016 00:12:50 +0800                  |
+## |         Update : Fri, 25 Mar 2016 00:12:50 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -3848,6 +3848,7 @@
 2001:f90:9:6::11 r6---sn-juh-h4hs.googlevideo.com
 2001:f90:9:6::12 r7---sn-juh-h4hs.googlevideo.com
 2001:f90:9:6::13 r8---sn-juh-h4hs.googlevideo.com
+
 2001:f90:8:6::c r1---sn-juh-h4hz.googlevideo.com
 2001:f90:8:6::d r2---sn-juh-h4hz.googlevideo.com
 2001:f90:8:6::e r3---sn-juh-h4hz.googlevideo.com
@@ -4057,23 +4058,41 @@
 #2620:11a:a00c::12 r7---sn-hpjx-hn2e.googlevideo.com
 #2620:11a:a00c::13 r8---sn-hpjx-hn2e.googlevideo.com
 
-#2620:11a:a00e::c r1---sn-bvvbax-hn2e.googlevideo.com
-#2620:11a:a00e::d r2---sn-bvvbax-hn2e.googlevideo.com
-#2620:11a:a00e::e r3---sn-bvvbax-hn2e.googlevideo.com
-#2620:11a:a00e::f r4---sn-bvvbax-hn2e.googlevideo.com
-#2620:11a:a00e::10 r5---sn-bvvbax-hn2e.googlevideo.com
-#2620:11a:a00e::11 r6---sn-bvvbax-hn2e.googlevideo.com
-#2620:11a:a00e::12 r7---sn-bvvbax-hn2e.googlevideo.com
-#2620:11a:a00e::13 r8---sn-bvvbax-hn2e.googlevideo.com
+2620:11a:a014::c r1---sn-bvvbax-v8ce.googlevideo.com
+2620:11a:a014::d r2---sn-bvvbax-v8ce.googlevideo.com
+2620:11a:a014::e r3---sn-bvvbax-v8ce.googlevideo.com
+2620:11a:a014::f r4---sn-bvvbax-v8ce.googlevideo.com
+2620:11a:a014::10 r5---sn-bvvbax-v8ce.googlevideo.com
+2620:11a:a014::11 r6---sn-bvvbax-v8ce.googlevideo.com
+2620:11a:a014::12 r7---sn-bvvbax-v8ce.googlevideo.com
+2620:11a:a014::13 r8---sn-bvvbax-v8ce.googlevideo.com
 
-#2620:11a:a00e:1::c r1---sn-bvvbax-hn2l.googlevideo.com
-#2620:11a:a00e:1::d r2---sn-bvvbax-hn2l.googlevideo.com
-#2620:11a:a00e:1::e r3---sn-bvvbax-hn2l.googlevideo.com
-#2620:11a:a00e:1::f r4---sn-bvvbax-hn2l.googlevideo.com
-#2620:11a:a00e:1::10 r5---sn-bvvbax-hn2l.googlevideo.com
-#2620:11a:a00e:1::11 r6---sn-bvvbax-hn2l.googlevideo.com
-#2620:11a:a00e:1::12 r7---sn-bvvbax-hn2l.googlevideo.com
-#2620:11a:a00e:1::13 r8---sn-bvvbax-hn2l.googlevideo.com
+2620:11a:a014:1::c r1---sn-bvvbax-v8cl.googlevideo.com
+2620:11a:a014:1::d r2---sn-bvvbax-v8cl.googlevideo.com
+2620:11a:a014:1::e r3---sn-bvvbax-v8cl.googlevideo.com
+2620:11a:a014:1::f r4---sn-bvvbax-v8cl.googlevideo.com
+2620:11a:a014:1::10 r5---sn-bvvbax-v8cl.googlevideo.com
+2620:11a:a014:1::11 r6---sn-bvvbax-v8cl.googlevideo.com
+2620:11a:a014:1::12 r7---sn-bvvbax-v8cl.googlevideo.com
+2620:11a:a014:1::13 r8---sn-bvvbax-v8cl.googlevideo.com
+
+2620:11a:a014:2::c r1---sn-bvvbax-v8cs.googlevideo.com
+2620:11a:a014:2::d r2---sn-bvvbax-v8cs.googlevideo.com
+2620:11a:a014:2::e r3---sn-bvvbax-v8cs.googlevideo.com
+2620:11a:a014:2::f r4---sn-bvvbax-v8cs.googlevideo.com
+2620:11a:a014:2::10 r5---sn-bvvbax-v8cs.googlevideo.com
+2620:11a:a014:2::11 r6---sn-bvvbax-v8cs.googlevideo.com
+2620:11a:a014:2::12 r7---sn-bvvbax-v8cs.googlevideo.com
+2620:11a:a014:2::13 r8---sn-bvvbax-v8cs.googlevideo.com
+
+2620:11a:a014:3::c r1---sn-bvvbax-v8cz.googlevideo.com
+2620:11a:a014:3::d r2---sn-bvvbax-v8cz.googlevideo.com
+2620:11a:a014:3::e r3---sn-bvvbax-v8cz.googlevideo.com
+2620:11a:a014:3::f r4---sn-bvvbax-v8cz.googlevideo.com
+2620:11a:a014:3::10 r5---sn-bvvbax-v8cz.googlevideo.com
+2620:11a:a014:3::11 r6---sn-bvvbax-v8cz.googlevideo.com
+2620:11a:a014:3::12 r7---sn-bvvbax-v8cz.googlevideo.com
+2620:11a:a014:3::13 r8---sn-bvvbax-v8cz.googlevideo.com
 
 #2806:10a0:cfff:3::c r1---sn-0opoxu-2cjd.googlevideo.com
 #2806:10a0:cfff:3::d r2---sn-0opoxu-2cjd.googlevideo.com
@@ -4102,10 +4121,32 @@
 2a00:ff0:1234:2::d r2---sn-pouxga5o-vu2l.googlevideo.com
 2a00:ff0:1234:2::e r3---sn-pouxga5o-vu2l.googlevideo.com
 
-#2a00:1e48:1:b::c r1---sn-ug5onuxaxjvh-v8ce.googlevideo.com
-#2a00:1e48:1:b::d r2---sn-ug5onuxaxjvh-v8ce.googlevideo.com
-#2a00:1e48:1:b::e r3---sn-ug5onuxaxjvh-v8ce.googlevideo.com
-#2a00:1e48:1:b::f r4---sn-ug5onuxaxjvh-v8ce.googlevideo.com
+2a00:1e48:99:15::c r1---sn-ug5onuxaxjvh-n8vs.googlevideo.com
+2a00:1e48:99:15::d r2---sn-ug5onuxaxjvh-n8vs.googlevideo.com
+2a00:1e48:99:15::e r3---sn-ug5onuxaxjvh-n8vs.googlevideo.com
+2a00:1e48:99:15::f r4---sn-ug5onuxaxjvh-n8vs.googlevideo.com
+2a00:1e48:99:15::10 r5---sn-ug5onuxaxjvh-n8vs.googlevideo.com
+2a00:1e48:99:15::11 r6---sn-ug5onuxaxjvh-n8vs.googlevideo.com
+2a00:1e48:99:15::12 r7---sn-ug5onuxaxjvh-n8vs.googlevideo.com
+2a00:1e48:99:15::13 r8---sn-ug5onuxaxjvh-n8vs.googlevideo.com
+
+2a00:1e48:99:16::c r1---sn-ug5onuxaxjvh-n8vz.googlevideo.com
+2a00:1e48:99:16::d r2---sn-ug5onuxaxjvh-n8vz.googlevideo.com
+2a00:1e48:99:16::e r3---sn-ug5onuxaxjvh-n8vz.googlevideo.com
+2a00:1e48:99:16::f r4---sn-ug5onuxaxjvh-n8vz.googlevideo.com
+2a00:1e48:99:16::10 r5---sn-ug5onuxaxjvh-n8vz.googlevideo.com
+2a00:1e48:99:16::11 r6---sn-ug5onuxaxjvh-n8vz.googlevideo.com
+2a00:1e48:99:16::12 r7---sn-ug5onuxaxjvh-n8vz.googlevideo.com
+2a00:1e48:99:16::13 r8---sn-ug5onuxaxjvh-n8vz.googlevideo.com
+
+2a00:1e48:99:17::c r1---sn-ug5onuxaxjvh-n8v6.googlevideo.com
+2a00:1e48:99:17::d r2---sn-ug5onuxaxjvh-n8v6.googlevideo.com
+2a00:1e48:99:17::e r3---sn-ug5onuxaxjvh-n8v6.googlevideo.com
+2a00:1e48:99:17::f r4---sn-ug5onuxaxjvh-n8v6.googlevideo.com
+2a00:1e48:99:17::10 r5---sn-ug5onuxaxjvh-n8v6.googlevideo.com
+2a00:1e48:99:17::11 r6---sn-ug5onuxaxjvh-n8v6.googlevideo.com
+2a00:1e48:99:17::12 r7---sn-ug5onuxaxjvh-n8v6.googlevideo.com
+2a00:1e48:99:17::13 r8---sn-ug5onuxaxjvh-n8v6.googlevideo.com
 
 2001:4860:4001:1::6 r1---sn-nwj7kner.googlevideo.com
 2001:4860:4001:1::7 r2---sn-nwj7kner.googlevideo.com

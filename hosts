@@ -895,28 +895,29 @@
 2404:6800:4005:808::2003 chart.apis.google.com #clients.l.google.com
 2404:6800:4005:809::2004 googleapis.com
 2404:6800:4003:809::200a www.googleapis.com #googleapis.l.google.com
-2404:6800:4003:c00::5f *.googleapis.com #googleapis.l.google.com
-2404:6800:4003:c00::5f ajax.googleapis.com #googleapis.l.google.com
-2404:6800:4003:c00::5f android.googleapis.com #googleapis.l.google.com
-2404:6800:4003:c00::5f bigcache.googleapis.com #googleapis.l.google.com
-2404:6800:4003:c01::5f chart.googleapis.com #googleapis.l.google.com
-2404:6800:4003:c02::5f content.googleapis.com #googleapis.l.google.com
-2404:6800:4003:c00::5f fonts.googleapis.com #googleapis.l.google.com
-2404:6800:4003:c00::5f maps.googleapis.com #googleapis.l.google.com
-2404:6800:4003:c01::5f play.googleapis.com #googleapis.l.google.com
-2404:6800:4003:c00::5f plus.googleapis.com #googleapis.l.google.com
-2404:6800:4003:c02::5f redirector-bigcache.googleapis.com #googleapis.l.google.com
-2404:6800:4003:c01::5f translate.googleapis.com #googleapis.l.google.com
-2404:6800:4003:c02::5f youtube.googleapis.com #googleapis.l.google.com
+2404:6800:4005:802::200a *.googleapis.com #googleapis.l.google.com
+2404:6800:4005:802::200a ajax.googleapis.com #googleapis.l.google.com
+2404:6800:4005:802::200a android.googleapis.com #googleapis.l.google.com
+2404:6800:4005:802::200a bigcache.googleapis.com #googleapis.l.google.com
+2404:6800:4005:803::200a chart.googleapis.com #googleapis.l.google.com
+2404:6800:4005:804::200a content.googleapis.com #googleapis.l.google.com
+2404:6800:4005:802::200a fonts.googleapis.com #googleapis.l.google.com
+2404:6800:4005:802::200a maps.googleapis.com #googleapis.l.google.com
+2404:6800:4005:803::200a play.googleapis.com #googleapis.l.google.com
+2404:6800:4005:802::200a plus.googleapis.com #googleapis.l.google.com
+2404:6800:4005:804::200a redirector-bigcache.googleapis.com #googleapis.l.google.com
+2404:6800:4005:803::200a translate.googleapis.com #googleapis.l.google.com
+2404:6800:4005:804::200a youtube.googleapis.com #googleapis.l.google.com
 #2404:6800:4008:c00::5f googleapis-ajax.google.com
 2404:6800:4005:808::2003 mt0.googleapis.com #mt.l.google.com
 2404:6800:4005:808::2003 mt1.googleapis.com #mt.l.google.com
 2404:6800:4005:808::2003 mt2.googleapis.com #mt.l.google.com
 2404:6800:4005:808::2003 mt3.googleapis.com #mt.l.google.com
-2404:6800:4003:c00::5f mts0.googleapis.com #googleapis.l.google.com
+2404:6800:4005:802::200a mts0.googleapis.com #googleapis.l.google.com
 2404:6800:4003:804::200a mts1.googleapis.com #googleapis.l.google.com
-2404:6800:4003:c01::5f mts2.googleapis.com #googleapis.l.google.com
-2404:6800:4003:c02::5f mts3.googleapis.com #googleapis.l.google.com
+2404:6800:4005:803::200a mts2.googleapis.com #googleapis.l.google.com
+2404:6800:4005:804::200a mts3.googleapis.com #googleapis.l.google.com
+2404:6800:4005:804::200a ct.googleapis.com #googleapis.l.google.com
 2404:6800:4005:809::200a beyond-pa.clients6.google.com
 2404:6800:4008:c05::ef datasaver.googleapis.com
 
@@ -1062,6 +1063,8 @@
 #2404:6800:4008:c00::79 try.dartlang.org #ghs.l.google.com
 2404:6800:4003:c00::79 news.dartlang.org #ghs.google.com
 2404:6800:4005:808::2003 santatracker.google.com #www3.l.google.com
+2404:6800:4005:800::2000 certificate-transparency.org
+2404:6800:4005:800::2000 www.certificate-transparency.org
 2404:6800:4005:800::2000 posts.google.com
 
 ## l.google.com
@@ -1108,7 +1111,7 @@
 2404:6800:4003:c01::79 ghs.l.google.com
 2404:6800:4003:c01::79 ghs46.l.google.com
 2404:6800:4003:c00::e gmr-smtp-in.l.google.com
-2404:6800:4003:c01::5f googleapis.l.google.com
+2404:6800:4005:803::200a googleapis.l.google.com
 #2404:6800:4008:c00::5f googleapis-ajax.l.google.com
 2404:6800:4003:c01::52 googlecode.l.google.com
 2404:6800:4003:c01::84 googlehosted.l.google.com

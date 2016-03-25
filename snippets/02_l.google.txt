@@ -42,7 +42,7 @@
 2404:6800:4003:c01::79 ghs.l.google.com
 2404:6800:4003:c01::79 ghs46.l.google.com
 2404:6800:4003:c00::e gmr-smtp-in.l.google.com
-2404:6800:4003:c01::5f googleapis.l.google.com
+2404:6800:4005:803::200a googleapis.l.google.com
 #2404:6800:4008:c00::5f googleapis-ajax.l.google.com
 2404:6800:4003:c01::52 googlecode.l.google.com
 2404:6800:4003:c01::84 googlehosted.l.google.com

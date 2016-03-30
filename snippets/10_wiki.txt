@@ -11,7 +11,7 @@
 #2620:0:862:1:209:3dff:fe10:d5d2 mayflower.esams.wikimedia.org
 #2620:0:862:1:6666:6666:6666:6666 ipv6and4.labs.wikimedia.org
 
-2620:0:861:1::2 lists.wikimedia.org
+2620:0:861:3::2 lists.wikimedia.org
 2620:0:863:ed1a::1 wikimedia.org
 2620:0:863:ed1a::1 wikimediafoundation.org
 2620:0:863:ed1a::1 www.mediawiki.org

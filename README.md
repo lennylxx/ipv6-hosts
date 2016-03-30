@@ -47,7 +47,7 @@ Some Public DNS Servers
 | IPv6     | 2001:470:20::2         | 2001:470:0:9d::2       | 
 | IPv4     | 74.82.42.42            | 66.220.18.42           |
 | ISP      | Hurricane Electric Inc.| Hurricane Electric Inc.|
-| City     | Fremont                | Fremont                |
+| City     | Anycast                | Los Angeles            |
 
 
 |          |      Hong Kong         |       Japan        |

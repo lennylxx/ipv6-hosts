@@ -12,7 +12,7 @@
 2404:6800:4005:808::2003 google.com
 2404:6800:4005:809::2004 www.google.com
 2404:6800:4005:808::2003 aboutme.google.com #plus.l.google.com
-2404:6800:4008:c03::54 accounts.google.com #accounts.l.google.com
+2404:6800:4005:801::200d accounts.google.com #accounts.l.google.com
 2404:6800:4008:808::2003 admin.google.com
 2404:6800:4005:808::2003 bpui0.google.com #www3.l.google.com
 2404:6800:4005:808::2003 clients1.google.com #clients.l.google.com
@@ -29,12 +29,13 @@
 2404:6800:4005:808::2003 encrypted-tbn1.google.com #encrypted-tbn.l.google.com
 2404:6800:4005:808::2003 encrypted-tbn2.google.com #encrypted-tbn.l.google.com
 2404:6800:4005:808::2003 encrypted-tbn3.google.com #encrypted-tbn.l.google.com
+2404:6800:4005:808::2003 events.google.com
 2404:6800:4005:808::2003 fi.google.com #www3.l.google.com
 2404:6800:4005:808::2003 get.google.com
 2404:6800:4005:808::2003 goto.google.com #www3.l.google.com
 2404:6800:4005:808::2003 gxc.google.com #www3.l.google.com
 2404:6800:4005:808::2003 hangouts.google.com #www3.l.google.com
-2404:6800:4003:c02::8b history.google.com #history.l.google.com
+2404:6800:4008:c04::71 history.google.com #history.l.google.com
 2404:6800:4005:808::2003 investor.google.com #www3.l.google.com
 2404:6800:4005:808::2003 ipv6.google.com #ipv6.l.google.com
 2404:6800:4005:808::2003 jmt0.google.com #www3.l.google.com
@@ -49,51 +50,53 @@
 2404:6800:4005:808::2003 peering.google.com #www3.l.google.com
 2404:6800:4005:808::2003 pixel.google.com
 2404:6800:4005:808::2003 pki.google.com #www3.l.google.com
+2404:6800:4005:808::2003 posts.google.com #www3.l.google.com
 2404:6800:4005:808::2003 privacy.google.com
 2404:6800:4005:808::2003 security.google.com #www3.l.google.com
 2404:6800:4005:808::2003 services.google.com #www3.l.google.com
+2404:6800:4005:808::2003 santatracker.google.com #www3.l.google.com
 2404:6800:4005:808::2003 store.google.com
 2404:6800:4005:808::2003 suggestqueries.google.com #suggestqueries.l.google.com
-2404:6800:4003:c00::c0 supl.google.com
+2404:6800:4008:c04::c0 supl.google.com
 2404:6800:4005:808::2003 support.google.com #www3.l.google.com
 2404:6800:4005:80a::200f upload.google.com #large-uploads.l.google.com
 2404:6800:4005:808::2003 client-channel.google.com
-2404:6800:4003:c00::bd 0.client-channel.google.com
-2404:6800:4003:c02::bd 1.client-channel.google.com
-2404:6800:4003:c00::bd 2.client-channel.google.com
-2404:6800:4003:c00::bd 3.client-channel.google.com
-2404:6800:4003:c02::bd 4.client-channel.google.com
-2404:6800:4003:c02::bd 5.client-channel.google.com
-2404:6800:4003:c00::bd 6.client-channel.google.com
-2404:6800:4003:c00::bd 7.client-channel.google.com
-2404:6800:4003:c02::bd 8.client-channel.google.com
-2404:6800:4003:c00::bd 9.client-channel.google.com
-2404:6800:4003:c00::bd 10.client-channel.google.com
-2404:6800:4003:c00::bd 11.client-channel.google.com
-2404:6800:4003:c02::bd 12.client-channel.google.com
-2404:6800:4003:c01::bd 13.client-channel.google.com
-2404:6800:4003:c00::bd 14.client-channel.google.com
-2404:6800:4003:c00::bd 15.client-channel.google.com
-2404:6800:4003:c00::bd 16.client-channel.google.com
-2404:6800:4003:c00::bd 17.client-channel.google.com
-2404:6800:4003:c00::bd 18.client-channel.google.com
-2404:6800:4003:c01::bd 19.client-channel.google.com
-2404:6800:4003:c00::bd 20.client-channel.google.com
-2404:6800:4003:c00::bd 21.client-channel.google.com
-2404:6800:4003:c00::bd 22.client-channel.google.com
-2404:6800:4003:c01::bd 23.client-channel.google.com
-2404:6800:4003:c00::bd 24.client-channel.google.com
-2404:6800:4003:c00::bd 25.client-channel.google.com
-2404:6800:4003:c00::bd 26.client-channel.google.com
-2404:6800:4003:c00::bd 27.client-channel.google.com
-2404:6800:4003:c00::bd 28.client-channel.google.com
-2404:6800:4003:c00::bd 29.client-channel.google.com
-2404:6800:4001:801::101e googletagmanager.com
-2404:6800:4001:806::2008 www.googletagmanager.com #www-googletagmanager.l.google.com
+2404:6800:4008:c04::bd 0.client-channel.google.com
+2404:6800:4008:c04::bd 1.client-channel.google.com
+2404:6800:4008:c04::bd 2.client-channel.google.com
+2404:6800:4008:c04::bd 3.client-channel.google.com
+2404:6800:4008:c04::bd 4.client-channel.google.com
+2404:6800:4008:c04::bd 5.client-channel.google.com
+2404:6800:4008:c04::bd 6.client-channel.google.com
+2404:6800:4008:c04::bd 7.client-channel.google.com
+2404:6800:4008:c04::bd 8.client-channel.google.com
+2404:6800:4008:c04::bd 9.client-channel.google.com
+2404:6800:4008:c04::bd 10.client-channel.google.com
+2404:6800:4008:c04::bd 11.client-channel.google.com
+2404:6800:4008:c04::bd 12.client-channel.google.com
+2404:6800:4008:c04::bd 13.client-channel.google.com
+2404:6800:4008:c04::bd 14.client-channel.google.com
+2404:6800:4008:c04::bd 15.client-channel.google.com
+2404:6800:4008:c04::bd 16.client-channel.google.com
+2404:6800:4008:c04::bd 17.client-channel.google.com
+2404:6800:4008:c04::bd 18.client-channel.google.com
+2404:6800:4008:c04::bd 19.client-channel.google.com
+2404:6800:4008:c04::bd 20.client-channel.google.com
+2404:6800:4008:c04::bd 21.client-channel.google.com
+2404:6800:4008:c04::bd 22.client-channel.google.com
+2404:6800:4008:c04::bd 23.client-channel.google.com
+2404:6800:4008:c04::bd 24.client-channel.google.com
+2404:6800:4008:c04::bd 25.client-channel.google.com
+2404:6800:4008:c04::bd 26.client-channel.google.com
+2404:6800:4008:c04::bd 27.client-channel.google.com
+2404:6800:4008:c04::bd 28.client-channel.google.com
+2404:6800:4008:c04::bd 29.client-channel.google.com
+2404:6800:4005:801::2008 googletagmanager.com
+2404:6800:4005:801::2008 www.googletagmanager.com #www-googletagmanager.l.google.com
 
 ## 谷歌香港
 2404:6800:4005:808::2003 google.com.hk
-2404:6800:4003:c02::c7 www.google.com.hk #www-wide.l.google.com
+2404:6800:4008:c04::5e www.google.com.hk
 2404:6800:4005:808::2003 accounts.google.com.hk #accounts-cctld.l.google.com
 2404:6800:4005:809::2003 clients1.google.com.hk #clients-cctld.l.google.com
 #2404:6800:4008:c00::63 desktop.google.com.hk #desktop.l.google.com
@@ -397,10 +400,11 @@
 
 ## Developers 开发者
 2404:6800:4005:808::2003 cloud.google.com #www3.l.google.com
+2404:6800:4005:808::2003 storage.cloud.google.com #www3.l.google.com
 2404:6800:4005:808::2003 developers.google.com #www3.l.google.com
 2404:6800:4005:808::2003 cloudssh.developers.google.com #www3.l.google.com
 2404:6800:4005:808::2003 console.developers.google.com
-2404:6800:4003:c02::52 source.developers.google.com
+2404:6800:4008:c04::52 source.developers.google.com
 
 ## Directory 网页目录
 2404:6800:4005:808::2003 directory.google.com #www3.l.google.com
@@ -423,42 +427,42 @@
 2404:6800:4005:808::2003 writely.google.com #www3.l.google.com
 2404:6800:4005:808::200f upload.docs.google.com #large-uploads.l.google.com
 2404:6800:4005:80a::200f upload.drive.google.com #large-uploads.l.google.com
-2404:6800:4003:c00::bd *.docs.google.com #browserchannel-docs.l.google.com
-2404:6800:4003:c00::bd *.drive.google.com #browserchannel-docs.l.google.com
-2404:6800:4003:c02::bd 0.docs.google.com #browserchannel-docs.l.google.com
-2404:6800:4003:c00::bd 1.docs.google.com #browserchannel-docs.l.google.com
-2404:6800:4003:c00::bd 2.docs.google.com #browserchannel-docs.l.google.com
-2404:6800:4003:c00::bd 3.docs.google.com #browserchannel-docs.l.google.com
-2404:6800:4003:c00::bd 4.docs.google.com #browserchannel-docs.l.google.com
-2404:6800:4003:c01::bd 5.docs.google.com #browserchannel-docs.l.google.com
-2404:6800:4003:c01::bd 6.docs.google.com #browserchannel-docs.l.google.com
-2404:6800:4003:c00::bd 7.docs.google.com #browserchannel-docs.l.google.com
-2404:6800:4003:c00::bd 8.docs.google.com #browserchannel-docs.l.google.com
-2404:6800:4003:c00::bd 9.docs.google.com #browserchannel-docs.l.google.com
-2404:6800:4003:c01::bd 10.docs.google.com #browserchannel-docs.l.google.com
-2404:6800:4003:c01::bd 11.docs.google.com #browserchannel-docs.l.google.com
-2404:6800:4003:c00::bd 12.docs.google.com #browserchannel-docs.l.google.com
-2404:6800:4003:c00::bd 13.docs.google.com #browserchannel-docs.l.google.com
-2404:6800:4003:c01::bd 14.docs.google.com #browserchannel-docs.l.google.com
-2404:6800:4003:c00::bd 15.docs.google.com #browserchannel-docs.l.google.com
-2404:6800:4003:c02::bd 16.docs.google.com #browserchannel-docs.l.google.com
-2404:6800:4003:c01::bd 0.drive.google.com #browserchannel-docs.l.google.com
-2404:6800:4003:c00::bd 1.drive.google.com #browserchannel-docs.l.google.com
-2404:6800:4003:c01::bd 2.drive.google.com #browserchannel-docs.l.google.com
-2404:6800:4003:c00::bd 3.drive.google.com #browserchannel-docs.l.google.com
-2404:6800:4003:c02::bd 4.drive.google.com #browserchannel-docs.l.google.com
-2404:6800:4003:c01::bd 5.drive.google.com #browserchannel-docs.l.google.com
-2404:6800:4003:c01::bd 6.drive.google.com #browserchannel-docs.l.google.com
-2404:6800:4003:c02::bd 7.drive.google.com #browserchannel-docs.l.google.com
-2404:6800:4003:c02::bd 8.drive.google.com #browserchannel-docs.l.google.com
-2404:6800:4003:c00::bd 9.drive.google.com #browserchannel-docs.l.google.com
-2404:6800:4003:c00::bd 10.drive.google.com #browserchannel-docs.l.google.com
-2404:6800:4003:c02::bd 11.drive.google.com #browserchannel-docs.l.google.com
-2404:6800:4003:c02::bd 12.drive.google.com #browserchannel-docs.l.google.com
-2404:6800:4003:c02::bd 13.drive.google.com #browserchannel-docs.l.google.com
-2404:6800:4003:c00::bd 14.drive.google.com #browserchannel-docs.l.google.com
-2404:6800:4003:c02::bd 15.drive.google.com #browserchannel-docs.l.google.com
-2404:6800:4003:c00::bd 16.drive.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c04::bd *.docs.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c04::bd *.drive.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c04::bd 0.docs.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c04::bd 1.docs.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c04::bd 2.docs.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c04::bd 3.docs.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c04::bd 4.docs.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c04::bd 5.docs.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c04::bd 6.docs.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c04::bd 7.docs.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c04::bd 8.docs.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c04::bd 9.docs.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c04::bd 10.docs.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c04::bd 11.docs.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c04::bd 12.docs.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c04::bd 13.docs.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c04::bd 14.docs.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c04::bd 15.docs.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c04::bd 16.docs.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c04::bd 0.drive.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c04::bd 1.drive.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c04::bd 2.drive.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c04::bd 3.drive.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c04::bd 4.drive.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c04::bd 5.drive.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c04::bd 6.drive.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c04::bd 7.drive.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c04::bd 8.drive.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c04::bd 9.drive.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c04::bd 10.drive.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c04::bd 11.drive.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c04::bd 12.drive.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c04::bd 13.drive.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c04::bd 14.drive.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c04::bd 15.drive.google.com #browserchannel-docs.l.google.com
+2404:6800:4008:c04::bd 16.drive.google.com #browserchannel-docs.l.google.com
 2404:6800:4005:808::2003 script.google.com #www3.l.google.com
 2404:6800:4005:808::2003 sheets.google.com #www3.l.google.com
 2404:6800:4005:808::2003 slides.google.com #www3.l.google.com
@@ -518,6 +522,7 @@
 2404:6800:4005:809::2005 mail.google.com #googlemail.l.google.com
 2404:6800:4005:809::2007 chatenabled.mail.google.com #b.googlemail.l.google.com
 2404:6800:4005:808::2007 filetransferenabled.mail.google.com #b.googlemail.l.google.com
+2404:6800:4005:808::2007 mail-settings.google.com #b.googlemail.l.google.com
 #2404:6800:4008:c00::62 talk.gmail.com #Gmail中Gtalk聊天服务
 2404:6800:4005:808::2003 gmail.google.com #www3.l.google.com
 2404:6800:4005:80a::2005 www.gmail.com #mail.google.com
@@ -843,6 +848,7 @@
 2404:6800:4005:809::2001 gp6.googleusercontent.com #photos-ugc.l.googleusercontent.com
 
 ## GStatic Google 静态文件存储
+2404:6800:4005:809::2003 gstatic.com
 2404:6800:4005:808::2003 accounts.gstatic.com
 2404:6800:4008:c04::5e csi.gstatic.com #csi-china.l.google.com
 2404:6800:4005:809::2003 fonts.gstatic.com
@@ -911,11 +917,11 @@
 2404:6800:4005:800::2010 chromium-browser-symbols.commondatastorage.googleapis.com #storage.l.googleusercontent.com
 2404:6800:4005:800::2010 c.commondatastorage.googleapis.com #storage.l.googleusercontent.com
 2404:6800:4003:c00::84 www.googlehosted.com #googlehosted.l.googleusercontent.com
-2404:6800:4003:c00::93 base.googlehosted.com #www2.l.google.com
-2404:6800:4003:c01::93 base0.googlehosted.com #www2.l.google.com
-2404:6800:4003:c00::67 base1.googlehosted.com #www2.l.google.com
-2404:6800:4003:c00::63 base2.googlehosted.com #www2.l.google.com
-2404:6800:4003:c00::6a base3.googlehosted.com #www2.l.google.com
+2404:6800:4008:c02::68 base.googlehosted.com #www2.l.google.com
+2404:6800:4008:c02::68 base0.googlehosted.com #www2.l.google.com
+2404:6800:4008:c02::68 base1.googlehosted.com #www2.l.google.com
+2404:6800:4008:c02::68 base2.googlehosted.com #www2.l.google.com
+2404:6800:4008:c02::68 base3.googlehosted.com #www2.l.google.com
 2404:6800:4003:c01::84 base4.googlehosted.com #googlehosted.l.googleusercontent.com
 2404:6800:4003:c02::84 base5.googlehosted.com #googlehosted.l.googleusercontent.com
 
@@ -1026,7 +1032,7 @@
 #2404:6800:4008:c00::63 ipv4.google.com #ipv4.l.google.com
 2404:6800:4005:80b::2004 ds.ipv6test.google.com #ds.ipv6test.l.google.com
 2404:6800:4005:80a::2004 i2.ds.ipv6-exp.l.google.com
-2607:f8b0:400e:c01::97 chrome.googleechotest.com #chromeecho.l.google.com
+#2607:f8b0:400e:c01::97 chrome.googleechotest.com #chromeecho.l.google.com
 
 ## 其他专题站
 2404:6800:4003:c00::79 www.creativelab5.com #ghs.google.com
@@ -1045,7 +1051,5 @@
 #2404:6800:4008:c00::79 www.dartlang.org #ghs.l.google.com
 #2404:6800:4008:c00::79 try.dartlang.org #ghs.l.google.com
 2404:6800:4003:c00::79 news.dartlang.org #ghs.google.com
-2404:6800:4005:808::2003 santatracker.google.com #www3.l.google.com
-2404:6800:4005:800::2000 certificate-transparency.org
-2404:6800:4005:800::2000 www.certificate-transparency.org
-2404:6800:4005:800::2000 posts.google.com
+2404:6800:4005:808::2003 certificate-transparency.org
+2404:6800:4005:808::2003 www.certificate-transparency.org

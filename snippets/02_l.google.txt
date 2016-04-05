@@ -26,7 +26,7 @@
 #2404:6800:4008:c00::73 checkout.l.google.com
 2607:f8b0:400e:c01::97 chromeecho.l.google.com
 2404:6800:4005:808::2003 clients.l.google.com #clients-china.l.google.com
-2404:6800:4005:809::2003 clients-cctld.l.google.com
+2404:6800:4005:804::2003 clients-cctld.l.google.com
 2a00:1450:4016:802::1017 csi.l.google.com
 #2404:6800:4008:c00::68 desktop.l.google.com
 2404:6800:4008:c04::5d dl.l.google.com
@@ -95,15 +95,15 @@
 #2404:6800:4008:c00::66 sketchup.l.google.com
 2404:6800:4005:808::2003 spreadsheets.l.google.com #spreadsheets-china.l.google.com
 2404:6800:4005:808::2003 spreadsheets-china.l.google.com
-2404:6800:4005:809::200f sslvideo-upload.l.google.com
+2404:6800:4005:804::200f sslvideo-upload.l.google.com
 2404:6800:4001:803::101e ssl-google-analytics.l.google.com
 2607:f8b0:4005:400::17 static.cache.l.google.com
 2404:6800:4005:808::2003 suggestqueries.l.google.com
-2404:6800:4005:809::2004 tbn.l.google.com
+2404:6800:4005:804::2004 tbn.l.google.com
 #2607:f8b0:400e:c04::7d talk.l.google.com
 2404:6800:4005:808::2003 talkgadget.l.google.com
 2404:6800:4008:c01::7d talkx.l.google.com #alt1.talk.l.google.com
-2404:6800:4005:809::2004 toolbarqueries.l.google.com
+2404:6800:4005:804::2004 toolbarqueries.l.google.com
 2404:6800:4003:808::1001 tools.l.google.com #tools-china.l.google.com
 2404:6800:4003:c00::71 video.l.google.com #video-china.l.google.com
 2404:6800:4003:809::200e video-stats.l.google.com

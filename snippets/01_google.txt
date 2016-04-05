@@ -10,7 +10,7 @@
 2001:4860:4802:32::1d nic.google
 
 2404:6800:4005:808::2003 google.com
-2404:6800:4005:809::2004 www.google.com
+2404:6800:4005:804::2004 www.google.com
 2404:6800:4005:808::2003 aboutme.google.com #plus.l.google.com
 2404:6800:4005:801::200d accounts.google.com #accounts.l.google.com
 2404:6800:4008:808::2003 admin.google.com
@@ -42,7 +42,7 @@
 2404:6800:4005:808::2003 keep.google.com #www3.l.google.com
 2404:6800:4005:808::2003 linkhelp.clients.google.com #clients.l.google.com
 2404:6800:4005:808::2003 upload.clients.google.com #clients.l.google.com
-2404:6800:4005:809::200b m.google.com #mobile.l.google.com
+2404:6800:4005:804::200b m.google.com #mobile.l.google.com
 2404:6800:4005:808::200b mobile.google.com #mobile.l.google.com
 2404:6800:4005:808::2003 myaccount.google.com #www3.l.google.com
 2404:6800:4005:808::2003 on.google.com #www3.l.google.com
@@ -98,7 +98,7 @@
 2404:6800:4005:808::2003 google.com.hk
 2404:6800:4008:c04::5e www.google.com.hk
 2404:6800:4005:808::2003 accounts.google.com.hk #accounts-cctld.l.google.com
-2404:6800:4005:809::2003 clients1.google.com.hk #clients-cctld.l.google.com
+2404:6800:4005:804::2003 clients1.google.com.hk #clients-cctld.l.google.com
 #2404:6800:4008:c00::63 desktop.google.com.hk #desktop.l.google.com
 2404:6800:4005:80a::200b m.google.com.hk #m.google.com
 2404:6800:4005:808::2003 gxc.google.com.hk #www3.l.google.com
@@ -121,12 +121,12 @@
 2404:6800:4005:800::2003 265.com
 
 ## Google 台湾
-2404:6800:4005:809::2003 www.google.com.tw
+2404:6800:4005:804::2003 www.google.com.tw
 2404:6800:4005:808::2003 clients1.google.com.tw #clients-cctld.l.google.com
 2404:6800:4005:808::2003 picasaweb.google.com.tw #picasaweb.google.com
 
 ## Google 日本
-2404:6800:4005:809::2003 www.google.co.jp
+2404:6800:4005:804::2003 www.google.co.jp
 2404:6800:4005:808::2003 ipv6.google.co.jp #ipv6.google.com
 
 ## 其他
@@ -135,35 +135,35 @@
 2404:6800:4005:80a::2003 www.google.at
 2404:6800:4005:808::2003 www.google.com.au
 2404:6800:4005:80a::2003 www.google.be
-2404:6800:4005:809::2003 www.google.com.br
+2404:6800:4005:804::2003 www.google.com.br
 2404:6800:4005:80b::2003 www.google.ca
 2404:6800:4005:80a::2003 www.google.ch
-2404:6800:4005:809::2003 www.google.fi
-2404:6800:4005:809::2003 www.google.fr
-2404:6800:4005:809::2003 www.google.de
-2404:6800:4005:809::2003 www.google.com.gr
+2404:6800:4005:804::2003 www.google.fi
+2404:6800:4005:804::2003 www.google.fr
+2404:6800:4005:804::2003 www.google.de
+2404:6800:4005:804::2003 www.google.com.gr
 2404:6800:4005:80b::2003 www.google.co.il
 2404:6800:4005:80a::2003 www.google.co.in
 2404:6800:4005:80b::2003 www.google.it
 2404:6800:4005:80a::2003 www.google.co.jp
 2404:6800:4005:80b::2003 www.google.co.kr
-2404:6800:4005:809::2003 www.google.lt
+2404:6800:4005:804::2003 www.google.lt
 2404:6800:4005:808::2003 www.google.lv
 2404:6800:4005:808::2003 www.google.com.ly
 2404:6800:4005:80b::2003 www.google.com.my
 2404:6800:4005:80b::2003 www.google.nl
 2404:6800:4005:80b::2003 www.google.co.nz
 2404:6800:4005:808::2003 www.google.com.pe
-2404:6800:4005:809::2003 www.google.com.ph
-2404:6800:4005:809::2003 www.google.com.pk
+2404:6800:4005:804::2003 www.google.com.ph
+2404:6800:4005:804::2003 www.google.com.pk
 2404:6800:4005:80a::2003 www.google.pl
 2404:6800:4005:80a::2003 www.google.pt
 2404:6800:4005:808::2003 www.google.ro
-2404:6800:4005:809::2003 www.google.com.ru
-2404:6800:4005:809::2003 www.google.com.sg
+2404:6800:4005:804::2003 www.google.com.ru
+2404:6800:4005:804::2003 www.google.com.sg
 2404:6800:4005:808::2003 www.google.com.tr
-2404:6800:4005:809::2003 www.google.com.ua
-2404:6800:4005:809::2003 www.google.co.uk
+2404:6800:4005:804::2003 www.google.com.ua
+2404:6800:4005:804::2003 www.google.co.uk
 2404:6800:4005:80b::2003 www.google.co.ve
 2404:6800:4005:80b::2003 www.google.com.vn
 2404:6800:4005:80a::2003 www.google.co.za
@@ -174,7 +174,7 @@
 2404:6800:4003:c01::79 ghs46.google.com #ghs46.l.google.com
 
 ## Mashups/App Engine GAE
-2404:6800:4005:809::2004 googlemashups.com
+2404:6800:4005:804::2004 googlemashups.com
 2404:6800:4003:c01::63 www.googlemashups.com #www2.l.google.com
 2404:6800:4003:c01::93 *.googlemashups.com #www2.l.google.com
 2404:6800:4005:808::2003 appengine.google.com #www3.l.google.com
@@ -266,7 +266,7 @@
 2404:6800:4003:c00::bf draft.blogger.com #blogger.l.google.com
 2404:6800:4003:c00::bf status.blogger.com #blogger.l.google.com
 2404:6800:4003:807::1013 help.blogger.com #www2.l.google.com
-2404:6800:4005:809::2004 photos1.blogger.com #photos1.l.google.com
+2404:6800:4005:804::2004 photos1.blogger.com #photos1.l.google.com
 2404:6800:4005:808::2003 bp0.blogger.com #bloggerphotos.l.google.com
 2404:6800:4005:808::2003 bp1.blogger.com #bloggerphotos.l.google.com
 2404:6800:4005:808::2003 bp2.blogger.com #bloggerphotos.l.google.com
@@ -519,15 +519,15 @@
 2404:6800:4003:c01::63 fusion.google.com #www2.l.google.com
 
 ## Gmail 邮箱
-2404:6800:4005:809::2005 mail.google.com #googlemail.l.google.com
-2404:6800:4005:809::2007 chatenabled.mail.google.com #b.googlemail.l.google.com
+2404:6800:4005:804::2005 mail.google.com #googlemail.l.google.com
+2404:6800:4005:804::2007 chatenabled.mail.google.com #b.googlemail.l.google.com
 2404:6800:4005:808::2007 filetransferenabled.mail.google.com #b.googlemail.l.google.com
 2404:6800:4005:808::2007 mail-settings.google.com #b.googlemail.l.google.com
 #2404:6800:4008:c00::62 talk.gmail.com #Gmail中Gtalk聊天服务
 2404:6800:4005:808::2003 gmail.google.com #www3.l.google.com
 2404:6800:4005:80a::2005 www.gmail.com #mail.google.com
 2404:6800:4005:80b::2005 gmail.com
-2404:6800:4005:809::2005 m.gmail.com #mail.google.com
+2404:6800:4005:804::2005 m.gmail.com #mail.google.com
 2404:6800:4005:80b::2005 m.googlemail.com #mail.google.com
 2404:6800:4003:c00::6d pop.gmail.com #gmail-pop.l.google.com
 2404:6800:4003:c00::10 pop.googlemail.com #googlemail-pop.l.google.com
@@ -556,7 +556,7 @@
 ## Images 图片
 2404:6800:4003:c02::64 images.google.com #images.l.google.com
 2404:6800:4003:c00::8a images.google.com.hk #images.google.com
-2404:6800:4005:809::2004 tbn0.google.com #tbn.l.google.com
+2404:6800:4005:804::2004 tbn0.google.com #tbn.l.google.com
 2404:6800:4005:808::2004 tbn1.google.com #tbn.l.google.com
 2404:6800:4005:80a::2004 tbn2.google.com #tbn.l.google.com
 2404:6800:4005:80a::2004 tbn3.google.com #tbn.l.google.com
@@ -606,7 +606,7 @@
 
 ## Maps 地图
 2404:6800:4005:808::2003 maps.google.com
-2404:6800:4005:809::2003 maps.google.com.hk #maps-cctld.l.google.com
+2404:6800:4005:804::2003 maps.google.com.hk #maps-cctld.l.google.com
 2404:6800:4005:808::2003 maps.google.com.tw #maps-cctld.l.google.com
 2404:6800:4005:808::2003 local.google.com #maps.l.google.com
 2404:6800:4005:808::2003 ditu.google.com #local.google.com
@@ -642,7 +642,7 @@
 2404:6800:4005:808::2003 gg.google.com
 2404:6800:4005:808::2003 gg.google.cn
 2404:6800:4005:80a::2003 id.google.com #id.l.google.com
-2404:6800:4005:809::2003 id.google.cn #id.l.google.com
+2404:6800:4005:804::2003 id.google.cn #id.l.google.com
 2404:6800:4005:800::2003 ditu.google.cn
 2404:6800:4005:800::2003 mt.google.cn #ditu.google.cn
 2404:6800:4005:800::2003 mt0.google.cn
@@ -666,7 +666,7 @@
 ## News 资讯
 2404:6800:4005:808::2003 news.google.com #news.l.google.com
 2404:6800:4005:80a::2003 news.google.com.hk #news-cctld.l.google.com
-2404:6800:4005:809::2003 news.google.com.tw #news-cctld.l.google.com
+2404:6800:4005:804::2003 news.google.com.tw #news-cctld.l.google.com
 
 ## Orkut 网络社区
 2404:6800:4003:c00::55 www.orkut.com #orkut-fe.l.google.com
@@ -761,7 +761,7 @@
 ## Translate 翻译
 2404:6800:4005:808::2003 translate.google.com #www3.l.google.com
 2404:6800:4005:808::2003 translate.google.com.hk
-2404:6800:4005:809::2003 translate.google.com.tw
+2404:6800:4005:804::2003 translate.google.com.tw
 2404:6800:4005:800::2003 translate.google.cn #www.google.cn
 
 ## Trends 趋势
@@ -807,15 +807,15 @@
 
 ## GGPht Google 图片存储
 2404:6800:4005:80a::2001 geo0.ggpht.com
-2404:6800:4005:809::2001 geo1.ggpht.com
-2404:6800:4005:809::2001 geo2.ggpht.com
+2404:6800:4005:804::2001 geo1.ggpht.com
+2404:6800:4005:804::2001 geo2.ggpht.com
 2404:6800:4005:80a::2001 geo3.ggpht.com
 2404:6800:4005:808::2001 gm1.ggpht.com #photos-ugc.l.googleusercontent.com
-2404:6800:4005:809::2001 gm2.ggpht.com #photos-ugc.l.googleusercontent.com
-2404:6800:4005:809::2001 gm3.ggpht.com #photos-ugc.l.googleusercontent.com
+2404:6800:4005:804::2001 gm2.ggpht.com #photos-ugc.l.googleusercontent.com
+2404:6800:4005:804::2001 gm3.ggpht.com #photos-ugc.l.googleusercontent.com
 2404:6800:4005:80b::2001 gm4.ggpht.com #photos-ugc.l.googleusercontent.com
 2404:6800:4005:808::2001 lh3.ggpht.com #photos-ugc.l.googleusercontent.com
-2404:6800:4005:809::2001 lh4.ggpht.com #photos-ugc.l.googleusercontent.com
+2404:6800:4005:804::2001 lh4.ggpht.com #photos-ugc.l.googleusercontent.com
 2404:6800:4005:808::2001 lh5.ggpht.com #photos-ugc.l.googleusercontent.com
 2404:6800:4005:80b::2001 lh6.ggpht.com #photos-ugc.l.googleusercontent.com
 2404:6800:4005:80a::2001 mua3.ggpht.com #photos-ugc.l.googleusercontent.com
@@ -824,14 +824,14 @@
 2404:6800:4005:808::2001 mua6.ggpht.com #photos-ugc.l.googleusercontent.com
 2404:6800:4005:808::2001 nt0.ggpht.com #photos-ugc.l.googleusercontent.com
 2404:6800:4005:80b::2001 nt1.ggpht.com #photos-ugc.l.googleusercontent.com
-2404:6800:4005:809::2001 nt2.ggpht.com #photos-ugc.l.googleusercontent.com
+2404:6800:4005:804::2001 nt2.ggpht.com #photos-ugc.l.googleusercontent.com
 2404:6800:4005:808::2001 nt3.ggpht.com #photos-ugc.l.googleusercontent.com
 #2404:6800:4008:c00::62 nt4.ggpht.com
 #2404:6800:4008:c00::62 nt5.ggpht.com
 2404:6800:4005:808::2001 yt3.ggpht.com #photos-ugc.l.googleusercontent.com
-2404:6800:4005:809::2001 yt4.ggpht.com #photos-ugc.l.googleusercontent.com
+2404:6800:4005:804::2001 yt4.ggpht.com #photos-ugc.l.googleusercontent.com
 2404:6800:4008:c06::85 ap1.googleusercontent.com #photos-ugc-lopri.l.googleusercontent.com
-2404:6800:4005:809::2001 ap2.googleusercontent.com #photos-ugc.l.googleusercontent.com
+2404:6800:4005:804::2001 ap2.googleusercontent.com #photos-ugc.l.googleusercontent.com
 2404:6800:4003:c00::84 ap3.googleusercontent.com #googlehosted.l.googleusercontent.com
 2404:6800:4003:c01::84 ap4.googleusercontent.com #googlehosted.l.googleusercontent.com
 2404:6800:4003:804::2001 ap5.googleusercontent.com #googlehosted.l.googleusercontent.com
@@ -845,15 +845,15 @@
 2404:6800:4005:808::2001 gp3.googleusercontent.com #photos-ugc.l.googleusercontent.com
 2404:6800:4005:80a::2001 gp4.googleusercontent.com #photos-ugc.l.googleusercontent.com
 2404:6800:4005:80b::2001 gp5.googleusercontent.com #photos-ugc.l.googleusercontent.com
-2404:6800:4005:809::2001 gp6.googleusercontent.com #photos-ugc.l.googleusercontent.com
+2404:6800:4005:804::2001 gp6.googleusercontent.com #photos-ugc.l.googleusercontent.com
 
 ## GStatic Google 静态文件存储
-2404:6800:4005:809::2003 gstatic.com
+2404:6800:4005:804::2003 gstatic.com
 2404:6800:4005:808::2003 accounts.gstatic.com
 2404:6800:4008:c04::5e csi.gstatic.com #csi-china.l.google.com
-2404:6800:4005:809::2003 fonts.gstatic.com
-2404:6800:4005:809::2003 maps.gstatic.com
-2404:6800:4005:809::2003 ssl.gstatic.com
+2404:6800:4005:804::2003 fonts.gstatic.com
+2404:6800:4005:804::2003 maps.gstatic.com
+2404:6800:4005:804::2003 ssl.gstatic.com
 2404:6800:4005:808::2003 www.gstatic.com
 2404:6800:4005:800::2003 www.gstatic.cn
 2404:6800:4005:808::2003 encrypted-tbn0.gstatic.com
@@ -882,7 +882,7 @@
 ## Google APIs 开发接口服务
 2404:6800:4005:808::2003 apis.google.com #plus.l.google.com
 2404:6800:4005:808::2003 chart.apis.google.com #clients.l.google.com
-2404:6800:4005:809::2004 googleapis.com
+2404:6800:4005:804::2004 googleapis.com
 2404:6800:4003:809::200a www.googleapis.com #googleapis.l.google.com
 2404:6800:4005:802::200a *.googleapis.com #googleapis.l.google.com
 2404:6800:4005:802::200a ajax.googleapis.com #googleapis.l.google.com
@@ -907,7 +907,7 @@
 2404:6800:4005:803::200a mts2.googleapis.com #googleapis.l.google.com
 2404:6800:4005:804::200a mts3.googleapis.com #googleapis.l.google.com
 2404:6800:4005:804::200a ct.googleapis.com #googleapis.l.google.com
-2404:6800:4005:809::200a beyond-pa.clients6.google.com
+2404:6800:4005:804::200a beyond-pa.clients6.google.com
 2404:6800:4008:c05::ef datasaver.googleapis.com
 
 ## Google Hosted 托管服务
@@ -1002,7 +1002,7 @@
 
 ## Recaptcha 验证码服务
 2404:6800:4005:808::2004 www.recaptcha.net #www.l.google.com
-2404:6800:4005:809::2004 api.recaptcha.net #www.l.google.com
+2404:6800:4005:804::2004 api.recaptcha.net #www.l.google.com
 2404:6800:4005:80a::2004 api-secure.recaptcha.net #www.l.google.com
 2404:6800:4005:80b::2004 mailhide.recaptcha.net #www.l.google.com
 
@@ -1019,8 +1019,8 @@
 ## GoogleZip 数据压缩代理
 #2800:3f0:4003:c00::72 check.googlezip.net
 2404:6800:4005:80a::200c compress.googlezip.net
-2404:6800:4005:809::200c proxy.googlezip.net
-2404:6800:4005:809::200c proxy-dev.googlezip.net
+2404:6800:4005:804::200c proxy.googlezip.net
+2404:6800:4005:804::200c proxy-dev.googlezip.net
 
 ## Chrome 相关专题网站
 2404:6800:4005:808::2003 www.chromercise.com #www3.l.google.com

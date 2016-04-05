@@ -8,7 +8,7 @@
 #2404:6800:4008:c00::9a partner.googleadservices.com #partnerad.l.doubleclick.net
 #2404:6800:4008:c00::62 pagead.google.com
 #2404:6800:4008:c00::9a pagead2.googleadservices.com #pagead.l.doubleclick.net
-2404:6800:4005:809::2004 buttons.googlesyndication.com #www.google.com
+2404:6800:4005:804::2004 buttons.googlesyndication.com #www.google.com
 2404:6800:4001:802::100c tpc.googlesyndication.com #pagead-googlehosted.l.google.com
 2404:6800:4005:808::2003 v1.cache1.c.googlesyndication.com
 2404:6800:4005:808::2003 v1.cache2.c.googlesyndication.com

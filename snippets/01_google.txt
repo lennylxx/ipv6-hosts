@@ -897,6 +897,7 @@
 2404:6800:4005:804::200a redirector-bigcache.googleapis.com #googleapis.l.google.com
 2404:6800:4005:803::200a translate.googleapis.com #googleapis.l.google.com
 2404:6800:4005:804::200a youtube.googleapis.com #googleapis.l.google.com
+2404:6800:4005:804::200a youtubei.googleapis.com #googleapis.l.google.com
 #2404:6800:4008:c00::5f googleapis-ajax.google.com
 2404:6800:4005:80b::2003 mt0.googleapis.com #mt.l.google.com
 2404:6800:4005:80b::2003 mt1.googleapis.com #mt.l.google.com

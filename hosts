@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Mon, 2 May 2016 22:00:30 +0800                  |
+## |         Update : Fri, 06 May 2016 9:30:00  +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -20512,9 +20512,9 @@
 2620:0:863:ed1a::1 zu.wikipedia.org
 
 ## WikiPedia Mobile 维基百科移动版
-2620:0:863:ed1a::1:c m.wikipedia.org
-2620:0:863:ed1a::1:c en.m.wikipedia.org
-2620:0:863:ed1a::1:c zh.m.wikipedia.org
+2620:0:863:ed1a::1 m.wikipedia.org
+2620:0:863:ed1a::1 en.m.wikipedia.org
+2620:0:863:ed1a::1 zh.m.wikipedia.org
 
 ## WikiQuote 维基语录
 2620:0:863:ed1a::1 wikiquote.org

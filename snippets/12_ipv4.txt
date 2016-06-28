@@ -1,24 +1,24 @@
 ## Dropbox
-108.160.173.207 www.dropbox.com #www.v.dropbox.com
-108.160.173.207 www.v.dropbox.com
-108.160.172.232 dropbox.com
-108.160.172.193 d.dropbox.com #d.v.dropbox.com
-108.160.172.193 d.v.dropbox.com
-108.160.172.200 m.dropbox.com
-108.160.173.6 dl.dropbox.com #block-misc-iad.v.dropbox.com
+#108.160.173.207 www.dropbox.com #www.v.dropbox.com
+#108.160.173.207 www.v.dropbox.com
+#108.160.172.232 dropbox.com
+#108.160.172.193 d.dropbox.com #d.v.dropbox.com
+#108.160.172.193 d.v.dropbox.com
+#108.160.172.200 m.dropbox.com
+#108.160.173.6 dl.dropbox.com #block-misc-iad.v.dropbox.com
 199.47.217.69 dl.dropboxusercontent.com #block-www.v.dropbox.com
-54.182.3.132 cf.dropboxstatic.com
-108.160.172.239 photos.dropbox.com
-52.7.223.64 photos-thumb.x.dropbox.com
-52.7.223.64 photos-1.dropbox.com #photos-thumb.x.dropbox.com
-52.7.223.64 photos-2.dropbox.com #photos-thumb.x.dropbox.com
-52.7.223.64 photos-3.dropbox.com #photos-thumb.x.dropbox.com
-52.7.223.64 photos-4.dropbox.com #photos-thumb.x.dropbox.com
-52.7.223.64 photos-5.dropbox.com #photos-thumb.x.dropbox.com
-52.7.223.64 photos-6.dropbox.com #photos-thumb.x.dropbox.com
-54.182.2.132 status.dropbox.com
-54.182.3.124 forums.dropbox.com
-54.182.4.176 marketing.dropbox.com
+#54.182.3.132 cf.dropboxstatic.com
+#108.160.172.239 photos.dropbox.com
+#52.7.223.64 photos-thumb.x.dropbox.com
+#52.7.223.64 photos-1.dropbox.com #photos-thumb.x.dropbox.com
+#52.7.223.64 photos-2.dropbox.com #photos-thumb.x.dropbox.com
+#52.7.223.64 photos-3.dropbox.com #photos-thumb.x.dropbox.com
+#52.7.223.64 photos-4.dropbox.com #photos-thumb.x.dropbox.com
+#52.7.223.64 photos-5.dropbox.com #photos-thumb.x.dropbox.com
+#52.7.223.64 photos-6.dropbox.com #photos-thumb.x.dropbox.com
+#54.182.2.132 status.dropbox.com
+#54.182.3.124 forums.dropbox.com
+#54.182.4.176 marketing.dropbox.com
 
 ## DuckDuckGo
 46.51.216.186 duckduckgo.com
@@ -57,13 +57,17 @@
 192.30.252.130 www.github.com #github.com
 192.30.252.138 api.github.com
 192.30.252.86 live.github.com
-103.245.222.133 assets-cdn.github.com #github.map.fastly.net
-103.245.222.133 collector-cdn.github.com #github.map.fastly.net
+2a04:4e42:d::133 assets-cdn.github.com #github.map.fastly.net
+2a04:4e42:d::133 collector-cdn.github.com #github.map.fastly.net
+2a04:4e42:d::133 pages.github.com #github.map.fastly.net
+2a04:4e42:d::133 help.github.com #github.map.fastly.net
 107.23.78.89 collector.githubapp.com
-103.245.222.133 avatars0.githubusercontent.com #github.map.fastly.net
-103.245.222.133 avatars1.githubusercontent.com #github.map.fastly.net
-103.245.222.133 avatars2.githubusercontent.com #github.map.fastly.net
-103.245.222.133 avatars3.githubusercontent.com #github.map.fastly.net
+2a04:4e42:d::133 avatars0.githubusercontent.com #github.map.fastly.net
+2a04:4e42:d::133 avatars1.githubusercontent.com #github.map.fastly.net
+2a04:4e42:d::133 avatars2.githubusercontent.com #github.map.fastly.net
+2a04:4e42:d::133 avatars3.githubusercontent.com #github.map.fastly.net
+2a04:4e42:d::133 cloud.githubusercontent.com #github.map.fastly.net
+2a04:4e42:d::133 camo.githubusercontent.com #github.map.fastly.net
 103.245.222.133 raw.githubusercontent.com #github.map.fastly.net
 192.30.252.141 gist.github.com
 
@@ -74,13 +78,13 @@
 68.232.44.127 promoted.soundcloud.com #cs97.wac.edgecastcdn.net
 68.232.44.96 a-v2.sndcdn.com #cs70.wac.edgecastcdn.net
 68.232.44.96 a1.sndcdn.com #cs70.wac.edgecastcdn.net
-54.230.232.233 cf-media.sndcdn.com #d3mym4xnhdwip8.cloudfront.net
+#54.230.232.233 cf-media.sndcdn.com #d3mym4xnhdwip8.cloudfront.net
 54.192.71.189 i1.sndcdn.com #img.x.soundcloud.com
 54.192.71.189 i2.sndcdn.com #d5i8tm59lw6in.cloudfront.net
 54.192.71.189 i3.sndcdn.com #d5i8tm59lw6in.cloudfront.net
 54.192.71.189 i4.sndcdn.com #d5i8tm59lw6in.cloudfront.net
 68.232.44.96 va.sndcdn.com #cs70.wac.edgecastcdn.net
-54.230.68.42 wis.sndcdn.com #dq19j1toufa91.cloudfront.net
+#54.230.68.42 wis.sndcdn.com #dq19j1toufa91.cloudfront.net
 68.232.45.67 ec-media.soundcloud.com #cs141.wpc.edgecastcdn.net
 68.232.46.220 ec-rtmp-media.soundcloud.com #fms.658d.edgecastcdn.net
 54.171.137.74 eventlogger.soundcloud.com #eventgateway.soundcloud.com
@@ -262,7 +266,7 @@
 2400:cb00:2048:1::6814:4038 pastebin.com
 
 ## Tumblr
-68.232.44.253 gs1.wac.edgecastcdn.net
+2606:2800:220:134c:57:10da:1a6d:24ed gs1.wac.edgecastcdn.net
 
 ## TweetDeck
 104.244.42.4 tweetdeck.com
@@ -283,23 +287,23 @@
 104.244.42.65 mobile.twitter.com
 104.244.42.65 pic.twitter.com
 104.244.42.65 s.twitter.com
-2606:2800:248:163:1dd5:2187:1354:23ef status.twitter.com #cs322.wac.edgecastcdn.net
+2606:2800:220:18bf:6c7:9b1:1836:15fb status.twitter.com #cs322.wac.edgecastcdn.net
 104.244.42.65 support.twitter.com
 104.244.42.65 www.twitter.com
 104.244.42.133 t.co
-2606:2800:248:2f:1d8a:787:dc7:17df cdn.api.twitter.com
-2606:2800:248:2f:1d8a:787:dc7:17df platform.twitter.com
+#2606:2800:248:2f:1d8a:787:dc7:17df cdn.api.twitter.com #cs472.wac.edgecastcdn.net
+2606:2800:220:de:468:2285:c1:4a3 platform.twitter.com #cs41.wac.edgecastcdn.net
 2606:1f80:a000:100::2 abs.twimg.com #ipv6.twimg.com
 2606:1f80:a000:100::2 abs-0.twimg.com #ipv6.twimg.com
 2606:1f80:a000:100::2 pbs.twimg.com #ipv6.twimg.com
-2606:2800:248:2f:1d8a:787:dc7:17df pbs-ec.twimg.com #cs472.wac.edgecastcdn.net
+2606:2800:220:de:468:2285:c1:4a3 pbs-ec.twimg.com #cs41.wac.edgecastcdn.net
 2606:1f80:a000:100::2 a0.twimg.com #ipv6.twimg.com
 2606:1f80:a000:100::2 a1.twimg.com #ipv6.twimg.com
 2606:1f80:a000:100::2 a2.twimg.com #ipv6.twimg.com
 2606:1f80:a000:100::2 a3.twimg.com #ipv6.twimg.com
 2606:1f80:a000:100::2 a4.twimg.com #ipv6.twimg.com
 2606:1f80:a000:100::2 a5.twimg.com #ipv6.twimg.com
-199.96.57.57 a6.twimg.com #us-west-img.tw.map.fastly.net
+#199.96.57.57 a6.twimg.com #us-west-img.tw.map.fastly.net
 2606:1f80:a000:100::2 amp.twimg.com #ipv6.twimg.com
 2606:1f80:a000:100::2 dnt.twimg.com #ipv6.twimg.com
 2606:1f80:a000:100::2 ea.twimg.com #ipv6.twimg.com
@@ -312,16 +316,16 @@
 2606:1f80:a000:100::2 o.twimg.com #ipv6.twimg.com
 2606:1f80:a000:100::2 oem.twimg.com #ipv6.twimg.com
 2606:1f80:a000:100::2 p.twimg.com #ipv6.twimg.com
-2606:1f80:a000:100::2 si0.twimg.com #ipv6.twimg.com
-2606:1f80:a000:100::2 si1.twimg.com #ipv6.twimg.com
-2606:1f80:a000:100::2 si2.twimg.com #ipv6.twimg.com
-2606:1f80:a000:100::2 si3.twimg.com #ipv6.twimg.com
-2606:1f80:a000:100::2 si4.twimg.com #ipv6.twimg.com
-2606:1f80:a000:100::2 si5.twimg.com #ipv6.twimg.com
+#2606:1f80:a000:100::2 si0.twimg.com #ipv6.twimg.com
+#2606:1f80:a000:100::2 si1.twimg.com #ipv6.twimg.com
+#2606:1f80:a000:100::2 si2.twimg.com #ipv6.twimg.com
+#2606:1f80:a000:100::2 si3.twimg.com #ipv6.twimg.com
+#2606:1f80:a000:100::2 si4.twimg.com #ipv6.twimg.com
+#2606:1f80:a000:100::2 si5.twimg.com #ipv6.twimg.com
 2606:1f80:a000:100::2 ton.twimg.com #ipv6.twimg.com
 2606:1f80:a000:100::2 video.twimg.com #ipv6.twimg.com
-2606:2800:248:163:1dd5:2187:1354:23ef tailfeather.twimg.com #cs322.wac.edgecastcdn.net
-2606:2800:248:5f:1d30:1967:1659:bd2 widgets.twimg.com #cs479.wac.edgecastcdn.net
+2606:2800:220:18bf:6c7:9b1:1836:15fb tailfeather.twimg.com #cs322.wac.edgecastcdn.net
+2606:2800:220:1ead:1a38:1bef:134c:172c widgets.twimg.com #cs479.wac.edgecastcdn.net
 210.163.219.24 twimg.com
 2606:1f80:a000:100::2 ipv6.twimg.com
 
@@ -332,7 +336,7 @@
 117.18.237.125 data1.whicdn.com #cs95.wac.edgecastcdn.net
 117.18.237.125 data2.whicdn.com #cs95.wac.edgecastcdn.net
 117.18.237.125 data3.whicdn.com #cs95.wac.edgecastcdn.net
-54.239.194.100 cdn.viglink.com #dp2drdtly304p.cloudfront.net
+#54.239.194.100 cdn.viglink.com #dp2drdtly304p.cloudfront.net
 
 ## Wordpress
 192.0.78.9 wordpress.com
@@ -342,18 +346,18 @@
 76.74.254.122 files.wordpress.com
 192.0.76.3 pixel.wp.com
 192.0.76.3 stats.wp.com
-2606:2800:20d:559:1b1e:a49:202a:14b5 s0.wp.com #cs82.wac.edgecastcdn.net
-2606:2800:20d:559:1b1e:a49:202a:14b5 s1.wp.com #cs82.wac.edgecastcdn.net
-2606:2800:20d:559:1b1e:a49:202a:14b5 s2.wp.com #cs82.wac.edgecastcdn.net
-2606:2800:20d:559:1b1e:a49:202a:14b5 widgets.wp.com #cs82.wac.edgecastcdn.net
+#2606:2800:20d:559:1b1e:a49:202a:14b5 s0.wp.com #cs82.wac.edgecastcdn.net
+#2606:2800:20d:559:1b1e:a49:202a:14b5 s1.wp.com #cs82.wac.edgecastcdn.net
+#2606:2800:20d:559:1b1e:a49:202a:14b5 s2.wp.com #cs82.wac.edgecastcdn.net
+#2606:2800:20d:559:1b1e:a49:202a:14b5 widgets.wp.com #cs82.wac.edgecastcdn.net
 66.155.40.250 wordpress.org
 66.155.40.250 www.wordpress.org
 192.229.144.127 s.w.org #cs287.wac.edgecastcdn.net
 192.229.144.127 ts.w.org #cs287.wac.edgecastcdn.net
 
 ## XDA developers
-207.244.73.44 www.xda-developers.com
-207.244.73.44 xda-developers.com
+209.58.128.90 www.xda-developers.com
+209.58.128.90 xda-developers.com
 174.129.2.23 cdn.xda-developers.com
 192.229.144.96 cdn1.xda-developers.com #cs261.wac.edgecastcdn.net
 192.229.144.96 cdn2.xda-developers.com #cs261.wac.edgecastcdn.net

@@ -4,8 +4,8 @@
 2404:6800:4005:80b::2003 connectivitycheck.android.com
 2404:6800:4005:80b::2003 developer.android.com #www3.l.google.com
 2404:6800:4005:80b::2003 source.android.com #www3.l.google.com
-2404:6800:4003:804::200e market.android.com #android-market.l.google.com
-2404:6800:4003:804::200e android.clients.google.com #android.l.google.com
+2404:6800:4005:80b::2003 market.android.com #android-market.l.google.com
+2404:6800:4005:80b::2003 android.clients.google.com #android.l.google.com
 2404:6800:4005:80b::2003 play.google.com #play.l.google.com
 2404:6800:4005:80b::2003 v1.lscache1.c.android.clients.google.com #bandaid-redirector.l.google.com
 2404:6800:4005:80b::2003 v1.lscache2.c.android.clients.google.com

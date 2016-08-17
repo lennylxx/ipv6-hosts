@@ -1,5 +1,5 @@
 ## Apple 苹果
-2600:1417:a:192::1aca www.apple.com #www.isg-apple.com.akadns.net
+2600:1417:9:384::1aca www.apple.com #www.isg-apple.com.akadns.net
 
 ## Blizzard Entertainment 暴雪娱乐
 2620:10b:9006:600:dad3:85ff:fed9:ce24 ipv6.blizzard.com
@@ -40,18 +40,19 @@
 #2620:101:8008:5::2:8 firefox.com
 
 ## Microsoft 微软
-2600:140b:4:1b6::2768 www.microsoft.com #e10088.dscb.akamaiedge.net
+2600:1417:9:384::2768 www.microsoft.com #e10088.dscb.akamaiedge.net
 #2600:140e:1:1::3cfe:83a3 i.microsoft.com
-2600:140b:13:189::29df i2.microsoft.com #i.microsoft.com.edgekey.net
-2600:140b:13:193::29df i3.microsoft.com #i.microsoft.com.edgekey.net
-2600:1417:e::48f6:6711 i4.microsoft.com #i.toggle.www.ms.akadns.net
+2600:1417:9:384::29df i2.microsoft.com #i.microsoft.com.edgekey.net
+2600:1417:9:384::29df i3.microsoft.com #i.microsoft.com.edgekey.net
+2600:1417:9::b833:f5b i4.microsoft.com #i.toggle.www.ms.akadns.net
 2002:836b:9820::836b:9886 www.ipv6.microsoft.com
+2600:1417:9:384::e59 download.microsoft.com
 204.79.197.217 onedrive.live.com #skyweb.skyprod.akadns.net
 134.170.120.48 skyapi.onedrive.live.com
 204.79.197.217 skyweb.skyprod.akadns.net
 204.79.197.217 webedgegeo.skyprod.akadns.net
-2600:140b:13:192::1aff s1-word-view-15.cdn.office.net #wildcard.cdn.office.net.edgekey.net
-#2600:140b:4:18b::1aff s1-officeapps-15.cdn.office.net #e6911.dspg.akamaiedge.net
+2600:1417:9:384::1aff s1-word-view-15.cdn.office.net #wildcard.cdn.office.net.edgekey.net
+#2600:1417:9:384::1aff s1-officeapps-15.cdn.office.net #e6911.dspg.akamaiedge.net
 2a01:111:2003::200 www.bing.com
 2a01:111:2003::200 cn.bing.com
 2a01:111:2003::200 ssl.bing.com
@@ -66,7 +67,7 @@
 2a01:111:2003::200 tse2-mm.cn.bing.net
 2a01:111:2003::200 tse3-mm.cn.bing.net
 2a01:111:2003::200 tse4-mm.cn.bing.net
-2600:1417:a::174c:cc19 a248.e.akamai.net
+2600:1417:9::b833:f5b a248.e.akamai.net
 
 ## ARIN
 2001:500:4:c000::43 www.arin.net
@@ -104,78 +105,87 @@
 2606:1f80:a000:100::5 v.cdn.vine.co
 2606:1f80:a000:100::5 mtc.cdn.vine.co
 
+## Imgur
+2a04:4e42::193 imgur.com
+2a04:4e42::193 www.imgur.com
+2a04:4e42::193 s.imgur.com
+2a04:4e42::193 i.imgur.com
+2a04:4e42::193 m.imgur.com
+2a04:4e42::193 p.imgur.com
+2a04:4e42::193 api.imgur.com
+
 ## Steam
-2600:1417:a:192::3a7 api.steampowered.com
-2600:1417:a:192::3a7 support.steampowered.com
-2600:1417:a::174c:cc5b repo.steampowered.com
-2600:1417:a::174c:cc5b cdn.akamai.steamstatic.com
-2600:1417:a::174c:cc5b store.akamai.steamstatic.com
-2600:1417:a::174c:cc5b cdn.store.steampowered.com
-2600:1417:a::174c:cc5b cdn.steampowered.com
-2600:1417:a::174c:cc5b media.steampowered.com
-2600:1417:a::174c:cc5b media4.steampowered.com
-2600:1417:a::174c:cc5b content8.steampowered.com
-2600:1417:a::174c:cc5b cloud-3.steampowered.com
-2600:1417:a::174c:cc5b cloud-3.steamusercontent.com
-2600:1417:a::174c:cc5b images.akamai.steamusercontent.com
-2600:1417:a::174c:cc5b steamcdn-a.akamaihd.net
-2600:1417:a::174c:cc5b steamstore-a.akamaihd.net
-2600:1417:a::174c:cc5b steamcommunity-a.akamaihd.net
-2600:1417:a::174c:cc5b cdn.steamcommunity.com
-2600:1417:a::174c:cc5b store.valvesoftware.com
+#2600:1417:9:384::3a7 api.steampowered.com
+#2600:1417:9:384::3a7 support.steampowered.com
+2600:1417:9::b833:f5b repo.steampowered.com
+2600:1417:9::b833:f5b cdn.akamai.steamstatic.com
+2600:1417:9::b833:f5b store.akamai.steamstatic.com
+2600:1417:9::b833:f5b cdn.store.steampowered.com
+2600:1417:9::b833:f5b cdn.steampowered.com
+2600:1417:9::b833:f5b media.steampowered.com
+2600:1417:9::b833:f5b media4.steampowered.com
+2600:1417:9::b833:f5b content8.steampowered.com
+2600:1417:9::b833:f5b cloud-3.steampowered.com
+2600:1417:9::b833:f5b cloud-3.steamusercontent.com
+2600:1417:9::b833:f5b images.akamai.steamusercontent.com
+2600:1417:9::b833:f5b steamcdn-a.akamaihd.net
+2600:1417:9::b833:f5b steamstore-a.akamaihd.net
+2600:1417:9::b833:f5b steamcommunity-a.akamaihd.net
+2600:1417:9::b833:f5b cdn.steamcommunity.com
+2600:1417:9::b833:f5b store.valvesoftware.com
 
 ## NVIDIA 
-2600:1417:a:192::376 www.nvidia.com
-2600:1417:a:192::376 arg.nvidia.com
-2600:1417:a:192::376 blogs.nvidia.com
-2600:1417:a:192::376 br.nvidia.com
-2600:1417:a:192::376 chl.nvidia.com
-2600:1417:a:192::376 clm.nvidia.com
-2600:1417:a:192::376 research.nvidia.com
-2600:1417:a:192::376 ven.nvidia.com
-2600:1417:a:192::a90 images.nvidia.com
-2600:1417:a:192::a90 developer.nvidia.com
-2600:1417:a:192::778 www.nvidia.cn
-2600:1417:a:192::c8c blogs.nvidia.cn
-2600:1417:a::174c:cc29 cn.nvidia.com
-2600:1417:a:192::778 contests.nvidia.com
-2600:1417:a:192::778 services.gfe.nvidia.com
-2600:1417:a:192::a91 download-cdn.gfe.nvidia.com
-2600:1417:a:192::778 shield.nvidia.com
-2600:1417:a::174c:cc29 cn.download.nvidia.com
-2600:1417:a::174c:cc29 us.download.nvidia.com
-2600:1417:a::174c:cc29 international.download.nvidia.com
-2600:1417:a::174c:cc29 international-gfe.download.nvidia.com
-2600:1417:a:192::7b4 www.geforce.com
-2600:1417:a:192::7b4 gfwsl.geforce.com
-2600:1417:a::174c:cc29 www.geforce.cn
-2600:1417:a:192::c8c nfans.geforce.cn
-2600:1417:a::174c:cc29 www.tegrazone.com
+2600:1417:9:384::376 www.nvidia.com
+2600:1417:9:384::376 arg.nvidia.com
+2600:1417:9:384::376 blogs.nvidia.com
+2600:1417:9:384::376 br.nvidia.com
+2600:1417:9:384::376 chl.nvidia.com
+2600:1417:9:384::376 clm.nvidia.com
+2600:1417:9:384::376 research.nvidia.com
+2600:1417:9:384::376 ven.nvidia.com
+2600:1417:9:384::a90 images.nvidia.com
+2600:1417:9:384::a90 developer.nvidia.com
+2600:1417:9:384::778 www.nvidia.cn
+2600:1417:9:384::c8c blogs.nvidia.cn
+2600:1417:9::b833:f5b cn.nvidia.com
+2600:1417:9:384::778 contests.nvidia.com
+2600:1417:9:384::778 services.gfe.nvidia.com
+2600:1417:9:384::a91 download-cdn.gfe.nvidia.com
+2600:1417:9:384::778 shield.nvidia.com
+2600:1417:9::b833:f5b cn.download.nvidia.com
+2600:1417:9::b833:f5b us.download.nvidia.com
+2600:1417:9::b833:f5b international.download.nvidia.com
+2600:1417:9::b833:f5b international-gfe.download.nvidia.com
+2600:1417:9:384::7b4 www.geforce.com
+2600:1417:9:384::7b4 gfwsl.geforce.com
+2600:1417:9::b833:f5b www.geforce.cn
+2600:1417:9:384::c8c nfans.geforce.cn
+2600:1417:9::b833:f5b www.tegrazone.com
 
 ## AMD 
-2600:1417:a:192::b51 www.amd.com
-2600:1417:a:192::2c4b community.amd.com
-2600:1417:a::174c:cc29 ir.amd.com
-2600:1417:a::174c:cc29 shop.amd.com
-2600:1417:a:192::b51 support.amd.com
-2600:1417:a:192::1c7b www2.ati.com
+2600:1417:9:384::b51 www.amd.com
+2600:1417:9:384::2c4b community.amd.com
+2600:1417:9::b833:f5b ir.amd.com
+2600:1417:9::b833:f5b shop.amd.com
+2600:1417:9:384::b51 support.amd.com
+2600:1417:9:384::1c7b www2.ati.com
 
 ## Intel
-2600:1417:a::174c:cc29 www.intel.cn
-2600:1417:a::174c:cc29 www.intel.com
-2600:1417:a::174c:cc29 ark.intel.com
-2600:1417:a::174c:cc29 corpredirect.intel.com
-2600:1417:a::174c:cc29 pcdoeswhat.intel.cn
-2600:1417:a:192::75 newsroom.intel.cn
-2600:1417:a:192::b www-ssl.intel.com
-2600:1417:a:192::b communities.intel.com
-2600:1417:a:192::b downloadcenter.intel.com
-2600:1417:a:192::b downloadmirror.intel.com
-2600:1417:a:192::b engage.intel.com
-2600:1417:a:192::b iq.intel.com
-2600:1417:a:192::b newsroom.intel.com
-2600:1417:a:192::b software.intel.com
-2600:1417:a:192::ae6 embedded.communities.intel.com
+2600:1417:9::b833:f5b www.intel.cn
+2600:1417:9::b833:f5b www.intel.com
+2600:1417:9::b833:f5b ark.intel.com
+2600:1417:9::b833:f5b corpredirect.intel.com
+2600:1417:9::b833:f5b pcdoeswhat.intel.cn
+2600:1417:9:384::75 newsroom.intel.cn
+2600:1417:9:384::b www-ssl.intel.com
+2600:1417:9:384::b communities.intel.com
+2600:1417:9:384::b downloadcenter.intel.com
+2600:1417:9:384::b downloadmirror.intel.com
+2600:1417:9:384::b engage.intel.com
+2600:1417:9:384::b iq.intel.com
+2600:1417:9:384::b newsroom.intel.com
+2600:1417:9:384::b software.intel.com
+2600:1417:9:384::ae6 embedded.communities.intel.com
 
 ## AT 奥地利
 ## Tor Project
@@ -212,5 +222,5 @@
 
 ## IPv6/IPv4 转换代理
 ## DNS64 服务器：
-2001:778::37 dns64.litnet.lt
+#2001:778::37 dns64.litnet.lt
 

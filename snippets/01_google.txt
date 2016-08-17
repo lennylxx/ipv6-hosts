@@ -25,6 +25,7 @@
 2404:6800:4005:80b::2003 contributor.google.com #www3.l.google.com
 2404:6800:4005:80b::2003 cse.google.com
 2404:6800:4005:80b::2003 design.google.com
+2404:6800:4005:80b::2003 dns.google.com
 2404:6800:4005:80b::2003 encrypted.google.com #www3.l.google.com
 2404:6800:4005:80b::2003 encrypted-tbn0.google.com #encrypted-tbn.l.google.com
 2404:6800:4005:80b::2003 encrypted-tbn1.google.com #encrypted-tbn.l.google.com

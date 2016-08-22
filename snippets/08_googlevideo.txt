@@ -1,4 +1,4 @@
-## Google Video
+﻿## Google Video
 2404:6800:4008:c06::64 video.google.com #video.l.google.com
 2404:6800:4008:c06::8b video.google.com.hk #video.l.google.com
 2404:6800:4008:c06::66 video.google.com.tw #video.l.google.com
@@ -7103,6 +7103,36 @@
 2607:f8b0:4007:1b::17 r18---sn-a5m7lner.googlevideo.com
 2607:f8b0:4007:1b::18 r19---sn-a5m7lner.googlevideo.com
 2607:f8b0:4007:1b::19 r20---sn-a5m7lner.googlevideo.com
+2607:f8b0:4007:21::7 r1---sn-a5mlrn7l.googlevideo.com
+2607:f8b0:4007:21::8 r2---sn-a5mlrn7l.googlevideo.com
+2607:f8b0:4007:21::9 r3---sn-a5mlrn7l.googlevideo.com
+2607:f8b0:4007:21::a r4---sn-a5mlrn7l.googlevideo.com
+2607:f8b0:4007:21::b r5---sn-a5mlrn7l.googlevideo.com
+2607:f8b0:4007:21::c r6---sn-a5mlrn7l.googlevideo.com
+2607:f8b0:4007:22::7 r1---sn-a5mlrn7s.googlevideo.com
+2607:f8b0:4007:22::8 r2---sn-a5mlrn7s.googlevideo.com
+2607:f8b0:4007:22::9 r3---sn-a5mlrn7s.googlevideo.com
+2607:f8b0:4007:22::a r4---sn-a5mlrn7s.googlevideo.com
+2607:f8b0:4007:22::b r5---sn-a5mlrn7s.googlevideo.com
+2607:f8b0:4007:22::c r6---sn-a5mlrn7s.googlevideo.com
+2607:f8b0:4007:23::7 r1---sn-a5mlrn7z.googlevideo.com
+2607:f8b0:4007:23::8 r2---sn-a5mlrn7z.googlevideo.com
+2607:f8b0:4007:23::9 r3---sn-a5mlrn7z.googlevideo.com
+2607:f8b0:4007:23::a r4---sn-a5mlrn7z.googlevideo.com
+2607:f8b0:4007:23::b r5---sn-a5mlrn7z.googlevideo.com
+2607:f8b0:4007:23::c r6---sn-a5mlrn7z.googlevideo.com
+2607:f8b0:4007:24::7 r1---sn-a5mlrn76.googlevideo.com
+2607:f8b0:4007:24::8 r2---sn-a5mlrn76.googlevideo.com
+2607:f8b0:4007:24::9 r3---sn-a5mlrn76.googlevideo.com
+2607:f8b0:4007:24::a r4---sn-a5mlrn76.googlevideo.com
+2607:f8b0:4007:24::b r5---sn-a5mlrn76.googlevideo.com
+2607:f8b0:4007:24::c r6---sn-a5mlrn76.googlevideo.com
+2607:f8b0:4007:25::7 r1---sn-a5mekned.googlevideo.com
+2607:f8b0:4007:25::8 r2---sn-a5mekned.googlevideo.com
+2607:f8b0:4007:25::9 r3---sn-a5mekned.googlevideo.com
+2607:f8b0:4007:25::a r4---sn-a5mekned.googlevideo.com
+2607:f8b0:4007:25::b r5---sn-a5mekned.googlevideo.com
+2607:f8b0:4007:25::c r6---sn-a5mekned.googlevideo.com
 2607:f8b0:4007:400::10 r1---sn-a5m7zu7e.googlevideo.com
 2607:f8b0:4007:400::11 r2---sn-a5m7zu7e.googlevideo.com
 2607:f8b0:4007:400::12 r3---sn-a5m7zu7e.googlevideo.com
@@ -17702,3 +17732,4 @@
 2a00:1450:401e:3f::a r4---sn-4g5edn7z.googlevideo.com
 2a00:1450:401e:3f::b r5---sn-4g5edn7z.googlevideo.com
 2a00:1450:401e:3f::c r6---sn-4g5edn7z.googlevideo.com
+

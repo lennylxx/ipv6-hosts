@@ -73,8 +73,11 @@ def main():
         ret += iata2sn(input[:-1])
         ret += num2code(input[-1])
     elif sys.argv[1] == '-g':
-        ret += sn2iata(input[:-1])
-        ret += code2num(input[-1])
+        lst = input.split('-')
+        ret += sn2iata(lst[0])
+        ret += "-"
+        ret += sn2iata(lst[1][0:3])
+        ret += code2num(lst[1][3:])
     else:
         print 'Unknown option.'
         sys.exit(1)

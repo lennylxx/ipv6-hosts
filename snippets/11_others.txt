@@ -5,11 +5,11 @@
 2620:10b:9006:600:dad3:85ff:fed9:ce24 ipv6.blizzard.com
 
 ## Gravatar
-2606:2800:20d:1047:6cf:353:607:e8a www.gravatar.com #cs91.wac.edgecastcdn.net
-2606:2800:20d:1047:6cf:353:607:e8a s.gravatar.com #cs91.wac.edgecastcdn.net
-2606:2800:20d:1047:6cf:353:607:e8a 0.gravatar.com #cs91.wac.edgecastcdn.net
-2606:2800:20d:1047:6cf:353:607:e8a 1.gravatar.com #cs91.wac.edgecastcdn.net
-2606:2800:20d:1047:6cf:353:607:e8a 2.gravatar.com #cs91.wac.edgecastcdn.net
+#2606:2800:20d:1047:6cf:353:607:e8a www.gravatar.com #cs91.wac.edgecastcdn.net
+#2606:2800:20d:1047:6cf:353:607:e8a s.gravatar.com #cs91.wac.edgecastcdn.net
+#2606:2800:20d:1047:6cf:353:607:e8a 0.gravatar.com #cs91.wac.edgecastcdn.net
+#2606:2800:20d:1047:6cf:353:607:e8a 1.gravatar.com #cs91.wac.edgecastcdn.net
+#2606:2800:20d:1047:6cf:353:607:e8a 2.gravatar.com #cs91.wac.edgecastcdn.net
 
 ## Plurk
 #2607:f128:47::1:1 plurk.com

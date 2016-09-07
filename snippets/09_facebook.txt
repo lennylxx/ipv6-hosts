@@ -44,7 +44,7 @@
 2a03:2880:20:8f08:face:b00c::1 v6.vvv.facebook.com
 2a03:2880:f00d:1:face:b00c::1 attachment.fbsbx.com #star.c10r.facebook.com
 2600:1417:9::b833:faa static.ak.facebook.com
-2600:1417:9:384::236 s-static.ak.facebook.com #e566.dspe1.akamaiedge.net
+2600:1406:3:18b::236 s-static.ak.facebook.com #e566.dspe1.akamaiedge.net
 2610:d0:face::9 www.lisp6.facebook.com
 2610:d0:face::9 m.lisp6.facebook.com #www.lisp6.facebook.com
 2a03:2880:f00d:1:face:b00c::1 www.messenger.com #star.c10r.facebook.com
@@ -59,18 +59,18 @@
 2a03:2880:f00d:1:face:b00c::1 6-edge-chat.messenger.com #star.c10r.facebook.com
 2a03:2880:f00d:1:face:b00c::1 www.fb.com #star.c10r.facebook.com
 2a03:2880:f00d:1:face:b00c::1 fb.com
-2600:1417:9:384::172d investor.fb.com #e5933.dscb.akamaiedge.net
+2600:1406:3:18b::172d investor.fb.com #e5933.dscb.akamaiedge.net
 2a03:2880:f00d:1:face:b00c::1 thefacebook.com
 2a03:2880:f00d:1:face:b00c::1 www.thefacebook.com #star.c10r.facebook.com
 
 ## fbcdn.net
-2600:1417:9:384::eed connect.facebook.net #connect.facebook.net.edgekey.net
+2600:1406:3:18b::eed connect.facebook.net #connect.facebook.net.edgekey.net
 2600:1417:9::b833:f90 creative.ak.fbcdn.net #ads.ak.facebook.com.edgesuite.net
 2600:1417:9::b833:f90 external.ak.fbcdn.net #external.ak.fbcdn.net.edgesuite.net
 2600:1417:9::b833:f90 platform.ak.fbcdn.net #platform.ak.facebook.com.edgesuite.net
 2600:1417:9::b833:f90 profile.ak.fbcdn.net #profile.ak.facebook.com.edgesuite.net
-2600:1417:9:384::38a s-external.ak.fbcdn.net #s-external.ak.fbcdn.net.edgekey.net
-2600:1417:9:384::d19 s-static.ak.fbcdn.net #s-static.ak.fbcdn.net.edgekey.net
+2600:1406:3:18b::38a s-external.ak.fbcdn.net #s-external.ak.fbcdn.net.edgekey.net
+2600:1406:3:18b::d19 s-static.ak.fbcdn.net #s-static.ak.fbcdn.net.edgekey.net
 2600:1417:9::b833:f90 static.ak.fbcdn.net #static.ak.facebook.com.edgesuite.net
 2600:1417:9::b833:f90 vthumb.ak.fbcdn.net #vthumb.facebook.com.edgesuite.net
 2a03:2880:f00d:8:face:b00c::1 scontent-a.xx.fbcdn.net

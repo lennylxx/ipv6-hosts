@@ -3461,6 +3461,12 @@
 #2404:6800:4005:10::a r4---sn-i3b7rnee.googlevideo.com
 #2404:6800:4005:10::b r5---sn-i3b7rnee.googlevideo.com
 #2404:6800:4005:10::c r6---sn-i3b7rnee.googlevideo.com
+2404:6800:4005:10::7 r1---sn-i3belnel.googlevideo.com
+2404:6800:4005:10::8 r2---sn-i3belnel.googlevideo.com
+2404:6800:4005:10::9 r3---sn-i3belnel.googlevideo.com
+2404:6800:4005:10::a r4---sn-i3belnel.googlevideo.com
+2404:6800:4005:10::b r5---sn-i3belnel.googlevideo.com
+2404:6800:4005:10::c r6---sn-i3belnel.googlevideo.com
 #2404:6800:4005:11::7 r1---sn-i3b7rnel.googlevideo.com
 #2404:6800:4005:11::8 r2---sn-i3b7rnel.googlevideo.com
 #2404:6800:4005:11::9 r3---sn-i3b7rnel.googlevideo.com
@@ -18051,6 +18057,12 @@
 2404:6800:4003:a::a r4---sn-npo7zn7d.googlevideo.com
 2404:6800:4003:a::b r5---sn-npo7zn7d.googlevideo.com
 2404:6800:4003:a::c r6---sn-npo7zn7d.googlevideo.com
+2404:6800:4003:c::7 r1---sn-npoe7n7s.googlevideo.com
+2404:6800:4003:c::8 r2---sn-npoe7n7s.googlevideo.com
+2404:6800:4003:c::9 r3---sn-npoe7n7s.googlevideo.com
+2404:6800:4003:c::a r4---sn-npoe7n7s.googlevideo.com
+2404:6800:4003:c::b r5---sn-npoe7n7s.googlevideo.com
+2404:6800:4003:c::c r6---sn-npoe7n7s.googlevideo.com
 2a00:1450:4003:6::6 r1---sn-h5q7dnek.googlevideo.com
 2a00:1450:4003:6::7 r2---sn-h5q7dnek.googlevideo.com
 2a00:1450:4003:6::8 r3---sn-h5q7dnek.googlevideo.com

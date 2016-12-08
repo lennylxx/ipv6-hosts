@@ -699,7 +699,7 @@
 ## Pack 软件精选
 2404:6800:4003:c00::67 pack.google.com #www2.l.google.com
 2404:6800:4005:80b::2003 cache.pack.google.com #redirector.c.pack.google.com
-2404:6800:4003:809::2004 pack.google.cn #www2.l.google.com
+2404:6800:4005:804::2004 pack.google.cn #www2.l.google.com
 
 ## Photo/Picasa 照片/网络相册
 2404:6800:4005:80b::2003 photos.google.com #picasaweb.l.google.com
@@ -888,7 +888,7 @@
 2404:6800:4005:80b::2003 apis.google.com #plus.l.google.com
 2404:6800:4005:80b::2003 chart.apis.google.com #clients.l.google.com
 2404:6800:4005:804::2004 googleapis.com
-2404:6800:4003:809::200a www.googleapis.com #googleapis.l.google.com
+2404:6800:4005:804::200a www.googleapis.com #googleapis.l.google.com
 2404:6800:4005:802::200a *.googleapis.com #googleapis.l.google.com
 2404:6800:4005:802::200a ajax.googleapis.com #googleapis.l.google.com
 2404:6800:4005:802::200a android.googleapis.com #googleapis.l.google.com
@@ -916,7 +916,7 @@
 2404:6800:4005:804::200a mts3.googleapis.com #googleapis.l.google.com
 2404:6800:4005:804::200a ct.googleapis.com #googleapis.l.google.com
 2404:6800:4005:804::200a beyond-pa.clients6.google.com #googleapis.l.google.com
-2404:6800:4008:c05::ef datasaver.googleapis.com
+2404:6800:4005:804::200a datasaver.googleapis.com #googleapis.l.google.com
 
 ## Google Hosted 托管服务
 2404:6800:4005:800::2010 storage.googleapis.com #storage.l.googleusercontent.com

@@ -15,16 +15,16 @@
 2404:6800:4005:80b::2003 www.youtube-nocookie.com #youtube-ui.l.google.com
 2404:6800:4005:80b::2003 m.youtube.com
 2404:6800:4005:80b::2003 youtu.be
-2404:6800:4003:c02::76 gdata.youtube.com #www4.l.google.com
+2404:6800:4005:80b::2003 gdata.youtube.com #www4.l.google.com
 2404:6800:4005:804::200f stage.gdata.youtube.com #yt-video-upload.l.google.com
-2404:6800:4008:c01::8a s.youtube.com #video-stats.l.google.com
+2404:6800:4005:80b::2003 s.youtube.com #video-stats.l.google.com
 #2607:f8b0:4007:805::100e s2.youtube.com
 2404:6800:4005:80b::2003 accounts.youtube.com #www3.l.google.com
 2404:6800:4005:80b::2003 img.youtube.com #ytimg.l.google.com
 2404:6800:4005:804::2004 help.youtube.com #www.google.com
 2404:6800:4005:804::200f upload.youtube.com #yt-video-upload.l.google.com
 2404:6800:4005:80a::200f uploads.stage.gdata.youtube.com #yt-video-upload.l.google.com
-2404:6800:4003:c02::65 insight.youtube.com #video-analytics.google.com
+2404:6800:4005:80b::2003 insight.youtube.com #video-analytics.google.com
 2404:6800:4005:80b::2003 apiblog.youtube.com #www3.l.google.com
 
 #2404:6800:4008:c00::64 clients1.youtube.com

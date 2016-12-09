@@ -50,11 +50,11 @@
 2406:2000:108:3::1000 s.yimg.com #s.gycs.b.yahoodns.net
 
 ## Geeksforgeeks
-54.239.130.34 d2dskowxfbo68o.cloudfront.net
+#54.239.130.34 d2dskowxfbo68o.cloudfront.net
 
 ## GitHub
-192.30.253.113 github.com
-192.30.253.113 www.github.com #github.com
+192.30.253.112 github.com
+192.30.253.112 www.github.com #github.com
 192.30.253.117 api.github.com
 192.30.253.125 live.github.com
 2a04:4e42::133 assets-cdn.github.com #github.map.fastly.net
@@ -68,7 +68,8 @@
 2a04:4e42::133 avatars3.githubusercontent.com #github.map.fastly.net
 2a04:4e42::133 cloud.githubusercontent.com #github.map.fastly.net
 2a04:4e42::133 camo.githubusercontent.com #github.map.fastly.net
-151.101.100.133 raw.githubusercontent.com #github.map.fastly.net
+2a04:4e42::133 raw.githubusercontent.com #github.map.fastly.net
+2a04:4e42::133 gist.githubusercontent.com #github.map.fastly.net
 192.30.253.118 gist.github.com
 
 ## SoundCloud

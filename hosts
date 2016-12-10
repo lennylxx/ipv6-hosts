@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Wed, 07 Dec 2016 01:33:45 +0800                  |
+## |         Update : Thu, 08 Dec 2016 20:47:32 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -54,7 +54,7 @@
 2404:6800:4005:80b::2003 goto.google.com #www3.l.google.com
 2404:6800:4005:80b::2003 gxc.google.com #www3.l.google.com
 2404:6800:4005:80b::2003 hangouts.google.com #www3.l.google.com
-2404:6800:4008:c04::71 history.google.com #history.l.google.com
+2404:6800:4008:c07::66 history.google.com #history.l.google.com
 2404:6800:4005:80b::2003 investor.google.com #www3.l.google.com
 2404:6800:4005:80b::2003 ipv6.google.com #ipv6.l.google.com
 2404:6800:4005:80b::2003 jmt0.google.com #www3.l.google.com
@@ -117,7 +117,7 @@
 
 ## 谷歌香港
 2404:6800:4005:80b::2003 google.com.hk
-2404:6800:4008:c04::5e www.google.com.hk
+2404:6800:4005:80b::2003 www.google.com.hk
 2404:6800:4005:80b::2003 accounts.google.com.hk #accounts-cctld.l.google.com
 2404:6800:4005:804::2003 clients1.google.com.hk #clients-cctld.l.google.com
 #2404:6800:4008:c00::63 desktop.google.com.hk #desktop.l.google.com
@@ -130,16 +130,16 @@
 2404:6800:4005:80b::2004 www.googlechinawebmaster.com
 
 ## 谷歌中国
-2404:6800:4005:800::2003 g.cn
-2404:6800:4005:800::2003 google.cn
-2404:6800:4005:800::2003 www.google.cn
-2404:6800:4005:80b::2003 ipv6.google.cn #ipv6.l.google.com
-2404:6800:4005:800::2003 m.google.cn #www.google.cn
-2404:6800:4005:800::2003 news.google.cn #www.google.cn
-2404:6800:4005:800::2003 video.google.cn #www.google.cn
+2401:3800:4001:11::1000 g.cn
+2401:3800:4001:11::100f google.cn
+2401:3800:4001:11::100f www.google.cn
+2401:3800:4001:11::100f ipv6.google.cn #ipv6.l.google.com
+2401:3800:4001:11::100f m.google.cn #www.google.cn
+2401:3800:4001:11::100f news.google.cn #www.google.cn
+2401:3800:4001:11::100f video.google.cn #www.google.cn
 2404:6800:4005:80a::2001 music.googleusercontent.cn #music-china.l.google.com
-2404:6800:4005:800::2003 www.265.com #265.com
-2404:6800:4005:800::2003 265.com
+2401:3800:4001:11::100f www.265.com #265.com
+2401:3800:4001:11::100f 265.com
 
 ## Google 台湾
 2404:6800:4005:804::2003 www.google.com.tw
@@ -191,8 +191,8 @@
 
 ## Google Apps 企业应用套件
 2404:6800:4005:80b::2003 apps.google.com #www3.l.google.com
-2404:6800:4008:c01::79 ghs.google.com #ghs.l.google.com
-2404:6800:4008:c01::79 ghs46.google.com #ghs46.l.google.com
+2404:6800:4008:c04::79 ghs.google.com #ghs.l.google.com
+2404:6800:4008:c04::79 ghs46.google.com #ghs46.l.google.com
 
 ## Mashups/App Engine GAE
 2404:6800:4005:804::2004 googlemashups.com
@@ -710,8 +710,8 @@
 2404:6800:4003:c01::55 promote.orkut.com #orkut-promote.l.google.com
 2404:6800:4003:c01::69 help.orkut.com #www2.l.google.com
 2404:6800:4005:80a::2001 officialorkutblog.blogspot.com #blogspot.l.googleusercontent.com
-2404:6800:4008:c01::79 blog.orkut.com #ghs.google.com
-2404:6800:4008:c01::79 en.blog.orkut.com #ghs.google.com
+2404:6800:4008:c04::79 blog.orkut.com #ghs.google.com
+2404:6800:4008:c04::79 en.blog.orkut.com #ghs.google.com
 
 ## Pack 软件精选
 2404:6800:4003:c00::67 pack.google.com #www2.l.google.com
@@ -747,7 +747,7 @@
 2404:6800:4003:c00::5b sb.google.com #sb.l.google.com
 2404:6800:4003:c00::88 sb-ssl.google.com #sb-ssl.l.google.com
 2404:6800:4003:c00::88 safebrowsing.google.com #sb.l.google.com
-2404:6800:4008:c01::5d alt1-safebrowsing.google.com
+2404:6800:4008:c04::5d alt1-safebrowsing.google.com
 2404:6800:4005:80b::2003 safebrowsing.clients.google.com #clients.l.google.com
 2404:6800:4005:80b::2003 safebrowsing-cache.google.com #safebrowsing.cache.l.google.com
 
@@ -762,7 +762,7 @@
 
 ## Sites 协作平台
 2404:6800:4005:80b::2003 sites.google.com #sites-china.l.google.com
-2404:6800:4008:c01::79 gsamplemaps.googlepages.com #ghs.googlehosted.com
+2404:6800:4008:c04::79 gsamplemaps.googlepages.com #ghs.googlehosted.com
 
 ## SketchUp 3D 建模工具
 #2404:6800:4008:c00::66 sketchup.google.com
@@ -905,7 +905,7 @@
 2404:6800:4005:80b::2003 apis.google.com #plus.l.google.com
 2404:6800:4005:80b::2003 chart.apis.google.com #clients.l.google.com
 2404:6800:4005:804::2004 googleapis.com
-2404:6800:4003:809::200a www.googleapis.com #googleapis.l.google.com
+2404:6800:4005:804::200a www.googleapis.com #googleapis.l.google.com
 2404:6800:4005:802::200a *.googleapis.com #googleapis.l.google.com
 2404:6800:4005:802::200a ajax.googleapis.com #googleapis.l.google.com
 2404:6800:4005:802::200a android.googleapis.com #googleapis.l.google.com
@@ -933,7 +933,7 @@
 2404:6800:4005:804::200a mts3.googleapis.com #googleapis.l.google.com
 2404:6800:4005:804::200a ct.googleapis.com #googleapis.l.google.com
 2404:6800:4005:804::200a beyond-pa.clients6.google.com #googleapis.l.google.com
-2404:6800:4008:c05::ef datasaver.googleapis.com
+2404:6800:4005:804::200a datasaver.googleapis.com #googleapis.l.google.com
 
 ## Google Hosted 托管服务
 2404:6800:4005:800::2010 storage.googleapis.com #storage.l.googleusercontent.com
@@ -971,15 +971,15 @@
 #2404:6800:4008:c00::95 *.uk.doubleclick.net #dart.l.doubleclick.net
 #2404:6800:4008:c00::95 *.fr.doubleclick.net #dart.l.doubleclick.net
 #2404:6800:4008:c00::95 *.jp.doubleclick.net #dart.l.doubleclick.net
-2404:6800:4005:800::2002 googleads.g.doubleclick.net #pagead46.l.doubleclick.net
-2404:6800:4005:800::2002 www.googletagservices.com #pagead46.l.doubleclick.net
-2404:6800:4005:800::2002 static.googleadsserving.cn #pagead46.l.doubleclick.net
+2401:3800:4001:11::1019 googleads.g.doubleclick.net #pagead46.l.doubleclick.net
+2401:3800:4001:11::1019 www.googletagservices.com #pagead46.l.doubleclick.net
+2401:3800:4001:11::1019 static.googleadsserving.cn #pagead46.l.doubleclick.net
 
 ## Analytics 分析
-2404:6800:4008:c01::64 www.google-analytics.com #www-google-analytics.l.google.com
-2404:6800:4008:c02::61 ssl.google-analytics.com #ssl-google-analytics.l.google.com
+2401:3800:4001:11::101e www.google-analytics.com #www-google-analytics.l.google.com
+2401:3800:4001:11::101e ssl.google-analytics.com #ssl-google-analytics.l.google.com
 #2404:6800:4008:c00::61 *.google-analytics.com
-2404:6800:4008:c06::8b service.urchin.com #www-google-analytics.l.google.com
+2401:3800:4001:11::101e service.urchin.com #www-google-analytics.l.google.com
 2404:6800:4005:80b::2003 analytics.google.com #www3.l.google.com
 
 ## Google Art Project
@@ -1006,24 +1006,24 @@
 2404:6800:4005:80b::2003 g.co
 
 ## html5rocks HTML5 推广专题网站
-2404:6800:4008:c01::79 www.html5rocks.com #ghs.google.com
-2404:6800:4008:c01::79 slides.html5rocks.com #ghs.google.com
-2404:6800:4008:c01::79 playground.html5rocks.com #ghs.google.com
-2404:6800:4008:c01::79 studio.html5rocks.com #ghs.google.com
+2404:6800:4008:c04::79 www.html5rocks.com #ghs.google.com
+2404:6800:4008:c04::79 slides.html5rocks.com #ghs.google.com
+2404:6800:4008:c04::79 playground.html5rocks.com #ghs.google.com
+2404:6800:4008:c04::79 studio.html5rocks.com #ghs.google.com
 
 ## Google.org Google 公益
 2404:6800:4005:80b::2003 www.google.org
 2404:6800:4005:80b::2003 google.org
-2404:6800:4008:c01::79 blog.google.org #ghs.google.com
+2404:6800:4008:c04::79 blog.google.org #ghs.google.com
 
 ## Panoramio
 2404:6800:4005:800::2011 www.panoramio.com #appspot.l.google.com
 2404:6800:4005:800::2010 static.panoramio.com #c.storage.googleapis.com
-2404:6800:4008:c01::79 blog.panoramio.com #ghs.google.com
+2404:6800:4008:c04::79 blog.panoramio.com #ghs.google.com
 
 ## Polymer project
-2404:6800:4008:c01::79 www.polymer-project.com #ghs.google.com
-2404:6800:4008:c01::79 blog.polymer-project.com #ghs.google.com
+2404:6800:4008:c04::79 www.polymer-project.com #ghs.google.com
+2404:6800:4008:c04::79 blog.polymer-project.com #ghs.google.com
 
 ## Recaptcha 验证码服务
 2404:6800:4005:80b::2004 www.recaptcha.net #www.l.google.com
@@ -1032,25 +1032,28 @@
 2404:6800:4005:80b::2004 mailhide.recaptcha.net #www.l.google.com
 
 ## Google Wave Federation Protocol · GWave 协议开源计划
-2404:6800:4008:c01::79 www.waveprotocol.org #ghs.l.google.com
+2404:6800:4008:c04::79 www.waveprotocol.org #ghs.l.google.com
 
 ## The WebM Project WebM 开放多媒体项目
 2404:6800:4005:80b::2004 webmproject.org
 2404:6800:4005:80b::2003 www.webmproject.org #www3.l.google.com
-2404:6800:4008:c01::79 lists.webmproject.org #ghs.google.com
-2404:6800:4008:c01::79 blog.webmproject.org #ghs.google.com
-2404:6800:4008:c01::79 www.webm-ccl.org #ghs.l.google.com
+2404:6800:4008:c04::79 lists.webmproject.org #ghs.google.com
+2404:6800:4008:c04::79 blog.webmproject.org #ghs.google.com
+2404:6800:4008:c04::79 www.webm-ccl.org #ghs.l.google.com
+
+## AMP Project
+2404:6800:4005:800::2003 cdn.ampproject.org
 
 ## GoogleZip 数据压缩代理
-#2800:3f0:4003:c00::72 check.googlezip.net
+2001:4860:4802:32::1d check.googlezip.net
 2404:6800:4005:80a::200c compress.googlezip.net
 2404:6800:4005:804::200c proxy.googlezip.net
 2404:6800:4005:804::200c proxy-dev.googlezip.net
 
 ## Chrome 相关专题网站
 2404:6800:4005:80b::2003 www.chromercise.com #www3.l.google.com
-2404:6800:4008:c01::79 www.chromeexperiments.com #ghs.google.com
-2404:6800:4008:c01::79 www.20thingsilearned.com #ghs.google.com
+2404:6800:4008:c04::79 www.chromeexperiments.com #ghs.google.com
+2404:6800:4008:c04::79 www.20thingsilearned.com #ghs.google.com
 
 ## IPv6 专题
 #2404:6800:4008:c00::63 ipv6test.google.com #ipv6test.l.google.com
@@ -1060,22 +1063,22 @@
 #2607:f8b0:400e:c01::97 chrome.googleechotest.com #chromeecho.l.google.com
 
 ## 其他专题站
-2404:6800:4008:c01::79 www.creativelab5.com #ghs.google.com
+2404:6800:4008:c04::79 www.creativelab5.com #ghs.google.com
 2404:6800:4005:80b::2003 www.data-vocabulary.org #www3.l.google.com
 2404:6800:4005:80b::2003 www.googleinsidesearch.com #www3.l.google.com
 2404:6800:4005:80b::2003 www.teachparentstech.org #www3.l.google.com
-2404:6800:4008:c01::79 www.agoogleaday.com #ghs.l.google.com
-2404:6800:4008:c01::79 www.gosetsuden.jp #ghs.google.com
-2404:6800:4008:c01::79 www.gwtproject.org #ghs.google.com
-2404:6800:4008:c01::79 www.thegooglepuzzle.com #ghs.google.com
-2404:6800:4008:c01::79 www.thegobridgeoglepuzzle.com #ghs.google.com
+2404:6800:4008:c04::79 www.agoogleaday.com #ghs.l.google.com
+2404:6800:4008:c04::79 www.gosetsuden.jp #ghs.google.com
+2404:6800:4008:c04::79 www.gwtproject.org #ghs.google.com
+2404:6800:4008:c04::79 www.thegooglepuzzle.com #ghs.google.com
+2404:6800:4008:c04::79 www.thegobridgeoglepuzzle.com #ghs.google.com
 2404:6800:4005:80b::2003 www.oneworldmanystories.com #www3.l.google.com
-2404:6800:4008:c01::79 www.googlezeitgeist.com #ghs.google.com
+2404:6800:4008:c04::79 www.googlezeitgeist.com #ghs.google.com
 2404:6800:4005:80b::2003 www.googleinsidesearch.com #www3.l.google.com
 #2404:6800:4008:c00::79 www.emailintervention.com #ghs.l.google.com
 #2404:6800:4008:c00::79 www.dartlang.org #ghs.l.google.com
 #2404:6800:4008:c00::79 try.dartlang.org #ghs.l.google.com
-2404:6800:4008:c01::79 news.dartlang.org #ghs.google.com
+2404:6800:4008:c04::79 news.dartlang.org #ghs.google.com
 2404:6800:4005:80b::2003 certificate-transparency.org
 2404:6800:4005:80b::2003 www.certificate-transparency.org
 2404:6800:4008:c00::79 code.getmdl.io #ghs.l.google.com
@@ -2661,16 +2664,16 @@
 2404:6800:4005:80b::2003 www.youtube-nocookie.com #youtube-ui.l.google.com
 2404:6800:4005:80b::2003 m.youtube.com
 2404:6800:4005:80b::2003 youtu.be
-2404:6800:4003:c02::76 gdata.youtube.com #www4.l.google.com
+2404:6800:4005:80b::2003 gdata.youtube.com #www4.l.google.com
 2404:6800:4005:804::200f stage.gdata.youtube.com #yt-video-upload.l.google.com
-2404:6800:4008:c01::8a s.youtube.com #video-stats.l.google.com
+2404:6800:4005:80b::2003 s.youtube.com #video-stats.l.google.com
 #2607:f8b0:4007:805::100e s2.youtube.com
 2404:6800:4005:80b::2003 accounts.youtube.com #www3.l.google.com
 2404:6800:4005:80b::2003 img.youtube.com #ytimg.l.google.com
 2404:6800:4005:804::2004 help.youtube.com #www.google.com
 2404:6800:4005:804::200f upload.youtube.com #yt-video-upload.l.google.com
 2404:6800:4005:80a::200f uploads.stage.gdata.youtube.com #yt-video-upload.l.google.com
-2404:6800:4003:c02::65 insight.youtube.com #video-analytics.google.com
+2404:6800:4005:80b::2003 insight.youtube.com #video-analytics.google.com
 2404:6800:4005:80b::2003 apiblog.youtube.com #www3.l.google.com
 
 #2404:6800:4008:c00::64 clients1.youtube.com
@@ -22935,11 +22938,11 @@
 2406:2000:108:3::1000 s.yimg.com #s.gycs.b.yahoodns.net
 
 ## Geeksforgeeks
-54.239.130.34 d2dskowxfbo68o.cloudfront.net
+#54.239.130.34 d2dskowxfbo68o.cloudfront.net
 
 ## GitHub
-192.30.253.113 github.com
-192.30.253.113 www.github.com #github.com
+192.30.253.112 github.com
+192.30.253.112 www.github.com #github.com
 192.30.253.117 api.github.com
 192.30.253.125 live.github.com
 2a04:4e42::133 assets-cdn.github.com #github.map.fastly.net
@@ -22953,7 +22956,8 @@
 2a04:4e42::133 avatars3.githubusercontent.com #github.map.fastly.net
 2a04:4e42::133 cloud.githubusercontent.com #github.map.fastly.net
 2a04:4e42::133 camo.githubusercontent.com #github.map.fastly.net
-151.101.100.133 raw.githubusercontent.com #github.map.fastly.net
+2a04:4e42::133 raw.githubusercontent.com #github.map.fastly.net
+2a04:4e42::133 gist.githubusercontent.com #github.map.fastly.net
 192.30.253.118 gist.github.com
 
 ## SoundCloud

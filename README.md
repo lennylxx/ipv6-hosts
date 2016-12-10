@@ -57,7 +57,7 @@ Some Public DNS Servers
 | ISP      | Hutchison Whampoa Ltd. | UCOM Corporation   |
 | City     | Hong Kong              | Tokyo              |
 
-More public DNS servers please refer to http://public-dns.tk
+More public DNS servers please refer to http://public-dns.info
 
 Privacy
 -------

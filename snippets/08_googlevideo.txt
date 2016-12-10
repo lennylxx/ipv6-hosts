@@ -1400,6 +1400,11 @@
 #2407:0:0:11::e r3---sn-poqvn5u-jb3l.googlevideo.com
 #2407:0:0:11::f r4---sn-poqvn5u-jb3l.googlevideo.com
 
+2407:ed00:2c03:103::c r1---sn-qu5j-c33y.googlevideo.com
+2407:ed00:2c03:103::d r2---sn-qu5j-c33y.googlevideo.com
+2407:ed00:2c03:103::e r3---sn-qu5j-c33y.googlevideo.com
+2407:ed00:2c03:103::f r4---sn-qu5j-c33y.googlevideo.com
+
 2620:4b::c r1---sn-f2bpm-tfbe.googlevideo.com
 2620:4b::d r2---sn-f2bpm-tfbe.googlevideo.com
 2620:4b::e r3---sn-f2bpm-tfbe.googlevideo.com

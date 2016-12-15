@@ -1400,6 +1400,23 @@
 #2407:0:0:11::e r3---sn-poqvn5u-jb3l.googlevideo.com
 #2407:0:0:11::f r4---sn-poqvn5u-jb3l.googlevideo.com
 
+2407:ed00:1c03:100::c r1---sn-qu5j-c33l.googlevideo.com
+2407:ed00:1c03:100::d r2---sn-qu5j-c33l.googlevideo.com
+2407:ed00:1c03:100::e r3---sn-qu5j-c33l.googlevideo.com
+2407:ed00:1c03:100::f r4---sn-qu5j-c33l.googlevideo.com
+2407:ed00:1c03:100::10 r5---sn-qu5j-c33l.googlevideo.com
+2407:ed00:1c03:100::11 r6---sn-qu5j-c33l.googlevideo.com
+2407:ed00:1c03:100::12 r7---sn-qu5j-c33l.googlevideo.com
+2407:ed00:1c03:100::13 r8---sn-qu5j-c33l.googlevideo.com
+2407:ed00:1c03:102::c r1---sn-qu5j-c33k.googlevideo.com
+2407:ed00:1c03:102::d r2---sn-qu5j-c33k.googlevideo.com
+2407:ed00:1c03:102::e r3---sn-qu5j-c33k.googlevideo.com
+2407:ed00:1c03:102::f r4---sn-qu5j-c33k.googlevideo.com
+2407:ed00:1c03:102::10 r5---sn-qu5j-c33k.googlevideo.com
+2407:ed00:1c03:102::11 r6---sn-qu5j-c33k.googlevideo.com
+2407:ed00:1c03:102::12 r7---sn-qu5j-c33k.googlevideo.com
+2407:ed00:1c03:102::13 r8---sn-qu5j-c33k.googlevideo.com
+
 2407:ed00:2c03:103::c r1---sn-qu5j-c33y.googlevideo.com
 2407:ed00:2c03:103::d r2---sn-qu5j-c33y.googlevideo.com
 2407:ed00:2c03:103::e r3---sn-qu5j-c33y.googlevideo.com

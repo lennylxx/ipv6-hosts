@@ -4,12 +4,12 @@
 ## |  ||  ─  ||  |  ||  ─  | |______| |     ||  ─  ||__ ──||   _||__ ──|
 ## |__||  ┌──┘ \___/ |_____|          |__|__||_____||_____||____||_____|
 ##     |__|                                                             
-##                                                          · lennylxx ·
+##                                                         · hoschi111 ·
 ##
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
-## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Thu, 15 Dec 2016 20:38:34 +0800                  |
+## |         Project: https://github.com/hoschi111/ipv6-hosts          |
+## |         Update : 21.02.2017 16:45:00 +0800                        |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -30,6 +30,7 @@
 2404:6800:4005:804::2004 www.google.com
 2404:6800:4005:80b::2003 aboutme.google.com #plus.l.google.com
 2404:6800:4005:801::200d accounts.google.com #accounts.l.google.com
+2a00:1450:400e:805::2003 accounts.google.de
 2404:6800:4005:80b::2003 admin.google.com
 2404:6800:4005:80b::2003 bpui0.google.com #www3.l.google.com
 2404:6800:4005:80b::2003 clients1.google.com #clients.l.google.com
@@ -188,6 +189,7 @@
 2404:6800:4005:80b::2003 www.google.co.ve
 2404:6800:4005:80b::2003 www.google.com.vn
 2404:6800:4005:80a::2003 www.google.co.za
+2a00:1450:400e:804::2003 www.google.co.th
 
 ## Google Apps 企业应用套件
 2404:6800:4005:80b::2003 apps.google.com #www3.l.google.com
@@ -19232,6 +19234,7 @@
 2a03:2880:f00d:1:face:b00c::1 zh-cn.facebook.com #star.facebook.com
 2a03:2880:f00d:1:face:b00c::1 zh-tw.facebook.com #star.facebook.com
 2a03:2880:f00d:1:face:b00c::1 star.c10r.facebook.com
+2a03:2880:f10b:83:face:b00c:0:25de l.facebook.com
 2a03:2880:f10d:81:face:b00c:0:e17 snaptu-z.facebook.com #snaptu-mini.c10r.facebook.com
 2a03:2880:f00d:c:face:b00c:0:4381 snaptu-p1.facebook.com #snaptu-p1.c10r.facebook.com
 2a03:2880:f00d:a0:face:b00c:0:4382 snaptu-p2.facebook.com #snaptu-p2.c10r.facebook.com
@@ -19348,6 +19351,7 @@
 2a03:2880:f20d:c4:face:b00c:0:43fe instagram.com
 2a03:2880:f20d:c4:face:b00c:0:43fe www.instagram.com
 2a03:2880:f20d:c4:face:b00c:0:43fe i.instagram.com
+2a03:2880:f20d:c4:face:b00c:0:43fe l.instagram.com
 2a03:2880:f20d:c4:face:b00c:0:43fe api.instagram.com
 2a03:2880:f20d:c4:face:b00c:0:43fe help.instagram.com
 2a03:2880:f20d:c4:face:b00c:0:43fe blog.instagram.com

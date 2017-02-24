@@ -167,6 +167,7 @@
 2404:6800:4005:804::2003 www.google.com.sg
 2404:6800:4005:80b::2003 www.google.com.tr
 2404:6800:4005:804::2003 www.google.com.ua
+2a00:1450:400e:804::2003 www.google.co.th
 2404:6800:4005:804::2003 www.google.co.uk
 2404:6800:4005:80b::2003 www.google.co.ve
 2404:6800:4005:80b::2003 www.google.com.vn

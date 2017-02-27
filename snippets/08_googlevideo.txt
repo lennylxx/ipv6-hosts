@@ -2275,6 +2275,12 @@
 2404:6800:4005:10::a r4---sn-i3belnel.googlevideo.com
 2404:6800:4005:10::b r5---sn-i3belnel.googlevideo.com
 2404:6800:4005:10::c r6---sn-i3belnel.googlevideo.com
+2404:6800:4005:11::7 r1---sn-i3belnez.googlevideo.com
+2404:6800:4005:11::8 r2---sn-i3belnez.googlevideo.com
+2404:6800:4005:11::9 r3---sn-i3belnez.googlevideo.com
+2404:6800:4005:11::a r4---sn-i3belnez.googlevideo.com
+2404:6800:4005:11::b r5---sn-i3belnez.googlevideo.com
+2404:6800:4005:11::c r6---sn-i3belnez.googlevideo.com
 2404:6800:4007::6 r1---sn-h557sn7r.googlevideo.com
 2404:6800:4007::7 r2---sn-h557sn7r.googlevideo.com
 2404:6800:4007::8 r3---sn-h557sn7r.googlevideo.com

@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Thu, 15 Dec 2016 20:38:34 +0800                  |
+## |         Update : Fr, 24 Feb 2017 12:43:28 +0100                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -184,6 +184,7 @@
 2404:6800:4005:804::2003 www.google.com.sg
 2404:6800:4005:80b::2003 www.google.com.tr
 2404:6800:4005:804::2003 www.google.com.ua
+2a00:1450:400e:804::2003 www.google.co.th
 2404:6800:4005:804::2003 www.google.co.uk
 2404:6800:4005:80b::2003 www.google.co.ve
 2404:6800:4005:80b::2003 www.google.com.vn
@@ -4962,6 +4963,12 @@
 2404:6800:4005:10::a r4---sn-i3belnel.googlevideo.com
 2404:6800:4005:10::b r5---sn-i3belnel.googlevideo.com
 2404:6800:4005:10::c r6---sn-i3belnel.googlevideo.com
+2404:6800:4005:11::7 r1---sn-i3belnez.googlevideo.com
+2404:6800:4005:11::8 r2---sn-i3belnez.googlevideo.com
+2404:6800:4005:11::9 r3---sn-i3belnez.googlevideo.com
+2404:6800:4005:11::a r4---sn-i3belnez.googlevideo.com
+2404:6800:4005:11::b r5---sn-i3belnez.googlevideo.com
+2404:6800:4005:11::c r6---sn-i3belnez.googlevideo.com
 2404:6800:4007::6 r1---sn-h557sn7r.googlevideo.com
 2404:6800:4007::7 r2---sn-h557sn7r.googlevideo.com
 2404:6800:4007::8 r3---sn-h557sn7r.googlevideo.com
@@ -19232,6 +19239,7 @@
 2a03:2880:f00d:1:face:b00c::1 zh-cn.facebook.com #star.facebook.com
 2a03:2880:f00d:1:face:b00c::1 zh-tw.facebook.com #star.facebook.com
 2a03:2880:f00d:1:face:b00c::1 star.c10r.facebook.com
+2a03:2880:f10b:83:face:b00c:0:25de l.facebook.com
 2a03:2880:f10d:81:face:b00c:0:e17 snaptu-z.facebook.com #snaptu-mini.c10r.facebook.com
 2a03:2880:f00d:c:face:b00c:0:4381 snaptu-p1.facebook.com #snaptu-p1.c10r.facebook.com
 2a03:2880:f00d:a0:face:b00c:0:4382 snaptu-p2.facebook.com #snaptu-p2.c10r.facebook.com
@@ -19348,6 +19356,7 @@
 2a03:2880:f20d:c4:face:b00c:0:43fe instagram.com
 2a03:2880:f20d:c4:face:b00c:0:43fe www.instagram.com
 2a03:2880:f20d:c4:face:b00c:0:43fe i.instagram.com
+2a03:2880:f20d:c4:face:b00c:0:43fe l.instagram.com
 2a03:2880:f20d:c4:face:b00c:0:43fe api.instagram.com
 2a03:2880:f20d:c4:face:b00c:0:43fe help.instagram.com
 2a03:2880:f20d:c4:face:b00c:0:43fe blog.instagram.com

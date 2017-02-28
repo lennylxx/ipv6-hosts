@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Fr, 24 Feb 2017 12:43:28 +0100                  |
+## |         Update : Sat, 25 Feb 2017 14:12:24 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -4897,12 +4897,12 @@
 2404:6800:4003:d::a r4---sn-npo7zn7r.googlevideo.com
 2404:6800:4003:d::b r5---sn-npo7zn7r.googlevideo.com
 2404:6800:4003:d::c r6---sn-npo7zn7r.googlevideo.com
-2404:6800:4003:e::7 r1---sn-npoe7n7z.googlevideo.com
-2404:6800:4003:e::8 r2---sn-npoe7n7z.googlevideo.com
-2404:6800:4003:e::9 r3---sn-npoe7n7z.googlevideo.com
-2404:6800:4003:e::a r4---sn-npoe7n7z.googlevideo.com
-2404:6800:4003:e::b r5---sn-npoe7n7z.googlevideo.com
-2404:6800:4003:e::c r6---sn-npoe7n7z.googlevideo.com
+#2404:6800:4003:e::7 r1---sn-npoe7n7z.googlevideo.com
+#2404:6800:4003:e::8 r2---sn-npoe7n7z.googlevideo.com
+#2404:6800:4003:e::9 r3---sn-npoe7n7z.googlevideo.com
+#2404:6800:4003:e::a r4---sn-npoe7n7z.googlevideo.com
+#2404:6800:4003:e::b r5---sn-npoe7n7z.googlevideo.com
+#2404:6800:4003:e::c r6---sn-npoe7n7z.googlevideo.com
 2404:6800:4003:f::7 r1---sn-npoe7n76.googlevideo.com
 2404:6800:4003:f::8 r2---sn-npoe7n76.googlevideo.com
 2404:6800:4003:f::9 r3---sn-npoe7n76.googlevideo.com
@@ -6551,6 +6551,12 @@
 2404:6800:400c:17::17 r18---sn-i3b7knl7.googlevideo.com
 2404:6800:400c:17::18 r19---sn-i3b7knl7.googlevideo.com
 2404:6800:400c:17::19 r20---sn-i3b7knl7.googlevideo.com
+2404:6800:400f:4::7 r1---sn-npoe7n7z.googlevideo.com
+2404:6800:400f:4::8 r2---sn-npoe7n7z.googlevideo.com
+2404:6800:400f:4::9 r3---sn-npoe7n7z.googlevideo.com
+2404:6800:400f:4::a r4---sn-npoe7n7z.googlevideo.com
+2404:6800:400f:4::b r5---sn-npoe7n7z.googlevideo.com
+2404:6800:400f:4::c r6---sn-npoe7n7z.googlevideo.com
 2607:f8b0:4000:1::6 r1---sn-q4f7snss.googlevideo.com
 2607:f8b0:4000:1::7 r2---sn-q4f7snss.googlevideo.com
 2607:f8b0:4000:1::8 r3---sn-q4f7snss.googlevideo.com

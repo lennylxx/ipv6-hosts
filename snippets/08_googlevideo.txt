@@ -7306,7 +7306,8 @@
 2607:f8b0:400f:7::b r5---sn-qxo7snel.googlevideo.com
 2607:f8b0:400f:7::c r6---sn-qxo7snel.googlevideo.com
 2607:f8b0:400f:c::3 r1---sn-qxo7sner.googlevideo.com
-2607:f8b0:400f:c::4 r2---sn-qxo7sner.googlevideo.com2607:f8b0:4012::6 r1---sn-9gv7en7e.googlevideo.com
+2607:f8b0:400f:c::4 r2---sn-qxo7sner.googlevideo.com
+2607:f8b0:4012::6 r1---sn-9gv7en7e.googlevideo.com
 2607:f8b0:4012::7 r2---sn-9gv7en7e.googlevideo.com
 2607:f8b0:4012::8 r3---sn-9gv7en7e.googlevideo.com
 2607:f8b0:4012::9 r4---sn-9gv7en7e.googlevideo.com

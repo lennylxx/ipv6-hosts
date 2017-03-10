@@ -1,5 +1,5 @@
 ## Apple 苹果
-2600:1406:3:18b::1aca www.apple.com #www.isg-apple.com.akadns.net
+2a02:26f0:2d:193::1aca www.apple.com #www.isg-apple.com.akadns.net
 
 ## Blizzard Entertainment 暴雪娱乐
 2620:10b:9006:600:dad3:85ff:fed9:ce24 ipv6.blizzard.com
@@ -14,7 +14,7 @@
 ## Plurk
 #2607:f128:47::1:1 plurk.com
 #2607:f128:47::1:1 www.plurk.com
-2607:f128:47::1:1 ipv6.plurk.com
+#2607:f128:47::1:1 ipv6.plurk.com
 
 ## 其他IPv6网站
 ## US 美国
@@ -40,172 +40,172 @@
 #2620:101:8008:5::2:8 firefox.com
 
 ## Microsoft 微软
-2600:1406:3:18b::2768 www.microsoft.com #e10088.dscb.akamaiedge.net
-#2600:140e:1:1::3cfe:83a3 i.microsoft.com
-2600:1406:3:18b::29df i2.microsoft.com #i.microsoft.com.edgekey.net
-2600:1406:3:18b::29df i3.microsoft.com #i.microsoft.com.edgekey.net
-2600:1417:9::b833:f5b i4.microsoft.com #i.toggle.www.ms.akadns.net
+2a02:26f0:2d:19c::747 www.microsoft.com #e10088.dscb.akamaiedge.net
+2a02:26f0:2d:481::2886 i.microsoft.com
+2a02:26f0:2d:481::2886 i2.microsoft.com #i.microsoft.com.edgekey.net
+2a02:26f0:2d:481::2886 i3.microsoft.com #i.microsoft.com.edgekey.net
+2a02:26f0:70::5c7a:7a99 i4.microsoft.com #i.toggle.www.ms.akadns.net
 2002:836b:9820::836b:9886 www.ipv6.microsoft.com
-2600:1406:3:18b::e59 download.microsoft.com
-204.79.197.217 onedrive.live.com #skyweb.skyprod.akadns.net
-134.170.120.48 skyapi.onedrive.live.com
-204.79.197.217 skyweb.skyprod.akadns.net
-204.79.197.217 webedgegeo.skyprod.akadns.net
-2600:1406:3:18b::1aff s1-word-view-15.cdn.office.net #wildcard.cdn.office.net.edgekey.net
-#2600:1406:3:18b::1aff s1-officeapps-15.cdn.office.net #e6911.dspg.akamaiedge.net
-2a01:111:2003::200 www.bing.com
-2a01:111:2003::200 cn.bing.com
-2a01:111:2003::200 ssl.bing.com
-2a01:111:2003::200 global.bing.com
-2a01:111:2003::200 api.bing.com
-2a01:111:2003::200 bj1.api.bing.com
-2a01:111:2003::200 tse1.mm.bing.net
-2a01:111:2003::200 tse2.mm.bing.net
-2a01:111:2003::200 tse3.mm.bing.net
-2a01:111:2003::200 tse4.mm.bing.net
-2a01:111:2003::200 tse1-mm.cn.bing.net
-2a01:111:2003::200 tse2-mm.cn.bing.net
-2a01:111:2003::200 tse3-mm.cn.bing.net
-2a01:111:2003::200 tse4-mm.cn.bing.net
-2600:1417:9::b833:f5b a248.e.akamai.net
+2a02:26f0:2d:482::e59 download.microsoft.com
+#204.79.197.217 onedrive.live.com #skyweb.skyprod.akadns.net
+#134.170.120.48 skyapi.onedrive.live.com
+#204.79.197.217 skyweb.skyprod.akadns.net
+#204.79.197.217 webedgegeo.skyprod.akadns.net
+2a02:26f0:2d:488::1aff s1-word-view-15.cdn.office.net #wildcard.cdn.office.net.edgekey.net
+2a02:26f0:2d:482::1aff s1-officeapps-15.cdn.office.net #e6911.dspg.akamaiedge.net
+#2a01:111:2003::200 www.bing.com
+#2a01:111:2003::200 cn.bing.com
+#2a01:111:2003::200 ssl.bing.com
+#2a01:111:2003::200 global.bing.com
+#2a01:111:2003::200 api.bing.com
+#2a01:111:2003::200 bj1.api.bing.com
+#2a01:111:2003::200 tse1.mm.bing.net
+#2a01:111:2003::200 tse2.mm.bing.net
+#2a01:111:2003::200 tse3.mm.bing.net
+#2a01:111:2003::200 tse4.mm.bing.net
+#2a01:111:2003::200 tse1-mm.cn.bing.net
+#2a01:111:2003::200 tse2-mm.cn.bing.net
+#2a01:111:2003::200 tse3-mm.cn.bing.net
+#2a01:111:2003::200 tse4-mm.cn.bing.net
+#2600:1417:9::b833:f5b a248.e.akamai.net
 
 ## ARIN
-2001:500:4:c000::43 www.arin.net
-2001:500:31::46 whois.arin.net
+2001:500:4:c000::44 www.arin.net
+2001:500:13::46 whois.arin.net
 
 ## Yahoo!
-2406:2000:ec:601::1009 www.yahoo.com #fd-fp3.wg1.b.yahoo.com
-2406:2000:f016:1fe::3001 news.yahoo.com #fd-geoycpi-uno-deluxe.gycpi.b.yahoodns.net
-2406:2000:f016:1fe::3001 hk.news.yahoo.com #fd-geoycpi-uno-deluxe.gycpi.b.yahoodns.net
-2406:2000:fc:200::c:9103 dstest.yahoo.com #ds-jpx-ycpi-uno.gycpi.b.yahoodns.net
-2406:2000:fc:200::c:9102 dstest2.yahoo.com #ds-jpx-ycpi-uno.gycpi.b.yahoodns.net
-2406:2000:f016:1fe::3001 dstest3.yahoo.com #ds-jpx-ycpi-uno.gycpi.b.yahoodns.net
-2406:2000:f016:1fe::3000 tw.news.yahoo.com #fd-geoycpi-uno-deluxe.gycpi.b.yahoodns.net
-2406:2000:f016:1fe::3001 tw.news.yahoo.com #fd-geoycpi-uno-deluxe.gycpi.b.yahoodns.net
-2406:2000:f008:1fd::c:1101 l.yimg.com #l.gycs.b.yahoodns.net
-2406:2000:fc:402::c:2201 l1.yimg.com #l.gycs.b.yahoodns.net
-#2001:4998:8:1::2001 l2.yimg.com #any-l.aycs.b.yahoodns.net
-#2001:4998:8:1::2001 l3.yimg.com #any-l.aycs.b.yahoodns.net
-2406:2000:104:604::2000 ad.yieldmanager.com #ds-kr-world.ngd.gysm.yahoodns.net
+2a00:1288:110:2::4001 www.yahoo.com #fd-fp3.wg1.b.yahoo.com
+2a00:1288:110:604::3000 news.yahoo.com #fd-geoycpi-uno-deluxe.gycpi.b.yahoodns.net
+#2406:2000:f016:1fe::3001 hk.news.yahoo.com #fd-geoycpi-uno-deluxe.gycpi.b.yahoodns.net
+2a00:1288:7c:800::4001 dstest.yahoo.com #ds-jpx-ycpi-uno.gycpi.b.yahoodns.net
+2a00:1288:84:800::1002 dstest2.yahoo.com #ds-jpx-ycpi-uno.gycpi.b.yahoodns.net
+2a00:1288:84:800::1001 dstest3.yahoo.com #ds-jpx-ycpi-uno.gycpi.b.yahoodns.net
+#2406:2000:f016:1fe::3000 tw.news.yahoo.com #fd-geoycpi-uno-deluxe.gycpi.b.yahoodns.net
+#2406:2000:f016:1fe::3001 tw.news.yahoo.com #fd-geoycpi-uno-deluxe.gycpi.b.yahoodns.net
+2a00:1288:7c:800::4001 l.yimg.com #l.gycs.b.yahoodns.net
+2a00:1288:7c:800::4001 l1.yimg.com #l.gycs.b.yahoodns.net
+2a00:1288:7c:800::4000 l2.yimg.com #any-l.aycs.b.yahoodns.net
+2a00:1288:7c:800::4001 l3.yimg.com #any-l.aycs.b.yahoodns.net
+2a00:1288:110:833::4000 ad.yieldmanager.com #ds-kr-world.ngd.gysm.yahoodns.net
 
 ## Uncyclopedia
 2400:cb00:2048:1::681c:1a21 uncyclopedia.hk
-2400:cb00:2048:1::681c:1b09 uncyclopedia.info
-2400:cb00:2048:1::681c:1a09 www.uncyclopedia.info
+2400:cb00:2048:1::681c:1a09 uncyclopedia.info
+2400:cb00:2048:1::681c:1b09 www.uncyclopedia.info
 2400:cb00:2048:1::681c:1204 uncyclopedia.tw
 2400:cb00:2048:1::681c:a56 uncyclomedia.org
 2400:cb00:2048:1::681c:a56 meta.uncyclomedia.org
-2400:cb00:2048:1::681c:193a images.uncyc.org
+2400:cb00:2048:1::681c:183a images.uncyc.org
 2400:cb00:2048:1::681c:193a static.uncyc.org
-2400:cb00:2048:1::681c:1009 ansaikuropedia.org
+2400:cb00:2048:1::681c:1109 ansaikuropedia.org
 
 ## Vine
-2606:1f80:a000:100::4 edge.vncdn.co
-2606:1f80:a000:100::11 mid.vncdn.co
-2606:1f80:a000:100::5 v.cdn.vine.co
-2606:1f80:a000:100::5 mtc.cdn.vine.co
+#2606:1f80:a000:100::4 edge.vncdn.co
+#2606:1f80:a000:100::11 mid.vncdn.co
+#2606:1f80:a000:100::5 v.cdn.vine.co
+#2606:1f80:a000:100::5 mtc.cdn.vine.co
 
 ## Imgur
-2a04:4e42::193 imgur.com
-2a04:4e42::193 www.imgur.com
-2a04:4e42::193 s.imgur.com
-2a04:4e42::193 i.imgur.com
-2a04:4e42::193 m.imgur.com
-2a04:4e42::193 p.imgur.com
-2a04:4e42::193 api.imgur.com
+#2a04:4e42::193 imgur.com
+#2a04:4e42::193 www.imgur.com
+#2a04:4e42::193 s.imgur.com
+#2a04:4e42::193 i.imgur.com
+#2a04:4e42::193 m.imgur.com
+#2a04:4e42::193 p.imgur.com
+#2a04:4e42::193 api.imgur.com
 
 ## Steam
 #2600:1406:3:18b::3a7 api.steampowered.com
 #2600:1406:3:18b::3a7 support.steampowered.com
-2600:1417:9::b833:f5b repo.steampowered.com
-2600:1417:9::b833:f5b cdn.akamai.steamstatic.com
-2600:1417:9::b833:f5b store.akamai.steamstatic.com
-2600:1417:9::b833:f5b cdn.store.steampowered.com
-2600:1417:9::b833:f5b cdn.steampowered.com
-2600:1417:9::b833:f5b media.steampowered.com
-2600:1417:9::b833:f5b media4.steampowered.com
-2600:1417:9::b833:f5b content8.steampowered.com
-2600:1417:9::b833:f5b cloud-3.steampowered.com
-2600:1417:9::b833:f5b cloud-3.steamusercontent.com
-2600:1417:9::b833:f5b images.akamai.steamusercontent.com
-2600:1417:9::b833:f5b steamcdn-a.akamaihd.net
-2600:1417:9::b833:f5b steamstore-a.akamaihd.net
-2600:1417:9::b833:f5b steamcommunity-a.akamaihd.net
-2600:1417:9::b833:f5b cdn.steamcommunity.com
-2600:1417:9::b833:f5b store.valvesoftware.com
+#2600:1417:9::b833:f5b repo.steampowered.com
+#2600:1417:9::b833:f5b cdn.akamai.steamstatic.com
+#2600:1417:9::b833:f5b store.akamai.steamstatic.com
+#2600:1417:9::b833:f5b cdn.store.steampowered.com
+#2600:1417:9::b833:f5b cdn.steampowered.com
+#2600:1417:9::b833:f5b media.steampowered.com
+#2600:1417:9::b833:f5b media4.steampowered.com
+#2600:1417:9::b833:f5b content8.steampowered.com
+#2600:1417:9::b833:f5b cloud-3.steampowered.com
+#2600:1417:9::b833:f5b cloud-3.steamusercontent.com
+#2600:1417:9::b833:f5b images.akamai.steamusercontent.com
+#2600:1417:9::b833:f5b steamcdn-a.akamaihd.net
+#2600:1417:9::b833:f5b steamstore-a.akamaihd.net
+#2600:1417:9::b833:f5b steamcommunity-a.akamaihd.net
+#2600:1417:9::b833:f5b cdn.steamcommunity.com
+#2600:1417:9::b833:f5b store.valvesoftware.com
 
-## NVIDIA 
-2600:1406:3:18b::376 www.nvidia.com
-2600:1406:3:18b::376 arg.nvidia.com
-2600:1406:3:18b::376 blogs.nvidia.com
-2600:1406:3:18b::376 br.nvidia.com
-2600:1406:3:18b::376 chl.nvidia.com
-2600:1406:3:18b::376 clm.nvidia.com
-2600:1406:3:18b::376 research.nvidia.com
-2600:1406:3:18b::376 ven.nvidia.com
-2600:1406:3:18b::a90 images.nvidia.com
-2600:1406:3:18b::a90 developer.nvidia.com
-2600:1406:3:18b::778 www.nvidia.cn
-2600:1406:3:18b::c8c blogs.nvidia.cn
-2600:1417:9::b833:f5b cn.nvidia.com
-2600:1406:3:18b::778 contests.nvidia.com
-2600:1406:3:18b::778 services.gfe.nvidia.com
-2600:1406:3:18b::a91 download-cdn.gfe.nvidia.com
-2600:1406:3:18b::778 shield.nvidia.com
-2600:1417:9::b833:f5b cn.download.nvidia.com
-2600:1417:9::b833:f5b us.download.nvidia.com
-2600:1417:9::b833:f5b international.download.nvidia.com
-2600:1417:9::b833:f5b international-gfe.download.nvidia.com
-2600:1406:3:18b::7b4 www.geforce.com
-2600:1406:3:18b::7b4 gfwsl.geforce.com
-2600:1417:9::b833:f5b www.geforce.cn
-2600:1406:3:18b::c8c nfans.geforce.cn
-2600:1417:9::b833:f5b www.tegrazone.com
+## NVIDIA
+#2600:1406:3:18b::376 www.nvidia.com
+#2600:1406:3:18b::376 arg.nvidia.com
+#2600:1406:3:18b::376 blogs.nvidia.com
+#2600:1406:3:18b::376 br.nvidia.com
+#2600:1406:3:18b::376 chl.nvidia.com
+#2600:1406:3:18b::376 clm.nvidia.com
+#2600:1406:3:18b::376 research.nvidia.com
+#2600:1406:3:18b::376 ven.nvidia.com
+#2600:1406:3:18b::a90 images.nvidia.com
+#2600:1406:3:18b::a90 developer.nvidia.com
+#2600:1406:3:18b::778 www.nvidia.cn
+#2600:1406:3:18b::c8c blogs.nvidia.cn
+#2600:1417:9::b833:f5b cn.nvidia.com
+#2600:1406:3:18b::778 contests.nvidia.com
+#2600:1406:3:18b::778 services.gfe.nvidia.com
+#2600:1406:3:18b::a91 download-cdn.gfe.nvidia.com
+#2600:1406:3:18b::778 shield.nvidia.com
+#2600:1417:9::b833:f5b cn.download.nvidia.com
+#2600:1417:9::b833:f5b us.download.nvidia.com
+#2600:1417:9::b833:f5b international.download.nvidia.com
+#2600:1417:9::b833:f5b international-gfe.download.nvidia.com
+#2600:1406:3:18b::7b4 www.geforce.com
+#2600:1406:3:18b::7b4 gfwsl.geforce.com
+#2600:1417:9::b833:f5b www.geforce.cn
+#2600:1406:3:18b::c8c nfans.geforce.cn
+#2600:1417:9::b833:f5b www.tegrazone.com
 
-## AMD 
-2600:1406:3:18b::b51 www.amd.com
-2600:1406:3:18b::2c4b community.amd.com
-2600:1417:9::b833:f5b ir.amd.com
-2600:1417:9::b833:f5b shop.amd.com
-2600:1406:3:18b::b51 support.amd.com
-2600:1406:3:18b::1c7b www2.ati.com
+## AMD
+#2600:1406:3:18b::b51 www.amd.com
+2a02:26f0:2d:19b::2c4b community.amd.com
+#2600:1417:9::b833:f5b ir.amd.com
+#2600:1417:9::b833:f5b shop.amd.com
+#2600:1406:3:18b::b51 support.amd.com
+#2600:1406:3:18b::1c7b www2.ati.com
 
 ## Intel
-2600:1417:9::b833:f5b www.intel.cn
-2600:1417:9::b833:f5b www.intel.com
-2600:1417:9::b833:f5b ark.intel.com
-2600:1417:9::b833:f5b corpredirect.intel.com
-2600:1417:9::b833:f5b pcdoeswhat.intel.cn
-2600:1406:3:18b::75 newsroom.intel.cn
-2600:1406:3:18b::b www-ssl.intel.com
-2600:1406:3:18b::b communities.intel.com
-2600:1406:3:18b::b downloadcenter.intel.com
-2600:1406:3:18b::b downloadmirror.intel.com
-2600:1406:3:18b::b engage.intel.com
-2600:1406:3:18b::b iq.intel.com
-2600:1406:3:18b::b newsroom.intel.com
-2600:1406:3:18b::b software.intel.com
-2600:1406:3:18b::ae6 embedded.communities.intel.com
+#2600:1417:9::b833:f5b www.intel.cn
+#2600:1417:9::b833:f5b www.intel.com
+#2600:1417:9::b833:f5b ark.intel.com
+#2600:1417:9::b833:f5b corpredirect.intel.com
+#2600:1417:9::b833:f5b pcdoeswhat.intel.cn
+#2600:1406:3:18b::75 newsroom.intel.cn
+#2600:1406:3:18b::b www-ssl.intel.com
+#2600:1406:3:18b::b communities.intel.com
+#2600:1406:3:18b::b downloadcenter.intel.com
+#2600:1406:3:18b::b downloadmirror.intel.com
+#2600:1406:3:18b::b engage.intel.com
+#2600:1406:3:18b::b iq.intel.com
+#2600:1406:3:18b::b newsroom.intel.com
+#2600:1406:3:18b::b software.intel.com
+#2600:1406:3:18b::ae6 embedded.communities.intel.com
 
 ## AT 奥地利
 ## Tor Project
-2620::6b0:b:1a1a:0:26e5:4810 torproject.org
-2001:858:2:2:aabb::563b:1e28 www.torproject.org
-2001:41b8:202:deb:213:21ff:fe20:1426 deb.torproject.org #www.torproject.org
-#2620:0:6b0:b:1a1a:0:26e5:481e trac.torproject.org #troodi.torproject.org
-#2001:858:2:2:aabb:0:563b:1e28 cloud.torproject.org #www.torproject.org
-2001:41b8:202:deb:213:21ff:fe20:1426 atlas.torproject.org #www.torproject.org
-#2620:0:6b0:b:1a1a:0:26e5:480b svn.torproject.org #gayi.torproject.org
+2a01:4f8:172:1b46:0:abba:5:1 torproject.org
+2620:0:6b0:b:1a1a:0:26e5:4810 www.torproject.org
+2001:6b0:5a:5000::5 deb.torproject.org #www.torproject.org
+2a01:4f8:172:39ca:0:dad3:3:1 trac.torproject.org #troodi.torproject.org
+2a01:4f8:172:1b46:0:abba:5:1 cloud.torproject.org #www.torproject.org
+2001:858:2:2:aabb:0:563b:1e28 atlas.torproject.org #www.torproject.org
+2a01:4f8:172:1b46:0:abba:14:1 svn.torproject.org #gayi.torproject.org
 
 ## AU 澳大利亚
 ## APNIC
-2001:dd8:8:701::244 www.apnic.net
+2400:cb00:2048:1::6814:3bc2 www.apnic.net
 2001:dd8:9:2::101:34 wq.apnic.net
-#2001:dc0:2001:11::205 submit.apnic.net
+2001:dc0:2001:11::205 submit.apnic.net
 
 ## FR 法国
-#2a01:e0d:1:3:58bf:fa02:0:1 videolan.org
-#2a01:e0d:1:3:58bf:fa02:0:1 www.videolan.org #ganesh.videolan.org
+2a01:e0d:1:3:58bf:fa02:c0de:5 videolan.org
+2a01:e0d:1:3:58bf:fa02:c0de:5 www.videolan.org #ganesh.videolan.org
 
 ## JP 日本
 ## JAIST 北陸先端科学技術大学院大学
@@ -215,10 +215,10 @@
 ## NL 荷兰
 ## Ubuntu Archive
 2001:7b8:3:37::21:3 ipv6.torrent.ubuntu.com #ubuntuv6tracker.bit.nl
-#2001:7b8:3:37:213:136:29:218 nl.archive.ubuntu.com #ubuntuarchive.bit.nl
+2001:7b8:3:37::21:3 nl.archive.ubuntu.com #ubuntuarchive.bit.nl
 
 ## PA 巴拿马
-2a02:29b8:1925::2 bitsnoop.com
+2400:cb00:2048:1::681b:d51e bitsnoop.com
 
 ## IPv6/IPv4 转换代理
 ## DNS64 服务器：

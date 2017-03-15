@@ -227,4 +227,4 @@
 ## Telegram
 2001:67c:4e8:fa60:3:0:811:139 telegram.org
 2001:67c:4e8:fa60:3:0:811:139 core.telegram.org
-
+2001:67c:4e8:fa60:3:0:811:139 my.telegram.org

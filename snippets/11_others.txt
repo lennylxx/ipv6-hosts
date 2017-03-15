@@ -224,3 +224,7 @@
 ## DNS64 服务器：
 #2001:778::37 dns64.litnet.lt
 
+## Telegram
+2001:67c:4e8:fa60:3:0:811:139 telegram.org
+2001:67c:4e8:fa60:3:0:811:139 core.telegram.org
+

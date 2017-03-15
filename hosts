@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Fri, 10 Mar 2017 06:17:04 +0000                  |
+## |         Update : Fri, 10 Mar 2017 23:32:05 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -20643,6 +20643,10 @@
 ## IPv6/IPv4 转换代理
 ## DNS64 服务器：
 #2001:778::37 dns64.litnet.lt
+
+## Telegram
+2001:67c:4e8:fa60:3:0:811:139 telegram.org
+2001:67c:4e8:fa60:3:0:811:139 core.telegram.org
 
 ## Dropbox
 #108.160.173.207 www.dropbox.com #www.v.dropbox.com

@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Fri, 10 Mar 2017 23:32:05 +0800                  |
+## |         Update : Sun, 19 Mar 2017 15:43:24 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -1094,7 +1094,7 @@
 #2404:6800:4008:c00::62 afd.l.google.com
 2a00:1450:4010:c09::7d alt1.talk.l.google.com
 2a00:1450:4007:812::200e android-market.l.google.com
-#2404:6800:4003:804::200e android.l.google.com
+2a00:1450:4007:812::200e android.l.google.com
 #2404:6800:4008:c00::64 android-china.l.google.com
 2a00:1450:400c:c04::64 adwords.l.google.com #adwords-china.l.google.com
 2a00:1450:4007:812::2011 appspot.l.google.com
@@ -1483,7 +1483,7 @@
 2a00:1450:4007:812::200e developer.android.com #www3.l.google.com
 2a00:1450:4007:812::200e source.android.com #www3.l.google.com
 2a00:1450:4007:812::200e market.android.com #android-market.l.google.com
-#2404:6800:4005:80b::2003 android.clients.google.com #android.l.google.com
+2a00:1450:4007:812::200e android.clients.google.com #android.l.google.com
 2a00:1450:4007:812::200e play.google.com #play.l.google.com
 2a00:1450:4007:812::200e v1.lscache1.c.android.clients.google.com #bandaid-redirector.l.google.com
 2a00:1450:4007:812::200e v1.lscache2.c.android.clients.google.com

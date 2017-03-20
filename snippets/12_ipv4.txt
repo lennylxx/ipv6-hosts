@@ -288,47 +288,47 @@
 104.244.42.65 mobile.twitter.com
 104.244.42.65 pic.twitter.com
 104.244.42.65 s.twitter.com
-2606:2800:220:18bf:6c7:9b1:1836:15fb status.twitter.com #cs322.wac.edgecastcdn.net
+2606:2800:248:163:1dd5:2187:1354:23ef status.twitter.com #cs322.wac.edgecastcdn.net
 104.244.42.65 support.twitter.com
 104.244.42.65 www.twitter.com
 104.244.42.133 t.co
-#2606:2800:248:2f:1d8a:787:dc7:17df cdn.api.twitter.com #cs472.wac.edgecastcdn.net
-2606:2800:220:de:468:2285:c1:4a3 platform.twitter.com #cs41.wac.edgecastcdn.net
-2606:1f80:a000:100::2 abs.twimg.com #ipv6.twimg.com
-2606:1f80:a000:100::2 abs-0.twimg.com #ipv6.twimg.com
-2606:1f80:a000:100::2 pbs.twimg.com #ipv6.twimg.com
-2606:2800:220:de:468:2285:c1:4a3 pbs-ec.twimg.com #cs41.wac.edgecastcdn.net
-2606:1f80:a000:100::2 a0.twimg.com #ipv6.twimg.com
-2606:1f80:a000:100::2 a1.twimg.com #ipv6.twimg.com
-2606:1f80:a000:100::2 a2.twimg.com #ipv6.twimg.com
-2606:1f80:a000:100::2 a3.twimg.com #ipv6.twimg.com
-2606:1f80:a000:100::2 a4.twimg.com #ipv6.twimg.com
-2606:1f80:a000:100::2 a5.twimg.com #ipv6.twimg.com
-#199.96.57.57 a6.twimg.com #us-west-img.tw.map.fastly.net
-2606:1f80:a000:100::2 amp.twimg.com #ipv6.twimg.com
-2606:1f80:a000:100::2 dnt.twimg.com #ipv6.twimg.com
-2606:1f80:a000:100::2 ea.twimg.com #ipv6.twimg.com
-2606:1f80:a000:100::2 g.twimg.com #ipv6.twimg.com
-2606:1f80:a000:100::2 g2.twimg.com #ipv6.twimg.com
-2606:1f80:a000:100::2 gu.twimg.com #ipv6.twimg.com
-2606:1f80:a000:100::2 hca.twimg.com #ipv6.twimg.com
-2606:1f80:a000:100::2 jp.twimg.com #ipv6.twimg.com
-2606:1f80:a000:100::2 ma.twimg.com #ipv6.twimg.com
-2606:1f80:a000:100::2 o.twimg.com #ipv6.twimg.com
-2606:1f80:a000:100::2 oem.twimg.com #ipv6.twimg.com
-2606:1f80:a000:100::2 p.twimg.com #ipv6.twimg.com
-#2606:1f80:a000:100::2 si0.twimg.com #ipv6.twimg.com
-#2606:1f80:a000:100::2 si1.twimg.com #ipv6.twimg.com
-#2606:1f80:a000:100::2 si2.twimg.com #ipv6.twimg.com
-#2606:1f80:a000:100::2 si3.twimg.com #ipv6.twimg.com
-#2606:1f80:a000:100::2 si4.twimg.com #ipv6.twimg.com
-#2606:1f80:a000:100::2 si5.twimg.com #ipv6.twimg.com
-2606:1f80:a000:100::2 ton.twimg.com #ipv6.twimg.com
-2606:1f80:a000:100::2 video.twimg.com #ipv6.twimg.com
-2606:2800:220:18bf:6c7:9b1:1836:15fb tailfeather.twimg.com #cs322.wac.edgecastcdn.net
-2606:2800:220:1ead:1a38:1bef:134c:172c widgets.twimg.com #cs479.wac.edgecastcdn.net
+2606:2800:248:2f:1d8a:787:dc7:17df cdn.api.twitter.com #cs472.wac.edgecastcdn.net
+2606:2800:248:2f:1d8a:787:dc7:17df platform.twitter.com #cs41.wac.edgecastcdn.net
+2606:2800:248:1347:709:24f:182c:618 abs.twimg.com #ipv6.twimg.com
+2606:2800:248:1347:709:24f:182c:618 abs-0.twimg.com #ipv6.twimg.com
+2606:2800:248:1347:709:24f:182c:618 pbs.twimg.com #ipv6.twimg.com
+2606:2800:248:1347:709:24f:182c:618 pbs-ec.twimg.com #cs41.wac.edgecastcdn.net
+2606:2800:248:1347:709:24f:182c:618 a0.twimg.com #ipv6.twimg.com
+2606:2800:248:1347:709:24f:182c:618 a1.twimg.com #ipv6.twimg.com
+2606:2800:248:1347:709:24f:182c:618 a2.twimg.com #ipv6.twimg.com
+2606:2800:248:1347:709:24f:182c:618 a3.twimg.com #ipv6.twimg.com
+2606:2800:248:1347:709:24f:182c:618 a4.twimg.com #ipv6.twimg.com
+2606:2800:248:1347:709:24f:182c:618 a5.twimg.com #ipv6.twimg.com
+199.96.57.57 a6.twimg.com #us-west-img.tw.map.fastly.net
+2606:2800:248:1347:709:24f:182c:618 amp.twimg.com #ipv6.twimg.com
+2606:2800:248:1e1b:fb6:1881:1834:cf2 dnt.twimg.com #ipv6.twimg.com
+2606:2800:248:1347:709:24f:182c:618 ea.twimg.com #ipv6.twimg.com
+2606:2800:248:1347:709:24f:182c:618 g.twimg.com #ipv6.twimg.com
+2606:2800:248:163:1dd5:2187:1354:23ef g2.twimg.com #ipv6.twimg.com
+2606:2800:248:1347:709:24f:182c:618 gu.twimg.com #ipv6.twimg.com
+2606:2800:248:1347:709:24f:182c:618 hca.twimg.com #ipv6.twimg.com
+2606:2800:248:1347:709:24f:182c:618 jp.twimg.com #ipv6.twimg.com
+2606:2800:248:1347:709:24f:182c:618 ma.twimg.com #ipv6.twimg.com
+2606:2800:248:1347:709:24f:182c:618 o.twimg.com #ipv6.twimg.com
+2606:2800:248:1347:709:24f:182c:618 oem.twimg.com #ipv6.twimg.com
+2606:2800:248:1347:709:24f:182c:618 p.twimg.com #ipv6.twimg.com
+2606:2800:248:1347:709:24f:182c:618 si0.twimg.com #ipv6.twimg.com
+2606:2800:248:1347:709:24f:182c:618 si1.twimg.com #ipv6.twimg.com
+2606:2800:248:1347:709:24f:182c:618 si2.twimg.com #ipv6.twimg.com
+2606:2800:248:1347:709:24f:182c:618 si3.twimg.com #ipv6.twimg.com
+2606:2800:248:1347:709:24f:182c:618 si4.twimg.com #ipv6.twimg.com
+2606:2800:248:1347:709:24f:182c:618 si5.twimg.com #ipv6.twimg.com
+2606:2800:248:1347:709:24f:182c:618 ton.twimg.com #ipv6.twimg.com
+2606:2800:247:22e4:1f0b:18b4:207d:15b0 video.twimg.com #ipv6.twimg.com
+2606:2800:248:163:1dd5:2187:1354:23ef tailfeather.twimg.com #cs322.wac.edgecastcdn.net
+2606:2800:248:5f:1d30:1967:1659:bd2 widgets.twimg.com #cs479.wac.edgecastcdn.net
 210.163.219.24 twimg.com
-2606:1f80:a000:100::2 ipv6.twimg.com
+2606:1f80:a000:101::2 ipv6.twimg.com
 
 ## We Heart It
 117.18.237.125 assets1.whicdn.com #cs95.wac.edgecastcdn.net

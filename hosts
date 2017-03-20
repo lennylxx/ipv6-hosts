@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Tue, 21 Mar 2017 01:45:27 +0800                  |
+## |         Update : Tue, 21 Mar 2017 02:03:48 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -2676,6 +2676,7 @@
 2404:6800:4008:c06::75 uploads.stage.gdata.youtube.com #yt-video-upload.l.google.com
 2404:6800:4008:c03::71 insight.youtube.com #video-analytics.google.com
 2404:6800:4008:c07::66 apiblog.youtube.com #www3.l.google.com
+2404:6800:4008:c06::66 youtubei.youtube.com #youtube-ui.l.google.com
 
 #2404:6800:4008:c00::64 clients1.youtube.com
 

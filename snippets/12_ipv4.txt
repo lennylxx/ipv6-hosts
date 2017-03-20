@@ -1,53 +1,53 @@
 ## Dropbox
-#108.160.173.207 www.dropbox.com #www.v.dropbox.com
-#108.160.173.207 www.v.dropbox.com
-#108.160.172.232 dropbox.com
-#108.160.172.193 d.dropbox.com #d.v.dropbox.com
-#108.160.172.193 d.v.dropbox.com
-#108.160.172.200 m.dropbox.com
-#108.160.173.6 dl.dropbox.com #block-misc-iad.v.dropbox.com
-199.47.217.69 dl.dropboxusercontent.com #block-www.v.dropbox.com
-#54.182.3.132 cf.dropboxstatic.com
-#108.160.172.239 photos.dropbox.com
-#52.7.223.64 photos-thumb.x.dropbox.com
-#52.7.223.64 photos-1.dropbox.com #photos-thumb.x.dropbox.com
-#52.7.223.64 photos-2.dropbox.com #photos-thumb.x.dropbox.com
-#52.7.223.64 photos-3.dropbox.com #photos-thumb.x.dropbox.com
-#52.7.223.64 photos-4.dropbox.com #photos-thumb.x.dropbox.com
-#52.7.223.64 photos-5.dropbox.com #photos-thumb.x.dropbox.com
-#52.7.223.64 photos-6.dropbox.com #photos-thumb.x.dropbox.com
-#54.182.2.132 status.dropbox.com
-#54.182.3.124 forums.dropbox.com
-#54.182.4.176 marketing.dropbox.com
+162.125.82.1 www.dropbox.com #www.v.dropbox.com
+108.160.172.206 www.v.dropbox.com
+108.160.172.206 dropbox.com
+108.160.172.193 d.dropbox.com #d.v.dropbox.com
+108.160.172.225 d.v.dropbox.com
+108.160.172.200 m.dropbox.com
+162.125.82.6 dl.dropbox.com #block-misc-iad.v.dropbox.com
+162.125.82.6 dl.dropboxusercontent.com #block-www.v.dropbox.com
+52.85.148.218 cf.dropboxstatic.com
+108.160.172.207 photos.dropbox.com
+162.125.18.129 photos-thumb.x.dropbox.com
+162.125.18.130 photos-1.dropbox.com #photos-thumb.x.dropbox.com
+162.125.18.2 photos-2.dropbox.com #photos-thumb.x.dropbox.com
+162.125.18.2 photos-3.dropbox.com #photos-thumb.x.dropbox.com
+162.125.18.2 photos-4.dropbox.com #photos-thumb.x.dropbox.com
+162.125.18.130 photos-5.dropbox.com #photos-thumb.x.dropbox.com
+162.125.18.130 photos-6.dropbox.com #photos-thumb.x.dropbox.com
+54.182.2.232 status.dropbox.com
+54.230.213.246 forums.dropbox.com
+54.182.2.135 marketing.dropbox.com
 
 ## DuckDuckGo
-46.51.216.186 duckduckgo.com
-54.251.178.52 icons.duckduckgo.com
+46.51.218.82 duckduckgo.com
+52.77.181.198 icons.duckduckgo.com
 
 ## EMI Music Publishing
 72.21.81.253 mpod.emimusicpub.com #ne.edgecastcdn.net
 117.18.239.137 mpod1.emimusicpub.com #flash.edgecastcdn.net
 
 ## Flickr
-2406:2000:108:2::1000 flickr.com
-2406:2000:108:2::1000 www.flickr.com
-2406:2000:108:2::1000 up.flickr.com
-2406:2000:108:2::1000 api.flickr.com
-2406:2000:108:2::1000 secure.flickr.com
-2406:2000:108:2::1000 m.flickr.com
-2406:2000:108:2::1000 heartbeat.flickr.com
-192.0.79.32 code.flickr.com
-2406:2000:fc:402::c:2207 c.staticflickr.com
-2406:2000:fc:402::c:2207 c1.staticflickr.com
-2406:2000:fc:402::c:2207 c2.staticflickr.com
-2406:2000:fc:402::c:2207 c3.staticflickr.com
-2406:2000:fc:402::c:2207 c4.staticflickr.com
-2406:2000:fc:402::c:2207 c5.staticflickr.com
-2406:2000:fc:402::c:2207 c6.staticflickr.com
-2406:2000:fc:402::c:2207 c7.staticflickr.com
-2406:2000:fc:402::c:2207 c8.staticflickr.com
-2406:2000:fc:402::c:2207 c9.staticflickr.com
-2406:2000:108:3::1000 s.yimg.com #s.gycs.b.yahoodns.net
+69.147.76.173 flickr.com
+119.161.14.17 www.flickr.com
+69.147.88.8 up.flickr.com
+69.147.88.7 api.flickr.com
+68.142.240.50 secure.flickr.com
+119.161.14.17 m.flickr.com
+124.108.101.31 heartbeat.flickr.com
+192.0.79.33 code.flickr.com
+69.147.88.13 c.staticflickr.com
+69.147.88.13 c1.staticflickr.com
+69.147.88.13 c2.staticflickr.com
+69.147.88.13 c3.staticflickr.com
+69.147.88.13 c4.staticflickr.com
+69.147.88.13 c5.staticflickr.com
+69.147.88.13 c6.staticflickr.com
+69.147.88.13 c7.staticflickr.com
+69.147.88.13 c8.staticflickr.com
+#2406:2000:fc:402::c:2207 c9.staticflickr.com
+124.108.101.57 s.yimg.com #s.gycs.b.yahoodns.net
 
 ## Geeksforgeeks
 #54.239.130.34 d2dskowxfbo68o.cloudfront.net
@@ -55,317 +55,317 @@
 ## GitHub
 192.30.253.112 github.com
 192.30.253.112 www.github.com #github.com
-192.30.253.117 api.github.com
-192.30.253.125 live.github.com
-2a04:4e42::133 assets-cdn.github.com #github.map.fastly.net
-2a04:4e42::133 collector-cdn.github.com #github.map.fastly.net
-2a04:4e42::133 pages.github.com #github.map.fastly.net
-2a04:4e42::133 help.github.com #github.map.fastly.net
-#54.84.118.98 collector.githubapp.com
-2a04:4e42::133 avatars0.githubusercontent.com #github.map.fastly.net
-2a04:4e42::133 avatars1.githubusercontent.com #github.map.fastly.net
-2a04:4e42::133 avatars2.githubusercontent.com #github.map.fastly.net
-2a04:4e42::133 avatars3.githubusercontent.com #github.map.fastly.net
-2a04:4e42::133 cloud.githubusercontent.com #github.map.fastly.net
-2a04:4e42::133 camo.githubusercontent.com #github.map.fastly.net
-2a04:4e42::133 raw.githubusercontent.com #github.map.fastly.net
-2a04:4e42::133 gist.githubusercontent.com #github.map.fastly.net
+192.30.253.116 api.github.com
+192.30.253.124 live.github.com
+151.101.192.133 assets-cdn.github.com #github.map.fastly.net
+151.101.192.133 collector-cdn.github.com #github.map.fastly.net
+151.101.192.133 pages.github.com #github.map.fastly.net
+151.101.192.133 help.github.com #github.map.fastly.net
+52.200.197.215 collector.githubapp.com
+151.101.192.133 avatars0.githubusercontent.com #github.map.fastly.net
+151.101.192.133 avatars1.githubusercontent.com #github.map.fastly.net
+151.101.192.133 avatars2.githubusercontent.com #github.map.fastly.net
+151.101.192.133 avatars3.githubusercontent.com #github.map.fastly.net
+151.101.192.133 cloud.githubusercontent.com #github.map.fastly.net
+151.101.192.133 camo.githubusercontent.com #github.map.fastly.net
+151.101.192.133 raw.githubusercontent.com #github.map.fastly.net
+151.101.192.133 gist.githubusercontent.com #github.map.fastly.net
 192.30.253.118 gist.github.com
 
 ## SoundCloud
-68.232.44.127 api.soundcloud.com #cs97.wac.edgecastcdn.net
-68.232.44.127 api-mobile.soundcloud.com #cs97.wac.edgecastcdn.net
-68.232.44.127 api-v2.soundcloud.com #cs97.wac.edgecastcdn.net
-68.232.44.127 promoted.soundcloud.com #cs97.wac.edgecastcdn.net
-68.232.44.96 a-v2.sndcdn.com #cs70.wac.edgecastcdn.net
-68.232.44.96 a1.sndcdn.com #cs70.wac.edgecastcdn.net
-#54.230.232.233 cf-media.sndcdn.com #d3mym4xnhdwip8.cloudfront.net
-54.192.71.189 i1.sndcdn.com #img.x.soundcloud.com
-54.192.71.189 i2.sndcdn.com #d5i8tm59lw6in.cloudfront.net
-54.192.71.189 i3.sndcdn.com #d5i8tm59lw6in.cloudfront.net
-54.192.71.189 i4.sndcdn.com #d5i8tm59lw6in.cloudfront.net
-68.232.44.96 va.sndcdn.com #cs70.wac.edgecastcdn.net
-#54.230.68.42 wis.sndcdn.com #dq19j1toufa91.cloudfront.net
+54.182.2.164 api.soundcloud.com #cs97.wac.edgecastcdn.net
+54.182.2.164 api-mobile.soundcloud.com #cs97.wac.edgecastcdn.net
+54.182.2.136 api-v2.soundcloud.com #cs97.wac.edgecastcdn.net
+54.182.2.195 promoted.soundcloud.com #cs97.wac.edgecastcdn.net
+54.182.2.223 a-v2.sndcdn.com #cs70.wac.edgecastcdn.net
+54.182.2.19 a1.sndcdn.com #cs70.wac.edgecastcdn.net
+54.230.213.138 cf-media.sndcdn.com #d3mym4xnhdwip8.cloudfront.net
+54.182.2.159 i1.sndcdn.com #img.x.soundcloud.com
+54.182.2.99 i2.sndcdn.com #d5i8tm59lw6in.cloudfront.net
+54.182.2.99 i3.sndcdn.com #d5i8tm59lw6in.cloudfront.net
+54.182.2.235 i4.sndcdn.com #d5i8tm59lw6in.cloudfront.net
+54.182.2.68 va.sndcdn.com #cs70.wac.edgecastcdn.net
+52.84.239.233 wis.sndcdn.com #dq19j1toufa91.cloudfront.net
 68.232.45.67 ec-media.soundcloud.com #cs141.wpc.edgecastcdn.net
 68.232.46.220 ec-rtmp-media.soundcloud.com #fms.658d.edgecastcdn.net
-54.171.137.74 eventlogger.soundcloud.com #eventgateway.soundcloud.com
-52.17.240.17 eventgateway.soundcloud.com #eventgateway-production-2-1558049626.eu-west-1.elb.amazonaws.com
+52.208.134.40 eventlogger.soundcloud.com #eventgateway.soundcloud.com
+52.211.4.175 eventgateway.soundcloud.com #eventgateway-production-2-1558049626.eu-west-1.elb.amazonaws.com
 #111.119.3.1 soundcloud.hs.llnwd.net
 
 ## Squarespace
-192.229.145.102 static.squarespace.com #cs301.wpc.taucdn.net
+151.101.192.238 static.squarespace.com #cs301.wpc.taucdn.net
 
 ## StackExchange/StackOverflow
-2a04:4e42::325 stackoverflow.com
-2a04:4e42::325 blog.stackoverflow.com
-2a04:4e42::325 es.stackoverflow.com
-2a04:4e42::325 ja.stackoverflow.com
-2a04:4e42::325 pt.stackoverflow.com
-2a04:4e42::325 ru.stackoverflow.com
-2a04:4e42::325 stackexchange.com
-2a04:4e42::325 academia.stackexchange.com
-2a04:4e42::325 android.stackexchange.com
-2a04:4e42::325 anime.stackexchange.com
-2a04:4e42::325 apple.stackexchange.com
-2a04:4e42::325 arduino.stackexchange.com
-2a04:4e42::325 area51.stackexchange.com
-2a04:4e42::325 astronomy.stackexchange.com
-2a04:4e42::325 aviation.stackexchange.com
-2a04:4e42::325 beer.stackexchange.com
-2a04:4e42::325 bicycles.stackexchange.com
-2a04:4e42::325 biology.stackexchange.com
-2a04:4e42::325 bitcoin.stackexchange.com
-2a04:4e42::325 blender.stackexchange.com
-2a04:4e42::325 boardgames.stackexchange.com
-2a04:4e42::325 bricks.stackexchange.com
-2a04:4e42::325 buddhism.stackexchange.com
-2a04:4e42::325 chemistry.stackexchange.com
-2a04:4e42::325 chess.stackexchange.com
-2a04:4e42::325 chinese.stackexchange.com
-2a04:4e42::325 christianity.stackexchange.com
-2a04:4e42::325 civicrm.stackexchange.com
-2a04:4e42::325 codegolf.stackexchange.com
-2a04:4e42::325 codereview.stackexchange.com
-2a04:4e42::325 coffee.stackexchange.com
-2a04:4e42::325 cogsci.stackexchange.com
-2a04:4e42::325 communitybuilding.stackexchange.com
-2a04:4e42::325 computergraphics.stackexchange.com
-2a04:4e42::325 cooking.stackexchange.com
-2a04:4e42::325 craftcms.stackexchange.com
-2a04:4e42::325 crypto.stackexchange.com
-2a04:4e42::325 cs.stackexchange.com
-2a04:4e42::325 cstheory.stackexchange.com
-2a04:4e42::325 datascience.stackexchange.com
-2a04:4e42::325 dba.stackexchange.com
-2a04:4e42::325 diy.stackexchange.com
-2a04:4e42::325 drupal.stackexchange.com
-2a04:4e42::325 dsp.stackexchange.com
-2a04:4e42::325 earthscience.stackexchange.com
-2a04:4e42::325 ebooks.stackexchange.com
-2a04:4e42::325 economics.stackexchange.com
-2a04:4e42::325 electronics.stackexchange.com
-2a04:4e42::325 elementaryos.stackexchange.com
-2a04:4e42::325 ell.stackexchange.com
-2a04:4e42::325 emacs.stackexchange.com
-2a04:4e42::325 engineering.stackexchange.com
-2a04:4e42::325 english.stackexchange.com
-2a04:4e42::325 expatriates.stackexchange.com
-2a04:4e42::325 expressionengine.stackexchange.com
-2a04:4e42::325 fitness.stackexchange.com
-2a04:4e42::325 freelancing.stackexchange.com
-2a04:4e42::325 french.stackexchange.com
-2a04:4e42::325 gamedev.stackexchange.com
-2a04:4e42::325 gaming.stackexchange.com
-2a04:4e42::325 gardening.stackexchange.com
-2a04:4e42::325 genealogy.stackexchange.com
-2a04:4e42::325 german.stackexchange.com
-2a04:4e42::325 gis.stackexchange.com
-2a04:4e42::325 graphicdesign.stackexchange.com
-2a04:4e42::325 ham.stackexchange.com
-2a04:4e42::325 hardwarerecs.stackexchange.com
-2a04:4e42::325 health.stackexchange.com
-2a04:4e42::325 hermeneutics.stackexchange.com
-2a04:4e42::325 hinduism.stackexchange.com
-2a04:4e42::325 history.stackexchange.com
-2a04:4e42::325 homebrew.stackexchange.com
-2a04:4e42::325 hsm.stackexchange.com
-2a04:4e42::325 islam.stackexchange.com
-2a04:4e42::325 italian.stackexchange.com
-2a04:4e42::325 japanese.stackexchange.com
-2a04:4e42::325 joomla.stackexchange.com
-2a04:4e42::325 judaism.stackexchange.com
-2a04:4e42::325 law.stackexchange.com
-2a04:4e42::325 lifehacks.stackexchange.com
-2a04:4e42::325 linguistics.stackexchange.com
-2a04:4e42::325 magento.stackexchange.com
-2a04:4e42::325 martialarts.stackexchange.com
-2a04:4e42::325 math.stackexchange.com
-2a04:4e42::325 matheducators.stackexchange.com
-2a04:4e42::325 mathematica.stackexchange.com
-2a04:4e42::325 mechanics.stackexchange.com
-2a04:4e42::325 meta.stackexchange.com
-2a04:4e42::325 meta.academia.stackexchange.com
-2a04:4e42::325 money.stackexchange.com
-2a04:4e42::325 movies.stackexchange.com
-2a04:4e42::325 music.stackexchange.com
-2a04:4e42::325 musicfans.stackexchange.com
-2a04:4e42::325 mythology.stackexchange.com
-2a04:4e42::325 networkengineering.stackexchange.com
-2a04:4e42::325 opendata.stackexchange.com
-2a04:4e42::325 opensource.stackexchange.com
-2a04:4e42::325 outdoors.stackexchange.com
-2a04:4e42::325 parenting.stackexchange.com
-2a04:4e42::325 patents.stackexchange.com
-2a04:4e42::325 pets.stackexchange.com
-2a04:4e42::325 philosophy.stackexchange.com
-2a04:4e42::325 photo.stackexchange.com
-2a04:4e42::325 physics.stackexchange.com
-2a04:4e42::325 pm.stackexchange.com
-2a04:4e42::325 poker.stackexchange.com
-2a04:4e42::325 politics.stackexchange.com
-2a04:4e42::325 portuguese.stackexchange.com
-2a04:4e42::325 productivity.stackexchange.com
-2a04:4e42::325 programmers.stackexchange.com
-2a04:4e42::325 puzzling.stackexchange.com
-2a04:4e42::325 quant.stackexchange.com
-2a04:4e42::325 raspberrypi.stackexchange.com
-2a04:4e42::325 reverseengineering.stackexchange.com
-2a04:4e42::325 robotics.stackexchange.com
-2a04:4e42::325 rpg.stackexchange.com
-2a04:4e42::325 rus.stackexchange.com
-2a04:4e42::325 russian.stackexchange.com
-2a04:4e42::325 salesforce.stackexchange.com
-2a04:4e42::325 scicomp.stackexchange.com
-2a04:4e42::325 scifi.stackexchange.com
-2a04:4e42::325 security.stackexchange.com
-2a04:4e42::325 sharepoint.stackexchange.com
-2a04:4e42::325 skeptics.stackexchange.com
-2a04:4e42::325 softwarerecs.stackexchange.com
-2a04:4e42::325 sound.stackexchange.com
-2a04:4e42::325 space.stackexchange.com
-2a04:4e42::325 spanish.stackexchange.com
-2a04:4e42::325 sports.stackexchange.com
-2a04:4e42::325 sqa.stackexchange.com
-2a04:4e42::325 startups.stackexchange.com
-2a04:4e42::325 stats.stackexchange.com
-2a04:4e42::325 sustainability.stackexchange.com
-2a04:4e42::325 tex.stackexchange.com
-2a04:4e42::325 tor.stackexchange.com
-2a04:4e42::325 travel.stackexchange.com
-2a04:4e42::325 tridion.stackexchange.com
-2a04:4e42::325 unix.stackexchange.com
-2a04:4e42::325 ux.stackexchange.com
-2a04:4e42::325 vi.stackexchange.com
-2a04:4e42::325 video.stackexchange.com
-2a04:4e42::325 webapps.stackexchange.com
-2a04:4e42::325 webmasters.stackexchange.com
-2a04:4e42::325 windowsphone.stackexchange.com
-2a04:4e42::325 woodworking.stackexchange.com
-2a04:4e42::325 wordpress.stackexchange.com
-2a04:4e42::325 workplace.stackexchange.com
-2a04:4e42::325 worldbuilding.stackexchange.com
-2a04:4e42::325 writers.stackexchange.com
-#2a04:4e42::325 sstatic.net
-2a04:4e42::325 cdn.sstatic.net
-2a04:4e42::325 cdn-careers.sstatic.net
-#2a04:4e42::325 cdn-chat.sstatic.net
-#2a04:4e42::325 cdn-prom.sstatic.net
-2a04:4e42::325 stackapps.com
-2a04:4e42::325 superuser.com
-2a04:4e42::325 askubuntu.com
-2a04:4e42::325 serverfault.com
-2a04:4e42::325 mathoverflow.net
-2400:cb00:2048:1::6819:cc12 mathjax.org
-2400:cb00:2048:1::6819:cc12 www.mathjax.org
-2400:cb00:2048:1::6819:cc12 beta.mathjax.org
-2400:cb00:2048:1::6819:cc12 cdn.mathjax.org
-2400:cb00:2048:1::6810:7012 i.stack.imgur.com
-#2406:da00:ff00::1715:538b s.stack.imgur.com
-#2406:da00:ff00::1715:538b stack.imgur.com
+151.101.1.69 stackoverflow.com
+151.101.1.69 blog.stackoverflow.com
+151.101.1.69 es.stackoverflow.com
+151.101.1.69 ja.stackoverflow.com
+151.101.1.69 pt.stackoverflow.com
+151.101.1.69 ru.stackoverflow.com
+151.101.193.69 stackexchange.com
+151.101.1.69 academia.stackexchange.com
+151.101.1.69 android.stackexchange.com
+151.101.1.69 anime.stackexchange.com
+151.101.1.69 apple.stackexchange.com
+151.101.1.69 arduino.stackexchange.com
+151.101.1.69 area51.stackexchange.com
+151.101.1.69 astronomy.stackexchange.com
+151.101.1.69 aviation.stackexchange.com
+151.101.1.69 beer.stackexchange.com
+151.101.1.69 bicycles.stackexchange.com
+151.101.1.69 biology.stackexchange.com
+151.101.1.69 bitcoin.stackexchange.com
+151.101.1.69 blender.stackexchange.com
+151.101.1.69 boardgames.stackexchange.com
+151.101.65.69 bricks.stackexchange.com
+151.101.1.69 buddhism.stackexchange.com
+151.101.1.69 chemistry.stackexchange.com
+151.101.1.69 chess.stackexchange.com
+151.101.1.69 chinese.stackexchange.com
+151.101.1.69 christianity.stackexchange.com
+151.101.1.69 civicrm.stackexchange.com
+151.101.1.69 codegolf.stackexchange.com
+151.101.1.69 codereview.stackexchange.com
+151.101.1.69 coffee.stackexchange.com
+151.101.1.69 cogsci.stackexchange.com
+151.101.1.69 communitybuilding.stackexchange.com
+151.101.1.69 computergraphics.stackexchange.com
+151.101.1.69 cooking.stackexchange.com
+151.101.1.69 craftcms.stackexchange.com
+151.101.1.69 crypto.stackexchange.com
+151.101.1.69 cs.stackexchange.com
+151.101.1.69 cstheory.stackexchange.com
+151.101.1.69 datascience.stackexchange.com
+151.101.1.69 dba.stackexchange.com
+151.101.1.69 diy.stackexchange.com
+151.101.1.69 drupal.stackexchange.com
+151.101.1.69 dsp.stackexchange.com
+151.101.1.69 earthscience.stackexchange.com
+151.101.1.69 ebooks.stackexchange.com
+151.101.1.69 economics.stackexchange.com
+151.101.1.69 electronics.stackexchange.com
+151.101.1.69 elementaryos.stackexchange.com
+151.101.1.69 ell.stackexchange.com
+151.101.1.69 emacs.stackexchange.com
+151.101.1.69 engineering.stackexchange.com
+151.101.1.69 english.stackexchange.com
+151.101.1.69 expatriates.stackexchange.com
+151.101.1.69 expressionengine.stackexchange.com
+151.101.1.69 fitness.stackexchange.com
+151.101.1.69 freelancing.stackexchange.com
+151.101.1.69 french.stackexchange.com
+151.101.1.69 gamedev.stackexchange.com
+151.101.1.69 gaming.stackexchange.com
+151.101.1.69 gardening.stackexchange.com
+151.101.1.69 genealogy.stackexchange.com
+151.101.1.69 german.stackexchange.com
+151.101.1.69 gis.stackexchange.com
+151.101.1.69 graphicdesign.stackexchange.com
+151.101.1.69 ham.stackexchange.com
+151.101.1.69 hardwarerecs.stackexchange.com
+151.101.1.69 health.stackexchange.com
+151.101.1.69 hermeneutics.stackexchange.com
+151.101.1.69 hinduism.stackexchange.com
+151.101.129.69 history.stackexchange.com
+151.101.1.69 homebrew.stackexchange.com
+151.101.1.69 hsm.stackexchange.com
+151.101.1.69 islam.stackexchange.com
+151.101.1.69 italian.stackexchange.com
+151.101.1.69 japanese.stackexchange.com
+151.101.1.69 joomla.stackexchange.com
+151.101.1.69 judaism.stackexchange.com
+151.101.1.69 law.stackexchange.com
+151.101.1.69 lifehacks.stackexchange.com
+151.101.1.69 linguistics.stackexchange.com
+151.101.1.69 magento.stackexchange.com
+151.101.1.69 martialarts.stackexchange.com
+151.101.1.69 math.stackexchange.com
+151.101.1.69 matheducators.stackexchange.com
+151.101.1.69 mathematica.stackexchange.com
+151.101.129.69 mechanics.stackexchange.com
+151.101.1.69 meta.stackexchange.com
+151.101.1.69 meta.academia.stackexchange.com
+151.101.1.69 money.stackexchange.com
+151.101.1.69 movies.stackexchange.com
+151.101.1.69 music.stackexchange.com
+151.101.1.69 musicfans.stackexchange.com
+151.101.65.69 mythology.stackexchange.com
+151.101.1.69 networkengineering.stackexchange.com
+151.101.1.69 opendata.stackexchange.com
+151.101.1.69 opensource.stackexchange.com
+151.101.1.69 outdoors.stackexchange.com
+151.101.1.69 parenting.stackexchange.com
+151.101.1.69 patents.stackexchange.com
+151.101.1.69 pets.stackexchange.com
+151.101.1.69 philosophy.stackexchange.com
+151.101.1.69 photo.stackexchange.com
+151.101.1.69 physics.stackexchange.com
+151.101.1.69 pm.stackexchange.com
+151.101.1.69 poker.stackexchange.com
+151.101.1.69 politics.stackexchange.com
+151.101.1.69 portuguese.stackexchange.com
+151.101.1.69 productivity.stackexchange.com
+151.101.1.69 programmers.stackexchange.com
+151.101.1.69 puzzling.stackexchange.com
+151.101.1.69 quant.stackexchange.com
+151.101.1.69 raspberrypi.stackexchange.com
+151.101.1.69 reverseengineering.stackexchange.com
+151.101.1.69 robotics.stackexchange.com
+151.101.1.69 rpg.stackexchange.com
+151.101.1.69 rus.stackexchange.com
+151.101.1.69 russian.stackexchange.com
+151.101.1.69 salesforce.stackexchange.com
+151.101.1.69 scicomp.stackexchange.com
+151.101.1.69 scifi.stackexchange.com
+151.101.1.69 security.stackexchange.com
+151.101.1.69 sharepoint.stackexchange.com
+151.101.1.69 skeptics.stackexchange.com
+151.101.1.69 softwarerecs.stackexchange.com
+151.101.1.69 sound.stackexchange.com
+151.101.1.69 space.stackexchange.com
+151.101.1.69 spanish.stackexchange.com
+151.101.1.69 sports.stackexchange.com
+151.101.1.69 sqa.stackexchange.com
+151.101.1.69 startups.stackexchange.com
+151.101.1.69 stats.stackexchange.com
+151.101.1.69 sustainability.stackexchange.com
+151.101.1.69 tex.stackexchange.com
+151.101.1.69 tor.stackexchange.com
+151.101.1.69 travel.stackexchange.com
+151.101.1.69 tridion.stackexchange.com
+151.101.1.69 unix.stackexchange.com
+151.101.1.69 ux.stackexchange.com
+151.101.1.69 vi.stackexchange.com
+151.101.1.69 video.stackexchange.com
+151.101.1.69 webapps.stackexchange.com
+151.101.1.69 webmasters.stackexchange.com
+151.101.1.69 windowsphone.stackexchange.com
+151.101.1.69 woodworking.stackexchange.com
+151.101.1.69 wordpress.stackexchange.com
+151.101.1.69 workplace.stackexchange.com
+151.101.1.69 worldbuilding.stackexchange.com
+151.101.1.69 writers.stackexchange.com
+198.252.206.16 sstatic.net
+151.101.1.69 cdn.sstatic.net
+151.101.1.69 cdn-careers.sstatic.net
+198.252.206.16 cdn-chat.sstatic.net
+198.252.206.26 cdn-prom.sstatic.net
+151.101.1.69 stackapps.com
+151.101.1.69 superuser.com
+151.101.1.69 askubuntu.com
+151.101.1.69 serverfault.com
+151.101.1.69 mathoverflow.net
+104.24.19.65 mathjax.org
+104.24.18.65 www.mathjax.org
+104.24.19.65 beta.mathjax.org
+104.24.19.65 cdn.mathjax.org
+104.16.110.18 i.stack.imgur.com
+54.204.23.46 s.stack.imgur.com
+54.204.23.46 stack.imgur.com
 
 ## PasteBin
-2400:cb00:2048:1::6814:4038 pastebin.com
+104.20.209.21 pastebin.com
 
 ## Tumblr
-2606:2800:220:134c:57:10da:1a6d:24ed gs1.wac.edgecastcdn.net
+68.232.44.253 gs1.wac.edgecastcdn.net
 
 ## TweetDeck
-104.244.42.4 tweetdeck.com
+199.59.150.8 tweetdeck.com
 104.244.42.4 api.tweetdeck.com
-104.244.42.4 downloads.tweetdeck.com
+104.244.42.196 downloads.tweetdeck.com
 104.244.42.4 web.tweetdeck.com
-104.244.42.4 www.tweetdeck.com
+104.244.42.132 www.tweetdeck.com
 
 ## Twitter
-104.244.42.65 twitter.com
-104.244.42.65 about.twitter.com
-104.244.42.65 ads.twitter.com
-104.244.42.65 api.twitter.com
-104.244.42.65 blog.twitter.com
-104.244.42.65 business.twitter.com
-104.244.42.65 dev.twitter.com
-104.244.42.65 media.twitter.com
-104.244.42.65 mobile.twitter.com
-104.244.42.65 pic.twitter.com
-104.244.42.65 s.twitter.com
-2606:2800:248:163:1dd5:2187:1354:23ef status.twitter.com #cs322.wac.edgecastcdn.net
-104.244.42.65 support.twitter.com
-104.244.42.65 www.twitter.com
+104.244.42.1 twitter.com
+104.244.42.131 about.twitter.com
+104.244.42.3 ads.twitter.com
+104.244.42.194 api.twitter.com
+104.244.42.195 blog.twitter.com
+104.244.42.195 business.twitter.com
+104.244.42.3 dev.twitter.com
+104.244.42.3 media.twitter.com
+104.244.42.134 mobile.twitter.com
+104.244.42.67 pic.twitter.com
+104.244.42.3 s.twitter.com
+192.229.237.154 status.twitter.com #cs322.wac.edgecastcdn.net
+104.244.42.7 support.twitter.com
+104.244.42.129 www.twitter.com
 104.244.42.133 t.co
-2606:2800:248:2f:1d8a:787:dc7:17df cdn.api.twitter.com #cs472.wac.edgecastcdn.net
-2606:2800:248:2f:1d8a:787:dc7:17df platform.twitter.com #cs41.wac.edgecastcdn.net
-2606:2800:248:1347:709:24f:182c:618 abs.twimg.com #ipv6.twimg.com
-2606:2800:248:1347:709:24f:182c:618 abs-0.twimg.com #ipv6.twimg.com
-2606:2800:248:1347:709:24f:182c:618 pbs.twimg.com #ipv6.twimg.com
-2606:2800:248:1347:709:24f:182c:618 pbs-ec.twimg.com #cs41.wac.edgecastcdn.net
-2606:2800:248:1347:709:24f:182c:618 a0.twimg.com #ipv6.twimg.com
-2606:2800:248:1347:709:24f:182c:618 a1.twimg.com #ipv6.twimg.com
-2606:2800:248:1347:709:24f:182c:618 a2.twimg.com #ipv6.twimg.com
-2606:2800:248:1347:709:24f:182c:618 a3.twimg.com #ipv6.twimg.com
-2606:2800:248:1347:709:24f:182c:618 a4.twimg.com #ipv6.twimg.com
-2606:2800:248:1347:709:24f:182c:618 a5.twimg.com #ipv6.twimg.com
-199.96.57.57 a6.twimg.com #us-west-img.tw.map.fastly.net
-2606:2800:248:1347:709:24f:182c:618 amp.twimg.com #ipv6.twimg.com
-2606:2800:248:1e1b:fb6:1881:1834:cf2 dnt.twimg.com #ipv6.twimg.com
-2606:2800:248:1347:709:24f:182c:618 ea.twimg.com #ipv6.twimg.com
-2606:2800:248:1347:709:24f:182c:618 g.twimg.com #ipv6.twimg.com
-2606:2800:248:163:1dd5:2187:1354:23ef g2.twimg.com #ipv6.twimg.com
-2606:2800:248:1347:709:24f:182c:618 gu.twimg.com #ipv6.twimg.com
-2606:2800:248:1347:709:24f:182c:618 hca.twimg.com #ipv6.twimg.com
-2606:2800:248:1347:709:24f:182c:618 jp.twimg.com #ipv6.twimg.com
-2606:2800:248:1347:709:24f:182c:618 ma.twimg.com #ipv6.twimg.com
-2606:2800:248:1347:709:24f:182c:618 o.twimg.com #ipv6.twimg.com
-2606:2800:248:1347:709:24f:182c:618 oem.twimg.com #ipv6.twimg.com
-2606:2800:248:1347:709:24f:182c:618 p.twimg.com #ipv6.twimg.com
-2606:2800:248:1347:709:24f:182c:618 si0.twimg.com #ipv6.twimg.com
-2606:2800:248:1347:709:24f:182c:618 si1.twimg.com #ipv6.twimg.com
-2606:2800:248:1347:709:24f:182c:618 si2.twimg.com #ipv6.twimg.com
-2606:2800:248:1347:709:24f:182c:618 si3.twimg.com #ipv6.twimg.com
-2606:2800:248:1347:709:24f:182c:618 si4.twimg.com #ipv6.twimg.com
-2606:2800:248:1347:709:24f:182c:618 si5.twimg.com #ipv6.twimg.com
-2606:2800:248:1347:709:24f:182c:618 ton.twimg.com #ipv6.twimg.com
-2606:2800:247:22e4:1f0b:18b4:207d:15b0 video.twimg.com #ipv6.twimg.com
-2606:2800:248:163:1dd5:2187:1354:23ef tailfeather.twimg.com #cs322.wac.edgecastcdn.net
-2606:2800:248:5f:1d30:1967:1659:bd2 widgets.twimg.com #cs479.wac.edgecastcdn.net
+#2606:2800:248:2f:1d8a:787:dc7:17df cdn.api.twitter.com #cs472.wac.edgecastcdn.net
+199.96.57.6 platform.twitter.com #cs41.wac.edgecastcdn.net
+117.18.237.70 abs.twimg.com #ipv6.twimg.com
+104.244.43.35 abs-0.twimg.com #ipv6.twimg.com
+117.18.237.70 pbs.twimg.com #ipv6.twimg.com
+117.18.237.70 pbs-ec.twimg.com #cs41.wac.edgecastcdn.net
+#2606:2800:248:1347:709:24f:182c:618 a0.twimg.com #ipv6.twimg.com
+#2606:2800:248:1347:709:24f:182c:618 a1.twimg.com #ipv6.twimg.com
+#2606:2800:248:1347:709:24f:182c:618 a2.twimg.com #ipv6.twimg.com
+#2606:2800:248:1347:709:24f:182c:618 a3.twimg.com #ipv6.twimg.com
+#2606:2800:248:1347:709:24f:182c:618 a4.twimg.com #ipv6.twimg.com
+#2606:2800:248:1347:709:24f:182c:618 a5.twimg.com #ipv6.twimg.com
+#199.96.57.57 a6.twimg.com #us-west-img.tw.map.fastly.net
+104.244.43.7 amp.twimg.com #ipv6.twimg.com
+104.244.43.199 dnt.twimg.com #ipv6.twimg.com
+117.18.237.70 ea.twimg.com #ipv6.twimg.com
+117.18.237.211 g.twimg.com #ipv6.twimg.com
+192.229.237.154 g2.twimg.com #ipv6.twimg.com
+104.244.43.103 gu.twimg.com #ipv6.twimg.com
+104.244.43.7 hca.twimg.com #ipv6.twimg.com
+104.244.43.103 jp.twimg.com #ipv6.twimg.com
+104.244.43.167 ma.twimg.com #ipv6.twimg.com
+117.18.237.70 o.twimg.com #ipv6.twimg.com
+104.244.43.167 oem.twimg.com #ipv6.twimg.com
+104.244.43.39 p.twimg.com #ipv6.twimg.com
+#2606:2800:248:1347:709:24f:182c:618 si0.twimg.com #ipv6.twimg.com
+#2606:2800:248:1347:709:24f:182c:618 si1.twimg.com #ipv6.twimg.com
+#2606:2800:248:1347:709:24f:182c:618 si2.twimg.com #ipv6.twimg.com
+#2606:2800:248:1347:709:24f:182c:618 si3.twimg.com #ipv6.twimg.com
+#2606:2800:248:1347:709:24f:182c:618 si4.twimg.com #ipv6.twimg.com
+#2606:2800:248:1347:709:24f:182c:618 si5.twimg.com #ipv6.twimg.com
+104.244.43.135 ton.twimg.com #ipv6.twimg.com
+192.229.232.217 video.twimg.com #ipv6.twimg.com
+192.229.237.154 tailfeather.twimg.com #cs322.wac.edgecastcdn.net
+192.229.237.139 widgets.twimg.com #cs479.wac.edgecastcdn.net
 210.163.219.24 twimg.com
-2606:1f80:a000:101::2 ipv6.twimg.com
+104.244.43.135 ipv6.twimg.com
 
 ## We Heart It
-117.18.237.125 assets1.whicdn.com #cs95.wac.edgecastcdn.net
-117.18.237.125 assets2.whicdn.com #cs95.wac.edgecastcdn.net
-117.18.237.125 assets3.whicdn.com #cs95.wac.edgecastcdn.net
-117.18.237.125 data1.whicdn.com #cs95.wac.edgecastcdn.net
-117.18.237.125 data2.whicdn.com #cs95.wac.edgecastcdn.net
-117.18.237.125 data3.whicdn.com #cs95.wac.edgecastcdn.net
-#54.239.194.100 cdn.viglink.com #dp2drdtly304p.cloudfront.net
+#117.18.237.125 assets1.whicdn.com #cs95.wac.edgecastcdn.net
+#117.18.237.125 assets2.whicdn.com #cs95.wac.edgecastcdn.net
+#117.18.237.125 assets3.whicdn.com #cs95.wac.edgecastcdn.net
+#117.18.237.125 data1.whicdn.com #cs95.wac.edgecastcdn.net
+#117.18.237.125 data2.whicdn.com #cs95.wac.edgecastcdn.net
+#117.18.237.125 data3.whicdn.com #cs95.wac.edgecastcdn.net
+104.16.161.13 cdn.viglink.com #dp2drdtly304p.cloudfront.net
 
 ## Wordpress
-192.0.78.9 wordpress.com
+192.0.78.17 wordpress.com
 192.0.78.13 www.wordpress.com #lb.wordpress.com
 192.0.78.13 zh-cn.wordpress.com #lb.wordpress.com
-192.0.78.12 lb.wordpress.com
-76.74.254.122 files.wordpress.com
+192.0.78.13 lb.wordpress.com
+192.0.72.2 files.wordpress.com
 192.0.76.3 pixel.wp.com
 192.0.76.3 stats.wp.com
-#2606:2800:20d:559:1b1e:a49:202a:14b5 s0.wp.com #cs82.wac.edgecastcdn.net
-#2606:2800:20d:559:1b1e:a49:202a:14b5 s1.wp.com #cs82.wac.edgecastcdn.net
-#2606:2800:20d:559:1b1e:a49:202a:14b5 s2.wp.com #cs82.wac.edgecastcdn.net
-#2606:2800:20d:559:1b1e:a49:202a:14b5 widgets.wp.com #cs82.wac.edgecastcdn.net
-66.155.40.250 wordpress.org
+192.0.77.32 s0.wp.com #cs82.wac.edgecastcdn.net
+192.0.77.32 s1.wp.com #cs82.wac.edgecastcdn.net
+192.0.77.32 s2.wp.com #cs82.wac.edgecastcdn.net
+192.0.77.32 widgets.wp.com #cs82.wac.edgecastcdn.net
+66.155.40.249 wordpress.org
 66.155.40.250 www.wordpress.org
-192.229.144.127 s.w.org #cs287.wac.edgecastcdn.net
-192.229.144.127 ts.w.org #cs287.wac.edgecastcdn.net
+192.0.77.48 s.w.org #cs287.wac.edgecastcdn.net
+192.0.77.48 ts.w.org #cs287.wac.edgecastcdn.net
 
 ## XDA developers
 209.58.128.90 www.xda-developers.com
 209.58.128.90 xda-developers.com
 174.129.2.23 cdn.xda-developers.com
-192.229.144.96 cdn1.xda-developers.com #cs261.wac.edgecastcdn.net
-192.229.144.96 cdn2.xda-developers.com #cs261.wac.edgecastcdn.net
-192.229.144.96 cdn3.xda-developers.com #cs261.wac.edgecastcdn.net
-192.229.144.96 cdn4.xda-developers.com #cs261.wac.edgecastcdn.net
-192.229.144.96 cdn-www.xda-developers.com #cs261.wac.edgecastcdn.net
+43.249.37.246 cdn1.xda-developers.com #cs261.wac.edgecastcdn.net
+43.249.37.246 cdn2.xda-developers.com #cs261.wac.edgecastcdn.net
+43.249.37.245 cdn3.xda-developers.com #cs261.wac.edgecastcdn.net
+43.249.37.245 cdn4.xda-developers.com #cs261.wac.edgecastcdn.net
+174.129.2.23 cdn-www.xda-developers.com #cs261.wac.edgecastcdn.net
 192.229.144.96 cs261.wac.edgecastcdn.net
-68.232.44.229 cdn.www.xda-developers.com #gs1.wac.v3cdn.net
+#68.232.44.229 cdn.www.xda-developers.com #gs1.wac.v3cdn.net
 68.232.44.229 wac.8244.edgecastcdn.net #gs1.wac.v3cdn.net
 

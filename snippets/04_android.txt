@@ -5,7 +5,7 @@
 2404:6800:4008:c06::65 developer.android.com #www3.l.google.com
 2404:6800:4008:c07::71 source.android.com #www3.l.google.com
 2404:6800:4008:c05::76 market.android.com #android-market.l.google.com
-#2a00:1450:4007:812::200e android.clients.google.com #android.l.google.com
+2404:6800:4008:c06::be android.clients.google.com #android.l.google.com
 2404:6800:4008:c07::65 play.google.com #play.l.google.com
 2404:6800:4005:806::200e v1.lscache1.c.android.clients.google.com #bandaid-redirector.l.google.com
 2401:3800:4001:11::1005 v1.lscache2.c.android.clients.google.com

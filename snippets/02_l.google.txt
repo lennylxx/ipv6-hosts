@@ -8,7 +8,7 @@
 #2404:6800:4008:c00::62 afd.l.google.com
 2607:f8b0:4003:c03::7d alt1.talk.l.google.com
 2404:6800:4008:c00::76 android-market.l.google.com
-#2a00:1450:4007:812::200e android.l.google.com
+2404:6800:4008:c06::be android.l.google.com
 #2404:6800:4008:c00::64 android-china.l.google.com
 2404:6800:4008:c03::70 adwords.l.google.com #adwords-china.l.google.com
 2404:6800:4008:c02::8d appspot.l.google.com
@@ -91,7 +91,7 @@
 2404:6800:4008:c00::8a safebrowsing.cache.l.google.com
 2404:6800:4008:c00::5d sb.l.google.com
 2404:6800:4008:c03::5d sb-ssl.l.google.com
-#2404:6800:4005:80b::2003 scholar.l.google.com
+2404:6800:4008:c06::be scholar.l.google.com
 #2404:6800:4008:c00::66 sketchup.l.google.com
 2404:6800:4008:c04::8a spreadsheets.l.google.com #spreadsheets-china.l.google.com
 2404:6800:4008:c00::71 spreadsheets-china.l.google.com
@@ -109,7 +109,7 @@
 2404:6800:4008:c07::66 video-stats.l.google.com
 2404:6800:4008:c06::64 video-analytics.l.google.com
 2404:6800:4008:c04::64 video-thumbnails.l.google.com
-#2607:f8b0:400e:c04::7b wifi.l.google.com
+2404:6800:4008:c04::7b wifi.l.google.com
 2404:6800:4008:c07::8a writely.l.google.com #writely-china.l.google.com
 #2404:6800:4008:c00::62 writely-com.l.google.com
 2404:6800:4008:c06::66 writely-china.l.google.com

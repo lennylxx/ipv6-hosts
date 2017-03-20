@@ -739,9 +739,9 @@
 2404:6800:4008:c03::451 sandbox.google.com #sandbox.l.google.com
 
 ## Scholar 学术搜索
-#2404:6800:4005:80b::2003 scholar.google.com
-#2404:6800:4005:80b::2003 scholar.google.com.hk
-#2404:6800:4005:80b::2003 scholar.google.com.tw
+2404:6800:4008:c06::be scholar.google.com
+2404:6800:4008:c06::be scholar.google.com.hk
+2404:6800:4008:c06::be scholar.google.com.tw
 2401:3800:4001:10::101f scholar.google.cn #www.google.cn
 
 ## Sites 协作平台
@@ -785,7 +785,7 @@
 2404:6800:4008:c06::6a googlewave.com
 
 ## WiFi
-#2607:f8b0:400e:c04::7b wifi.google.com
+2404:6800:4008:c04::7b wifi.google.com
 
 ## iGoogle Modules iGoogle 小工具
 2404:6800:4008:c02::68 gmodules.com

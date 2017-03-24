@@ -1,5 +1,5 @@
 ## Apple 苹果
-#2a02:26f0:2d:193::1aca www.apple.com #www.isg-apple.com.akadns.net
+2a02:26f0:2d:193::1aca www.apple.com #www.isg-apple.com.akadns.net
 
 ## Blizzard Entertainment 暴雪娱乐
 2620:10b:9006:600:dad3:85ff:fed9:ce24 ipv6.blizzard.com
@@ -40,7 +40,7 @@
 #2620:101:8008:5::2:8 firefox.com
 
 ## Microsoft 微软
-#2a02:26f0:2d:19c::747 www.microsoft.com #e10088.dscb.akamaiedge.net
+2a02:26f0:2d:19c::747 www.microsoft.com #e10088.dscb.akamaiedge.net
 2001:428:4c02:b96::2886 i.microsoft.com
 2001:428:4c02:b99::2886 i2.microsoft.com #i.microsoft.com.edgekey.net
 2001:428:4c02:b96::2886 i3.microsoft.com #i.microsoft.com.edgekey.net
@@ -135,27 +135,27 @@
 #2600:1417:9::b833:f5b store.valvesoftware.com
 
 ## NVIDIA
-#2600:1406:3:18b::376 www.nvidia.com
-#2600:1406:3:18b::376 arg.nvidia.com
-#2600:1406:3:18b::376 blogs.nvidia.com
-#2600:1406:3:18b::376 br.nvidia.com
-#2600:1406:3:18b::376 chl.nvidia.com
-#2600:1406:3:18b::376 clm.nvidia.com
-#2600:1406:3:18b::376 research.nvidia.com
-#2600:1406:3:18b::376 ven.nvidia.com
-#2600:1406:3:18b::a90 images.nvidia.com
-#2600:1406:3:18b::a90 developer.nvidia.com
-#2600:1406:3:18b::778 www.nvidia.cn
-#2600:1406:3:18b::c8c blogs.nvidia.cn
-#2600:1417:9::b833:f5b cn.nvidia.com
-#2600:1406:3:18b::778 contests.nvidia.com
-#2600:1406:3:18b::778 services.gfe.nvidia.com
-#2600:1406:3:18b::a91 download-cdn.gfe.nvidia.com
-#2600:1406:3:18b::778 shield.nvidia.com
-#2600:1417:9::b833:f5b cn.download.nvidia.com
-#2600:1417:9::b833:f5b us.download.nvidia.com
-#2600:1417:9::b833:f5b international.download.nvidia.com
-#2600:1417:9::b833:f5b international-gfe.download.nvidia.com
+2600:1406:3:18b::376 www.nvidia.com
+2600:1406:3:18b::376 arg.nvidia.com
+2600:1406:3:18b::376 blogs.nvidia.com
+2600:1406:3:18b::376 br.nvidia.com
+2600:1406:3:18b::376 chl.nvidia.com
+2600:1406:3:18b::376 clm.nvidia.com
+2600:1406:3:18b::376 research.nvidia.com
+2600:1406:3:18b::376 ven.nvidia.com
+2600:1406:3:18b::a90 images.nvidia.com
+2600:1406:3:18b::a90 developer.nvidia.com
+2600:1406:3:18b::778 www.nvidia.cn
+2600:1406:3:18b::c8c blogs.nvidia.cn
+2600:1417:9::b833:f5b cn.nvidia.com
+2600:1406:3:18b::778 contests.nvidia.com
+2600:1406:3:18b::778 services.gfe.nvidia.com
+2600:1406:3:18b::a91 download-cdn.gfe.nvidia.com
+2600:1406:3:18b::778 shield.nvidia.com
+2600:1417:9::b833:f5b cn.download.nvidia.com
+2600:1417:9::b833:f5b us.download.nvidia.com
+2600:1417:9::b833:f5b international.download.nvidia.com
+2600:1417:9::b833:f5b international-gfe.download.nvidia.com
 #2600:1406:3:18b::7b4 www.geforce.com
 #2600:1406:3:18b::7b4 gfwsl.geforce.com
 #2600:1417:9::b833:f5b www.geforce.cn

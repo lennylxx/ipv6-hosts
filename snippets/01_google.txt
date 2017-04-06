@@ -8,6 +8,8 @@
 2404:6800:4008:c07::71 www.registry.google
 2001:4860:4802:32::1d registry.google
 2001:4860:4802:32::1d nic.google
+2001:4860:4802:32::15 blog.google
+2404:6800:4008:801::2013 www.blog.google #ghs-svc-https-sni.ghs-ssl.googlehosted.com
 
 2404:6800:4008:c00::71 google.com
 2404:6800:4008:c02::63 www.google.com

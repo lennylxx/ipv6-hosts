@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Thu, 06 Apr 2017 13:52:38 +0800                  |
+## |         Update : Mon, 10 Apr 2017 21:46:32 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -59,6 +59,7 @@
 2404:6800:4008:c03::64 history.google.com #history.l.google.com
 2404:6800:4008:c03::8a investor.google.com #www3.l.google.com
 2404:6800:4008:c03::8b ipv6.google.com #ipv6.l.google.com
+2404:6800:4008:c03::8a isp.google.com #www3.l.google.com
 2404:6800:4008:c05::8b jmt0.google.com #www3.l.google.com
 2404:6800:4008:c04::8a keep.google.com #www3.l.google.com
 2404:6800:4008:c07::8b linkhelp.clients.google.com #clients.l.google.com

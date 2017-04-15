@@ -269,6 +269,7 @@
 2404:6800:4008:c07::bf www.blogblog.com #blogger.l.google.com
 2404:6800:4008:c03::bf www1.blogblog.com #blogger.l.google.com
 2404:6800:4008:c03::bf www2.blogblog.com #blogger.l.google.com
+2404:6800:4008:801::2009 accounts.blogger.com #blogger.l.google.com
 2404:6800:4008:c03::bf beta.blogger.com #blogger.l.google.com
 2404:6800:4008:c05::bf buttons.blogger.com #blogger.l.google.com
 2404:6800:4008:c03::bf buzz.blogger.com #blogger.l.google.com

@@ -1307,6 +1307,16 @@
 #2001:4350:2048:12::12 r7---sn-5up-u0ol.googlevideo.com
 #2001:4350:2048:12::13 r8---sn-5up-u0ol.googlevideo.com
 
+2001:4490:3ffc:4::c r1---sn-cnoa-w5pe.googlevideo.com
+2001:4490:3ffc:4::d r2---sn-cnoa-w5pe.googlevideo.com
+2001:4490:3ffc:4::e r3---sn-cnoa-w5pe.googlevideo.com
+2001:4490:3ffc:4::f r4---sn-cnoa-w5pe.googlevideo.com
+
+2001:4490:3ffd:1::c r1---sn-cnoa-25ue.googlevideo.com
+2001:4490:3ffd:1::d r2---sn-cnoa-25ue.googlevideo.com
+2001:4490:3ffd:1::e r3---sn-cnoa-25ue.googlevideo.com
+2001:4490:3ffd:1::f r4---sn-cnoa-25ue.googlevideo.com
+
 2001:4490:3ffd:8001::c r1---sn-cnoa-h55l.googlevideo.com
 2001:4490:3ffd:8001::d r2---sn-cnoa-h55l.googlevideo.com
 2001:4490:3ffd:8001::e r3---sn-cnoa-h55l.googlevideo.com

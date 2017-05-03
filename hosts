@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Wed, 03 May 2017 13:20:13 +0800                  |
+## |         Update : Wed, 03 May 2017 17:04:44 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -4001,10 +4001,55 @@
 #2001:4350:2048:12::12 r7---sn-5up-u0ol.googlevideo.com
 #2001:4350:2048:12::13 r8---sn-5up-u0ol.googlevideo.com
 
+2001:4490:3ffc::c r1---sn-cnoa-qxal.googlevideo.com
+2001:4490:3ffc::d r2---sn-cnoa-qxal.googlevideo.com
+2001:4490:3ffc:1::c r1---sn-cnoa-qxae.googlevideo.com
+2001:4490:3ffc:1::d r2---sn-cnoa-qxae.googlevideo.com
+2001:4490:3ffc:1::e r3---sn-cnoa-qxae.googlevideo.com
+2001:4490:3ffc:1::f r4---sn-cnoa-qxae.googlevideo.com
+2001:4490:3ffc:2::c r1---sn-cnoa-a3ve.googlevideo.com
+2001:4490:3ffc:2::d r1---sn-cnoa-a3ve.googlevideo.com
+2001:4490:3ffc:2::e r1---sn-cnoa-a3ve.googlevideo.com
+2001:4490:3ffc:2::f r1---sn-cnoa-a3ve.googlevideo.com
+2001:4490:3ffc:3::c r1---sn-cnoa-pmje.googlevideo.com
+2001:4490:3ffc:3::d r2---sn-cnoa-pmje.googlevideo.com
+2001:4490:3ffc:3::e r3---sn-cnoa-pmje.googlevideo.com
+2001:4490:3ffc:3::f r4---sn-cnoa-pmje.googlevideo.com
+2001:4490:3ffc:3::10 r5---sn-cnoa-pmje.googlevideo.com
+2001:4490:3ffc:3::11 r6---sn-cnoa-pmje.googlevideo.com
+2001:4490:3ffc:3::12 r7---sn-cnoa-pmje.googlevideo.com
+2001:4490:3ffc:3::13 r8---sn-cnoa-pmje.googlevideo.com
 2001:4490:3ffc:4::c r1---sn-cnoa-w5pe.googlevideo.com
 2001:4490:3ffc:4::d r2---sn-cnoa-w5pe.googlevideo.com
 2001:4490:3ffc:4::e r3---sn-cnoa-w5pe.googlevideo.com
 2001:4490:3ffc:4::f r4---sn-cnoa-w5pe.googlevideo.com
+2001:4490:3ffe:5::c r1---sn-cnoa-8b5e.googlevideo.com
+2001:4490:3ffe:5::d r2---sn-cnoa-8b5e.googlevideo.co
+2001:4490:3ffc:6::c r1---sn-cnoa-a0ie.googlevideo.com
+2001:4490:3ffc:6::d r2---sn-cnoa-a0ie.googlevideo.com
+2001:4490:3ffc:6::e r3---sn-cnoa-a0ie.googlevideo.com
+
+2001:4490:3ffc:9::c r1---sn-cnoa-pmwe.googlevideo.com
+2001:4490:3ffc:9::d r2---sn-cnoa-pmwe.googlevideo.com
+
+2001:4490:3ffc:a::c r1---sn-cnoa-8one.googlevideo.com
+2001:4490:3ffc:a::d r2---sn-cnoa-8one.googlevideo.com
+
+2001:4490:3ffc:8002::c r1---sn-cnoa-o5be.googlevideo.com
+2001:4490:3ffc:8002::d r2---sn-cnoa-o5be.googlevideo.com
+2001:4490:3ffc:8002::e r3---sn-cnoa-o5be.googlevideo.com
+2001:4490:3ffc:8002::f r4---sn-cnoa-o5be.googlevideo.com
+2001:4490:3ffc:8003::c r1---sn-cnoa-5hqe.googlevideo.com
+2001:4490:3ffc:8003::d r2---sn-cnoa-5hqe.googlevideo.com
+2001:4490:3ffc:8003::e r3---sn-cnoa-5hqe.googlevideo.com
+2001:4490:3ffc:8003::f r4---sn-cnoa-5hqe.googlevideo.com
+2001:4490:3ffc:8004::c r1---sn-cnoa-pqge.googlevideo.com
+2001:4490:3ffc:8004::d r2---sn-cnoa-pqge.googlevideo.com
+2001:4490:3ffc:8004::e r3---sn-cnoa-pqge.googlevideo.com
+2001:4490:3ffc:8004::f r4---sn-cnoa-pqge.googlevideo.com
+2001:4490:3ffc:8005::c r1---sn-cnoa-2o9e.googlevideo.com
+2001:4490:3ffc:8005::d r2---sn-cnoa-2o9e.googlevideo.com
+2001:4490:3ffc:8005::e r3---sn-cnoa-2o9e.googlevideo.com
 
 2001:4490:3ffd:1::c r1---sn-cnoa-25ue.googlevideo.com
 2001:4490:3ffd:1::d r2---sn-cnoa-25ue.googlevideo.com
@@ -4019,6 +4064,31 @@
 2001:4490:3ffd:8001::11 r6---sn-cnoa-h55l.googlevideo.com
 2001:4490:3ffd:8001::12 r7---sn-cnoa-h55l.googlevideo.com
 2001:4490:3ffd:8001::13 r8---sn-cnoa-h55l.googlevideo.com
+
+2001:4490:3ffd:8003::c r1---sn-cnoa-jv3e.googlevideo.com
+2001:4490:3ffd:8003::d r2---sn-cnoa-jv3e.googlevideo.com
+2001:4490:3ffd:8003::e r3---sn-cnoa-jv3e.googlevideo.com
+2001:4490:3ffd:8003::f r4---sn-cnoa-jv3e.googlevideo.com
+2001:4490:3ffd:8004::c r1---sn-cnoa-jwce.googlevideo.com
+2001:4490:3ffd:8004::d r2---sn-cnoa-jwce.googlevideo.com
+2001:4490:3ffd:8004::e r3---sn-cnoa-jwce.googlevideo.com
+
+2001:4490:3ffe::c r1---sn-cnoa-cagl.googlevideo.com
+2001:4490:3ffe::d r2---sn-cnoa-cagl.googlevideo.com
+2001:4490:3ffe:1::c r1---sn-cnoa-cage.googlevideo.com
+2001:4490:3ffe:1::d r2---sn-cnoa-cage.googlevideo.com
+2001:4490:3ffe:1::e r3---sn-cnoa-cage.googlevideo.com
+2001:4490:3ffe:1::f r4---sn-cnoa-cage.googlevideo.com 
+2001:4490:3ffe:2::c r1---sn-cnoa-cags.googlevideo.com
+2001:4490:3ffe:2::d r2---sn-cnoa-cags.googlevideo.com
+2001:4490:3ffe:3::c r1---sn-cnoa-itqe.googlevideo.com
+2001:4490:3ffe:3::d r2---sn-cnoa-itqe.googlevideo.com
+2001:4490:3ffe:3::e r3---sn-cnoa-itqe.googlevideo.com
+2001:4490:3ffe:3::f r4---sn-cnoa-itqe.googlevideo.com
+2001:4490:3ffe:3::10 r5---sn-cnoa-itqe.googlevideo.com
+2001:4490:3ffe:3::11 r6---sn-cnoa-itqe.googlevideo.com
+2001:4490:3ffe:4::c r1---sn-cnoa-pmxe.googlevideo.com
+2001:4490:3ffe:4::d r1---sn-cnoa-pmxe.googlevideo.com
 
 #2001:4498:a:200::c r1---sn-uphxqvujvh-30ae.googlevideo.com
 #2001:4498:a:200::d r2---sn-uphxqvujvh-30ae.googlevideo.com

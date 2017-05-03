@@ -2,8 +2,8 @@
 #2620:0:860:2:21d:9ff:fe33:f235 static.wikipedia.org #hume.wikimedia.org
 #2620:0:860:2:21d:9ff:fe33:f235 hume.wikimedia.org
 2620:0:863:ed1a::1 download.wikimedia.org
-#2620:0:860:2:230:48ff:fe5a:eb1e download.wikipedia.org
-2620::861:1:208:80:154:11 dumps.wikimedia.org #dataset1001.wikimedia.org
+2620:0:863:ed1a::1 download.wikipedia.org
+2620:0:861:1:208:80:154:11 dumps.wikimedia.org #dataset1001.wikimedia.org
 #2620:0:860:2:230:48ff:fe5a:eb1e dataset2.wikimedia.org
 #2620:0:862:1::80:2 blog.wikimedia.org
 #2620:0:862:1::80:2 geoiplookup.wikimedia.org
@@ -21,7 +21,7 @@
 2620:0:863:ed1a::1 meta.wikimedia.org
 2620:0:863:ed1a::1 secure.wikimedia.org
 2620:0:863:ed1a::1 species.wikimedia.org
-2620:0:863:ed1a::1 bits.wikimedia.org
+#2620:0:863:ed1a::1 bits.wikimedia.org
 2620:0:863:ed1a::2:b upload.wikimedia.org
 #2620:0:863:ed1a::1 wikimedia-lb.wikimedia.org
 #2620:0:863:ed1a::1 wikipedia-lb.wikimedia.org
@@ -32,8 +32,8 @@
 #2620:0:863:ed1a::1 wikinews-lb.wikimedia.org
 #2620:0:863:ed1a::1 wikiversity-lb.wikimedia.org
 #2620:0:863:ed1a::1 mediawiki-lb.wikimedia.org
-2620:0:863:ed1a::1:c m.wikimedia.org
-2620:0:861:ed1a::11 en.planet.wikimedia.org #misc-web-lb.eqiad.wikimedia.org
+2620:0:863:ed1a::1 m.wikimedia.org
+2620:0:863:ed1a::3:d en.planet.wikimedia.org #misc-web-lb.eqiad.wikimedia.org
 #2620:0:861:1:208:80:154:41 zirconium.wikimedia.org
 
 #2620:0:860:ed1a:: wikimedia-lb.pmtpa.wikimedia.org
@@ -66,11 +66,11 @@
 
 2620:0:861:ed1a::1 text-lb.eqiad.wikimedia.org
 #2620:0:861:ed1a::1:a bits-lb.eqiad.wikimedia.org
-2620:0:861:ed1a::1:c mobile-lb.eqiad.wikimedia.org
+#2620:0:861:ed1a::1:c mobile-lb.eqiad.wikimedia.org
 2620:0:861:ed1a::2:b upload-lb.eqiad.wikimedia.org
 2620:0:863:ed1a::1 text-lb.ulsfo.wikimedia.org
 #2620:0:863:ed1a::1:a bits-lb.ulsfo.wikimedia.org
-2620:0:863:ed1a::1:c mobile-lb.ulsfo.wikimedia.org
+#2620:0:863:ed1a::1:c mobile-lb.ulsfo.wikimedia.org
 2620:0:863:ed1a::2:b upload-lb.ulsfo.wikimedia.org
 
 ## WikiBooks 维基教科书

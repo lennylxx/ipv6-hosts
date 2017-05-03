@@ -1,123 +1,123 @@
 ## l.google.com
-2404:6800:4005:80a::2004 www.l.google.com
-2404:6800:4003:809::2004 www2.l.google.com
-2404:6800:4005:80b::2003 www3.l.google.com #www3-china.l.google.com
-2404:6800:4003:c00::76 www4.l.google.com
-2404:6800:4008:c01::54 accounts.l.google.com #accounts-china.l.google.com
-2404:6800:4005:80b::2003 accounts-cctld.l.google.com
+2404:6800:4008:c05::6a www.l.google.com
+2404:6800:4008:c03::63 www2.l.google.com
+2404:6800:4008:c03::8b www3.l.google.com #www3-china.l.google.com
+2404:6800:4008:c02::76 www4.l.google.com
+2404:6800:4008:c06::54 accounts.l.google.com #accounts-china.l.google.com
+2404:6800:4008:c06::5e accounts-cctld.l.google.com
 #2404:6800:4008:c00::62 afd.l.google.com
-2404:6800:4008:c01::7d alt1.talk.l.google.com
-2404:6800:4003:c00::76 android-market.l.google.com
-2404:6800:4003:804::200e android.l.google.com
+2607:f8b0:4003:c03::7d alt1.talk.l.google.com
+2404:6800:4008:c00::76 android-market.l.google.com
+2404:6800:4008:c06::be android.l.google.com
 #2404:6800:4008:c00::64 android-china.l.google.com
-2404:6800:4008:c01::70 adwords.l.google.com #adwords-china.l.google.com
-2404:6800:4003:c02::8d appspot.l.google.com
-2404:6800:4003:c00::1a aspmx.l.google.com
-2404:6800:4005:80b::2007 b.googlemail.l.google.com
-2404:6800:4005:80b::2003 bandaid-redirector.l.google.com
-2404:6800:4005:80b::2009 blogger.l.google.com
-2404:6800:4005:80b::2003 bloggerphotos.l.google.com
-#2607:f8b0:4007:804::100b blogspot.l.google.com
+2404:6800:4008:c03::70 adwords.l.google.com #adwords-china.l.google.com
+2404:6800:4008:c02::8d appspot.l.google.com
+2404:6800:4008:c06::1b aspmx.l.google.com
+2404:6800:4008:c03::bd b.googlemail.l.google.com
+2401:3800:4001:806::1003 bandaid-redirector.l.google.com
+2404:6800:4008:c04::bf blogger.l.google.com
+2404:6800:4008:c04::8b bloggerphotos.l.google.com
+#2a00:1450:4007:812::2001 blogspot.l.google.com
 #2404:6800:4008:c00::66 browsersync.l.google.com
-2404:6800:4003:c02::bd browserchannel-docs.l.google.com
-2401:3800:4001:2::1a cache.l.google.com
-2404:6800:4003:c02::8b cbk.l.google.com
-2404:6800:4003:c02::65 code.l.google.com
+2404:6800:4008:c03::bd browserchannel-docs.l.google.com
+2401:3800:4001:4::18 cache.l.google.com
+2404:6800:4008:c00::66 cbk.l.google.com
+2404:6800:4008:c06::64 code.l.google.com
 #2404:6800:4008:c00::73 checkout.l.google.com
-2607:f8b0:400e:c01::97 chromeecho.l.google.com
-2404:6800:4005:80b::2003 clients.l.google.com #clients-china.l.google.com
-2404:6800:4005:804::2003 clients-cctld.l.google.com
-2a00:1450:4016:802::1017 csi.l.google.com
+#2607:f8b0:400e:c01::97 chromeecho.l.google.com
+2404:6800:4008:c06::66 clients.l.google.com #clients-china.l.google.com
+2404:6800:4008:c05::5e clients-cctld.l.google.com
+2a00:1450:400e:800::2003 csi.l.google.com
 #2404:6800:4008:c00::68 desktop.l.google.com
-2404:6800:4008:c04::5d dl.l.google.com
-2404:6800:4003:c02::5b dl-ssl.l.google.com
-2404:6800:4005:80b::2004 ds.ipv6test.l.google.com
-2404:6800:4005:80b::2003 encrypted-tbn.l.google.com
-2404:6800:4005:80b::2003 gadgets.l.google.com
-2404:6800:4003:c01::6c gmail-imap.l.google.com
-2404:6800:4003:c00::6c gmail-pop.l.google.com
-2607:f8b0:4001:c07::6c gmail-smtp.l.google.com
-2404:6800:4003:c01::1a gmail-smtp-in.l.google.com
-2404:6800:4003:c00::6d gmail-smtp-msa.l.google.com
-2404:6800:4003:c01::79 ghs.l.google.com
-2404:6800:4003:c01::79 ghs46.l.google.com
-2404:6800:4003:c00::e gmr-smtp-in.l.google.com
-2404:6800:4005:803::200a googleapis.l.google.com
+2401:3800:4001:807::1004 dl.l.google.com
+2404:6800:4008:c00::5d dl-ssl.l.google.com
+2404:6800:4008:c03::63 ds.ipv6test.l.google.com
+2404:6800:4008:c07::71 encrypted-tbn.l.google.com
+2404:6800:4008:c03::76 gadgets.l.google.com
+2404:6800:4008:c07::6c gmail-imap.l.google.com
+2404:6800:4008:c00::6d gmail-pop.l.google.com
+2a00:1450:400b:c00::6d gmail-smtp.l.google.com
+2404:6800:4008:c03::1b gmail-smtp-in.l.google.com
+2404:6800:4008:c06::6d gmail-smtp-msa.l.google.com
+2404:6800:4008:c04::79 ghs.l.google.com
+2404:6800:4008:c05::79 ghs46.l.google.com
+2404:6800:4008:c06::e gmr-smtp-in.l.google.com
+2404:6800:4008:c04::5f googleapis.l.google.com
 #2404:6800:4008:c00::5f googleapis-ajax.l.google.com
-2404:6800:4003:c01::52 googlecode.l.google.com
-2404:6800:4003:c01::84 googlehosted.l.google.com
-2404:6800:4005:80b::2005 googlemail.l.google.com #mail-china.l.google.com
-2404:6800:4003:c02::10 googlemail-imap.l.google.com
-2404:6800:4003:c00::10 googlemail-pop.l.google.com
-2404:6800:4003:c01::10 googlemail-smtp.l.google.com
-2404:6800:4003:c00::8b groups.l.google.com #groups-china.l.google.com
-2404:6800:4003:c00::8a history.l.google.com
-2404:6800:4005:80b::2003 id.l.google.com
-2404:6800:4005:80b::2003 images.l.google.com
+2404:6800:4008:c06::52 googlecode.l.google.com
+2404:6800:4008:c03::84 googlehosted.l.google.com
+2404:6800:4008:c03::53 googlemail.l.google.com #mail-china.l.google.com
+2404:6800:4008:c07::10 googlemail-imap.l.google.com
+2404:6800:4008:c07::10 googlemail-pop.l.google.com
+2404:6800:4008:c06::10 googlemail-smtp.l.google.com
+2404:6800:4008:c07::64 groups.l.google.com #groups-china.l.google.com
+2404:6800:4008:c02::64 history.l.google.com
+2404:6800:4008:c06::5e id.l.google.com
+2404:6800:4008:c06::71 images.l.google.com
 #2404:6800:4008:c00::63 ipv4.l.google.com
-2404:6800:4005:80b::2003 ipv6.l.google.com
+2404:6800:4008:c05::64 ipv6.l.google.com
 #2404:6800:4008:c00::63 ipv6test.l.google.com
-2404:6800:4008:c02::be keyhole.l.google.com
-2404:6800:4008:c04::5d kh.l.google.com
-2404:6800:4005:80b::2003 khm.l.google.com
-2404:6800:4005:80b::2003 khmdb.l.google.com
-2404:6800:4005:80b::2003 khms.l.google.com #khms-china.l.google.com
-2404:6800:4005:80a::200f large-uploads.l.google.com
-2404:6800:4005:80b::2003 lh2.l.google.com
-2404:6800:4005:80b::2003 maps.l.google.com #maps-china.l.google.com
-2404:6800:4005:80b::2003 maps-cctld.l.google.com
-2404:6800:4005:80b::200b mobile.l.google.com
-2404:6800:4003:c02::bc mobile-gtalk.l.google.com
-2404:6800:4005:80b::2003 mt.l.google.com
-2404:6800:4005:80b::2003 mts.l.google.com #mts-china.l.google.com
-2404:6800:4005:80b::2001 music-china.l.google.com
-2404:6800:4003:c02::74 music-streaming.l.google.com
-2404:6800:4003:c00::76 mw-medium.l.google.com
-2404:6800:4003:c01::76 mw-small.l.google.com
-2404:6800:4005:80b::2003 news.l.google.com
-2404:6800:4003:c01::57 orkut-fe.l.google.com
-2404:6800:4003:c02::56 orkut-images.l.google.com
-2404:6800:4003:c02::57 orkut-opensocial.l.google.com
-2404:6800:4003:c01::55 orkut-promote.l.google.com
-2404:6800:4003:c02::55 orkut-static.l.google.com
+2401:3800:4001:807::100e keyhole.l.google.com
+#2404:6800:4008:c04::5d kh.l.google.com
+2401:3800:4001:807::1006 khm.l.google.com
+2401:3800:4001:807::1009 khmdb.l.google.com
+2404:6800:4008:c04::66 khms.l.google.com #khms-china.l.google.com
+2404:6800:4008:c03::75 large-uploads.l.google.com
+2404:6800:4008:c03::64 lh2.l.google.com
+2404:6800:4008:c02::66 maps.l.google.com #maps-china.l.google.com
+2404:6800:4008:c06::5e maps-cctld.l.google.com
+2404:6800:4008:c03::c1 mobile.l.google.com
+2404:6800:4008:c06::bc mobile-gtalk.l.google.com
+2404:6800:4008:c05::65 mt.l.google.com
+2404:6800:4008:c03::8a mts.l.google.com #mts-china.l.google.com
+2404:6800:4008:c02::84 music-china.l.google.com
+2404:6800:4008:c04::75 music-streaming.l.google.com
+2404:6800:4008:c06::76 mw-medium.l.google.com
+2404:6800:4008:c00::76 mw-small.l.google.com
+2404:6800:4008:c04::8a news.l.google.com
+#2404:6800:4003:c01::57 orkut-fe.l.google.com
+#2404:6800:4003:c02::56 orkut-images.l.google.com
+#2404:6800:4003:c02::57 orkut-opensocial.l.google.com
+#2404:6800:4003:c01::55 orkut-promote.l.google.com
+#2404:6800:4003:c02::55 orkut-static.l.google.com
 #2404:6800:4008:c00::9a pagead.l.google.com
-2404:6800:4003:c02::84 pagead-tpc.l.google.com
-2404:6800:4001:807::2001 pagead-googlehosted.l.google.com
+2404:6800:4008:c06::84 pagead-tpc.l.google.com
+2401:3800:4001:10::100a pagead-googlehosted.l.google.com
 #2404:6800:4008:c00::9a partnerad.l.google.com
-2404:6800:4005:80b::2003 picasaweb.l.google.com
-2404:6800:4005:80b::2003 plus.l.google.com #plus-china.l.google.com
-#2607:f8b0:4007:804::100c photos-ugc.l.google.com
-2404:6800:4003:c00::451 sandbox.l.google.com
-2404:6800:4005:80b::2003 safebrowsing.cache.l.google.com
-2a00:1450:4001:80a::1003 sb.l.google.com
-2404:6800:4003:c01::5b sb-ssl.l.google.com
-2404:6800:4005:80b::2003 scholar.l.google.com
+2404:6800:4008:c07::be picasaweb.l.google.com
+2404:6800:4008:c03::66 plus.l.google.com #plus-china.l.google.com
+#2a00:1450:4007:812::2001 photos-ugc.l.google.com
+2404:6800:4008:c06::451 sandbox.l.google.com
+2404:6800:4008:c00::8a safebrowsing.cache.l.google.com
+2404:6800:4008:c00::5d sb.l.google.com
+2404:6800:4008:c03::5d sb-ssl.l.google.com
+2404:6800:4008:c06::be scholar.l.google.com
 #2404:6800:4008:c00::66 sketchup.l.google.com
-2404:6800:4005:80b::2003 spreadsheets.l.google.com #spreadsheets-china.l.google.com
-2404:6800:4005:80b::2003 spreadsheets-china.l.google.com
-2404:6800:4005:804::200f sslvideo-upload.l.google.com
-2404:6800:4001:803::101e ssl-google-analytics.l.google.com
-2607:f8b0:4005:400::17 static.cache.l.google.com
-2404:6800:4005:80b::2003 suggestqueries.l.google.com
-2404:6800:4005:804::2004 tbn.l.google.com
-#2607:f8b0:400e:c04::7d talk.l.google.com
-2404:6800:4005:80b::2003 talkgadget.l.google.com
-2404:6800:4008:c01::7d talkx.l.google.com #alt1.talk.l.google.com
-2404:6800:4005:804::2004 toolbarqueries.l.google.com
-2404:6800:4003:808::1001 tools.l.google.com #tools-china.l.google.com
-2404:6800:4003:c00::71 video.l.google.com #video-china.l.google.com
-2404:6800:4003:809::200e video-stats.l.google.com
-2404:6800:4003:806::1000 video-analytics.l.google.com
-2404:6800:4003:c00::8a video-thumbnails.l.google.com
-#2607:f8b0:400e:c04::7b wifi.l.google.com
-2404:6800:4005:80b::2003 writely.l.google.com #writely-china.l.google.com
+2404:6800:4008:c04::8a spreadsheets.l.google.com #spreadsheets-china.l.google.com
+2404:6800:4008:c00::71 spreadsheets-china.l.google.com
+2404:6800:4008:c02::74 sslvideo-upload.l.google.com
+2401:3800:4001:11::101e ssl-google-analytics.l.google.com
+#2607:f8b0:4005:400::17 static.cache.l.google.com
+2404:6800:4008:c00::8a suggestqueries.l.google.com
+2404:6800:4008:c07::69 tbn.l.google.com
+2404:6800:4008:c05::7d talk.l.google.com
+2404:6800:4008:c07::66 talkgadget.l.google.com
+2607:f8b0:4003:c03::7d talkx.l.google.com #alt1.talk.l.google.com
+2401:3800:4001:11::1014 toolbarqueries.l.google.com
+2404:6800:4008:c07::65 tools.l.google.com #tools-china.l.google.com
+2404:6800:4008:c07::8a video.l.google.com #video-china.l.google.com
+2404:6800:4008:c07::66 video-stats.l.google.com
+2404:6800:4008:c06::64 video-analytics.l.google.com
+2404:6800:4008:c04::64 video-thumbnails.l.google.com
+2404:6800:4008:c04::7b wifi.l.google.com
+2404:6800:4008:c07::8a writely.l.google.com #writely-china.l.google.com
 #2404:6800:4008:c00::62 writely-com.l.google.com
-2404:6800:4005:80b::2003 writely-china.l.google.com
-2404:6800:4001:805::1007 www-google-analytics.l.google.com
-2404:6800:4001:806::2008 www-googletagmanager.l.google.com
-2404:6800:4003:c02::c7 www-wide.l.google.com
-2404:6800:4005:80b::2003 youtube-ui.l.google.com #youtube-ui-china.l.google.com
-2404:6800:4005:80a::200f yt-video-upload.l.google.com
-2404:6800:4005:80b::2003 ytimg.l.google.com
-2404:6800:4005:80b::2003 ytstatic.l.google.com
+2404:6800:4008:c06::66 writely-china.l.google.com
+2404:6800:4005:807::200e www-google-analytics.l.google.com
+2401:3800:4001:10::101e www-googletagmanager.l.google.com
+2404:6800:4008:c05::c7 www-wide.l.google.com
+2404:6800:4008:c00::8b youtube-ui.l.google.com #youtube-ui-china.l.google.com
+2404:6800:4008:c04::75 yt-video-upload.l.google.com
+2404:6800:4008:c06::8a ytimg.l.google.com
+2404:6800:4008:c07::71 ytstatic.l.google.com
 

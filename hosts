@@ -3986,6 +3986,15 @@
 #2001:4350:2048:12::12 r7---sn-5up-u0ol.googlevideo.com
 #2001:4350:2048:12::13 r8---sn-5up-u0ol.googlevideo.com
 
+2001:4490:3ffc:4::c r1.sn-cnoa-w5pe.googlevideo.com
+2001:4490:3ffc:4::d r2.sn-cnoa-w5pe.googlevideo.com
+2001:4490:3ffc:4::e r3.sn-cnoa-w5pe.googlevideo.com
+2001:4490:3ffc:4::f r4.sn-cnoa-w5pe.googlevideo.com
+#117.219.225.12 r1.sn-cnoa-w5pe.googlevideo.com
+#117.219.225.13 r2.sn-cnoa-w5pe.googlevideo.com
+#117.219.225.14 r3.sn-cnoa-w5pe.googlevideo.com
+#117.219.225.15 r4.sn-cnoa-w5pe.googlevideo.com
+
 2001:4490:3ffd:8001::c r1---sn-cnoa-h55l.googlevideo.com
 2001:4490:3ffd:8001::d r2---sn-cnoa-h55l.googlevideo.com
 2001:4490:3ffd:8001::e r3---sn-cnoa-h55l.googlevideo.com
@@ -3994,6 +4003,15 @@
 2001:4490:3ffd:8001::11 r6---sn-cnoa-h55l.googlevideo.com
 2001:4490:3ffd:8001::12 r7---sn-cnoa-h55l.googlevideo.com
 2001:4490:3ffd:8001::13 r8---sn-cnoa-h55l.googlevideo.com
+
+2001:4490:3ffd:1::c r1---sn-cnoa-25ue.googlevideo.com
+2001:4490:3ffd:1::d r2---sn-cnoa-25ue.googlevideo.com
+2001:4490:3ffd:1::e r3---sn-cnoa-25ue.googlevideo.com
+2001:4490:3ffd:1::f r4---sn-cnoa-25ue.googlevideo.com
+#117.219.225.140 r1---sn-cnoa-25ue.googlevideo.com
+#117.219.225.141 r2---sn-cnoa-25ue.googlevideo.com
+#117.219.225.142 r3---sn-cnoa-25ue.googlevideo.com
+#117.219.225.143 r4---sn-cnoa-25ue.googlevideo.com
 
 #2001:4498:a:200::c r1---sn-uphxqvujvh-30ae.googlevideo.com
 #2001:4498:a:200::d r2---sn-uphxqvujvh-30ae.googlevideo.com
@@ -21014,17 +21032,6 @@
 192.229.144.96 cs261.wac.edgecastcdn.net
 68.232.44.229 cdn.www.xda-developers.com #gs1.wac.v3cdn.net
 68.232.44.229 wac.8244.edgecastcdn.net #gs1.wac.v3cdn.net
-
-## cnoa-w5pe
-#117.219.225.12 r1.sn-cnoa-w5pe.googlevideo.com
-2001:4490:3ffc:4::c r1.sn-cnoa-w5pe.googlevideo.com
-#117.219.225.13 r2.sn-cnoa-w5pe.googlevideo.com
-2001:4490:3ffc:4::d r2.sn-cnoa-w5pe.googlevideo.com
-#117.219.225.14 r3.sn-cnoa-w5pe.googlevideo.com
-2001:4490:3ffc:4::e r3.sn-cnoa-w5pe.googlevideo.com
-#117.219.225.15 r3.sn-cnoa-w5pe.googlevideo.com
-2001:4490:3ffc:4::f r3.sn-cnoa-w5pe.googlevideo.com
-
 ## +-------------------------------------------------------------------+
 ## |                            End of File                            |
 ## +-------------------------------------------------------------------+

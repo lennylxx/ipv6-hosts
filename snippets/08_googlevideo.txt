@@ -1,4 +1,4 @@
-﻿## Google Video
+## Google Video
 2404:6800:4008:c07::64 video.google.com #video.l.google.com
 2404:6800:4008:c07::66 video.google.com.hk #video.l.google.com
 2404:6800:4008:c05::64 video.google.com.tw #video.l.google.com
@@ -1587,6 +1587,47 @@
 #2a00:ff0:1234:2::d r2---sn-pouxga5o-vu2l.googlevideo.com
 #2a00:ff0:1234:2::e r3---sn-pouxga5o-vu2l.googlevideo.com
 
+2a00:1e48:1:c::c r1---sn-ug5onuxaxjvh-jx3e.googlevideo.com
+2a00:1e48:1:c::d r2---sn-ug5onuxaxjvh-jx3e.googlevideo.com
+2a00:1e48:1:c::e r3---sn-ug5onuxaxjvh-jx3e.googlevideo.com
+2a00:1e48:1:c::f r4---sn-ug5onuxaxjvh-jx3e.googlevideo.com
+
+2a00:1e48:1:f::c r1---sn-ug5onuxaxjvh-304e.googlevideo.com
+2a00:1e48:1:f::d r2---sn-ug5onuxaxjvh-304e.googlevideo.com
+2a00:1e48:1:f::e r3---sn-ug5onuxaxjvh-304e.googlevideo.com
+2a00:1e48:1:f::f r4---sn-ug5onuxaxjvh-304e.googlevideo.com
+
+2a00:1e48:1:12::c r1---sn-ug5onuxaxjvh-bvwe.googlevideo.com
+2a00:1e48:1:12::d r2---sn-ug5onuxaxjvh-bvwe.googlevideo.com
+2a00:1e48:1:12::e r3---sn-ug5onuxaxjvh-bvwe.googlevideo.com
+2a00:1e48:1:12::f r4---sn-ug5onuxaxjvh-bvwe.googlevideo.com
+
+2a00:1e48:1:1e::c r1---sn-ug5onuxaxjvh-c5me.googlevideo.com
+2a00:1e48:1:1e::d r2---sn-ug5onuxaxjvh-c5me.googlevideo.com
+2a00:1e48:1:1e::e r3---sn-ug5onuxaxjvh-c5me.googlevideo.com
+
+2a00:1e48:1:20::c r1---sn-ug5onuxaxjvh-3i8e.googlevideo.com
+2a00:1e48:1:20::d r2---sn-ug5onuxaxjvh-3i8e.googlevideo.com
+2a00:1e48:1:20::e r3---sn-ug5onuxaxjvh-3i8e.googlevideo.com
+
+2a00:1e48:1:24::c r1---sn-ug5onuxaxjvh-v8cl.googlevideo.com
+2a00:1e48:1:24::d r2---sn-ug5onuxaxjvh-v8cl.googlevideo.com
+2a00:1e48:1:24::e r3---sn-ug5onuxaxjvh-v8cl.googlevideo.com
+
+2a00:1e48:1:26::c  r1---sn-ug5onuxaxjvh-n8ml.googlevideo.com
+2a00:1e48:1:26::d  r2---sn-ug5onuxaxjvh-n8ml.googlevideo.com
+2a00:1e48:1:26::e  r3---sn-ug5onuxaxjvh-n8ml.googlevideo.com
+2a00:1e48:1:26::f  r4---sn-ug5onuxaxjvh-n8ml.googlevideo.com
+2a00:1e48:1:26::10  r5---sn-ug5onuxaxjvh-n8ml.googlevideo.com
+2a00:1e48:1:26::11  r6---sn-ug5onuxaxjvh-n8ml.googlevideo.com
+
+2a00:1e48:1:34::c r1---sn-ug5onuxaxjvh-8bqe.googlevideo.com
+2a00:1e48:1:34::d r2---sn-ug5onuxaxjvh-8bqe.googlevideo.com
+2a00:1e48:1:34::e r3---sn-ug5onuxaxjvh-8bqe.googlevideo.com
+2a00:1e48:1:35::c r1---sn-ug5onuxaxjvh-utqe.googlevideo.com
+2a00:1e48:1:35::d r2---sn-ug5onuxaxjvh-utqe.googlevideo.com
+2a00:1e48:1:35::e r3---sn-ug5onuxaxjvh-utqe.googlevideo.com
+
 2a00:1e48:99:15::c r1---sn-ug5onuxaxjvh-n8vs.googlevideo.com
 2a00:1e48:99:15::d r2---sn-ug5onuxaxjvh-n8vs.googlevideo.com
 2a00:1e48:99:15::e r3---sn-ug5onuxaxjvh-n8vs.googlevideo.com
@@ -1595,7 +1636,6 @@
 2a00:1e48:99:15::11 r6---sn-ug5onuxaxjvh-n8vs.googlevideo.com
 2a00:1e48:99:15::12 r7---sn-ug5onuxaxjvh-n8vs.googlevideo.com
 2a00:1e48:99:15::13 r8---sn-ug5onuxaxjvh-n8vs.googlevideo.com
-
 2a00:1e48:99:16::c r1---sn-ug5onuxaxjvh-n8vz.googlevideo.com
 2a00:1e48:99:16::d r2---sn-ug5onuxaxjvh-n8vz.googlevideo.com
 2a00:1e48:99:16::e r3---sn-ug5onuxaxjvh-n8vz.googlevideo.com
@@ -1604,7 +1644,6 @@
 2a00:1e48:99:16::11 r6---sn-ug5onuxaxjvh-n8vz.googlevideo.com
 2a00:1e48:99:16::12 r7---sn-ug5onuxaxjvh-n8vz.googlevideo.com
 2a00:1e48:99:16::13 r8---sn-ug5onuxaxjvh-n8vz.googlevideo.com
-
 2a00:1e48:99:17::c r1---sn-ug5onuxaxjvh-n8v6.googlevideo.com
 2a00:1e48:99:17::d r2---sn-ug5onuxaxjvh-n8v6.googlevideo.com
 2a00:1e48:99:17::e r3---sn-ug5onuxaxjvh-n8v6.googlevideo.com

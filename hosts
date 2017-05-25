@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Sun, 07 May 2017 22:13:56 +0800                  |
+## |         Update : Thu, 25 May 2017 12:31:45 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -70,6 +70,7 @@
 2404:6800:4008:c06::71 myaccount.google.com #www3.l.google.com
 2404:6800:4008:c04::71 on.google.com #www3.l.google.com
 2404:6800:4008:c06::8d onetoday.google.com #appspot.l.google.com
+2404:6800:4008:c00::64 passwords.google.com #www3.l.google.com
 2404:6800:4008:800::200e patents.google.com #www3.l.google.com
 2404:6800:4008:c07::65 payments.google.com
 2404:6800:4008:c07::8b peering.google.com #www3.l.google.com

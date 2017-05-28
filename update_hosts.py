@@ -16,12 +16,12 @@ blackhole = (
     '10::2222',
     '21:2::2',
     '101::1234',
+    '200:2:807:c62d::',
     '200:2:253d:369e::',
     '200:2:2e52:ae44::',
     '200:2:3b18:3ad::',
     '200:2:4e10:310f::',
     '200:2:5d2e:859::',
-    '200:2:807:c62d::',
     '200:2:9f6a:794b::',
     '200:2:cb62:741::',
     '200:2:f3b9:bb27::',
@@ -49,8 +49,7 @@ blackhole = (
     '159.106.121.75',
     '202.181.7.85',
     '203.98.7.65',
-    '243.185.187.39',
-
+    '243.185.187.39'
 )
 
 dns = {
@@ -211,13 +210,13 @@ def validate_ip_addr(ip_addr):
 
 def print_help():
     print '''usage: update_hosts [OPTIONS] FILE
-A simple multi-threading tool used to update hosts file.
+A simple multi-threading tool used for updating hosts file.
 
 Options:
   -h, --help             show this help message and exit
   -s DNS                 set another dns server, default: 2001:4860:4860::8844
-  -o OUT_FILE            ouput file, default: inputfilename.out
-  -t QUERY_TYPE          dig command query type, defalut: aaaa
+  -o OUT_FILE            output file, default: inputfilename.out
+  -t QUERY_TYPE          dig command query type, default: aaaa
   -c, --cname            write canonical name into hosts file
   -n THREAD_NUM          set the number of worker threads, default: 10
 '''

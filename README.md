@@ -20,13 +20,13 @@ Scripts
 
 ```
 usage: update_hosts [OPTIONS] FILE
-A simple multi-threading tool used to update hosts file.
+A simple multi-threading tool used for updating hosts file.
 
 Options:
   -h, --help             show this help message and exit
   -s DNS                 set another dns server, default: 2001:4860:4860::8844
-  -o OUT_FILE            ouput file, default: inputfilename.out
-  -t QUERY_TYPE          dig command query type, defalut: aaaa
+  -o OUT_FILE            output file, default: inputfilename.out
+  -t QUERY_TYPE          dig command query type, default: aaaa
   -c, --cname            write canonical name into hosts file
   -n THREAD_NUM          set the number of worker threads, default: 10
 ```
@@ -61,7 +61,7 @@ More public DNS servers please refer to http://public-dns.info
 Privacy
 -------
 
-* The hosts file just redirects domain to its offical IPs. You can check them on any public DNS servers.
+* The hosts file just redirects domain to its official IPs. You can check them on any other public DNS servers.
 * There is no absolute privacy on the Internet. Learn to protect yourself.
 * Act smart.
 

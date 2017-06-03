@@ -21910,6 +21910,16 @@
 #68.232.44.229 cdn.www.xda-developers.com #gs1.wac.v3cdn.net
 68.232.44.229 wac.8244.edgecastcdn.net #gs1.wac.v3cdn.net
 
+## cnoa-w5pe
+#117.219.225.12 r1.sn-cnoa-w5pe.googlevideo.com
+2001:4490:3ffc:4::c r1.sn-cnoa-w5pe.googlevideo.com
+#117.219.225.13 r2.sn-cnoa-w5pe.googlevideo.com
+2001:4490:3ffc:4::d r2.sn-cnoa-w5pe.googlevideo.com
+#117.219.225.14 r3.sn-cnoa-w5pe.googlevideo.com
+2001:4490:3ffc:4::e r3.sn-cnoa-w5pe.googlevideo.com
+#117.219.225.15 r3.sn-cnoa-w5pe.googlevideo.com
+2001:4490:3ffc:4::f r3.sn-cnoa-w5pe.googlevideo.com
+
 ## +-------------------------------------------------------------------+
 ## |                            End of File                            |
 ## +-------------------------------------------------------------------+

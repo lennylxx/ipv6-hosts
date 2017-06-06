@@ -165,6 +165,7 @@
 2a03:2880:f20b:c4:face:b00c:0:43fe scontent-b-ord.cdninstagram.com
 2a03:2880:f20d:c4:face:b00c:0:43fe scontent-a-lax.cdninstagram.com
 2a03:2880:f20d:c4:face:b00c:0:43fe scontent-b-lax.cdninstagram.com
+2a03:2880:f20f:c4:face:b00c::43fe scontent-nrt1-1.cdninstagram.com
 2001:418:1401:19::a5fe:2f7b igcdn-photos-a-a.akamaihd.net
 2001:418:1401:19::a5fe:2f89 igcdn-photos-b-a.akamaihd.net
 2001:418:1401:19::a5fe:2f89 igcdn-photos-c-a.akamaihd.net

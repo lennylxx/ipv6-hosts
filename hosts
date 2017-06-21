@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Wed, 14 Jun 2017 13:40:14 +0800                  |
+## |         Update : Wed, 21 Jun 2017 23:25:10 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -21447,27 +21447,27 @@
 #2600:1417:9::b833:f5b store.valvesoftware.com
 
 ## NVIDIA
-2600:1406:3:18b::376 www.nvidia.com
-2600:1406:3:18b::376 arg.nvidia.com
-2600:1406:3:18b::376 blogs.nvidia.com
-2600:1406:3:18b::376 br.nvidia.com
-2600:1406:3:18b::376 chl.nvidia.com
-2600:1406:3:18b::376 clm.nvidia.com
-2600:1406:3:18b::376 research.nvidia.com
-2600:1406:3:18b::376 ven.nvidia.com
-2600:1406:3:18b::a90 images.nvidia.com
-2600:1406:3:18b::a90 developer.nvidia.com
-2600:1406:3:18b::778 www.nvidia.cn
-2600:1406:3:18b::c8c blogs.nvidia.cn
-2600:1417:9::b833:f5b cn.nvidia.com
-2600:1406:3:18b::778 contests.nvidia.com
-2600:1406:3:18b::778 services.gfe.nvidia.com
-2600:1406:3:18b::a91 download-cdn.gfe.nvidia.com
-2600:1406:3:18b::778 shield.nvidia.com
-2600:1417:9::b833:f5b cn.download.nvidia.com
-2600:1417:9::b833:f5b us.download.nvidia.com
-2600:1417:9::b833:f5b international.download.nvidia.com
-2600:1417:9::b833:f5b international-gfe.download.nvidia.com
+#2600:1406:3:18b::376 www.nvidia.com
+#2600:1406:3:18b::376 arg.nvidia.com
+#2600:1406:3:18b::376 blogs.nvidia.com
+#2600:1406:3:18b::376 br.nvidia.com
+#2600:1406:3:18b::376 chl.nvidia.com
+#2600:1406:3:18b::376 clm.nvidia.com
+#2600:1406:3:18b::376 research.nvidia.com
+#2600:1406:3:18b::376 ven.nvidia.com
+2606:2800:21f:3aa:dcf:37b:1ed6:1fb images.nvidia.com
+#2600:1406:3:18b::a90 developer.nvidia.com
+#2600:1406:3:18b::778 www.nvidia.cn
+#2600:1406:3:18b::c8c blogs.nvidia.cn
+#2600:1417:9::b833:f5b cn.nvidia.com
+#2600:1406:3:18b::778 contests.nvidia.com
+#2600:1406:3:18b::778 services.gfe.nvidia.com
+2606:2800:21f:150d:87d:2526:2d1:177d download-cdn.gfe.nvidia.com
+#2600:1406:3:18b::778 shield.nvidia.com
+2606:2800:21f:3aa:dcf:37b:1ed6:1fb cn.download.nvidia.com
+2606:2800:21f:3aa:dcf:37b:1ed6:1fb us.download.nvidia.com
+2606:2800:21f:3aa:dcf:37b:1ed6:1fb international.download.nvidia.com
+2606:2800:21f:3aa:dcf:37b:1ed6:1fb international-gfe.download.nvidia.com
 #2600:1406:3:18b::7b4 www.geforce.com
 #2600:1406:3:18b::7b4 gfwsl.geforce.com
 #2600:1417:9::b833:f5b www.geforce.cn

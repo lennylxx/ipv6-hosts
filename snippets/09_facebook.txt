@@ -144,21 +144,21 @@
 #2600:1409:a::173b:be13 a8.sphotos.ak.fbcdn.net #a1408.dspw43.akamai.net
 
 ## Instagram
-2406:da00:ff00::3401:5ea2 instagram.com
-2406:da00:ff00::22c6:d9aa www.instagram.com
-2406:da00:ff00::22c8:9e51 i.instagram.com
-2406:da00:ff00::3448:45e2 l.instagram.com
-2406:da00:ff00::36ec:5869 api.instagram.com
-2406:da00:ff00::22c2:4396 help.instagram.com
+2a03:2880:f20d:1c4:face:b00c::43fe instagram.com
+2a03:2880:f20d:1c4:face:b00c::43fe www.instagram.com
+2a03:2880:f20d:1c4:face:b00c::43fe i.instagram.com
+2a03:2880:f20d:1c4:face:b00c::43fe l.instagram.com
+2a03:2880:f20d:1c4:face:b00c::43fe api.instagram.com
+2a03:2880:f20d:1c4:face:b00c::43fe help.instagram.com
 2a03:2880:f20d:c4:face:b00c:0:43fe blog.instagram.com
-2406:da00:ff00::3404:ee4 graph.instagram.com
-2406:da00:ff00::3416:ef64 logger.instagram.com
-2406:da00:ff00::3448:c8cf badges.instagram.com
-2406:da00:ff00::22c2:4396 platform.instagram.com
-2406:da00:ff00::34ce:271b maps.instagram.com
-2a03:2880:f202:c2:face:b00c:0:43fe scontent.cdninstagram.com
-2a03:2880:f202:c2:face:b00c:0:43fe scontent-a.cdninstagram.com
-2a03:2880:f202:c2:face:b00c:0:43fe scontent-b.cdninstagram.com
+2a03:2880:f20d:1c4:face:b00c::43fe graph.instagram.com
+2a03:2880:f20d:1c4:face:b00c::43fe logger.instagram.com
+2a03:2880:f20d:1c4:face:b00c::43fe badges.instagram.com
+2a03:2880:f20d:1c4:face:b00c::43fe platform.instagram.com
+2a03:2880:f20d:1c4:face:b00c::43fe maps.instagram.com
+2a03:2880:f20d:1c4:face:b00c::43fe scontent.cdninstagram.com
+2a03:2880:f20d:1c4:face:b00c::43fe scontent-a.cdninstagram.com
+2a03:2880:f20d:1c4:face:b00c::43fe scontent-b.cdninstagram.com
 2a03:2880:f222:c4:face:b00c:0:43fe scontent-a-sjc.cdninstagram.com
 2a03:2880:f222:c4:face:b00c:0:43fe scontent-b-sjc.cdninstagram.com
 2a03:2880:f20b:c4:face:b00c:0:43fe scontent-a-ord.cdninstagram.com

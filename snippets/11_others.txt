@@ -227,4 +227,20 @@
 ## Telegram
 2001:67c:4e8:fa60:3:0:811:139 telegram.org
 2001:67c:4e8:fa60:3:0:811:139 core.telegram.org
-
+2001:67c:4e8:fa60:3:0:811:140 web.telegram.org
+2001:67c:4e8:f004::9 api.telegram.org
+2001:67c:4e8:fa60:3:0:811:139 my.telegram.org
+2001:67c:4e8:fa60:3:0:811:139 tisvpn.telegram.org
+2001:b28:f23d:800a:3:0:830:630 aurora.web.telegram.org
+2001:67c:4e8:a:3:0:710:605 venus.web.telegram.org
+2001:b28:f23f:d:3:0:850:340 flora.web.telegram.org
+2001:67c:4e8:100a:3:0:811:240 vesta-1.web.telegram.org
+2001:67c:4e8:fa60:3:0:811:139 www.telegram.org
+2001:67c:4e8:100a:3:0:811:240 vesta.web.telegram.org
+2001:b28:f23f:d:3:0:850:340 flora-1.web.telegram.org
+2001:67c:4e8:fa60:3:0:811:139 desktop.telegram.org
+2001:b28:f23d:a:3:0:802:231 pluto.web.telegram.org
+2001:b28:f23d:a:3:0:802:231 pluto-1.web.telegram.org
+2001:67c:4e8:a:3:0:710:605 venus-1.web.telegram.org
+2001:67c:4e8:fa60:3:0:811:139 macos.telegram.org
+2001:b28:f23d:800a:3:0:830:630 aurora-1.web.telegram.org

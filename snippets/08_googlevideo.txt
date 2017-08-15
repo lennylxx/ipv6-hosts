@@ -1491,8 +1491,8 @@
 2400:c700:3002::d r2---sn-pqx5jxaa0a5g-qxas.googlevideo.com
 2400:c700:3002::e r3---sn-pqx5jxaa0a5g-qxas.googlevideo.com
 2400:c700:3002::f r4---sn-pqx5jxaa0a5g-qxas.googlevideo.com
-2400:c700:3002::g r5---sn-pqx5jxaa0a5g-qxas.googlevideo.com
-2400:c700:3002::h r6---sn-pqx5jxaa0a5g-qxas.googlevideo.com
+2400:c700:3002::10 r5---sn-pqx5jxaa0a5g-qxas.googlevideo.com
+2400:c700:3002::11 r6---sn-pqx5jxaa0a5g-qxas.googlevideo.com
 
 2400:c700:4001::c r1---sn-pqx5jxaa0a5g-cagl.googlevideo.com
 2400:c700:4001::d r2---sn-pqx5jxaa0a5g-cagl.googlevideo.com

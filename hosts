@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Thu, 20 Jul 2017 22:59:54 +0800                  |
+## |         Update : Tue, 15 Aug 2017 17:24:30 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -4186,8 +4186,8 @@
 2400:c700:3002::d r2---sn-pqx5jxaa0a5g-qxas.googlevideo.com
 2400:c700:3002::e r3---sn-pqx5jxaa0a5g-qxas.googlevideo.com
 2400:c700:3002::f r4---sn-pqx5jxaa0a5g-qxas.googlevideo.com
-2400:c700:3002::g r5---sn-pqx5jxaa0a5g-qxas.googlevideo.com
-2400:c700:3002::h r6---sn-pqx5jxaa0a5g-qxas.googlevideo.com
+2400:c700:3002::10 r5---sn-pqx5jxaa0a5g-qxas.googlevideo.com
+2400:c700:3002::11 r6---sn-pqx5jxaa0a5g-qxas.googlevideo.com
 
 2400:c700:4001::c r1---sn-pqx5jxaa0a5g-cagl.googlevideo.com
 2400:c700:4001::d r2---sn-pqx5jxaa0a5g-cagl.googlevideo.com

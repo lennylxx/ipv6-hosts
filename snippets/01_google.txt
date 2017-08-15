@@ -51,6 +51,8 @@
 2404:6800:4008:c00::66 material.google.com
 2404:6800:4008:c03::c1 mobile.google.com #mobile.l.google.com
 2404:6800:4008:c06::71 myaccount.google.com #www3.l.google.com
+2404:6800:4008:c07::65 myactivity.google.com #history.l.google.com
+2404:6800:4008:802::200e notifications.google.com #plus.l.google.com
 2404:6800:4008:c04::71 on.google.com #www3.l.google.com
 2404:6800:4008:c06::8d onetoday.google.com #appspot.l.google.com
 2404:6800:4008:c00::64 passwords.google.com #www3.l.google.com

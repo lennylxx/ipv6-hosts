@@ -206,6 +206,7 @@
 2404:6800:4008:c06::99 ld-social-stats.appspot.com #appspot.l.google.com
 2404:6800:4008:c03::99 moderator.appspot.com #appspot.l.google.com
 2404:6800:4008:c03::99 newsfeed-dot-latest-dot-rovio-ad-engine.appspot.com #appspot.l.google.com
+2404:6800:4008:800::2014 omahaproxy.appspot.com
 2404:6800:4008:c02::99 productideas.appspot.com #appspot.l.google.com
 2404:6800:4008:c06::99 project-slingshot-gp.appspot.com #appspot.l.google.com
 2404:6800:4008:c06::99 r3269-dot-latest-dot-project-slingshot-gp.appspot.com #appspot.l.google.com

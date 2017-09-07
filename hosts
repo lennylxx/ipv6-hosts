@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Tue, 15 Aug 2017 17:24:30 +0800                  |
+## |         Update : Thu, 07 Sep 2017 11:09:24 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -2545,6 +2545,7 @@
 2404:6800:4008:c04::84 s1.googleusercontent.com
 2404:6800:4008:c06::84 s2.googleusercontent.com
 2404:6800:4008:c02::84 sj.googleusercontent.com
+2404:6800:4008:803::2001 scholar.googleusercontent.com
 2404:6800:4008:c02::84 spreadsheets-opensocial.googleusercontent.com
 2404:6800:4008:c07::84 static.googleusercontent.com
 2404:6800:4008:c00::84 themes.googleusercontent.com
@@ -21629,7 +21630,6 @@
 2001:67c:4e8:a:3:0:710:605 venus-1.web.telegram.org
 2001:67c:4e8:fa60:3:0:811:139 macos.telegram.org
 2001:b28:f23d:800a:3:0:830:630 aurora-1.web.telegram.org
-
 ## Dropbox
 162.125.82.1 www.dropbox.com #www.v.dropbox.com
 108.160.172.206 www.v.dropbox.com

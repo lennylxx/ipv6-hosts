@@ -926,7 +926,9 @@
 2404:6800:4008:c02::5f mts3.googleapis.com #googleapis.l.google.com
 2404:6800:4008:c02::5f ct.googleapis.com #googleapis.l.google.com
 2404:6800:4008:c06::5f beyond-pa.clients6.google.com #googleapis.l.google.com
+2404:6800:4005:806::2003 clientservices.googleapis.com
 2404:6800:4008:c06::5f datasaver.googleapis.com #googleapis.l.google.com
+2404:6800:4005:806::2003 update.googleapis.com
 
 ## Google Hosted 托管服务
 2404:6800:4008:c07::80 storage.googleapis.com #storage.l.googleusercontent.com

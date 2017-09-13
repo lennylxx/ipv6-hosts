@@ -5,6 +5,7 @@ import os
 import sys
 import re
 import socket
+import ipaddress
 import getopt
 import threading
 import subprocess
@@ -27,10 +28,6 @@ blackhole = (
     '200:2:cc9b:953e::',
     '200:2:f3b9:bb27::',
     '2001::212',
-    '2001::1f0d:6644',
-    '2001::45ab:e038',
-    '2001::48e8:aa1a',
-    '2001::c73b:95e6',
     '2001:da8:112::21ae',
     '2003:ff:1:2:3:4:5fff:6',
     '2003:ff:1:2:3:4:5fff:7',
@@ -41,14 +38,6 @@ blackhole = (
     '2003:ff:1:2:3:4:5fff:12',
     '2123::3e12',
     '3059:83eb::e015:2bee:0:0',
-    'a028:a3e9:657f::d028:a3e9:657f:0'
-    'a048:6838:517f::d048:6838:517f:0',
-    'a068:3850:fc7e::d068:3850:fc7e:0',
-    'a068:dd8a:b57f::d068:dd8a:b57f:0',
-    'a0a8:851c:d17f::d0a8:851c:d17f:0',
-    'a0c8:ad86:4c7f::d0c8:ad86:4c7f:0',
-    'a0e8:20f9:617f::d0e8:20f9:617f:0',
-    'a0f8:7d0c:ad7f::d0f8:7d0c:ad7f:0',
     '1.2.3.4',
     '4.36.66.178',
     '8.7.198.45',
@@ -64,6 +53,12 @@ blackhole = (
     '203.98.7.65',
     '243.185.187.39'
 )
+
+invalid_network = [
+    '200:2::/32',
+    '2001::/32', #TEREDO
+    'a000::/8',
+]
 
 dns = {
     'google_a': '2001:4860:4860::8888',
@@ -123,7 +118,7 @@ class worker_thread(threading.Thread):
             if validate_domain(domain):
                 cname, ip = query_domain(domain, False)
 
-                if ip == '' or ip in blackhole:
+                if ip == '' or ip in blackhole or invalid_address(ip):
                     cname, ip = query_domain(domain, True)
 
                 if ip:
@@ -219,6 +214,14 @@ def validate_ip_addr(ip_addr):
             return True
         except socket.error:
             return False
+
+def invalid_address(ip_addr):
+    address = ipaddress.ip_address(ip_addr)
+    for cidr in invalid_network:
+        if address in ipaddress.ip_network(cidr):
+            return True
+    else:
+        return False
 
 def print_help():
     print('''usage: update_hosts [OPTIONS] FILE

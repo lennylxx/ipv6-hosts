@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Mon, 11 Sep 2017 22:08:21 +0800                  |
+## |         Update : Tue, 19 Sep 2017 22:45:30 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -21387,7 +21387,7 @@
 2620:0:863:ed1a::1 sv.wikiversity.org
 
 ## Apple 苹果
-2a02:26f0:2d:193::1aca www.apple.com #www.isg-apple.com.akadns.net
+2600:1417:9:193::1aca www.apple.com #www.isg-apple.com.akadns.net
 
 ## Blizzard Entertainment 暴雪娱乐
 2620:10b:9006:600:dad3:85ff:fed9:ce24 ipv6.blizzard.com
@@ -21428,13 +21428,13 @@
 #2620:101:8008:5::2:8 firefox.com
 
 ## Microsoft 微软
-2a02:26f0:2d:19c::747 www.microsoft.com #e10088.dscb.akamaiedge.net
-2001:428:4c02:b96::2886 i.microsoft.com
-2001:428:4c02:b99::2886 i2.microsoft.com #i.microsoft.com.edgekey.net
-2001:428:4c02:b96::2886 i3.microsoft.com #i.microsoft.com.edgekey.net
+2600:1417:9:193::747 www.microsoft.com #e10088.dscb.akamaiedge.net
+2600:1417:9:193::2886 i.microsoft.com
+2600:1417:9:193::2886 i2.microsoft.com #i.microsoft.com.edgekey.net
+2600:1417:9:193::2886 i3.microsoft.com #i.microsoft.com.edgekey.net
 2001:5a0:3a03::3ff3:f308 i4.microsoft.com #i.toggle.www.ms.akadns.net
 2002:836b:9820::836b:9886 www.ipv6.microsoft.com
-2001:428:4c02:b84::e59 download.microsoft.com
+2600:1417:9:193::e59 download.microsoft.com
 #204.79.197.217 onedrive.live.com #skyweb.skyprod.akadns.net
 #134.170.120.48 skyapi.onedrive.live.com
 #204.79.197.217 skyweb.skyprod.akadns.net
@@ -21455,7 +21455,7 @@
 #2a01:111:2003::200 tse2-mm.cn.bing.net
 #2a01:111:2003::200 tse3-mm.cn.bing.net
 #2a01:111:2003::200 tse4-mm.cn.bing.net
-#2600:1417:9::b833:f5b a248.e.akamai.net
+2600:1417:9::b833:f5b a248.e.akamai.net
 
 ## ARIN
 2001:500:4:c000::43 www.arin.net
@@ -21495,11 +21495,11 @@
 
 ## Imgur
 #2a04:4e42::193 imgur.com
-#2a04:4e42::193 www.imgur.com
-#2a04:4e42::193 s.imgur.com
-#2a04:4e42::193 i.imgur.com
-#2a04:4e42::193 m.imgur.com
-#2a04:4e42::193 p.imgur.com
+2a04:4e42::193 www.imgur.com
+2a04:4e42::193 s.imgur.com
+2a04:4e42::193 i.imgur.com
+2a04:4e42::193 m.imgur.com
+2a04:4e42::193 p.imgur.com
 #2a04:4e42::193 api.imgur.com
 
 ## Steam
@@ -21632,6 +21632,48 @@
 2001:67c:4e8:a:3:0:710:605 venus-1.web.telegram.org
 2001:67c:4e8:fa60:3:0:811:139 macos.telegram.org
 2001:b28:f23d:800a:3:0:830:630 aurora-1.web.telegram.org
+
+## NY Times
+2a04:4e42::420 nytimes.com
+2a04:4e42::420 www.nytimes.com
+2a04:4e42::420 myaccount.nytimes.com
+2a04:4e42::420 up.nytimes.com
+2a04:4e42::420 graphics8.nytimes.com
+2a04:4e42::420 json8.nytimes.com
+2a04:4e42::420 typeface.nytimes.com
+151.101.0.164 cigsvc.nytimes.com
+2600:9000:2012:2c00:18:9b35:e940:93a1 cn.nytimes.com
+35.186.231.252 m.cn.nytimes.com
+122.152.169.5 l0.cn.nytimes.com
+54.210.141.179 et.nytimes.com
+52.7.59.79 messaging-notifications.api.nytimes.com
+52.7.59.79 messaging-sub.api.nytimes.com
+34.233.208.93 rec.api.nytimes.com
+23.21.73.215 nytab.nytimes.com
+34.234.124.214 content.api.nytimes.com
+209.234.225.89 markets.on.nytimes.com
+23.23.198.251 tagx.nytimes.com
+52.38.98.191 meter-svc.nytimes.com
+2600:9000:2012:2c00:18:a95e:5140:93a1 cn.nytstyle.com
+2600:9000:2012:2c00:18:a95e:5140:93a1 m.cn.nytstyle.com
+54.249.25.75 sso.nytcn.me
+2600:9000:2012:c00:13:702f:a6c0:21 static.sxzhchina.com
+2a04:4e42::420 typeface.nyt.com
+2a04:4e42::420 vp.nyt.com
+2a04:4e42::420 a1.nyt.com
+2a04:4e42::420 s1.nyt.com
+2a04:4e42::420 i1.nyt.com
+2a04:4e42::420 static01.nyt.com
+2a04:4e42::420 static02.nyt.com
+2a04:4e42::420 js.nyt.com
+2a04:4e42::420 css.nyt.com
+2a04:4e42::420 int.nyt.com
+2600:9000:2012:4400:8:1cb7:c900:93a1 d1f1eryiqyjs0r.cloudfront.net
+2600:9000:2012:4400:8:1cb7:c900:93a1 d3lar09xbwlsge.cloudfront.net
+2600:9000:2012:4400:8:1cb7:c900:93a1 d3q1qj9jzsu8nw.cloudfront.net
+2600:9000:2012:4400:8:1cb7:c900:93a1 dc8xl0ndzn2cb.cloudfront.net
+
+
 ## Dropbox
 162.125.82.1 www.dropbox.com #www.v.dropbox.com
 108.160.172.206 www.v.dropbox.com

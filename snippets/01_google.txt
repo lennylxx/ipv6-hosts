@@ -680,6 +680,7 @@
 
 ## News 资讯
 2404:6800:4008:c06::66 news.google.com #news.l.google.com
+2404:6800:4008:c06::66 news.url.google.com #www3.l.google.com
 2404:6800:4008:c04::5e news.google.com.hk #news-cctld.l.google.com
 2404:6800:4008:c04::5e news.google.com.tw #news-cctld.l.google.com
 

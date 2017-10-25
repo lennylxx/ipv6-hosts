@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Sun, 08 Oct 2017 17:37:56 +0800                  |
+## |         Update : Wed, 25 Oct 2017 10:46:05 +0000                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -697,6 +697,7 @@
 
 ## News 资讯
 2404:6800:4008:c06::66 news.google.com #news.l.google.com
+2404:6800:4008:c06::66 news.url.google.com #www3.l.google.com
 2404:6800:4008:c04::5e news.google.com.hk #news-cctld.l.google.com
 2404:6800:4008:c04::5e news.google.com.tw #news-cctld.l.google.com
 

@@ -921,6 +921,7 @@
 2001:4860:400b:c01::80 bucket.commondatastorage.googleapis.com #storage-ugc.l.googleusercontent.com
 2001:4860:400b:c01::80 chromium-browser-symbols.commondatastorage.googleapis.com #storage-ugc.l.googleusercontent.com
 2001:4860:400b:c01::80 c.commondatastorage.googleapis.com #storage.l.googleusercontent.com
+2404:6800:4008:803::2010 patentimages.storage.googleapis.com #storage.l.googleusercontent.com
 2607:f8b0:4007:808::2001 www.googlehosted.com #googlehosted.l.googleusercontent.com
 2607:f8b0:4007:808::2004 base.googlehosted.com #www2.l.google.com
 2607:f8b0:4007:808::2004 base0.googlehosted.com #www2.l.google.com

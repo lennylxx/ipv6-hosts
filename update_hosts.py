@@ -1,10 +1,11 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
 import os
 import sys
 import re
 import socket
+import ipaddress
 import getopt
 import threading
 import subprocess
@@ -52,6 +53,12 @@ blackhole = (
     '203.98.7.65',
     '243.185.187.39'
 )
+
+invalid_network = [
+    '200:2::/32',
+    '2001::/32', #TEREDO
+    'a000::/8',
+]
 
 dns = {
     'google_a': '2001:4860:4860::8888',
@@ -111,7 +118,7 @@ class worker_thread(threading.Thread):
             if validate_domain(domain):
                 cname, ip = query_domain(domain, False)
 
-                if ip == '' or ip in blackhole:
+                if ip == '' or ip in blackhole or invalid_address(ip):
                     cname, ip = query_domain(domain, True)
 
                 if ip:
@@ -141,13 +148,13 @@ class watcher_thread(threading.Thread):
         wn = int(config['threadnum'])
         if wn > total_num:
             wn = total_num
-        print "There are %d threads working..." % wn
-        print "Press 'Enter' to exit.\n"
+        print("There are %d threads working..." % wn)
+        print("Press 'Enter' to exit.\n")
 
         while True:
             if sys.stdin in select.select([sys.stdin], [], [], 0)[0]:
-                raw_input()
-                print 'Waiting threads to exit...'
+                input()
+                print("Waiting threads to exit...")
                 global running
                 with thread_lock:
                     running = False
@@ -156,11 +163,10 @@ class watcher_thread(threading.Thread):
             dn = done_num
             outbuf = "Total: %d lines, Done: %d lines, Ratio: %d %%.\r"\
                      % (total_num, dn, dn * 100 / total_num)
-            print outbuf,
-            sys.stdout.flush()
+            print(outbuf, end='', flush=True)
 
             if dn == total_num:
-                print outbuf
+                print(outbuf)
                 break
 
             time.sleep(1)
@@ -174,7 +180,7 @@ def query_domain(domain, tcp):
 
     proc = subprocess.Popen(shlex.split(cmd), stdout=subprocess.PIPE)
     out, _ = proc.communicate()
-    outarr = out.splitlines()
+    outarr = out.decode('utf-8').splitlines()
 
     cname = ip = ''
     for v in outarr:
@@ -209,8 +215,16 @@ def validate_ip_addr(ip_addr):
         except socket.error:
             return False
 
+def invalid_address(ip_addr):
+    address = ipaddress.ip_address(ip_addr)
+    for cidr in invalid_network:
+        if address in ipaddress.ip_network(cidr):
+            return True
+    else:
+        return False
+
 def print_help():
-    print '''usage: update_hosts [OPTIONS] FILE
+    print('''usage: update_hosts [OPTIONS] FILE
 A simple multi-threading tool used for updating hosts file.
 
 Options:
@@ -220,7 +234,7 @@ Options:
   -t QUERY_TYPE          dig command query type, default: aaaa
   -c, --cname            write canonical name into hosts file
   -n THREAD_NUM          set the number of worker threads, default: 10
-'''
+''')
 
 def get_config():
     shortopts = 'hs:o:t:n:c'
@@ -229,7 +243,7 @@ def get_config():
     try:
         optlist, args = getopt.gnu_getopt(sys.argv[1:], shortopts, longopts)
     except getopt.GetoptError as e:
-        print e, '\n'
+        print(e)
         print_help()
         sys.exit(1)
 
@@ -250,7 +264,7 @@ def get_config():
             sys.exit(0)
 
     if len(args) != 1:
-        print "You must specify the input hosts file (only one)."
+        print("You must specify the input hosts file (only one).")
         sys.exit(1)
 
     config['infile'] = args[0]
@@ -262,8 +276,8 @@ def main():
 
     dig_path = '/usr/bin/dig'
     if not os.path.isfile(dig_path) or not os.access(dig_path, os.X_OK):
-        print "It seems you don't have 'dig' command installed properly "\
-              "on your system."
+        print("It seems you don't have 'dig' command installed properly "\
+              "on your system.")
         sys.exit(2)
 
     global hosts
@@ -271,7 +285,7 @@ def main():
         with open(config['infile'], 'r') as infile:
             hosts = infile.readlines()
     except IOError as e:
-        print e
+        print(e)
         sys.exit(e.errno)
 
     if os.path.exists(config['outfile']):
@@ -280,10 +294,10 @@ def main():
     try:
         outfile = open(config['outfile'], 'w')
     except IOError as e:
-        print e
+        print(e)
         sys.exit(e.errno)
 
-    print "Input: %s    Output: %s\n" % (config['infile'], config['outfile'])
+    print("Input: %s    Output: %s\n" % (config['infile'], config['outfile']))
 
     threads = []
 
@@ -294,7 +308,7 @@ def main():
     worker_num = config['threadnum']
     lines_num = len(hosts)
 
-    lines_per_thread = lines_num / worker_num
+    lines_per_thread = lines_num // worker_num
     lines_remain = lines_num % worker_num
 
     start_pt = 0
@@ -323,7 +337,7 @@ def main():
     try:
         outfile.writelines(hosts)
     except IOError as e:
-        print e
+        print(e)
         sys.exit(e.errno)
 
     sys.exit(0)

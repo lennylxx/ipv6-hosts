@@ -426,6 +426,13 @@
 2404:6800:4008:c04::52 google-code-feed-gadget.googlecode.com #googlecode.l.googleusercontent.com
 2404:6800:4008:c06::52 www.googlesource.com #googlecode.l.googleusercontent.com
 2404:6800:4008:c07::52 android.googlesource.com #googlecode.l.googleusercontent.com
+2404:6800:4003:c02::52 chromium.googlesource.com
+2404:6800:4008:c00::52 boringssl.googlesource.com #googlecode.l.googleusercontent.com
+2404:6800:4003:c02::52 chrome-internal.googlesource.com
+2404:6800:4008:c00::52 pdfium.googlesource.com #googlecode.l.googleusercontent.com
+2404:6800:4003:c02::52 skia.googlesource.com
+2404:6800:4008:c04::52 swiftshader.googlesource.com #earth-api-samples.googlecode.com
+2404:6800:4008:c04::52 webrtc.googlesource.com #earth-api-samples.googlecode.com
 
 ## Desktop 桌面
 #2404:6800:4005:805::2004 desktop.google.com #desktop.l.google.com

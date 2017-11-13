@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Sat, 04 Nov 2017 00:54:49 +0800                  |
+## |         Update : Tue, 14 Nov 2017 07:10:49 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -1222,7 +1222,7 @@
 2404:6800:4005:807::200e www-google-analytics.l.google.com
 2401:3800:4001:10::101e www-googletagmanager.l.google.com
 2404:6800:4008:c05::c7 www-wide.l.google.com
-2404:6800:4008:c00::8b youtube-ui.l.google.com #youtube-ui-china.l.google.com
+2404:6800:4008:c07::8a youtube-ui.l.google.com #youtube-ui-china.l.google.com
 2404:6800:4008:c04::75 yt-video-upload.l.google.com
 2404:6800:4008:c06::8a ytimg.l.google.com
 2404:6800:4008:c07::71 ytstatic.l.google.com

@@ -25,7 +25,7 @@ printf "\
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+\r\n\
 ## |                                                                   |\r\n\
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |\r\n\
-## |         Update : `date    +"%a, %d %b %Y %T %z"`                  |\r\n\
+## |         Update : `LC_ALL="C" date    +"%a, %d %b %Y %T %z"`                  |\r\n\
 ## |                                                                   |\r\n\
 ## +-------------------------------------------------------------------+\r\n\
 " >> $new_hosts_file

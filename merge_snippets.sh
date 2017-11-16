@@ -13,6 +13,8 @@ if [ -f $new_hosts_file ]; then
     printf "" > $new_hosts_file
 fi
 
+export LC_ALL="C"
+
 printf "\
 ##  __                                 __                               \r\n\
 ## |__| _____  __ __ ┌─────┐          |  |                  __          \r\n\
@@ -29,6 +31,8 @@ printf "\
 ## |                                                                   |\r\n\
 ## +-------------------------------------------------------------------+\r\n\
 " >> $new_hosts_file
+
+unset LC_ALL
 
 printf "\r\n::1 localhost\r\n\r\n" >> $new_hosts_file
 

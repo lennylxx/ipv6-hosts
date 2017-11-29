@@ -18569,6 +18569,12 @@
 
 ## 其他IPv6网站
 ## US 美国
+## Easylist系列
+2a01:4f8:130:11ee::2 easylist-downloads.adblockplus.org
+
+## LEDE Project
+2a03:b0c0:3:d0::1af1:1 lede-project.org
+
 ## Mozilla
 2620:101:8016:5::2:20 www.mozilla.org #mozorg.dynect.mozilla.net
 #2620:101:8008:5::2:6 air.mozilla.org #generic.zlb.phx.mozilla.net

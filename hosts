@@ -21682,6 +21682,12 @@
 
 ## 其他IPv6网站
 ## US 美国
+## Easylist系列
+2a01:4f8:130:11ee::2 easylist-downloads.adblockplus.org
+
+## LEDE Project
+2a03:b0c0:3:d0::1af1:1 lede-project.org
+
 ## Mozilla
 2400:cb00:2048:1::6810:2902 www.mozilla.org #www.mozilla.org.cdn.cloudflare.net
 #2620:101:8008:5::2:6 air.mozilla.org #generic.zlb.phx.mozilla.net

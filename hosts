@@ -9,11 +9,12 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Sun, 10 Dec 2017 22:41:27 +0800                  |
+## |         Update : Mon, 11 Dec 2017 20:49:31 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
-::1 localhost
+127.0.0.1 localhost
+::1 localhost ip6-localhost ip6-loopback
 
 ## Google.com
 2001:4860:4860::8888 google-public-dns-a.google.com

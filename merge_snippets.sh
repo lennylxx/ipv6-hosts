@@ -34,7 +34,8 @@ printf "\
 
 unset LC_ALL
 
-printf "\r\n::1 localhost\r\n\r\n" >> $new_hosts_file
+printf "\r\n127.0.0.1 localhost\r\n" >> $new_hosts_file
+printf "::1 localhost ip6-localhost ip6-loopback\r\n\r\n" >> $new_hosts_file
 
 cat snippets/??_*.txt >> $new_hosts_file
 

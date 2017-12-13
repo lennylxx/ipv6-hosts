@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Wed, 13 Dec 2017 23:22:10 +0800                  |
+## |         Update : Wed, 13 Dec 2017 23:46:54 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -13983,12 +13983,12 @@
 2607:f8b0:401e:23::17 r18---sn-ab5l6nsd.googlevideo.com
 2607:f8b0:401e:23::18 r19---sn-ab5l6nsd.googlevideo.com
 2607:f8b0:401e:23::19 r20---sn-ab5l6nsd.googlevideo.com
-2607:f8b0:4006:24::7 r1---sn-ab5l6nsk.googlevideo.com
-2607:f8b0:4006:24::8 r2---sn-ab5l6nsk.googlevideo.com
-2607:f8b0:4006:24::9 r3---sn-ab5l6nsk.googlevideo.com
-2607:f8b0:4006:24::a r4---sn-ab5l6nsk.googlevideo.com
-2607:f8b0:4006:24::b r5---sn-ab5l6nsk.googlevideo.com
-2607:f8b0:4006:24::c r6---sn-ab5l6nsk.googlevideo.com
+2607:f8b0:401e:24::7 r1---sn-ab5l6nsk.googlevideo.com
+2607:f8b0:401e:24::8 r2---sn-ab5l6nsk.googlevideo.com
+2607:f8b0:401e:24::9 r3---sn-ab5l6nsk.googlevideo.com
+2607:f8b0:401e:24::a r4---sn-ab5l6nsk.googlevideo.com
+2607:f8b0:401e:24::b r5---sn-ab5l6nsk.googlevideo.com
+2607:f8b0:401e:24::c r6---sn-ab5l6nsk.googlevideo.com
 2607:f8b0:401e:25::7 r1---sn-ab5l6nsr.googlevideo.com
 2607:f8b0:401e:25::8 r2---sn-ab5l6nsr.googlevideo.com
 2607:f8b0:401e:25::9 r3---sn-ab5l6nsr.googlevideo.com

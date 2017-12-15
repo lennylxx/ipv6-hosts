@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Fri, 15 Dec 2017 20:04:47 +0800                  |
+## |         Update : Fri, 15 Dec 2017 22:54:02 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -3866,21 +3866,6 @@
 2001:660:302a:1::d r2---sn-gxo5uxg-jqbe.googlevideo.com
 2001:660:302a:1::e r3---sn-gxo5uxg-jqbe.googlevideo.com
 2001:660:302a:1::f r4---sn-gxo5uxg-jqbe.googlevideo.com
-
-#2001:7f8:23:50::c r1---sn-uv2pm-ugoe.googlevideo.com
-#2001:7f8:23:50::d r2---sn-uv2pm-ugoe.googlevideo.com
-#2001:7f8:23:50::e r3---sn-uv2pm-ugoe.googlevideo.com
-2001:7f8:49:1::c r1---sn-gvopm-vu2e.googlevideo.com
-2001:7f8:49:1::d r2---sn-gvopm-vu2e.googlevideo.com
-2001:7f8:49:1::e r3---sn-gvopm-vu2e.googlevideo.com
-2001:7f8:49:1::f r4---sn-gvopm-vu2e.googlevideo.com
-2001:7f8:49:1::10 r5---sn-gvopm-vu2e.googlevideo.com
-2001:7f8:49:1::11 r6---sn-gvopm-vu2e.googlevideo.com
-
-2001:660:302a:1::c r1---sn-gxo5uxg-jqbe.googlevideo.com
-2001:660:302a:1::d r2---sn-gxo5uxg-jqbe.googlevideo.com
-2001:660:302a:1::e r3---sn-gxo5uxg-jqbe.googlevideo.com
-2001:660:302a:1::f r4---sn-gxo5uxg-jqbe.googlevideo.com
 2001:7f8:49:1::c r1---sn-gvopm-vu2e.googlevideo.com
 2001:7f8:49:1::d r2---sn-gvopm-vu2e.googlevideo.com
 2001:7f8:49:1::e r3---sn-gvopm-vu2e.googlevideo.com
@@ -4033,6 +4018,14 @@
 2001:ee0:3200:11::11 r6---sn-8qj-i5oek.googlevideo.com
 2001:ee0:3200:11::12 r7---sn-8qj-i5oek.googlevideo.com
 2001:ee0:3200:11::13 r8---sn-8qj-i5oek.googlevideo.com
+2001:ee0:3200:12::c r1---sn-8qj-i5oer.googlevideo.com
+2001:ee0:3200:12::d r2---sn-8qj-i5oer.googlevideo.com
+2001:ee0:3200:12::e r3---sn-8qj-i5oer.googlevideo.com
+2001:ee0:3200:12::f r4---sn-8qj-i5oer.googlevideo.com
+2001:ee0:3200:12::10 r5---sn-8qj-i5oer.googlevideo.com
+2001:ee0:3200:12::11 r6---sn-8qj-i5oer.googlevideo.com
+2001:ee0:3200:12::12 r7---sn-8qj-i5oer.googlevideo.com
+2001:ee0:3200:12::13 r8---sn-8qj-i5oer.googlevideo.com
 2001:ee0:3200:13::c r1---sn-8qj-i5os7.googlevideo.com
 2001:ee0:3200:13::d r2---sn-8qj-i5os7.googlevideo.com
 2001:ee0:3200:13::e r3---sn-8qj-i5os7.googlevideo.com

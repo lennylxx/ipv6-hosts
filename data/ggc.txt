@@ -1,5 +1,12 @@
+angolacables-lad1 5obva5j5caxn-a5qe
+asahi-hnd1 5n5ip-ioqe
+asahi-hnd2 5n5ip-ioql
+asahi-hnd3 5n5ip-ioqs
 ati-tun1 5up-u0oe
 ati-tun2 5up-u0ol
+atman-waw3 5uh5o-f5fs
+atman-waw4 5uh5o-f5fz
+atman-waw5 5uh5o-f5f6
 availo-bma1 585pav-ch5e
 biznet-cgk1 cp1oxu-jb3e
 bsnl-amd1 cnoa-5hqe
@@ -30,6 +37,9 @@ dtac-bkk2 qu5j-c33l
 dtac-bkk7 qu5j-c33k
 dtac-bkk9 qu5j-c33y
 excelcom-cgk1 xmjxajvh-jb3e
+google-den20 bvvbax-qxol7
+google-den23 bvvbax-qxols
+google-den25 bvvbax-qxol6
 google-msp1 bvvbax-hn2e
 google-msp2 bvvbax-hn2l
 google-ovb1 bvvbax-v8ce
@@ -77,6 +87,9 @@ phinet-tsa2 2ipoxu-un5l
 qsc-fra1 9nj-4g5e
 renater-cdg1 gxo5uxg-jqbe
 retelit-mxp1 gxuxapu-hm2e
+retnru-led1 gxuog0-axqe
+retnru-svo1 gxuog0-n8ve
+retnru-svo2 gxuog0-n8vl
 ronix-otp1 gvopm-vu2e
 starhub-sin6 nu5gi0c-npod
 teletwo-tll1 uxaxufv-uaae

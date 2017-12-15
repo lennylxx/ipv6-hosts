@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 import sys
 
@@ -11,7 +11,7 @@ def main():
             continue
         arr = line.split()
         for k in range(0, 32):
-            print arr[1][:8] + '-in-x' + hex(k)[2:].zfill(2) + '.1e100.net' 
+            print(arr[1][:8] + '-in-x' + hex(k)[2:].zfill(2) + '.1e100.net')
 
 if __name__ == '__main__':
     main()

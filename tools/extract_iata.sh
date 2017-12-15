@@ -5,4 +5,3 @@ cat $d/../hosts \
 	| xargs -i sh -c "$d/conv.py -s {}; echo {}" \
 	| paste -d' ' - - \
 	| sort -k1 -u - $d/../data/iata.txt
-

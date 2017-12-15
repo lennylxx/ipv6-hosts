@@ -66,8 +66,8 @@ lvlt-iad3 a8au-p5qs
 lvlt-iad4 a8au-p5qz
 lvlt-lax1 a8au-a5me
 lvlt-lhr2 a8au-aigl
-lvlt-mad1 a8au-h5ql
-lvlt-mad2 a8au-h5qe
+lvlt-mad1 a8au-h5qe
+lvlt-mad2 a8au-h5ql
 lvlt-slc1 a8au-naje
 mice-msp1 hpjx-hn2e
 nctu-tpe2 oju0-u2xl
@@ -79,6 +79,8 @@ renater-cdg1 gxo5uxg-jqbe
 retelit-mxp1 gxuxapu-hm2e
 ronix-otp1 gvopm-vu2e
 starhub-sin6 nu5gi0c-npod
+teletwo-tll1 uxaxufv-uaae
+teletwo-tll2 uxaxufv-uaal
 teletwo-vie1 uxaxufv-8pxe
 teletwo-vie2 uxaxufv-8pxl
 timedotcom-kul1 uphxqvujvh-30ae
@@ -159,6 +161,7 @@ vdc-hph12 8qj-i2iel
 vdc-hph13 8qj-i2ies
 vdc-hph14 8qj-i2iez
 vdc-hui1 8qj-i0pe
+vdc-phh1 8qj-2iie
 vdc-sgn7 8qj-nbok
 vdc-sgn8 8qj-nbor
 vdc-sgn9 8qj-nboy
@@ -198,7 +201,6 @@ vdc-vca8 8qj-8j5r
 vdc-vca9 8qj-8j5y
 vdc-vca10 8qj-8j5e7
 vdc-vca11 8qj-8j5ee
-vdc-phh1 8qj-2iie
 vdc-vii1 8qj-8ppe
 vdc-vii2 8qj-8ppl
 vdc-vii3 8qj-8pps
@@ -208,9 +210,9 @@ vdc-vkg1 8qj-83be
 vdc-vkg2 8qj-83bl
 vdc-vtg1 8qj-8ube
 vdc-vtg2 8qj-8ubl
+versatel-ber1 8xgn5uxa-cxge
 versatel-dtm1 8xgn5uxa-quhe
 versatel-dtm2 8xgn5uxa-quhl
 versatel-ham1 8xgn5uxa-i5he
-versatel-ber1 8xgn5uxa-cxge
 waia-mel1 f5p5-hxae
 wpgix-ywg1 f2bpm-tfbe

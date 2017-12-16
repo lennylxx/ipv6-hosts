@@ -4,4 +4,4 @@ cat $d/../hosts \
 	| sort -u \
 	| xargs -i sh -c "$d/conv.py -g {}; echo {}" \
 	| paste -d' ' - - \
-	| sort -V -u - $d/../data/ggc.txt
+	| sort -V -u - $d/../data/ggc.txt -o $d/../data/ggc.txt

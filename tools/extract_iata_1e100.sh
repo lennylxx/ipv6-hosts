@@ -4,4 +4,4 @@ cat $d/../snippets/1e100.txt \
 	| sort -u \
 	| xargs -i sh -c "echo {}; $d/conv.py -i {}" \
 	| paste -d' ' - - \
-	| sort -k1 -u - $d/../data/iata.txt
+	| sort -k1 -u - $d/../data/iata.txt -o $d/../data/iata.txt

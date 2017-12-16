@@ -6,11 +6,18 @@ import ipaddress
 
 def main():
     with open(sys.argv[1], 'r') as infile:
-        hosts = infile.readlines()
-        hosts.sort(key=lambda x: ipaddress.ip_address(x.split()[0]))
+        hydration = []
+        for line in infile.readlines():
+            line = line.strip()
+            if line == '' or line[0] == '#':
+                continue
+            hydration.append(line.split())
+
+        hydration.sort(key=lambda x: ipaddress.ip_address(x[0]))
 
         with open(sys.argv[1] + '.out', 'w') as outfile:
-            outfile.writelines(hosts)
+            for host_arr in hydration:
+                outfile.write(' '.join(host_arr) + '\r\n')
 
     sys.exit(0)
 

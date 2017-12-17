@@ -124,7 +124,6 @@ netservicos-cxj1 oxunxg8pjvn-jmwe
 netservicos-erm1 oxunxg8pjvn-xghe
 netservicos-fln1 oxunxg8pjvn-1aoe
 netservicos-fln1 oxunxg8pjvn-4aoe
-netservicos-fln2 oxunxg8pjvn-4aol
 netservicos-for1 oxunxg8pjvn-4vge
 netservicos-gig1 oxunxg8pjvn-bpbe
 netservicos-gig2 oxunxg8pjvn-bpbl

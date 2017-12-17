@@ -11,6 +11,7 @@ availo-bma1 585pav-ch5e
 beam-hyd3 cx5h-itqs
 beam-hyd4 cx5h-itqz
 beam-hyd5 cx5h-itq6
+benestra-bts1 cxoxnug5-cune
 biznet-cgk1 cp1oxu-jb3e
 bsnl-amd1 cnoa-5hqe
 bsnl-blr1 cnoa-cage
@@ -39,6 +40,8 @@ ctm-mfm4 juh-h4hz
 dtac-bkk2 qu5j-c33l
 dtac-bkk7 qu5j-c33k
 dtac-bkk9 qu5j-c33y
+erxsinetnii-hnd1 xgmnpoxuopp-ioqe
+etecsa-hav1 xuxjn5-i58e
 excelcom-cgk1 xmjxajvh-jb3e
 google-den20 bvvbax-qxol7
 google-den23 bvvbax-qxols
@@ -82,6 +85,7 @@ lvlt-lhr2 a8au-aigl
 lvlt-mad1 a8au-h5qe
 lvlt-mad2 a8au-h5ql
 lvlt-slc1 a8au-naje
+mcnc-rdu1 hjoj-gq0e
 megafon-goj1 hxb54vo-bvwe
 megafon-goj2 hxb54vo-bvwl
 megafon-ikt1 hxb54vo-p3ue
@@ -119,6 +123,7 @@ netservicos-cwb4 oxunxg8pjvn-jfcz
 netservicos-cxj1 oxunxg8pjvn-jmwe
 netservicos-erm1 oxunxg8pjvn-xghe
 netservicos-fln1 oxunxg8pjvn-1aoe
+netservicos-fln1 oxunxg8pjvn-4aoe
 netservicos-fln2 oxunxg8pjvn-4aol
 netservicos-for1 oxunxg8pjvn-4vge
 netservicos-gig1 oxunxg8pjvn-bpbe
@@ -177,10 +182,17 @@ retnru-svo1 gxuog0-n8ve
 retnru-svo2 gxuog0-n8vl
 ronix-otp1 gvopm-vu2e
 starhub-sin6 nu5gi0c-npod
+tdc-cph3 uqj-j2is
+tdc-cph4 uqj-j2iz
+tdc-cph6 uqj-j2id
+tdc-cph7 uqj-j2ik
+tdc-cph8 uqj-j2ir
 teletwo-tll1 uxaxufv-uaae
 teletwo-tll2 uxaxufv-uaal
 teletwo-vie1 uxaxufv-8pxe
 teletwo-vie2 uxaxufv-8pxl
+tenet-cpt1 uxoxu-j2ue
+tenet-jnb1 uxoxu-woce
 timedotcom-kul1 uphxqvujvh-30ae
 timedotcom-kul2 uphxqvujvh-30al
 topix-trn1 uv2pm-ugoe

@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Sun, 17 Dec 2017 19:48:01 +0800                  |
+## |         Update : Sun, 17 Dec 2017 22:53:28 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -5644,6 +5644,22 @@
 2001:b000:182:c101::11 r6---sn-ipoxu-un5l.googlevideo.com
 2001:b000:182:c101::12 r7---sn-ipoxu-un5l.googlevideo.com
 2001:b000:182:c101::13 r8---sn-ipoxu-un5l.googlevideo.com
+2001:b032:101:1::c r1---sn-ipoxu-un5d.googlevideo.com
+2001:b032:101:1::d r2---sn-ipoxu-un5d.googlevideo.com
+2001:b032:101:1::e r3---sn-ipoxu-un5d.googlevideo.com
+2001:b032:101:1::f r4---sn-ipoxu-un5d.googlevideo.com
+2001:b032:101:1::10 r5---sn-ipoxu-un5d.googlevideo.com
+2001:b032:101:1::11 r6---sn-ipoxu-un5d.googlevideo.com
+2001:b032:101:1::12 r7---sn-ipoxu-un5d.googlevideo.com
+2001:b032:101:1::13 r8---sn-ipoxu-un5d.googlevideo.com
+2001:b032:2100::c r1---sn-ipoxu-un5s.googlevideo.com
+2001:b032:2100::d r2---sn-ipoxu-un5s.googlevideo.com
+2001:b032:2100::e r3---sn-ipoxu-un5s.googlevideo.com
+2001:b032:2100::f r4---sn-ipoxu-un5s.googlevideo.com
+2001:b032:2100::10 r5---sn-ipoxu-un5s.googlevideo.com
+2001:b032:2100::11 r6---sn-ipoxu-un5s.googlevideo.com
+2001:b032:2100::12 r7---sn-ipoxu-un5s.googlevideo.com
+2001:b032:2100::13 r8---sn-ipoxu-un5s.googlevideo.com
 2001:b032:2101::c r1---sn-ipoxu-un5z.googlevideo.com
 2001:b032:2101::d r2---sn-ipoxu-un5z.googlevideo.com
 2001:b032:2101::e r3---sn-ipoxu-un5z.googlevideo.com
@@ -5652,6 +5668,22 @@
 2001:b032:2101::11 r6---sn-ipoxu-un5z.googlevideo.com
 2001:b032:2101::12 r7---sn-ipoxu-un5z.googlevideo.com
 2001:b032:2101::13 r8---sn-ipoxu-un5z.googlevideo.com
+2001:b032:3900:1::c r1---sn-ipoxu-un5k.googlevideo.com
+2001:b032:3900:1::d r2---sn-ipoxu-un5k.googlevideo.com
+2001:b032:3900:1::e r3---sn-ipoxu-un5k.googlevideo.com
+2001:b032:3900:1::f r4---sn-ipoxu-un5k.googlevideo.com
+2001:b032:3900:1::10 r5---sn-ipoxu-un5k.googlevideo.com
+2001:b032:3900:1::11 r6---sn-ipoxu-un5k.googlevideo.com
+2001:b032:3900:1::12 r7---sn-ipoxu-un5k.googlevideo.com
+2001:b032:3900:1::13 r8---sn-ipoxu-un5k.googlevideo.com
+2001:b032:3901:1::c r1---sn-ipoxu-un5r.googlevideo.com
+2001:b032:3901:1::d r2---sn-ipoxu-un5r.googlevideo.com
+2001:b032:3901:1::e r3---sn-ipoxu-un5r.googlevideo.com
+2001:b032:3901:1::f r4---sn-ipoxu-un5r.googlevideo.com
+2001:b032:3901:1::10 r5---sn-ipoxu-un5r.googlevideo.com
+2001:b032:3901:1::11 r6---sn-ipoxu-un5r.googlevideo.com
+2001:b032:3901:1::12 r7---sn-ipoxu-un5r.googlevideo.com
+2001:b032:3901:1::13 r8---sn-ipoxu-un5r.googlevideo.com
 2001:b032:5d00::c r1---sn-ipoxu-u2xs.googlevideo.com
 2001:b032:5d00::d r2---sn-ipoxu-u2xs.googlevideo.com
 2001:b032:5d00::e r3---sn-ipoxu-u2xs.googlevideo.com
@@ -12862,6 +12894,42 @@
 2800:3f0:4002:1b::19 r10---sn-x1x7snze.googlevideo.com
 2800:3f0:4002:1b::1a r11---sn-x1x7snze.googlevideo.com
 2800:3f0:4002:1b::1b r12---sn-x1x7snze.googlevideo.com
+2800:3f0:4004:6::7 r1---sn-gpv7dn7l.googlevideo.com
+2800:3f0:4004:6::8 r2---sn-gpv7dn7l.googlevideo.com
+2800:3f0:4004:6::9 r3---sn-gpv7dn7l.googlevideo.com
+2800:3f0:4004:6::a r4---sn-gpv7dn7l.googlevideo.com
+2800:3f0:4004:6::b r5---sn-gpv7dn7l.googlevideo.com
+2800:3f0:4004:6::c r6---sn-gpv7dn7l.googlevideo.com
+2800:3f0:4004:9::7 r1---sn-gpv7enez.googlevideo.com
+2800:3f0:4004:9::8 r2---sn-gpv7enez.googlevideo.com
+2800:3f0:4004:9::9 r3---sn-gpv7enez.googlevideo.com
+2800:3f0:4004:9::a r4---sn-gpv7enez.googlevideo.com
+2800:3f0:4004:9::b r5---sn-gpv7enez.googlevideo.com
+2800:3f0:4004:9::c r6---sn-gpv7enez.googlevideo.com
+2800:3f0:4004:a::7 r1---sn-gpv7enek.googlevideo.com
+2800:3f0:4004:a::8 r2---sn-gpv7enek.googlevideo.com
+2800:3f0:4004:a::9 r3---sn-gpv7enek.googlevideo.com
+2800:3f0:4004:a::a r4---sn-gpv7enek.googlevideo.com
+2800:3f0:4004:a::b r5---sn-gpv7enek.googlevideo.com
+2800:3f0:4004:a::c r6---sn-gpv7enek.googlevideo.com
+2800:3f0:4004:b::7 r1---sn-gpv7ener.googlevideo.com
+2800:3f0:4004:b::8 r2---sn-gpv7ener.googlevideo.com
+2800:3f0:4004:b::9 r3---sn-gpv7ener.googlevideo.com
+2800:3f0:4004:b::a r4---sn-gpv7ener.googlevideo.com
+2800:3f0:4004:b::b r5---sn-gpv7ener.googlevideo.com
+2800:3f0:4004:b::c r6---sn-gpv7ener.googlevideo.com
+2800:3f0:4004:c::7 r1---sn-gpv7eney.googlevideo.com
+2800:3f0:4004:c::8 r2---sn-gpv7eney.googlevideo.com
+2800:3f0:4004:c::9 r3---sn-gpv7eney.googlevideo.com
+2800:3f0:4004:c::a r4---sn-gpv7eney.googlevideo.com
+2800:3f0:4004:c::b r5---sn-gpv7eney.googlevideo.com
+2800:3f0:4004:c::c r6---sn-gpv7eney.googlevideo.com
+2800:3f0:4004:d::7 r1---sn-gpv7dn7e.googlevideo.com
+2800:3f0:4004:d::8 r2---sn-gpv7dn7e.googlevideo.com
+2800:3f0:4004:d::9 r3---sn-gpv7dn7e.googlevideo.com
+2800:3f0:4004:d::a r4---sn-gpv7dn7e.googlevideo.com
+2800:3f0:4004:d::b r5---sn-gpv7dn7e.googlevideo.com
+2800:3f0:4004:d::c r6---sn-gpv7dn7e.googlevideo.com
 2a00:1450:4001::6 r1---sn-4g5ednsy.googlevideo.com
 2a00:1450:4001::7 r2---sn-4g5ednsy.googlevideo.com
 2a00:1450:4001::8 r3---sn-4g5ednsy.googlevideo.com
@@ -17013,6 +17081,22 @@
 2a00:1450:4023:b::8 r3---sn-2gb7sn7r.googlevideo.com
 2a00:1450:4023:b::9 r4---sn-2gb7sn7r.googlevideo.com
 2a00:1450:4023:b::a r5---sn-2gb7sn7r.googlevideo.com
+2a0b:880:1::c r1---sn-a0jpm-a0ml.googlevideo.com
+2a0b:880:1::d r2---sn-a0jpm-a0ml.googlevideo.com
+2a0b:880:1::e r3---sn-a0jpm-a0ml.googlevideo.com
+2a0b:880:1::f r4---sn-a0jpm-a0ml.googlevideo.com
+2a0b:880:1::10 r5---sn-a0jpm-a0ml.googlevideo.com
+2a0b:880:1::11 r6---sn-a0jpm-a0ml.googlevideo.com
+2a0b:880:1::12 r7---sn-a0jpm-a0ml.googlevideo.com
+2a0b:880:1::13 r8---sn-a0jpm-a0ml.googlevideo.com
+2a0b:880:1:1::c r1---sn-a0jpm-a0ms.googlevideo.com
+2a0b:880:1:1::d r2---sn-a0jpm-a0ms.googlevideo.com
+2a0b:880:1:1::e r3---sn-a0jpm-a0ms.googlevideo.com
+2a0b:880:1:1::f r4---sn-a0jpm-a0ms.googlevideo.com
+2a0b:880:1:1::10 r5---sn-a0jpm-a0ms.googlevideo.com
+2a0b:880:1:1::11 r6---sn-a0jpm-a0ms.googlevideo.com
+2a0b:880:1:1::12 r7---sn-a0jpm-a0ms.googlevideo.com
+2a0b:880:1:1::13 r8---sn-a0jpm-a0ms.googlevideo.com
 2c0f:fb50:4002::6 r1---sn-woc7en7s.googlevideo.com
 2c0f:fb50:4002::7 r2---sn-woc7en7s.googlevideo.com
 2c0f:fb50:4002::8 r3---sn-woc7en7s.googlevideo.com

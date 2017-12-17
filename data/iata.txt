@@ -39,6 +39,7 @@ par 25g
 pek 2x3
 prg 2gb
 qro 9gv
+rio gpv
 sea nx5
 sfo n4v
 sha ni5

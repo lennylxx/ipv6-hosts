@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Sun, 17 Dec 2017 22:53:28 +0800                  |
+## |         Update : Mon, 18 Dec 2017 11:33:44 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -5740,6 +5740,22 @@
 2001:b032:a501::11 r6---sn-ipoxu-umbz.googlevideo.com
 2001:b032:a501::12 r7---sn-ipoxu-umbz.googlevideo.com
 2001:b032:a501::13 r8---sn-ipoxu-umbz.googlevideo.com
+2a0b:880:1::c r1---sn-a0jpm-a0ml.googlevideo.com
+2a0b:880:1::d r2---sn-a0jpm-a0ml.googlevideo.com
+2a0b:880:1::e r3---sn-a0jpm-a0ml.googlevideo.com
+2a0b:880:1::f r4---sn-a0jpm-a0ml.googlevideo.com
+2a0b:880:1::10 r5---sn-a0jpm-a0ml.googlevideo.com
+2a0b:880:1::11 r6---sn-a0jpm-a0ml.googlevideo.com
+2a0b:880:1::12 r7---sn-a0jpm-a0ml.googlevideo.com
+2a0b:880:1::13 r8---sn-a0jpm-a0ml.googlevideo.com
+2a0b:880:1:1::c r1---sn-a0jpm-a0ms.googlevideo.com
+2a0b:880:1:1::d r2---sn-a0jpm-a0ms.googlevideo.com
+2a0b:880:1:1::e r3---sn-a0jpm-a0ms.googlevideo.com
+2a0b:880:1:1::f r4---sn-a0jpm-a0ms.googlevideo.com
+2a0b:880:1:1::10 r5---sn-a0jpm-a0ms.googlevideo.com
+2a0b:880:1:1::11 r6---sn-a0jpm-a0ms.googlevideo.com
+2a0b:880:1:1::12 r7---sn-a0jpm-a0ms.googlevideo.com
+2a0b:880:1:1::13 r8---sn-a0jpm-a0ms.googlevideo.com
 2400:c700:1000:3::c r1---sn-pqx5jxaa0a5g-h55e.googlevideo.com
 2400:c700:1000:3::d r2---sn-pqx5jxaa0a5g-h55e.googlevideo.com
 2400:c700:1000:3::e r3---sn-pqx5jxaa0a5g-h55e.googlevideo.com
@@ -17081,22 +17097,6 @@
 2a00:1450:4023:b::8 r3---sn-2gb7sn7r.googlevideo.com
 2a00:1450:4023:b::9 r4---sn-2gb7sn7r.googlevideo.com
 2a00:1450:4023:b::a r5---sn-2gb7sn7r.googlevideo.com
-2a0b:880:1::c r1---sn-a0jpm-a0ml.googlevideo.com
-2a0b:880:1::d r2---sn-a0jpm-a0ml.googlevideo.com
-2a0b:880:1::e r3---sn-a0jpm-a0ml.googlevideo.com
-2a0b:880:1::f r4---sn-a0jpm-a0ml.googlevideo.com
-2a0b:880:1::10 r5---sn-a0jpm-a0ml.googlevideo.com
-2a0b:880:1::11 r6---sn-a0jpm-a0ml.googlevideo.com
-2a0b:880:1::12 r7---sn-a0jpm-a0ml.googlevideo.com
-2a0b:880:1::13 r8---sn-a0jpm-a0ml.googlevideo.com
-2a0b:880:1:1::c r1---sn-a0jpm-a0ms.googlevideo.com
-2a0b:880:1:1::d r2---sn-a0jpm-a0ms.googlevideo.com
-2a0b:880:1:1::e r3---sn-a0jpm-a0ms.googlevideo.com
-2a0b:880:1:1::f r4---sn-a0jpm-a0ms.googlevideo.com
-2a0b:880:1:1::10 r5---sn-a0jpm-a0ms.googlevideo.com
-2a0b:880:1:1::11 r6---sn-a0jpm-a0ms.googlevideo.com
-2a0b:880:1:1::12 r7---sn-a0jpm-a0ms.googlevideo.com
-2a0b:880:1:1::13 r8---sn-a0jpm-a0ms.googlevideo.com
 2c0f:fb50:4002::6 r1---sn-woc7en7s.googlevideo.com
 2c0f:fb50:4002::7 r2---sn-woc7en7s.googlevideo.com
 2c0f:fb50:4002::8 r3---sn-woc7en7s.googlevideo.com

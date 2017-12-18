@@ -148,7 +148,11 @@ hgc-hkg3 ibj-i3bs
 hinet-tpe3 ipoxu-u2xs
 hinet-tsa1 ipoxu-un5e
 hinet-tsa2 ipoxu-un5l
+hinet-tsa3 ipoxu-un5s
 hinet-tsa4 ipoxu-un5z
+hinet-tsa6 ipoxu-un5d
+hinet-tsa7 ipoxu-un5k
+hinet-tsa8 ipoxu-un5r
 hinet-txg1 ipoxu-umbe
 hinet-txg2 ipoxu-umbl
 hinet-txg3 ipoxu-umbs
@@ -172,6 +176,8 @@ indosat-cgk2 poqvn5u-jb3l
 interlan-otp2 pouxga5o-vu2l
 ixsforall-mnl1 pmn4vg5aa-hoae
 ktelecom-svx2 3uxaxjvh-n8ml
+lucix-lux2 a0jpm-a0ml
+lucix-lux3 a0jpm-a0ms
 lvlt-arn1 a8au-5goe
 lvlt-bna1 a8au-co5e
 lvlt-bos1 a8au-cvne

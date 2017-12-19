@@ -93,6 +93,10 @@ cnt-uio3 jou-0pvs
 cnt-uio4 jou-0pvz
 cnt-uio5 jou-0pv6
 cnt-uio6 jou-0pvd
+cox-orf1 jvm-vg4e
+cox-orf2 jvm-vg4l
+csloxinfo-bkk2 jnavmpo4v-c33l
+csloxinfo-bkk3 jnavmpo4v-c33s
 ctm-mfm3 juh-h4hs
 ctm-mfm4 juh-h4hz
 cwpanama-pty1 jf25o5h5-2ute
@@ -144,6 +148,10 @@ gvt-for1 b8u-4vge
 gvt-for2 b8u-4vgl
 gvt-for3 b8u-4vgs
 gvt-for4 b8u-4vgz
+gvt-gig1 b8u-bpbe
+gvt-gig2 b8u-bpbl
+gvt-gig3 b8u-bpbs
+gvt-gig4 b8u-bpbz
 hgc-hkg3 ibj-i3bs
 hinet-tpe3 ipoxu-u2xs
 hinet-tsa1 ipoxu-un5e
@@ -192,6 +200,7 @@ lvlt-mad2 a8au-h5ql
 lvlt-slc1 a8au-naje
 maxnetua-hrk2 h5moxu05-ig3l
 mcnc-rdu1 hjoj-gq0e
+mdbr-vcp1 hqcg-8j2e
 megafon-goj1 hxb54vo-bvwe
 megafon-goj2 hxb54vo-bvwl
 megafon-ikt1 hxb54vo-p3ue
@@ -293,6 +302,9 @@ retnru-svo1 gxuog0-n8ve
 retnru-svo2 gxuog0-n8vl
 retnru-ufa1 gxuog0-045e
 ronix-otp1 gvopm-vu2e
+sfr-bod1 n4g-cvqe
+sfr-bod2 n4g-cvql
+sfr-bod3 n4g-cvqs
 shaw-ywg1 ni5f-tfbe
 shaw-ywg2 ni5f-tfbl
 starhub-sin6 nu5gi0c-npod
@@ -375,7 +387,13 @@ uninet-mex48 0opoxu-hxmzr
 uninet-mex49 0opoxu-hxmzy
 uninet-mex50 0opoxu-hxm67
 uninet-mex51 0opoxu-hxm6e
+uninet-pbc3 0opoxu-2cjs
+uninet-pbc4 0opoxu-2cjz
 uninet-pbc6 0opoxu-2cjd
+uninet-pbc7 0opoxu-2cjk
+uninet-pbc8 0opoxu-2cjr
+uninet-pbc9 0opoxu-2cjy
+uninet-pbc10 0opoxu-2cje7
 vdc-bmv1 8qj-ch8e
 vdc-bmv2 8qj-ch8l
 vdc-cxr1 8qj-jmge
@@ -490,6 +508,7 @@ versatel-ber1 8xgn5uxa-cxge
 versatel-dtm1 8xgn5uxa-quhe
 versatel-dtm2 8xgn5uxa-quhl
 versatel-ham1 8xgn5uxa-i5he
+viettel-han8 8pxuuxa-i5or
 vivo-gru1 8p8v-bg0e
 vivo-gru2 8p8v-bg0l
 vivo-gru3 8p8v-bg0s
@@ -509,6 +528,8 @@ vivo-gru16 8p8v-bg0ed
 vivo-gru17 8p8v-bg0ek
 vodafonept-lis1 8vq54vox2u-apne
 vodafonept-lis2 8vq54vox2u-apnl
+voo-bru2 8vv-cg0l
+voo-bru3 8vv-cg0s
 waia-mel1 f5p5-hxae
 wpgix-ywg1 f2bpm-tfbe
 zon-lis2 1vo-apnl

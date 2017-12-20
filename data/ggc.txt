@@ -532,6 +532,7 @@ vdc-vkg1 8qj-83be
 vdc-vkg2 8qj-83bl
 vdc-vtg1 8qj-8ube
 vdc-vtg2 8qj-8ubl
+ventelo-osl2 8xouxav-vnal
 versatel-ber1 8xgn5uxa-cxge
 versatel-dtm1 8xgn5uxa-quhe
 versatel-dtm2 8xgn5uxa-quhl

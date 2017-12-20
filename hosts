@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Wed, 20 Dec 2017 04:48:33 +0800                  |
+## |         Update : Thu, 21 Dec 2017 03:20:30 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -3959,6 +3959,12 @@
 2001:818:e4f2:1::f r4---sn-8vq54vox2u-apne.googlevideo.com
 2001:818:e4f2:1::11 r5---sn-8vq54vox2u-apne.googlevideo.com
 2001:818:e4f2:1::12 r6---sn-8vq54vox2u-apne.googlevideo.com
+2001:8c0:9802:1::c r1---sn-8xouxav-vnal.googlevideo.com
+2001:8c0:9802:1::d r2---sn-8xouxav-vnal.googlevideo.com
+2001:8c0:9802:1::e r3---sn-8xouxav-vnal.googlevideo.com
+2001:8c0:9802:1::f r4---sn-8xouxav-vnal.googlevideo.com
+2001:8c0:9802:1::10 r5---sn-8xouxav-vnal.googlevideo.com
+2001:8c0:9802:1::11 r6---sn-8xouxav-vnal.googlevideo.com
 2001:c28:1:38::c r1---sn-5n5ip-ioqe.googlevideo.com
 2001:c28:1:38::d r2---sn-5n5ip-ioqe.googlevideo.com
 2001:c28:1:38::e r3---sn-5n5ip-ioqe.googlevideo.com
@@ -16652,6 +16658,18 @@
 2a00:1450:4017:1d::a r4---sn-nv47lned.googlevideo.com
 2a00:1450:4017:1d::b r5---sn-nv47lned.googlevideo.com
 2a00:1450:4017:1d::c r6---sn-nv47lned.googlevideo.com
+2a00:1450:4018:4::7 r1---sn-hju7en7k.googlevideo.com
+2a00:1450:4018:4::8 r2---sn-hju7en7k.googlevideo.com
+2a00:1450:4018:4::9 r3---sn-hju7en7k.googlevideo.com
+2a00:1450:4018:4::a r4---sn-hju7en7k.googlevideo.com
+2a00:1450:4018:4::b r5---sn-hju7en7k.googlevideo.com
+2a00:1450:4018:4::c r6---sn-hju7en7k.googlevideo.com
+2a00:1450:4018:5::7 r1---sn-hju7en7r.googlevideo.com
+2a00:1450:4018:5::8 r2---sn-hju7en7r.googlevideo.com
+2a00:1450:4018:5::9 r3---sn-hju7en7r.googlevideo.com
+2a00:1450:4018:5::a r4---sn-hju7en7r.googlevideo.com
+2a00:1450:4018:5::b r5---sn-hju7en7r.googlevideo.com
+2a00:1450:4018:5::c r6---sn-hju7en7r.googlevideo.com
 2a00:1450:4019:4::7 r1---sn-4wg7ln7e.googlevideo.com
 2a00:1450:4019:4::8 r2---sn-4wg7ln7e.googlevideo.com
 2a00:1450:4019:4::9 r3---sn-4wg7ln7e.googlevideo.com

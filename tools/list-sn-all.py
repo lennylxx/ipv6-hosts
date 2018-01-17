@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 import sys
 
@@ -11,7 +11,7 @@ def main():
             continue
         arr = line.split()
         for k in range(1, 21):
-            print 'r%d' % k + arr[1][2:]
+            print('r%d' % k + arr[1][2:])
 
 if __name__ == '__main__':
     main()

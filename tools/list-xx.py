@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 import sys
 
@@ -14,7 +14,7 @@ table = (
 def main():
     for xx in table:
         for i in range(0x00, 0x100):
-            print xx + '-in-' + 'x' + hex(i)[2:].zfill(2) + '.1e100.net'
+            print(xx + '-in-' + 'x' + hex(i)[2:].zfill(2) + '.1e100.net')
 
 if __name__ == '__main__':
     main()

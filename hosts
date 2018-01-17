@@ -23645,6 +23645,7 @@
 #2620:101:8008:5::2:7 www.mozilla.com #static-redirect.zlb.phx.mozilla.net
 #2620:101:8008:5::2:8 www.firefox.com #firefox.com
 #2620:101:8008:5::2:8 firefox.com
+2607:f8b0:4017:28::8 r2.sn-vgqseney.gvt1.com
 
 ## Microsoft 微软
 2600:1417:9:193::747 www.microsoft.com #e10088.dscb.akamaiedge.net
@@ -23962,7 +23963,7 @@
 151.101.0.133 collector-cdn.github.com #github.map.fastly.net
 151.101.0.133 pages.github.com #github.map.fastly.net
 151.101.0.133 help.github.com #github.map.fastly.net
-34.237.209.114 collector.githubapp.com
+52.70.180.158 collector.githubapp.com
 151.101.0.133 avatars0.githubusercontent.com #github.map.fastly.net
 151.101.0.133 avatars1.githubusercontent.com #github.map.fastly.net
 151.101.0.133 avatars2.githubusercontent.com #github.map.fastly.net

@@ -18595,7 +18595,6 @@
 2620:101:8008:5::2:7 www.mozilla.com #static-redirect.zlb.phx.mozilla.net
 2620:101:8008:5::2:8 www.firefox.com #firefox.com
 2620:101:8008:5::2:8 firefox.com
-2607:f8b0:4017:28::8 r2.sn-vgqseney.gvt1.com
 
 ## Microsoft 微软
 2600:1406:3:283::2768 www.microsoft.com #e10088.dscb.akamaiedge.net

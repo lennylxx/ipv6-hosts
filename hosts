@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Wed, 24 Jan 2018 13:46:25 +0800                  |
+## |         Update : Wed, 24 Jan 2018 15:09:18 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -22555,13 +22555,30 @@
 2a03:2880:f202:1c4:face:b00c:0:43fe scontent.cdninstagram.com
 2a03:2880:f202:1c4:face:b00c:0:43fe scontent-a.cdninstagram.com
 2a03:2880:f202:1c4:face:b00c:0:43fe scontent-b.cdninstagram.com
-2a03:2880:f231:c5:face:b00c:0:43fe scontent-a-sjc.cdninstagram.com
-2a03:2880:f231:c5:face:b00c:0:43fe scontent-b-sjc.cdninstagram.com
+2a03:2880:f20d:c4:face:b00c:0:43fe scontent-a-lax.cdninstagram.com
+2a03:2880:f20d:c4:face:b00c:0:43fe scontent-b-lax.cdninstagram.com
 #2a03:2880:f20b:c4:face:b00c:0:43fe scontent-a-ord.cdninstagram.com
 #2a03:2880:f20b:c4:face:b00c:0:43fe scontent-b-ord.cdninstagram.com
-2a03:2880:f20d:c4:face:b00c:0:43fe scontent-a-lax.cdninstagram.com
-2a03:2880:f20d:1c4:face:b00c:0:43fe scontent-b-lax.cdninstagram.com
+2a03:2880:f231:c5:face:b00c:0:43fe scontent-a-sjc.cdninstagram.com
+2a03:2880:f231:c5:face:b00c:0:43fe scontent-b-sjc.cdninstagram.com
+2a03:2880:f21f:c4:face:b00c:0:43fe scontent-cdg2-1.cdninstagram.com
+2a03:2880:f213:80c4:face:b00c:0:43fe scontent-dft4-1.cdninstagram.com
+2a03:2880:f213:c4:face:b00c:0:43fe scontent-dft4-2.cdninstagram.com
+2a03:2880:f21c:80c4:face:b00c:0:43fe scontent-frt3-1.cdninstagram.com
+2a03:2880:f21c:81c4:face:b00c:0:43fe scontent-frt3-2.cdninstagram.com
+2a03:2880:f205:c4:face:b00c:0:43fe scontent-gru2-1.cdninstagram.com
+2a03:2880:f205:2c4:face:b00c:0:43fe scontent-gru2-2.cdninstagram.com
+2a03:2880:f203:c4:face:b00c:0:43fe scontent-iad3-1.cdninstagram.com
+2a03:2880:f212:c4:face:b00c:0:43fe scontent-lga3-1.cdninstagram.com
+2a03:2880:f229:c4:face:b00c:0:43fe scontent-lht6-1.cdninstagram.com
 2a03:2880:f20f:c4:face:b00c:0:43fe scontent-nrt1-1.cdninstagram.com
+2a03:2880:f227:c4:face:b00c:0:43fe scontent-ort2-1.cdninstagram.com
+2a03:2880:f201:c4:face:b00c:0:43fe scontent-sea1-1.cdninstagram.com
+2a03:2880:f20c:c4:face:b00c:0:43fe scontent-sin6-1.cdninstagram.com
+2a03:2880:f20c:2c4:face:b00c:0:43fe scontent-sin6-2.cdninstagram.com
+2a03:2880:f226:c4:face:b00c:0:43fe scontent-sit4-1.cdninstagram.com
+2a03:2880:f216:c4:face:b00c:0:43fe scontent-waw1-1.cdninstagram.com
+2a03:2880:f20e:c4:face:b00c:0:43fe scontent-yyz1-1.cdninstagram.com
 2600:1417:9::b833:f56 igcdn-photos-a-a.akamaihd.net
 2600:1417:9::b833:f65 igcdn-photos-b-a.akamaihd.net
 2600:1417:9::b833:f46 igcdn-photos-c-a.akamaihd.net

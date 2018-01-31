@@ -111,6 +111,7 @@
 2a03:2880:f007:8:face:b00c:0:1 scontent-mia3-1.xx.fbcdn.net
 2a03:2880:f007:8:face:b00c:0:1 scontent-mia3-2.xx.fbcdn.net
 2a03:2880:f007:8:face:b00c:0:1 scontent-mrs1-1.xx.fbcdn.net
+2a03:2880:f007:8:face:b00c:0:1 scontent-mxp1-1.xx.fbcdn.net
 2a03:2880:f007:8:face:b00c:0:1 scontent-nrt1-1.xx.fbcdn.net
 2a03:2880:f007:8:face:b00c:0:1 scontent-ort2-1.xx.fbcdn.net
 2a03:2880:f007:8:face:b00c:0:1 scontent-scl1-1.xx.fbcdn.net
@@ -292,6 +293,7 @@
 2a03:2880:f22c:c4:face:b00c:0:43fe scontent-mia3-1.cdninstagram.com
 2a03:2880:f22c:1c4:face:b00c:0:43fe scontent-mia3-2.cdninstagram.com
 2a03:2880:f209:c4:face:b00c:0:43fe scontent-mrs1-1.cdninstagram.com
+2a03:2880:f209:c4:face:b00c:0:43fe scontent-mxp1-1.cdninstagram.com
 2a03:2880:f20f:c4:face:b00c:0:43fe scontent-nrt1-1.cdninstagram.com
 2a03:2880:f227:c4:face:b00c:0:43fe scontent-ort2-1.cdninstagram.com
 2a03:2880:f22e:c4:face:b00c:0:43fe scontent-scl1-1.cdninstagram.com

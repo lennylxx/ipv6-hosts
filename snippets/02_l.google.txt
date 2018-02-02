@@ -75,6 +75,7 @@
 2404:6800:4008:c06::76 mw-medium.l.google.com
 2404:6800:4008:c00::76 mw-small.l.google.com
 2404:6800:4008:c04::8a news.l.google.com
+2404:6800:4012::200e ogs.google.com
 #2404:6800:4003:c01::57 orkut-fe.l.google.com
 #2404:6800:4003:c02::56 orkut-images.l.google.com
 #2404:6800:4003:c02::57 orkut-opensocial.l.google.com

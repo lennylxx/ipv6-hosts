@@ -130,6 +130,7 @@
 2404:6800:4008:c07::84 music.googleusercontent.cn #music-china.l.google.com
 2404:6800:4008:c04::a0 www.265.com #265.com
 2404:6800:4008:c00::a0 265.com
+2404:6800:4005:800::2003 services.googleapis.cn
 
 ## Google 台湾
 2404:6800:4008:c07::5e www.google.com.tw

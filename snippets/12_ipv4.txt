@@ -1,24 +1,26 @@
 ## Dropbox
-2620:100:6032:1::a27d:5201 www.dropbox.com #www.v.dropbox.com
+2620:100:6017:1::a27d:201 www.dropbox.com #www.v.dropbox.com
 162.125.33.6 www.v.dropbox.com
-2620:100:6032:1::a27d:5201 dropbox.com
+2620:100:6017:1::a27d:201 dropbox.com
 162.125.32.135 d.dropbox.com #d.v.dropbox.com
 162.125.32.135 d.v.dropbox.com
-2620:100:6032:2::a27d:5202 m.dropbox.com
-2620:100:6032:6::a27d:5206 dl.dropbox.com #block-misc-iad.v.dropbox.com
-2620:100:6032:6::a27d:5206 dl.dropboxusercontent.com #block-www.v.dropbox.com
-52.85.149.66 cf.dropboxstatic.com
-162.125.32.15 photos.dropbox.com
+2620:100:6017:2::a27d:202 m.dropbox.com
+2620:100:6017:6::a27d:206 dl.dropbox.com #block-misc-iad.v.dropbox.com
+2620:100:6017:6::a27d:206 dl.dropboxusercontent.com #block-www.v.dropbox.com
+2620:100:6017:7::a27d:207 api.dropbox.com
+2620:100:6017:7::a27d:207 api.dropboxapi.com
+2600:9000:2012:2c00:18:9b35:e940:93a1 cf.dropboxstatic.com
+2620:100:6017:2::a27d:202 photos.dropbox.com
 162.125.17.129 photos-thumb.x.dropbox.com
-2620:100:6032:5::a27d:5205 photos-1.dropbox.com #photos-thumb.x.dropbox.com
-2620:100:6032:5::a27d:5205 photos-2.dropbox.com #photos-thumb.x.dropbox.com
-2620:100:6032:5::a27d:5205 photos-3.dropbox.com #photos-thumb.x.dropbox.com
-2620:100:6032:5::a27d:5205 photos-4.dropbox.com #photos-thumb.x.dropbox.com
-2620:100:6032:5::a27d:5205 photos-5.dropbox.com #photos-thumb.x.dropbox.com
-2620:100:6032:5::a27d:5205 photos-6.dropbox.com #photos-thumb.x.dropbox.com
-54.182.1.99 status.dropbox.com
-54.182.1.105 forums.dropbox.com
-54.182.1.118 marketing.dropbox.com
+2620:100:6017:5::a27d:205 photos-1.dropbox.com #photos-thumb.x.dropbox.com
+2620:100:6017:5::a27d:205 photos-2.dropbox.com #photos-thumb.x.dropbox.com
+2620:100:6017:5::a27d:205 photos-3.dropbox.com #photos-thumb.x.dropbox.com
+2620:100:6017:5::a27d:205 photos-4.dropbox.com #photos-thumb.x.dropbox.com
+2620:100:6017:5::a27d:205 photos-5.dropbox.com #photos-thumb.x.dropbox.com
+2620:100:6017:5::a27d:205 photos-6.dropbox.com #photos-thumb.x.dropbox.com
+2600:9000:2012:2c00:18:9b35:e940:93a1 status.dropbox.com
+2600:9000:2012:2c00:18:9b35:e940:93a1 forums.dropbox.com
+2600:9000:2012:2c00:18:9b35:e940:93a1 marketing.dropbox.com
 
 ## DuckDuckGo
 46.51.218.82 duckduckgo.com
@@ -48,6 +50,16 @@
 2406:2000:a0:800::1002 c8.staticflickr.com
 #2406:2000:fc:402::c:2207 c9.staticflickr.com
 2406:2000:ec:a01::2002 s.yimg.com #s.gycs.b.yahoodns.net
+
+## Vimeo
+2a04:4e42:6::217 vimeo.com
+2a04:4e42:6::217 api.vimeo.com
+2a04:4e42:6::217 www.vimeo.com
+2a04:4e42:6::217 player.vimeo.com
+2a04:4e42:6::621 i.vimeocdn.com
+2a04:4e42:6::621 f.vimeocdn.com
+2a04:4e42:6::249 vimeo-hp-videos.global.ssl.fastly.net
+198.245.92.39 click.email.vimeo.com
 
 ## Geeksforgeeks
 #54.239.130.34 d2dskowxfbo68o.cloudfront.net
@@ -369,3 +381,5 @@
 #68.232.44.229 cdn.www.xda-developers.com #gs1.wac.v3cdn.net
 68.232.44.229 wac.8244.edgecastcdn.net #gs1.wac.v3cdn.net
 
+## Steam
+104.116.5.247 steamcommunity.com

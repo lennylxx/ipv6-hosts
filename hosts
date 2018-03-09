@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Thu, 08 Mar 2018 22:57:42 +0800                  |
+## |         Update : Fri, 09 Mar 2018 21:09:25 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -24180,24 +24180,42 @@
 192.30.253.119 gist.github.com
 
 ## SoundCloud
-52.85.152.32 api.soundcloud.com #cs97.wac.edgecastcdn.net
-52.85.152.9 api-mobile.soundcloud.com #cs97.wac.edgecastcdn.net
-52.85.152.26 api-v2.soundcloud.com #cs97.wac.edgecastcdn.net
-52.85.152.5 promoted.soundcloud.com #cs97.wac.edgecastcdn.net
-54.182.1.60 a-v2.sndcdn.com #cs70.wac.edgecastcdn.net
-54.182.1.195 a1.sndcdn.com #cs70.wac.edgecastcdn.net
-52.85.153.51 cf-media.sndcdn.com #d3mym4xnhdwip8.cloudfront.net
-54.182.1.159 i1.sndcdn.com #img.x.soundcloud.com
-54.182.1.225 i2.sndcdn.com #d5i8tm59lw6in.cloudfront.net
-54.182.1.225 i3.sndcdn.com #d5i8tm59lw6in.cloudfront.net
-54.182.1.206 i4.sndcdn.com #d5i8tm59lw6in.cloudfront.net
-54.182.1.203 va.sndcdn.com #cs70.wac.edgecastcdn.net
-13.33.151.56 wis.sndcdn.com #dq19j1toufa91.cloudfront.net
-68.232.45.67 ec-media.soundcloud.com #cs141.wpc.edgecastcdn.net
-68.232.46.220 ec-rtmp-media.soundcloud.com #fms.658d.edgecastcdn.net
-52.85.152.26 eventlogger.soundcloud.com #eventgateway.soundcloud.com
-52.85.152.22 eventgateway.soundcloud.com #eventgateway-production-2-1558049626.eu-west-1.elb.amazonaws.com
-#111.119.3.1 soundcloud.hs.llnwd.net
+68.232.44.127 soundcloud.com
+68.232.44.127 www.soundcloud.com
+68.232.44.127 api.soundcloud.com
+68.232.44.127 api-mobi.soundcloud.com
+68.232.44.127 api-mobile.soundcloud.com
+68.232.44.127 api-partners.soundcloud.com
+68.232.44.127 api-v2.soundcloud.com
+68.232.44.127 developers.soundcloud.com
+68.232.44.127 directory.soundcloud.com
+68.232.44.127 m.soundcloud.com
+68.232.44.127 on.soundcloud.com
+68.232.44.127 pages.soundcloud.com
+68.232.44.127 promoted.soundcloud.com
+68.232.44.127 visuals.soundcloud.com
+68.232.44.127 featured-profiles.soundcloud.com
+68.232.45.67 ec-media.soundcloud.com
+68.232.44.96 a1.sndcdn.com
+2600:9000:2012:: a-v2.sndcdn.com
+2600:9000:2012:: style.sndcdn.com
+2600:9000:2012:: va.sndcdn.com
+2600:9000:2012:: cf-media.sndcdn.com
+2600:9000:2012:: cf-hls-media.sndcdn.com
+68.232.44.96 ec-preview-media.sndcdn.com
+68.232.45.77 ec-media.sndcdn.com
+103.254.190.135 i1.sndcdn.com
+103.254.190.135 i2.sndcdn.com
+103.254.190.135 i3.sndcdn.com
+103.254.190.135 i4.sndcdn.com
+2600:9000:2012:: wave.sndcdn.com
+2600:9000:2012:: w1.sndcdn.com
+2600:9000:2012:: w2.sndcdn.com
+2600:9000:2012:: wis.sndcdn.com
+103.254.190.135 eventgateway.soundcloud.com
+103.254.190.135 eventlogger.soundcloud.com
+103.254.190.135 l9bjkkhaycw6f8f4.soundcloud.com
+104.196.1.106 blog.soundcloud.com
 
 ## Squarespace
 151.101.0.238 static.squarespace.com #cs301.wpc.taucdn.net

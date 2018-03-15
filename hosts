@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Tue, 13 Mar 2018 20:00:55 +0800                  |
+## |         Update : Thu, 15 Mar 2018 19:54:28 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -24816,6 +24816,9 @@
 #2600:1406:3:18b::b newsroom.intel.com
 #2600:1406:3:18b::b software.intel.com
 #2600:1406:3:18b::ae6 embedded.communities.intel.com
+
+## Coursera
+2600:9000:2012:: d3c33hcgiwev3.cloudfront.net
 
 ## AT 奥地利
 ## Tor Project

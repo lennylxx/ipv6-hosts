@@ -136,6 +136,7 @@
 2a03:2880:f007:8:face:b00c:0:1 scontent-vie1-1.xx.fbcdn.net
 2a03:2880:f007:8:face:b00c:0:1 scontent-waw1-1.xx.fbcdn.net
 2a03:2880:f007:8:face:b00c:0:1 scontent-yyz1-1.xx.fbcdn.net
+2a03:2887:ff0b:0:face:b00c:0:a7 scontent.fsea1-1.fna.fbcdn.net
 #2a03:2880:f00d:8:face:b00c::1 ent-a.xx.fbcdn.net
 #2a03:2880:f00d:8:face:b00c::1 ent-b.xx.fbcdn.net
 2a03:2880:f00d:115:face:b00c:0:3 scontent.xx.fbcdn.net
@@ -358,6 +359,7 @@
 2a03:2880:f207:c4:face:b00c:0:43fe scontent-vie1-1.cdninstagram.com
 2a03:2880:f216:c4:face:b00c:0:43fe scontent-waw1-1.cdninstagram.com
 2a03:2880:f20e:c4:face:b00c:0:43fe scontent-yyz1-1.cdninstagram.com
+2a03:2887:ff0b:0:face:b00c:3333:a3f instagram.fsea1-1.fna.fbcdn.net
 2600:1417:9::b833:f56 igcdn-photos-a-a.akamaihd.net
 2600:1417:9::b833:f65 igcdn-photos-b-a.akamaihd.net
 2600:1417:9::b833:f46 igcdn-photos-c-a.akamaihd.net

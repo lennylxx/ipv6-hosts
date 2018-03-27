@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Thu, 15 Mar 2018 19:54:28 +0800                  |
+## |         Update : Tue, 27 Mar 2018 20:15:00 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -23219,72 +23219,72 @@
 2c0f:fb50:4002:3::19 r20---sn-woc7en7d.googlevideo.com
 
 ## Facebook 脸谱网
-2a03:2880:f10d:183:face:b00c:0:25de facebook.com
-2a03:2880:f10d:183:face:b00c:0:25de www.facebook.com #star.c10r.facebook.com
-2a03:2880:f00d:110:face:b00c:0:2 edge-chat.facebook.com #star.c10r.facebook.com
-2a03:2880:f00d:110:face:b00c:0:2 0-edge-chat.facebook.com #star.c10r.facebook.com
-2a03:2880:f00d:110:face:b00c:0:2 1-edge-chat.facebook.com #star.c10r.facebook.com
-2a03:2880:f00d:110:face:b00c:0:2 2-edge-chat.facebook.com #star.c10r.facebook.com
-2a03:2880:f00d:110:face:b00c:0:2 3-edge-chat.facebook.com #star.c10r.facebook.com
-2a03:2880:f00d:110:face:b00c:0:2 4-edge-chat.facebook.com #star.c10r.facebook.com
-2a03:2880:f00d:110:face:b00c:0:2 5-edge-chat.facebook.com #star.c10r.facebook.com
-2a03:2880:f00d:110:face:b00c:0:2 6-edge-chat.facebook.com #star.c10r.facebook.com
-2a03:2880:f00d:110:face:b00c:0:2 api.facebook.com #star.c10r.facebook.com
-2a03:2880:f00d:110:face:b00c:0:2 api-read.facebook.com #api.facebook.com
-2a03:2880:f00d:110:face:b00c:0:2 apps.facebook.com #star.facebook.com
-2a03:2880:f00d:110:face:b00c:0:2 attachments.facebook.com #star.c10r.facebook.com
-2a03:2880:f10d:183:face:b00c:0:25de b-api.facebook.com #z-m.facebook.com
-2a03:2880:f10d:183:face:b00c:0:25de b-graph.facebook.com #z-m.facebook.com
-2a03:2880:f00d:110:face:b00c:0:2 check6.facebook.com #star.c10r.facebook.com
-2a03:2880:f00d:110:face:b00c:0:2 code.facebook.com #star.facebook.com
-2a03:2880:f10d:183:face:b00c:0:25de connect.facebook.com #www.facebook.com
-2a03:2880:f00d:110:face:b00c:0:2 developers.facebook.com #star.facebook.com
-2a03:2880:f00d:110:face:b00c:0:2 error.facebook.com #star.facebook.com
-2a03:2880:f00d:110:face:b00c:0:2 graph.facebook.com #api.facebook.com
-2a03:2880:f00d:110:face:b00c:0:2 login.facebook.com #star.facebook.com
-2a03:2880:f10d:183:face:b00c:0:25de m.facebook.com #star.c10r.facebook.com
-2a03:2880:f00d:10b:face:b00c:0:8e mqtt.facebook.com #mqtt.vvv.facebook.com
-2a03:2880:f00d:10b:face:b00c:0:8e edge-mqtt.facebook.com #mqtt.c10r.facebook.com
-2a03:2880:f10d:184:face:b00c:0:14c9 pixel.facebook.com #star.facebook.com
-2a03:2880:f00d:110:face:b00c:0:2 star.facebook.com #star.c10r.facebook.com
-2a03:2880:f00d:110:face:b00c:0:2 upload.facebook.com #star.c10r.facebook.com
-2a03:2880:f00d:110:face:b00c:0:2 zh-cn.facebook.com #star.facebook.com
-2a03:2880:f00d:110:face:b00c:0:2 zh-tw.facebook.com #star.facebook.com
-2a03:2880:f00d:110:face:b00c:0:2 star.c10r.facebook.com
-2a03:2880:f10d:184:face:b00c:0:14c9 l.facebook.com
-2a03:2880:f10d:181:face:b00c:0:e17 snaptu-z.facebook.com #snaptu-mini.c10r.facebook.com
-2a03:2880:f00d:10e:face:b00c:0:4381 snaptu-p1.facebook.com #snaptu-p1.c10r.facebook.com
-2a03:2880:f00d:10e:face:b00c:0:4381 snaptu-p2.facebook.com #snaptu-p1.c10r.facebook.com
-2a03:2880:20:8f12:face:b00c:0:12e vupload.facebook.com #vupload2.facebook.com
-2a03:2880:3010:ff03:face:b00c:0:12e vupload2.vvv.facebook.com
-2a03:2880:f00d:115:face:b00c:0:3 bigzipfiles.facebook.com
-2a03:2880:f00d:115:face:b00c:0:3 staticxx.facebook.com
-2a03:2880:20:8f08:face:b00c:0:1 apps.v6.facebook.com #v6.vvv.facebook.com
-2a03:2880:20:cf04:face:b00c:0:12c m.v6.facebook.com #v6.vvv.facebook.com
-2a03:2880:1010:5f07:face:b00c:0:12c pixel.v6.facebook.com #v6.vvv.facebook.com
-2a03:2880:20:8f08:face:b00c:0:1 www.v6.facebook.com #v6.vvv.facebook.com
-2a03:2880:20:8f08:face:b00c:0:1 v6.vvv.facebook.com
-2a03:2880:f00d:110:face:b00c:0:2 attachment.fbsbx.com #star.c10r.facebook.com
+2a03:2880:f126:83:face:b00c:0:25de facebook.com
+2a03:2880:f126:83:face:b00c:0:25de www.facebook.com #star.c10r.facebook.com
+2a03:2880:f026:13:face:b00c:0:2 edge-chat.facebook.com #star.c10r.facebook.com
+2a03:2880:f026:13:face:b00c:0:2 0-edge-chat.facebook.com #star.c10r.facebook.com
+2a03:2880:f026:13:face:b00c:0:2 1-edge-chat.facebook.com #star.c10r.facebook.com
+2a03:2880:f026:13:face:b00c:0:2 2-edge-chat.facebook.com #star.c10r.facebook.com
+2a03:2880:f026:13:face:b00c:0:2 3-edge-chat.facebook.com #star.c10r.facebook.com
+2a03:2880:f026:13:face:b00c:0:2 4-edge-chat.facebook.com #star.c10r.facebook.com
+2a03:2880:f026:13:face:b00c:0:2 5-edge-chat.facebook.com #star.c10r.facebook.com
+2a03:2880:f026:13:face:b00c:0:2 6-edge-chat.facebook.com #star.c10r.facebook.com
+2a03:2880:f026:13:face:b00c:0:2 api.facebook.com #star.c10r.facebook.com
+2a03:2880:f026:13:face:b00c:0:2 api-read.facebook.com #api.facebook.com
+2a03:2880:f026:13:face:b00c:0:2 apps.facebook.com #star.facebook.com
+2a03:2880:f026:13:face:b00c:0:2 attachments.facebook.com #star.c10r.facebook.com
+2a03:2880:f126:83:face:b00c:0:25de b-api.facebook.com #z-m.facebook.com
+2a03:2880:f126:83:face:b00c:0:25de b-graph.facebook.com #z-m.facebook.com
+2a03:2880:f026:13:face:b00c:0:2 check6.facebook.com #star.c10r.facebook.com
+2a03:2880:f026:13:face:b00c:0:2 code.facebook.com #star.facebook.com
+2a03:2880:f126:83:face:b00c:0:25de connect.facebook.com #www.facebook.com
+2a03:2880:f026:13:face:b00c:0:2 developers.facebook.com #star.facebook.com
+2a03:2880:f026:13:face:b00c:0:2 error.facebook.com #star.facebook.com
+2a03:2880:f026:13:face:b00c:0:2 graph.facebook.com #api.facebook.com
+2a03:2880:f026:13:face:b00c:0:2 login.facebook.com #star.facebook.com
+2a03:2880:f126:83:face:b00c:0:25de m.facebook.com #star.c10r.facebook.com
+2a03:2880:f026:f:face:b00c:0:8e mqtt.facebook.com #mqtt.vvv.facebook.com
+2a03:2880:f026:f:face:b00c:0:8e edge-mqtt.facebook.com #mqtt.c10r.facebook.com
+2a03:2880:f126:84:face:b00c:0:14c9 pixel.facebook.com #star.facebook.com
+2a03:2880:f026:13:face:b00c:0:2 star.facebook.com #star.c10r.facebook.com
+2a03:2880:f026:13:face:b00c:0:2 upload.facebook.com #star.c10r.facebook.com
+2a03:2880:f026:13:face:b00c:0:2 zh-cn.facebook.com #star.facebook.com
+2a03:2880:f026:13:face:b00c:0:2 zh-tw.facebook.com #star.facebook.com
+2a03:2880:f026:13:face:b00c:0:2 star.c10r.facebook.com
+2a03:2880:f126:84:face:b00c:0:14c9 l.facebook.com
+2a03:2880:f126:81:face:b00c:0:e17 snaptu-z.facebook.com #snaptu-mini.c10r.facebook.com
+2a03:2880:f026:11:face:b00c:0:4381 snaptu-p1.facebook.com #snaptu-p1.c10r.facebook.com
+2a03:2880:f026:11:face:b00c:0:4381 snaptu-p2.facebook.com #snaptu-p1.c10r.facebook.com
+2a03:2880:f026:13:face:b00c:0:2 vupload.facebook.com #vupload2.facebook.com
+#2a03:2880:3010:ff03:face:b00c:0:12e vupload2.vvv.facebook.com
+2a03:2880:f026:19:face:b00c:0:3 bigzipfiles.facebook.com
+2a03:2880:f026:19:face:b00c:0:3 staticxx.facebook.com
+2a03:2880:2111:4f01:face:b00c:0:12c apps.v6.facebook.com #v6.vvv.facebook.com
+2a03:2880:2111:4f01:face:b00c:0:12c m.v6.facebook.com #v6.vvv.facebook.com
+2a03:2880:2111:4f01:face:b00c:0:12c pixel.v6.facebook.com #v6.vvv.facebook.com
+2a03:2880:2111:4f01:face:b00c:0:12c www.v6.facebook.com #v6.vvv.facebook.com
+2a03:2880:2111:4f01:face:b00c:0:12c v6.vvv.facebook.com
+2a03:2880:f026:13:face:b00c:0:2 attachment.fbsbx.com #star.c10r.facebook.com
 #2600:1417:9::b833:faa static.ak.facebook.com
 #2600:1417:9:192::236 s-static.ak.facebook.com #e566.dspe1.akamaiedge.net
 #2610:d0:face::9 www.lisp6.facebook.com
 #2610:d0:face::9 m.lisp6.facebook.com #www.lisp6.facebook.com
-2a03:2880:f00d:110:face:b00c:0:2 www.messenger.com #star.c10r.facebook.com
-2a03:2880:f00d:110:face:b00c:0:2 messenger.com
-2a03:2880:f00d:110:face:b00c:0:2 edge-chat.messenger.com #star.c10r.facebook.com
-2a03:2880:f00d:110:face:b00c:0:2 0-edge-chat.messenger.com #star.c10r.facebook.com
-2a03:2880:f00d:110:face:b00c:0:2 1-edge-chat.messenger.com #star.c10r.facebook.com
-2a03:2880:f00d:110:face:b00c:0:2 2-edge-chat.messenger.com #star.c10r.facebook.com
-2a03:2880:f00d:110:face:b00c:0:2 3-edge-chat.messenger.com #star.c10r.facebook.com
-2a03:2880:f00d:110:face:b00c:0:2 4-edge-chat.messenger.com #star.c10r.facebook.com
-2a03:2880:f00d:110:face:b00c:0:2 5-edge-chat.messenger.com #star.c10r.facebook.com
-2a03:2880:f00d:110:face:b00c:0:2 6-edge-chat.messenger.com #star.c10r.facebook.com
-2a03:2880:f10d:183:face:b00c:0:25de www.fb.com #star.c10r.facebook.com
-2a03:2880:f10d:183:face:b00c:0:25de fb.com
-2a03:2880:f10d:183:face:b00c:0:25de www.fb.me
-2a03:2880:f10d:183:face:b00c:0:25de fb.me
-2a03:2880:f00d:110:face:b00c:0:2 thefacebook.com
-2a03:2880:f10d:183:face:b00c:0:25de www.thefacebook.com #star.c10r.facebook.com
+2a03:2880:f026:13:face:b00c:0:2 www.messenger.com #star.c10r.facebook.com
+2a03:2880:f026:13:face:b00c:0:2 messenger.com
+2a03:2880:f026:13:face:b00c:0:2 edge-chat.messenger.com #star.c10r.facebook.com
+2a03:2880:f026:13:face:b00c:0:2 0-edge-chat.messenger.com #star.c10r.facebook.com
+2a03:2880:f026:13:face:b00c:0:2 1-edge-chat.messenger.com #star.c10r.facebook.com
+2a03:2880:f026:13:face:b00c:0:2 2-edge-chat.messenger.com #star.c10r.facebook.com
+2a03:2880:f026:13:face:b00c:0:2 3-edge-chat.messenger.com #star.c10r.facebook.com
+2a03:2880:f026:13:face:b00c:0:2 4-edge-chat.messenger.com #star.c10r.facebook.com
+2a03:2880:f026:13:face:b00c:0:2 5-edge-chat.messenger.com #star.c10r.facebook.com
+2a03:2880:f026:13:face:b00c:0:2 6-edge-chat.messenger.com #star.c10r.facebook.com
+2a03:2880:f126:83:face:b00c:0:25de www.fb.com #star.c10r.facebook.com
+2a03:2880:f126:83:face:b00c:0:25de fb.com
+2a03:2880:f126:83:face:b00c:0:25de www.fb.me
+2a03:2880:f126:83:face:b00c:0:25de fb.me
+2a03:2880:f026:13:face:b00c:0:2 thefacebook.com
+2a03:2880:f126:83:face:b00c:0:25de www.thefacebook.com #star.c10r.facebook.com
 
 
 ## fbcdn.net
@@ -23356,6 +23356,7 @@
 2a03:2880:f007:8:face:b00c:0:1 scontent-vie1-1.xx.fbcdn.net
 2a03:2880:f007:8:face:b00c:0:1 scontent-waw1-1.xx.fbcdn.net
 2a03:2880:f007:8:face:b00c:0:1 scontent-yyz1-1.xx.fbcdn.net
+2a03:2887:ff0b:0:face:b00c:0:a7 scontent.fsea1-1.fna.fbcdn.net
 #2a03:2880:f00d:8:face:b00c::1 ent-a.xx.fbcdn.net
 #2a03:2880:f00d:8:face:b00c::1 ent-b.xx.fbcdn.net
 2a03:2880:f00d:115:face:b00c:0:3 scontent.xx.fbcdn.net
@@ -23578,6 +23579,7 @@
 2a03:2880:f207:c4:face:b00c:0:43fe scontent-vie1-1.cdninstagram.com
 2a03:2880:f216:c4:face:b00c:0:43fe scontent-waw1-1.cdninstagram.com
 2a03:2880:f20e:c4:face:b00c:0:43fe scontent-yyz1-1.cdninstagram.com
+2a03:2887:ff0b:0:face:b00c:3333:a3f instagram.fsea1-1.fna.fbcdn.net
 2600:1417:9::b833:f56 igcdn-photos-a-a.akamaihd.net
 2600:1417:9::b833:f65 igcdn-photos-b-a.akamaihd.net
 2600:1417:9::b833:f46 igcdn-photos-c-a.akamaihd.net

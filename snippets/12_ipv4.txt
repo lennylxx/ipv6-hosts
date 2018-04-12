@@ -400,4 +400,4 @@
 68.232.44.229 wac.8244.edgecastcdn.net #gs1.wac.v3cdn.net
 
 ## Steam
-104.116.5.247 steamcommunity.com
+23.50.18.229 steamcommunity.com

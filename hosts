@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Thu, 15 Mar 2018 19:54:28 +0800                  |
+## |         Update : Thu, 12 Apr 2018 20:24:34 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -244,6 +244,7 @@
 2404:6800:4008:c06::8d cardboard.withgoogle.com
 2404:6800:4008:c02::8d chinesenewyear.withgoogle.com
 2404:6800:4008:c06::8d connectedclassrooms.withgoogle.com
+2404:6800:4008:802::2011 csp.withgoogle.com
 2404:6800:4008:c06::8d datasense.withgoogle.com
 2404:6800:4008:c02::8d devart.withgoogle.com
 2404:6800:4008:c05::8d docchinogame.withgoogle.com
@@ -413,6 +414,7 @@
 2001:4860:4802:32::1b blog.chromium.org
 #2404:6800:4008:c00::62 build.chromium.org #planet.chromium.org
 #2404:6800:4008:c00::79 codereview.chromium.org #ghs.l.google.com
+2404:6800:4012:1::2013 bugs.chromium.org
 
 ## Chromium OS Chromium 操作系统
 2404:6800:4008:c07::79 goto.ext.google.com #ghs.google.com
@@ -442,11 +444,14 @@
 
 ## Developers 开发者
 2404:6800:4008:c00::8b cloud.google.com #www3.l.google.com
+2404:6800:4008:801::200e console.cloud.google.com
 2404:6800:4008:c07::8b storage.cloud.google.com #www3.l.google.com
+2404:6800:4012:1::200e ssh.cloud.google.com
 2404:6800:4008:c07::66 developers.google.com #www3.l.google.com
 2404:6800:4008:c00::8b cloudssh.developers.google.com #www3.l.google.com
 2001:4860:4802:32::1b console.developers.google.com
 2404:6800:4008:c05::52 source.developers.google.com
+2404:6800:4012:1::200a cloudusersettings-pa.clients6.google.com
 
 ## Directory 网页目录
 2404:6800:4008:c05::8a directory.google.com #www3.l.google.com
@@ -25320,7 +25325,7 @@
 68.232.44.229 wac.8244.edgecastcdn.net #gs1.wac.v3cdn.net
 
 ## Steam
-104.116.5.247 steamcommunity.com
+23.50.18.229 steamcommunity.com
 ## +-------------------------------------------------------------------+
 ## |                            End of File                            |
 ## +-------------------------------------------------------------------+

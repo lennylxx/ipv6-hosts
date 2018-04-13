@@ -9,8 +9,8 @@ def main():
         for j in range(0, 100):
             a = num2code(str(i).zfill(2))
             b = num2code(str(j).zfill(2))
-            print('r2---' + 'sn-' + encoded_iata + a + 'n' + 'b' + '.googlevideo.com')
-            print('r2---' + 'sn-' + encoded_iata + a + 'u' + 'b' + '.googlevideo.com')
+            print('r2---' + 'sn-' + encoded_iata + a + 'n' + b + '.googlevideo.com')
+            print('r2---' + 'sn-' + encoded_iata + a + 'u' + b + '.googlevideo.com')
 
 if __name__ == '__main__':
     main()

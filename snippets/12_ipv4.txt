@@ -109,17 +109,17 @@
 2600:9000:2012:: cf-hls-media.sndcdn.com
 68.232.44.96 ec-preview-media.sndcdn.com
 68.232.45.77 ec-media.sndcdn.com
-103.254.190.135 i1.sndcdn.com
-103.254.190.135 i2.sndcdn.com
-103.254.190.135 i3.sndcdn.com
-103.254.190.135 i4.sndcdn.com
+111.13.135.197 i1.sndcdn.com
+111.13.135.197 i2.sndcdn.com
+111.13.135.197 i3.sndcdn.com
+111.13.135.197 i4.sndcdn.com
 2600:9000:2012:: wave.sndcdn.com
 2600:9000:2012:: w1.sndcdn.com
 2600:9000:2012:: w2.sndcdn.com
 2600:9000:2012:: wis.sndcdn.com
-103.254.190.135 eventgateway.soundcloud.com
-103.254.190.135 eventlogger.soundcloud.com
-103.254.190.135 l9bjkkhaycw6f8f4.soundcloud.com
+111.13.135.197 eventgateway.soundcloud.com
+111.13.135.197 eventlogger.soundcloud.com
+111.13.135.197 l9bjkkhaycw6f8f4.soundcloud.com
 104.196.1.106 blog.soundcloud.com
 
 ## Squarespace

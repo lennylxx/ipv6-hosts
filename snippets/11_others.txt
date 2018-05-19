@@ -60,16 +60,16 @@
 2400:a980:fd:6:11::3 dl.delivery.mp.microsoft.com #tlu.dl.delivery.mp.microsoft.com.bsgslb.cn
 2400:a980:fd:6:11::3 tlu.dl.delivery.mp.microsoft.com #tlu.dl.delivery.mp.microsoft.com.bsgslb.cn
 2001:250:208:4000:2000:2::213 8.tlu.dl.delivery.mp.microsoft.com #win10back.dlmix.ourdvs.com
-#204.79.197.217 onedrive.live.com #skyweb.skyprod.akadns.net
-#134.170.120.48 skyapi.onedrive.live.com
-#204.79.197.217 skyweb.skyprod.akadns.net
-#204.79.197.217 webedgegeo.skyprod.akadns.net
+2620:1ec:c11::212 onedrive.live.com #skyweb.skyprod.akadns.net
+157.55.109.232 skyapi.onedrive.live.com #odc-common-emea-meta-geo.onedrive.akadns.net
+2620:1ec:c11::212 storage.live.com
 2600:1417:9:193::1aff s1-word-view-15.cdn.office.net #wildcard.cdn.office.net.edgekey.net
 2600:1417:9:193::1aff s1-officeapps-15.cdn.office.net #e6911.dspg.akamaiedge.net
-#2a01:111:2003::200 www.bing.com
-#2a01:111:2003::200 cn.bing.com
-#2a01:111:2003::200 ssl.bing.com
-#2a01:111:2003::200 global.bing.com
+2620:1ec:c11::200 www.bing.com
+2620:1ec:c11::200 www2.bing.com
+2620:1ec:c11::200 cn.bing.com
+2620:1ec:c11::200 ssl.bing.com
+2620:1ec:c11::200 global.bing.com
 #2a01:111:2003::200 api.bing.com
 #2a01:111:2003::200 bj1.api.bing.com
 #2a01:111:2003::200 tse1.mm.bing.net

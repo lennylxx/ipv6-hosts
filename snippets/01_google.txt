@@ -881,7 +881,7 @@
 2404:6800:4008:c07::5e gstatic.com
 2404:6800:4008:c07::5e accounts.gstatic.com
 2401:3800:4001:807::100f csi.gstatic.com #csi-china.l.google.com
-2a00:1450:4017:809::2003 fonts.gstatic.com
+2401:3800:4001:807::100f fonts.gstatic.com
 2404:6800:4008:c06::5e maps.gstatic.com
 2404:6800:4008:c07::5e ssl.gstatic.com
 2404:6800:4008:c07::5e www.gstatic.com

@@ -51,6 +51,8 @@
 2404:6800:4008:c00::66 material.google.com
 2404:6800:4008:c03::c1 mobile.google.com #mobile.l.google.com
 2404:6800:4008:c06::71 myaccount.google.com #www3.l.google.com
+2404:6800:4008:c07::65 myactivity.google.com #history.l.google.com
+2404:6800:4008:802::200e notifications.google.com #plus.l.google.com
 2404:6800:4008:c04::71 on.google.com #www3.l.google.com
 2404:6800:4008:c06::8d onetoday.google.com #appspot.l.google.com
 2404:6800:4008:c00::64 passwords.google.com #www3.l.google.com
@@ -128,6 +130,7 @@
 2404:6800:4008:c07::84 music.googleusercontent.cn #music-china.l.google.com
 2404:6800:4008:c04::a0 www.265.com #265.com
 2404:6800:4008:c00::a0 265.com
+2404:6800:4005:800::2003 services.googleapis.cn
 
 ## Google 台湾
 2404:6800:4008:c07::5e www.google.com.tw
@@ -204,6 +207,7 @@
 2404:6800:4008:c06::99 ld-social-stats.appspot.com #appspot.l.google.com
 2404:6800:4008:c03::99 moderator.appspot.com #appspot.l.google.com
 2404:6800:4008:c03::99 newsfeed-dot-latest-dot-rovio-ad-engine.appspot.com #appspot.l.google.com
+2404:6800:4008:800::2014 omahaproxy.appspot.com
 2404:6800:4008:c02::99 productideas.appspot.com #appspot.l.google.com
 2404:6800:4008:c06::99 project-slingshot-gp.appspot.com #appspot.l.google.com
 2404:6800:4008:c06::99 r3269-dot-latest-dot-project-slingshot-gp.appspot.com #appspot.l.google.com
@@ -222,6 +226,7 @@
 2404:6800:4008:c06::8d cardboard.withgoogle.com
 2404:6800:4008:c02::8d chinesenewyear.withgoogle.com
 2404:6800:4008:c06::8d connectedclassrooms.withgoogle.com
+2404:6800:4008:802::2011 csp.withgoogle.com
 2404:6800:4008:c06::8d datasense.withgoogle.com
 2404:6800:4008:c02::8d devart.withgoogle.com
 2404:6800:4008:c05::8d docchinogame.withgoogle.com
@@ -391,6 +396,7 @@
 2001:4860:4802:32::1b blog.chromium.org
 #2404:6800:4008:c00::62 build.chromium.org #planet.chromium.org
 #2404:6800:4008:c00::79 codereview.chromium.org #ghs.l.google.com
+2404:6800:4012:1::2013 bugs.chromium.org
 
 ## Chromium OS Chromium 操作系统
 2404:6800:4008:c07::79 goto.ext.google.com #ghs.google.com
@@ -406,17 +412,28 @@
 2404:6800:4008:c04::52 google-code-feed-gadget.googlecode.com #googlecode.l.googleusercontent.com
 2404:6800:4008:c06::52 www.googlesource.com #googlecode.l.googleusercontent.com
 2404:6800:4008:c07::52 android.googlesource.com #googlecode.l.googleusercontent.com
+2404:6800:4003:c02::52 chromium.googlesource.com
+2404:6800:4008:c00::52 boringssl.googlesource.com #googlecode.l.googleusercontent.com
+2404:6800:4003:c01::52 boringssl-review.googlesource.com
+2404:6800:4003:c02::52 chrome-internal.googlesource.com
+2404:6800:4008:c00::52 pdfium.googlesource.com #googlecode.l.googleusercontent.com
+2404:6800:4003:c02::52 skia.googlesource.com
+2404:6800:4008:c04::52 swiftshader.googlesource.com #earth-api-samples.googlecode.com
+2404:6800:4008:c04::52 webrtc.googlesource.com #earth-api-samples.googlecode.com
 
 ## Desktop 桌面
 #2404:6800:4005:805::2004 desktop.google.com #desktop.l.google.com
 
 ## Developers 开发者
 2404:6800:4008:c00::8b cloud.google.com #www3.l.google.com
+2404:6800:4008:801::200e console.cloud.google.com
 2404:6800:4008:c07::8b storage.cloud.google.com #www3.l.google.com
+2404:6800:4012:1::200e ssh.cloud.google.com
 2404:6800:4008:c07::66 developers.google.com #www3.l.google.com
 2404:6800:4008:c00::8b cloudssh.developers.google.com #www3.l.google.com
 2001:4860:4802:32::1b console.developers.google.com
 2404:6800:4008:c05::52 source.developers.google.com
+2404:6800:4012:1::200a cloudusersettings-pa.clients6.google.com
 
 ## Directory 网页目录
 2404:6800:4008:c05::8a directory.google.com #www3.l.google.com
@@ -677,6 +694,7 @@
 
 ## News 资讯
 2404:6800:4008:c06::66 news.google.com #news.l.google.com
+2404:6800:4008:c06::66 news.url.google.com #www3.l.google.com
 2404:6800:4008:c04::5e news.google.com.hk #news-cctld.l.google.com
 2404:6800:4008:c04::5e news.google.com.tw #news-cctld.l.google.com
 
@@ -863,7 +881,7 @@
 2404:6800:4008:c07::5e gstatic.com
 2404:6800:4008:c07::5e accounts.gstatic.com
 2401:3800:4001:807::100f csi.gstatic.com #csi-china.l.google.com
-2401:3800:4001:807::100f fonts.gstatic.com
+2a00:1450:4017:809::2003 fonts.gstatic.com
 2404:6800:4008:c06::5e maps.gstatic.com
 2404:6800:4008:c07::5e ssl.gstatic.com
 2404:6800:4008:c07::5e www.gstatic.com
@@ -923,7 +941,9 @@
 2404:6800:4008:c02::5f mts3.googleapis.com #googleapis.l.google.com
 2404:6800:4008:c02::5f ct.googleapis.com #googleapis.l.google.com
 2404:6800:4008:c06::5f beyond-pa.clients6.google.com #googleapis.l.google.com
+2404:6800:4005:806::2003 clientservices.googleapis.com
 2404:6800:4008:c06::5f datasaver.googleapis.com #googleapis.l.google.com
+2404:6800:4005:806::2003 update.googleapis.com
 
 ## Google Hosted 托管服务
 2404:6800:4008:c07::80 storage.googleapis.com #storage.l.googleusercontent.com

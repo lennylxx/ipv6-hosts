@@ -154,6 +154,7 @@
 2404:6800:4008:c04::84 s1.googleusercontent.com
 2404:6800:4008:c06::84 s2.googleusercontent.com
 2404:6800:4008:c02::84 sj.googleusercontent.com
+2404:6800:4008:803::2001 scholar.googleusercontent.com
 2404:6800:4008:c02::84 spreadsheets-opensocial.googleusercontent.com
 2404:6800:4008:c07::84 static.googleusercontent.com
 2404:6800:4008:c00::84 themes.googleusercontent.com

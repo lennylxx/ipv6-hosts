@@ -12,6 +12,7 @@ Facebook, Wikipedia, etc. in Mainland China.
 
 * You may need [HTTPS Everywhere] to secure your transmission.
 * [How to decode Google SN domains]
+* How to [Do It Yourself]
 
 Scripts
 -------
@@ -78,5 +79,6 @@ Content of this project (including hosts files, wiki, and Google sheets) is lice
 [SN-domain servers list]: https://docs.google.com/spreadsheets/d/14gT1GV1IE0oYCq-1Dy747_5FWNxL26R-9T5htJ485dY
 [HTTPS Everywhere]: https://www.eff.org/https-everywhere
 [How to decode Google SN domains]: https://github.com/lennylxx/ipv6-hosts/wiki/sn-domains
+[Do It Yourself]: https://github.com/lennylxx/ipv6-hosts/wiki/Do-It-Yourself
 [CC Image]: https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png
 [CC BY-NC-SA 3.0]: https://creativecommons.org/licenses/by-nc-sa/3.0/

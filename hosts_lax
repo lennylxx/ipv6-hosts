@@ -207,6 +207,7 @@
 2001:4860:400b:c01::8d i18napis.appspot.com
 2001:4860:400b:c01::8d moderator.appspot.com
 2001:4860:400b:c01::8d newsfeed-dot-latest-dot-rovio-ad-engine.appspot.com
+2404:6800:4008:800::2014 omahaproxy.appspot.com
 2001:4860:400b:c01::8d productideas.appspot.com
 2001:4860:400b:c01::8d project-slingshot-gp.appspot.com
 2001:4860:400b:c01::8d r3269-dot-latest-dot-project-slingshot-gp.appspot.com
@@ -1131,6 +1132,7 @@
 2001:4860:4802:36::16 mw-medium.l.google.com
 2001:4860:4802:36::16 mw-small.l.google.com
 2001:4860:4802:36::16 news.l.google.com
+2404:6800:4012::200e ogs.google.com
 2001:4860:400b:c01::56 orkut-fe.l.google.com
 2001:4860:400b:c01::55 orkut-images.l.google.com
 2001:4860:400b:c01::55 orkut-opensocial.l.google.com
@@ -18568,6 +18570,12 @@
 
 ## 其他IPv6网站
 ## US 美国
+## Easylist系列
+2a01:4f8:130:11ee::2 easylist-downloads.adblockplus.org
+
+## LEDE Project
+2a03:b0c0:3:d0::1af1:1 lede-project.org
+
 ## Mozilla
 2620:101:8016:5::2:20 www.mozilla.org #mozorg.dynect.mozilla.net
 #2620:101:8008:5::2:6 air.mozilla.org #generic.zlb.phx.mozilla.net
@@ -18884,7 +18892,7 @@
 192.30.252.86 live.github.com
 103.245.222.133 assets-cdn.github.com #github.map.fastly.net
 103.245.222.133 collector-cdn.github.com #github.map.fastly.net
-107.23.78.89 collector.githubapp.com
+52.70.180.158 collector.githubapp.com
 103.245.222.133 avatars0.githubusercontent.com #github.map.fastly.net
 103.245.222.133 avatars1.githubusercontent.com #github.map.fastly.net
 103.245.222.133 avatars2.githubusercontent.com #github.map.fastly.net

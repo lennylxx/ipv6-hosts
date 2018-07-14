@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 # Read the wiki for more information
 # https://github.com/lennylxx/ipv6-hosts/wiki/sn-domains
@@ -23,7 +23,7 @@ def sn2iata(sn):
     for v in sn:
         if v in table:
             i = table.index(v)
-            i = (5 - i % 7) * 5 + i / 7 + 10
+            i = (5 - i % 7) * 5 + i // 7 + 10
             iata += table[i]
         else:
             iata += v
@@ -46,7 +46,7 @@ def code2num(code):
     for v in code:
         if v in table:
             i = table.index(v)
-            i = i / 7 + i % 7 - 1
+            i = i // 7 + i % 7 - 1
             num += str(i)
         else:
             num += v
@@ -54,7 +54,7 @@ def code2num(code):
 
 def main():
     if len(sys.argv) != 3:
-        print 'usage:\tconv -i iata\n\tconv -s sn\n\tconv -p isp\n\tconv -g ggc'
+        print('usage:\tconv -i iata\n\tconv -s sn\n\tconv -p isp\n\tconv -g ggc')
         sys.exit(1)
 
     input = sys.argv[2]
@@ -62,27 +62,34 @@ def main():
     if sys.argv[1] == '-i':
         ret += iata2sn(input[0:3])
         ret += num2code(input[3:5])
-        ret += 'n'
-        ret += num2code(input[6:8])
+        if (len(input) > 3):
+            ret += 'n'
+            ret += num2code(input[6:8])
     elif sys.argv[1] == '-s':
         ret += sn2iata(input[0:3])
         ret += code2num(input[3:5])
-        ret += 's'
-        ret += code2num(input[6:8])
+        if (len(input) > 3):
+            ret += 's'
+            ret += code2num(input[6:8])
     elif sys.argv[1] == '-p':
-        ret += iata2sn(input[:-1])
-        ret += num2code(input[-1])
+        lst = input.split('-')
+        ret += iata2sn(lst[0])
+        if (len(lst) == 2):
+            ret += '-'
+            ret += iata2sn(lst[1][0:3])
+            ret += num2code(lst[1][3:])
     elif sys.argv[1] == '-g':
         lst = input.split('-')
         ret += sn2iata(lst[0])
-        ret += "-"
-        ret += sn2iata(lst[1][0:3])
-        ret += code2num(lst[1][3:])
+        if (len(lst) == 2):
+            ret += '-'
+            ret += sn2iata(lst[1][0:3])
+            ret += code2num(lst[1][3:])
     else:
-        print 'Unknown option.'
+        print('Unknown option.')
         sys.exit(1)
 
-    print ret
+    print(ret)
     sys.exit(0)
 
 if __name__ == '__main__':

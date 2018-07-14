@@ -13,6 +13,8 @@ if [ -f $new_hosts_file ]; then
     printf "" > $new_hosts_file
 fi
 
+export LC_ALL="C"
+
 printf "\
 ##  __                                 __                               \r\n\
 ## |__| _____  __ __ ┌─────┐          |  |                  __          \r\n\
@@ -30,7 +32,10 @@ printf "\
 ## +-------------------------------------------------------------------+\r\n\
 " >> $new_hosts_file
 
-printf "\r\n::1 localhost\r\n\r\n" >> $new_hosts_file
+unset LC_ALL
+
+printf "\r\n127.0.0.1 localhost\r\n" >> $new_hosts_file
+printf "::1 localhost ip6-localhost ip6-loopback\r\n\r\n" >> $new_hosts_file
 
 cat snippets/??_*.txt >> $new_hosts_file
 

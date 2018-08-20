@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Wed, 16 May 2018 18:08:07 +0800                  |
+## |         Update : Mon, 20 Aug 2018 17:29:41 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -24824,6 +24824,50 @@
 
 ## Coursera
 2600:9000:2012:: d3c33hcgiwev3.cloudfront.net
+
+## Reddit
+2a04:4e42:6::396 reddit.com
+2a04:4e42:6::396 www.reddit.com
+2a04:4e42:6::396 np.reddit.com
+2a04:4e42:6::396 old.reddit.com
+2a04:4e42:6::396 new.reddit.com
+2a04:4e42:6::396 pay.reddit.com
+2a04:4e42:6::396 ssl.reddit.com
+2a04:4e42:6::396 about.reddit.com
+2a04:4e42:6::396 mod.reddit.com
+2a04:4e42:6::396 d.reddit.com
+2a04:4e42:6::396 e.reddit.com
+2a04:4e42:6::396 events.reddit.com
+2a04:4e42:6::396 buttons.reddit.com
+2a04:4e42:6::396 oauth.reddit.com
+2a04:4e42:6::396 gateway.reddit.com
+2a04:4e42:6::396 sendbird.reddit.com
+2a04:4e42:6::396 www.redditstatic.com
+2a04:4e42:6::396 www.redditmedia.com
+2a04:4e42:6::396 embed.redditmedia.com
+2a04:4e42:6::396 emoji.redditmedia.com
+2a04:4e42:6::396 styles.redditmedia.com
+2a04:4e42:6::396 g.redditmedia.com
+2a04:4e42:6::396 i.redditmedia.com
+2a04:4e42:6::396 s.redditmedia.com
+2a04:4e42:6::396 a.thumbs.redditmedia.com
+2a04:4e42:6::396 b.thumbs.redditmedia.com
+2a04:4e42:6::396 c.thumbs.redditmedia.com
+2a04:4e42:6::396 d.thumbs.redditmedia.com
+2a04:4e42:6::396 e.thumbs.redditmedia.com
+2a04:4e42:6::396 f.thumbs.redditmedia.com
+2a04:4e42:6::396 redd.it
+2a04:4e42:6::396 i.redd.it
+2a04:4e42:6::396 v.redd.it
+2a04:4e42:6::396 redditinc.com
+2a04:4e42:6::396 www.redditinc.com
+2a04:4e42:6::396 redditgifts.com
+2a04:4e42:6::396 www.redditgifts.com
+2a04:4e42:6::396 static.redditgifts.com
+2600:1fa0:80a0:81:34d8:c20b:: redditstatic.s3.amazonaws.com
+2600:1fa0:80a0:81:34d8:c20b:: redditgifts.s3.amazonaws.com
+2600:1fa0:80a0:81:34d8:c20b:: reddit-image.s3.amazonaws.com
+2600:9000:2012:: reddit-uploaded-media.s3-accelerate.amazonaws.com
 
 ## AT 奥地利
 ## Tor Project

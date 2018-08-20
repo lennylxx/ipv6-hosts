@@ -46,13 +46,13 @@
 #2620:101:8008:5::2:8 firefox.com
 
 ## Microsoft 微软
-2600:1417:9:193::747 www.microsoft.com #e10088.dscb.akamaiedge.net
-2600:1417:9:193::2886 i.microsoft.com
-2600:1417:9:193::2886 i2.microsoft.com #i.microsoft.com.edgekey.net
-2600:1417:9:193::2886 i3.microsoft.com #i.microsoft.com.edgekey.net
-2600:1417:9::6007:362a i4.microsoft.com #i.toggle.www.ms.akadns.net
+2600:1406:3f:299::747 www.microsoft.com #e10088.dscb.akamaiedge.net
+2600:1406:3f:299::2886 i.microsoft.com
+2600:1406:3f:299::2886 i2.microsoft.com #i.microsoft.com.edgekey.net
+2600:1406:3f:299::2886 i3.microsoft.com #i.microsoft.com.edgekey.net
+2001:e68:2005:1e::3a1b:5630 i4.microsoft.com #i.toggle.www.ms.akadns.net
 2002:836b:9820::836b:9886 www.ipv6.microsoft.com
-2600:1417:9:193::e59 download.microsoft.com
+2600:1406:3f:299::e59 download.microsoft.com
 2606:2800:11f:17a5:191a:18d5:537:22f9 software-download.microsoft.com #cs9.wpc.v0cdn.net
 2606:2800:11f:17a5:191a:18d5:537:22f9 ajax.aspnetcdn.com #cs9.wpc.v0cdn.net
 2606:2800:11f:7de:d31:7db:168f:1225 download.visualstudio.microsoft.com #cs10.wpc.v0cdn.net
@@ -63,8 +63,8 @@
 2620:1ec:c11::212 onedrive.live.com #skyweb.skyprod.akadns.net
 157.55.109.232 skyapi.onedrive.live.com #odc-common-emea-meta-geo.onedrive.akadns.net
 2620:1ec:c11::212 storage.live.com
-2600:1417:9:193::1aff s1-word-view-15.cdn.office.net #wildcard.cdn.office.net.edgekey.net
-2600:1417:9:193::1aff s1-officeapps-15.cdn.office.net #e6911.dspg.akamaiedge.net
+2600:1406:3f:299::1aff s1-word-view-15.cdn.office.net #wildcard.cdn.office.net.edgekey.net
+2600:1406:3f:299::1aff s1-officeapps-15.cdn.office.net #e6911.dspg.akamaiedge.net
 2620:1ec:c11::200 www.bing.com
 2620:1ec:c11::200 www2.bing.com
 2620:1ec:c11::200 cn.bing.com
@@ -80,7 +80,7 @@
 #2a01:111:2003::200 tse2-mm.cn.bing.net
 #2a01:111:2003::200 tse3-mm.cn.bing.net
 #2a01:111:2003::200 tse4-mm.cn.bing.net
-2600:1417:9::b833:f5b a248.e.akamai.net
+2001:e68:2005:1e::3a1b:5630 a248.e.akamai.net
 
 ## ARIN
 2001:500:4:c000::43 www.arin.net
@@ -130,22 +130,22 @@
 ## Steam
 #2600:1406:3:18b::3a7 api.steampowered.com
 #2600:1406:3:18b::3a7 support.steampowered.com
-#2600:1417:9::b833:f5b repo.steampowered.com
-#2600:1417:9::b833:f5b cdn.akamai.steamstatic.com
-#2600:1417:9::b833:f5b store.akamai.steamstatic.com
-#2600:1417:9::b833:f5b cdn.store.steampowered.com
-#2600:1417:9::b833:f5b cdn.steampowered.com
-#2600:1417:9::b833:f5b media.steampowered.com
-#2600:1417:9::b833:f5b media4.steampowered.com
-#2600:1417:9::b833:f5b content8.steampowered.com
-#2600:1417:9::b833:f5b cloud-3.steampowered.com
-#2600:1417:9::b833:f5b cloud-3.steamusercontent.com
-#2600:1417:9::b833:f5b images.akamai.steamusercontent.com
-#2600:1417:9::b833:f5b steamcdn-a.akamaihd.net
-#2600:1417:9::b833:f5b steamstore-a.akamaihd.net
-#2600:1417:9::b833:f5b steamcommunity-a.akamaihd.net
-#2600:1417:9::b833:f5b cdn.steamcommunity.com
-#2600:1417:9::b833:f5b store.valvesoftware.com
+#2001:e68:2005:1e::3a1b:5630 repo.steampowered.com
+#2001:e68:2005:1e::3a1b:5630 cdn.akamai.steamstatic.com
+#2001:e68:2005:1e::3a1b:5630 store.akamai.steamstatic.com
+#2001:e68:2005:1e::3a1b:5630 cdn.store.steampowered.com
+#2001:e68:2005:1e::3a1b:5630 cdn.steampowered.com
+#2001:e68:2005:1e::3a1b:5630 media.steampowered.com
+#2001:e68:2005:1e::3a1b:5630 media4.steampowered.com
+#2001:e68:2005:1e::3a1b:5630 content8.steampowered.com
+#2001:e68:2005:1e::3a1b:5630 cloud-3.steampowered.com
+#2001:e68:2005:1e::3a1b:5630 cloud-3.steamusercontent.com
+#2001:e68:2005:1e::3a1b:5630 images.akamai.steamusercontent.com
+#2001:e68:2005:1e::3a1b:5630 steamcdn-a.akamaihd.net
+#2001:e68:2005:1e::3a1b:5630 steamstore-a.akamaihd.net
+#2001:e68:2005:1e::3a1b:5630 steamcommunity-a.akamaihd.net
+#2001:e68:2005:1e::3a1b:5630 cdn.steamcommunity.com
+#2001:e68:2005:1e::3a1b:5630 store.valvesoftware.com
 
 ## NVIDIA
 #2600:1406:3:18b::376 www.nvidia.com
@@ -160,7 +160,7 @@
 #2600:1406:3:18b::a90 developer.nvidia.com
 #2600:1406:3:18b::778 www.nvidia.cn
 #2600:1406:3:18b::c8c blogs.nvidia.cn
-#2600:1417:9::b833:f5b cn.nvidia.com
+#2001:e68:2005:1e::3a1b:5630 cn.nvidia.com
 #2600:1406:3:18b::778 contests.nvidia.com
 #2600:1406:3:18b::778 services.gfe.nvidia.com
 2606:2800:21f:150d:87d:2526:2d1:177d download-cdn.gfe.nvidia.com
@@ -171,24 +171,24 @@
 2606:2800:21f:3aa:dcf:37b:1ed6:1fb international-gfe.download.nvidia.com
 #2600:1406:3:18b::7b4 www.geforce.com
 #2600:1406:3:18b::7b4 gfwsl.geforce.com
-#2600:1417:9::b833:f5b www.geforce.cn
+#2001:e68:2005:1e::3a1b:5630 www.geforce.cn
 #2600:1406:3:18b::c8c nfans.geforce.cn
-#2600:1417:9::b833:f5b www.tegrazone.com
+#2001:e68:2005:1e::3a1b:5630 www.tegrazone.com
 
 ## AMD
 #2600:1406:3:18b::b51 www.amd.com
 2001:428:4c02:b94::2c4b community.amd.com
-#2600:1417:9::b833:f5b ir.amd.com
-#2600:1417:9::b833:f5b shop.amd.com
+#2001:e68:2005:1e::3a1b:5630 ir.amd.com
+#2001:e68:2005:1e::3a1b:5630 shop.amd.com
 #2600:1406:3:18b::b51 support.amd.com
 #2600:1406:3:18b::1c7b www2.ati.com
 
 ## Intel
-#2600:1417:9::b833:f5b www.intel.cn
-#2600:1417:9::b833:f5b www.intel.com
-#2600:1417:9::b833:f5b ark.intel.com
-#2600:1417:9::b833:f5b corpredirect.intel.com
-#2600:1417:9::b833:f5b pcdoeswhat.intel.cn
+#2001:e68:2005:1e::3a1b:5630 www.intel.cn
+#2001:e68:2005:1e::3a1b:5630 www.intel.com
+#2001:e68:2005:1e::3a1b:5630 ark.intel.com
+#2001:e68:2005:1e::3a1b:5630 corpredirect.intel.com
+#2001:e68:2005:1e::3a1b:5630 pcdoeswhat.intel.cn
 #2600:1406:3:18b::75 newsroom.intel.cn
 #2600:1406:3:18b::b www-ssl.intel.com
 #2600:1406:3:18b::b communities.intel.com

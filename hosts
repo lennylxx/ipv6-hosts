@@ -24766,6 +24766,7 @@
 #2001:e68:2005:1e::3a1b:5630 steamcdn-a.akamaihd.net
 #2001:e68:2005:1e::3a1b:5630 steamstore-a.akamaihd.net
 #2001:e68:2005:1e::3a1b:5630 steamcommunity-a.akamaihd.net
+2600:1406:3f:18b::3a7 steamcommunity.com
 #2001:e68:2005:1e::3a1b:5630 cdn.steamcommunity.com
 #2001:e68:2005:1e::3a1b:5630 store.valvesoftware.com
 
@@ -25369,9 +25370,6 @@
 192.229.144.96 cs261.wac.edgecastcdn.net
 #68.232.44.229 cdn.www.xda-developers.com #gs1.wac.v3cdn.net
 68.232.44.229 wac.8244.edgecastcdn.net #gs1.wac.v3cdn.net
-
-## Steam
-23.50.18.229 steamcommunity.com
 ## +-------------------------------------------------------------------+
 ## |                            End of File                            |
 ## +-------------------------------------------------------------------+

@@ -398,6 +398,3 @@
 192.229.144.96 cs261.wac.edgecastcdn.net
 #68.232.44.229 cdn.www.xda-developers.com #gs1.wac.v3cdn.net
 68.232.44.229 wac.8244.edgecastcdn.net #gs1.wac.v3cdn.net
-
-## Steam
-23.50.18.229 steamcommunity.com

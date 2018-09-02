@@ -144,6 +144,7 @@
 #2001:e68:2005:1e::3a1b:5630 steamcdn-a.akamaihd.net
 #2001:e68:2005:1e::3a1b:5630 steamstore-a.akamaihd.net
 #2001:e68:2005:1e::3a1b:5630 steamcommunity-a.akamaihd.net
+2600:1406:3f:18b::3a7 steamcommunity.com
 #2001:e68:2005:1e::3a1b:5630 cdn.steamcommunity.com
 #2001:e68:2005:1e::3a1b:5630 store.valvesoftware.com
 

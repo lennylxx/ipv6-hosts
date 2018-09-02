@@ -308,6 +308,28 @@
 2001:67c:4e8:fa60:3:0:811:139 macos.telegram.org
 2001:b28:f23d:800a:3:0:830:630 aurora-1.web.telegram.org
 
+## BBC
+2a04:4e42:6::81 bbc.com
+2a04:4e42:6::81 www.bbc.com
+2a04:4e42:6::81 bbc.co.uk
+2a04:4e42:6::81 fig.bbc.co.uk
+2600:1406:3f:199::f33 emp.bbc.com
+2600:1406:3f:199::f33 www.bbc.co.uk
+2600:1406:3f:199::f33 emp.bbc.co.uk
+2600:1406:3f:199::f33 static.bbc.co.uk
+2600:1406:3f:199::f33 gel.files.bbci.co.uk
+2600:1406:3f:199::f33 ichef.bbci.co.uk
+2600:1406:3f:199::f33 mybbc-analytics.files.bbci.co.uk
+2600:1406:3f:199::f33 mybbc.files.bbci.co.uk
+2600:1406:3f:199::f33 nav.files.bbci.co.uk
+2600:1406:3f:199::f33 static.bbci.co.uk
+2600:1406:3f:199::f33 walter-producer-cdn.api.bbci.co.uk
+212.58.244.214 account.bbc.com
+77.72.118.213 sa.bbc.co.uk
+212.58.244.115 ssl.bbc.co.uk
+207.159.133.98 shop.bbc.com
+34.241.20.74 ssc.api.bbc.com
+
 ## NY Times
 2a04:4e42:6::420 nytimes.com
 2a04:4e42:6::420 www.nytimes.com

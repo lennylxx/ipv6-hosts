@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Mon, 03 Sep 2018 14:50:08 +0800                  |
+## |         Update : Mon, 03 Sep 2018 20:07:45 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -24681,7 +24681,8 @@
 2400:a980:ff:f9::2:3 download.windowsupdate.com #download.windowsupdate.com.bsgslb.cn
 2400:a980:ff:f9::2:3 dl.delivery.mp.microsoft.com #tlu.dl.delivery.mp.microsoft.com.bsgslb.cn
 2400:a980:ff:f9::2:3 tlu.dl.delivery.mp.microsoft.com #tlu.dl.delivery.mp.microsoft.com.bsgslb.cn
-2400:a980:ff:f9::2:3 8.tlu.dl.delivery.mp.microsoft.com #win10back.dlmix.ourdvs.com
+2400:a980:ff:f9::2:3 8.tlu.dl.delivery.mp.microsoft.com #tlu.dl.delivery.mp.microsoft.com.bsgslb.cn
+2400:a980:ff:f9::2:3 10.tlu.dl.delivery.mp.microsoft.com #tlu.dl.delivery.mp.microsoft.com.bsgslb.cn
 2620:1ec:c11::212 onedrive.live.com #skyweb.skyprod.akadns.net
 157.55.109.232 skyapi.onedrive.live.com #odc-common-emea-meta-geo.onedrive.akadns.net
 2620:1ec:c11::212 storage.live.com

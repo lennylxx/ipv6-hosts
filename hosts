@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Sun, 02 Sep 2018 14:55:53 +0800                  |
+## |         Update : Mon, 03 Sep 2018 14:50:08 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -24678,10 +24678,10 @@
 2606:2800:11f:17a5:191a:18d5:537:22f9 software-download.microsoft.com #cs9.wpc.v0cdn.net
 2606:2800:11f:17a5:191a:18d5:537:22f9 ajax.aspnetcdn.com #cs9.wpc.v0cdn.net
 2606:2800:11f:7de:d31:7db:168f:1225 download.visualstudio.microsoft.com #cs10.wpc.v0cdn.net
-2400:a980:fd:6:11::3 download.windowsupdate.com #download.windowsupdate.com.bsgslb.cn
-2400:a980:fd:6:11::3 dl.delivery.mp.microsoft.com #tlu.dl.delivery.mp.microsoft.com.bsgslb.cn
-2400:a980:fd:6:11::3 tlu.dl.delivery.mp.microsoft.com #tlu.dl.delivery.mp.microsoft.com.bsgslb.cn
-2001:250:208:4000:2000:2::213 8.tlu.dl.delivery.mp.microsoft.com #win10back.dlmix.ourdvs.com
+2400:a980:ff:f9::2:3 download.windowsupdate.com #download.windowsupdate.com.bsgslb.cn
+2400:a980:ff:f9::2:3 dl.delivery.mp.microsoft.com #tlu.dl.delivery.mp.microsoft.com.bsgslb.cn
+2400:a980:ff:f9::2:3 tlu.dl.delivery.mp.microsoft.com #tlu.dl.delivery.mp.microsoft.com.bsgslb.cn
+2400:a980:ff:f9::2:3 8.tlu.dl.delivery.mp.microsoft.com #win10back.dlmix.ourdvs.com
 2620:1ec:c11::212 onedrive.live.com #skyweb.skyprod.akadns.net
 157.55.109.232 skyapi.onedrive.live.com #odc-common-emea-meta-geo.onedrive.akadns.net
 2620:1ec:c11::212 storage.live.com

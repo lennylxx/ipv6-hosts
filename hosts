@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Fri, 07 Sep 2018 02:36:11 +0800                  |
+## |         Update : Fri, 07 Sep 2018 02:52:23 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -25759,6 +25759,23 @@
 212.58.244.115 ssl.bbc.co.uk
 207.159.133.98 shop.bbc.com
 34.241.20.74 ssc.api.bbc.com
+
+## Quora
+2a04:4e42:6::258 www.quora.com
+2a04:4e42:6::258 de.quora.com
+2a04:4e42:6::258 debunkingdoomsday.quora.com
+2a04:4e42:6::258 drchoresny.quora.com
+2a04:4e42:6::258 engineering.quora.com
+2a04:4e42:6::258 es.quora.com
+2a04:4e42:6::258 fr.quora.com
+2a04:4e42:6::258 hi.quora.com
+2a04:4e42:6::258 id.quora.com
+2a04:4e42:6::258 it.quora.com
+2a04:4e42:6::258 jp.quora.com
+2a04:4e42:6::258 pt.quora.com
+2a04:4e42:6::258 qph.fs.quoracdn.net
+2a04:4e42:6::258 qsbr.fs.quoracdn.net
+2a04:4e42:6::258 qsf.fs.quoracdn.net
 
 ## ABC.net.au
 2600:1406:3f:200::c59 www.abc.net.au

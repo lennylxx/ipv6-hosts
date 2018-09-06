@@ -483,3 +483,8 @@
 2600:9000:2012:4400:8:1cb7:c900:93a1 d3q1qj9jzsu8nw.cloudfront.net
 2600:9000:2012:4400:8:1cb7:c900:93a1 dc8xl0ndzn2cb.cloudfront.net
 
+## EA Games
+2600:1406:3f::17d7:6464 akamai.cdn.ea.com
+2001:1900:2380:d00::1fe lvlt.cdn.ea.com
+2600:1406:3f::17d7:6464 origin-a.akamaihd.net
+

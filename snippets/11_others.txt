@@ -331,6 +331,20 @@
 207.159.133.98 shop.bbc.com
 34.241.20.74 ssc.api.bbc.com
 
+## Discord.gg
+2400:cb00:2048:1::6810:3a05 discordapp.com
+2400:cb00:2048:1::6810:3a05 www.discordapp.com
+2400:cb00:2048:1::6810:9e7 canary.discordapp.com
+2400:cb00:2048:1::6810:9e7 feedback.discordapp.com
+2400:cb00:2048:1::6810:9e7 i18n.discordapp.com
+2400:cb00:2048:1::6810:9e7 merch.discordapp.com
+2400:cb00:2048:1::6810:9e7 printer.discordapp.com
+2400:cb00:2048:1::6810:9e7 status.discordapp.com
+2400:cb00:2048:1::6810:9e7 support.discordapp.com
+2400:cb00:2048:1::6810:3b25 discord.gg
+2400:cb00:2048:1::6810:fa90 dl.discordapp.net
+2600:9000:2012:: dka575ofm4ao0.cloudfront.net
+
 ## Quora
 2a04:4e42:6::258 www.quora.com
 2a04:4e42:6::258 de.quora.com

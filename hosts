@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Fri, 07 Sep 2018 03:10:50 +0800                  |
+## |         Update : Fri, 07 Sep 2018 03:17:40 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -25745,6 +25745,55 @@
 2400:cb00:2048:1::6810:7891 cdn-static-1.medium.com
 2400:cb00:2048:1::6810:7891 cdn-images-1.medium.com
 2400:cb00:2048:1::6810:7891 cdn-images-2.medium.com
+
+## Pinterest Start
+2a04:4e42:6::84 pinterest.com
+2a04:4e42:6::84 www.pinterest.com
+2a04:4e42:6::84 about.pinterest.com
+2a04:4e42:6::84 blog.pinterest.com
+2a04:4e42:6::84 ads.pinterest.com
+2a04:4e42:6::84 analytics.pinterest.com
+2a04:4e42:6::84 br.pinterest.com
+2a04:4e42:6::84 business.pinterest.com
+2a04:4e42:6::84 businessblog.pinterest.com
+2a04:4e42:6::84 canary.pinterest.com
+2a04:4e42:6::84 cz.pinterest.com
+2a04:4e42:6::84 de.pinterest.com
+2a04:4e42:6::84 dk.pinterest.com
+2a04:4e42:6::84 es.pinterest.com
+2a04:4e42:6::84 fi.pinterest.com
+2a04:4e42:6::84 fr.pinterest.com
+2a04:4e42:6::84 gb.pinterest.com
+2a04:4e42:6::84 gr.pinterest.com
+2a04:4e42:6::84 help.pinterest.com
+2a04:4e42:6::84 hu.pinterest.com
+2a04:4e42:6::84 id.pinterest.com
+2a04:4e42:6::84 in.pinterest.com
+2a04:4e42:6::84 it.pinterest.com
+2a04:4e42:6::84 jp.pinterest.com
+2a04:4e42:6::84 kr.pinterest.com
+2a04:4e42:6::84 m.pinterest.com
+2a04:4e42:6::84 media-cache-ec0.pinterest.com
+2a04:4e42:6::84 pl.pinterest.com
+2a04:4e42:6::84 pt.pinterest.com
+2a04:4e42:6::84 ro.pinterest.com
+2a04:4e42:6::84 ru.pinterest.com
+2a04:4e42:6::84 se.pinterest.com
+2a04:4e42:6::84 sk.pinterest.com
+2a04:4e42:6::84 tr.pinterest.com
+2a04:4e42:6::84 uk.about.pinterest.com
+2a04:4e42:6::84 uk.pinterest.com
+2a04:4e42:6::84 no.pinterest.com
+2a04:4e42:6::84 engineering.pinterest.com
+2a04:4e42:6::84 ak.pinterest.com
+2a04:4e42:6::84 api.pinterest.com
+2a04:4e42:6::84 nl.pinterest.com
+2a04:4e42:6::84 passets-cdn.pinterest.com
+2a04:4e42:6::84 www.pinterest.jp
+2a04:4e42:6::84 s.pinimg.com
+2a04:4e42:6::84 i.pinimg.com
+2a04:4e42:6::84 v.pinimg.com
+2600:1406:3f:200::1931 s-media-cache-ak0.pinimg.com
 
 ## BBC
 2a04:4e42:6::81 bbc.com

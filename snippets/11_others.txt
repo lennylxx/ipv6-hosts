@@ -309,6 +309,14 @@
 2001:67c:4e8:fa60:3:0:811:139 macos.telegram.org
 2001:b28:f23d:800a:3:0:830:630 aurora-1.web.telegram.org
 
+## Medium
+2400:cb00:2048:1::6810:787f medium.com
+2400:cb00:2048:1::6810:787f www.medium.com
+2400:cb00:2048:1::6810:7891 api.medium.com
+2400:cb00:2048:1::6810:7891 cdn-static-1.medium.com
+2400:cb00:2048:1::6810:7891 cdn-images-1.medium.com
+2400:cb00:2048:1::6810:7891 cdn-images-2.medium.com
+
 ## BBC
 2a04:4e42:6::81 bbc.com
 2a04:4e42:6::81 www.bbc.com

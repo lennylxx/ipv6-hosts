@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Wed, 05 Sep 2018 17:06:33 +0800                  |
+## |         Update : Fri, 07 Sep 2018 02:36:11 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -25759,6 +25759,30 @@
 212.58.244.115 ssl.bbc.co.uk
 207.159.133.98 shop.bbc.com
 34.241.20.74 ssc.api.bbc.com
+
+## ABC.net.au
+2600:1406:3f:200::c59 www.abc.net.au
+2600:1406:3f:200::c59 about.abc.net.au
+2600:1406:3f:200::c59 api.abc.net.au
+2600:1406:3f:200::c59 api.iview.abc.net.au
+2600:1406:3f:200::c59 cdn.iview.abc.net.au
+2600:1406:3f:200::c59 education.abc.net.au
+2600:1406:3f:200::c59 iview.abc.net.au
+2600:1406:3f:200::c59 mobile.abc.net.au
+2600:1406:3f:200::c59 mylogin.abc.net.au
+2600:1406:3f:200::c59 open.abc.net.au
+2600:1406:3f:200::c59 radio.abc.net.au
+2600:1406:3f:200::c59 recommendations.abc.net.au
+2600:1406:3f:200::c59 res.abc.net.au
+2600:1406:3f:200::c59 search.abc.net.au
+2600:1406:3f:200::c59 content-gateway.abc-prod.net.au
+2600:1406:3f:200::c59 content-gateway.abc-prod.net.au
+2600:1406:3f:200::c59 program.abcradio.net.au
+2400:cb00:2048:1::6811:64d3 shop.abc.net.au
+2600:9000:2012:: login.abc.net.au
+2600:9000:2012:: resize.abcradio.net.au
+2600:1406:3f:298::208d cdns.au1.gigya.com
+2406:daa0:c044:8:36e7:f90a:: abc-wcms-media-prod.s3-ap-southeast-2.amazonaws.com
 
 ## NY Times
 2a04:4e42:6::420 nytimes.com

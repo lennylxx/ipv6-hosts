@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Fri, 07 Sep 2018 03:41:34 +0800                  |
+## |         Update : Wed, 12 Sep 2018 18:15:22 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -26305,18 +26305,6 @@
 192.0.77.48 s.w.org #cs287.wac.edgecastcdn.net
 192.0.77.48 ts.w.org #cs287.wac.edgecastcdn.net
 
-## XDA developers
-209.58.128.90 www.xda-developers.com
-209.58.128.90 xda-developers.com
-174.129.2.23 cdn.xda-developers.com
-43.249.37.246 cdn1.xda-developers.com #cs261.wac.edgecastcdn.net
-43.249.37.245 cdn2.xda-developers.com #cs261.wac.edgecastcdn.net
-43.249.37.245 cdn3.xda-developers.com #cs261.wac.edgecastcdn.net
-43.249.37.246 cdn4.xda-developers.com #cs261.wac.edgecastcdn.net
-174.129.2.23 cdn-www.xda-developers.com #cs261.wac.edgecastcdn.net
-192.229.144.96 cs261.wac.edgecastcdn.net
-#68.232.44.229 cdn.www.xda-developers.com #gs1.wac.v3cdn.net
-68.232.44.229 wac.8244.edgecastcdn.net #gs1.wac.v3cdn.net
 ## +-------------------------------------------------------------------+
 ## |                            End of File                            |
 ## +-------------------------------------------------------------------+

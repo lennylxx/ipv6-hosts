@@ -256,6 +256,7 @@
 2001:6b0:5a:5000::5 torproject.org
 2001:41b8:202:deb:213:21ff:fe20:1426 www.torproject.org
 2a01:4f8:172:1b46:0:abba:5:1 deb.torproject.org #www.torproject.org
+2a01:4f8:10b:239f:0:ab4:204:1 dist.torproject.org
 2a01:4f8:172:39ca:0:dad3:3:1 trac.torproject.org #troodi.torproject.org
 2001:6b0:5a:5000::5 cloud.torproject.org #www.torproject.org
 2620:0:6b0:b:1a1a:0:26e5:4810 atlas.torproject.org #www.torproject.org

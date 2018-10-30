@@ -787,6 +787,9 @@
 #2404:6800:4008:c00::62 users.talk.google.com
 2404:6800:4008:c05::bc mtalk.google.com #mobile-gtalk.l.google.com
 
+## Tensorflow 主页
+2404:6800:4005:80d::200e www.tensorflow.org #www3-china.l.google.com
+
 ## Tools 工具
 2404:6800:4008:c07::66 tools.google.com #tools.l.google.com
 2404:6800:4008:c02::8a toolbar.google.com #tools.l.google.com

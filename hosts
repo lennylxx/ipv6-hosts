@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Sat, 29 Sep 2018 22:38:16 +0800                  |
+## |         Update : Tue, 30 Oct 2018 14:30:00 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -448,10 +448,14 @@
 2404:6800:4008:c07::8b storage.cloud.google.com #www3.l.google.com
 2404:6800:4012:1::200e ssh.cloud.google.com
 2404:6800:4008:c07::66 developers.google.com #www3.l.google.com
+2607:f8b0:4000:80d::200a clouderrorreporting.clients6.google.com
+2607:f8b0:4007:804::200a cloudnotifications.clients6.google.com
 2404:6800:4008:c00::8b cloudssh.developers.google.com #www3.l.google.com
 2001:4860:4802:32::1b console.developers.google.com
 2404:6800:4008:c05::52 source.developers.google.com
 2404:6800:4012:1::200a cloudusersettings-pa.clients6.google.com
+2404:6800:4012:1::200a cloudconsole-pa.clients6.google.com
+2404:6800:4008:800::200a monitoring.clients6.google.com
 
 ## Directory 网页目录
 2404:6800:4008:c05::8a directory.google.com #www3.l.google.com
@@ -800,6 +804,9 @@
 #2404:6800:4008:c00::62 rtmp0.google.com
 #2404:6800:4008:c00::62 users.talk.google.com
 2404:6800:4008:c05::bc mtalk.google.com #mobile-gtalk.l.google.com
+
+## Tensorflow 主页
+2404:6800:4005:80d::200e www.tensorflow.org #www3-china.l.google.com
 
 ## Tools 工具
 2404:6800:4008:c07::66 tools.google.com #tools.l.google.com

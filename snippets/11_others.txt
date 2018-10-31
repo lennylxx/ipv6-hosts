@@ -46,25 +46,25 @@
 #2620:101:8008:5::2:8 firefox.com
 
 ## Microsoft 微软
-2600:1417:9:193::747 www.microsoft.com #e10088.dscb.akamaiedge.net
-2600:1417:9:193::2886 i.microsoft.com
-2600:1417:9:193::2886 i2.microsoft.com #i.microsoft.com.edgekey.net
-2600:1417:9:193::2886 i3.microsoft.com #i.microsoft.com.edgekey.net
-2600:1417:9::6007:362a i4.microsoft.com #i.toggle.www.ms.akadns.net
+2600:1406:3f:299::747 www.microsoft.com #e10088.dscb.akamaiedge.net
+2600:1406:3f:299::2886 i.microsoft.com
+2600:1406:3f:299::2886 i2.microsoft.com #i.microsoft.com.edgekey.net
+2600:1406:3f:299::2886 i3.microsoft.com #i.microsoft.com.edgekey.net
 2002:836b:9820::836b:9886 www.ipv6.microsoft.com
-2600:1417:9:193::e59 download.microsoft.com
+2600:1406:3f:299::e59 download.microsoft.com
 2606:2800:11f:17a5:191a:18d5:537:22f9 software-download.microsoft.com #cs9.wpc.v0cdn.net
 2606:2800:11f:17a5:191a:18d5:537:22f9 ajax.aspnetcdn.com #cs9.wpc.v0cdn.net
 2606:2800:11f:7de:d31:7db:168f:1225 download.visualstudio.microsoft.com #cs10.wpc.v0cdn.net
-2400:a980:fd:6:11::3 download.windowsupdate.com #download.windowsupdate.com.bsgslb.cn
-2400:a980:fd:6:11::3 dl.delivery.mp.microsoft.com #tlu.dl.delivery.mp.microsoft.com.bsgslb.cn
-2400:a980:fd:6:11::3 tlu.dl.delivery.mp.microsoft.com #tlu.dl.delivery.mp.microsoft.com.bsgslb.cn
-2001:250:208:4000:2000:2::213 8.tlu.dl.delivery.mp.microsoft.com #win10back.dlmix.ourdvs.com
+2400:a980:ff:f9::2:3 download.windowsupdate.com #download.windowsupdate.com.bsgslb.cn
+2400:a980:ff:f9::2:3 dl.delivery.mp.microsoft.com #tlu.dl.delivery.mp.microsoft.com.bsgslb.cn
+2400:a980:ff:f9::2:3 tlu.dl.delivery.mp.microsoft.com #tlu.dl.delivery.mp.microsoft.com.bsgslb.cn
+2400:a980:ff:f9::2:3 8.tlu.dl.delivery.mp.microsoft.com #tlu.dl.delivery.mp.microsoft.com.bsgslb.cn
+2400:a980:ff:f9::2:3 10.tlu.dl.delivery.mp.microsoft.com #tlu.dl.delivery.mp.microsoft.com.bsgslb.cn
 2620:1ec:c11::212 onedrive.live.com #skyweb.skyprod.akadns.net
 157.55.109.232 skyapi.onedrive.live.com #odc-common-emea-meta-geo.onedrive.akadns.net
 2620:1ec:c11::212 storage.live.com
-2600:1417:9:193::1aff s1-word-view-15.cdn.office.net #wildcard.cdn.office.net.edgekey.net
-2600:1417:9:193::1aff s1-officeapps-15.cdn.office.net #e6911.dspg.akamaiedge.net
+2600:1406:3f:299::1aff s1-word-view-15.cdn.office.net #wildcard.cdn.office.net.edgekey.net
+2600:1406:3f:299::1aff s1-officeapps-15.cdn.office.net #e6911.dspg.akamaiedge.net
 2620:1ec:c11::200 www.bing.com
 2620:1ec:c11::200 www2.bing.com
 2620:1ec:c11::200 cn.bing.com
@@ -80,7 +80,7 @@
 #2a01:111:2003::200 tse2-mm.cn.bing.net
 #2a01:111:2003::200 tse3-mm.cn.bing.net
 #2a01:111:2003::200 tse4-mm.cn.bing.net
-2600:1417:9::b833:f5b a248.e.akamai.net
+2600:1406:3f::17d7:6464 a248.e.akamai.net
 
 ## ARIN
 2001:500:4:c000::43 www.arin.net
@@ -119,95 +119,144 @@
 #2606:1f80:a000:100::5 mtc.cdn.vine.co
 
 ## Imgur
-#2a04:4e42:6::193 imgur.com
-2a04:4e42:6::193 www.imgur.com
-2a04:4e42:6::193 s.imgur.com
-2a04:4e42:6::193 i.imgur.com
-2a04:4e42:6::193 m.imgur.com
-2a04:4e42:6::193 p.imgur.com
-#2a04:4e42:6::193 api.imgur.com
+#2a04:4e42:2e::193 imgur.com
+2a04:4e42:2e::193 www.imgur.com
+2a04:4e42:2e::193 s.imgur.com
+2a04:4e42:2e::193 i.imgur.com
+2a04:4e42:2e::193 m.imgur.com
+2a04:4e42:2e::193 p.imgur.com
+#2a04:4e42:2e::193 api.imgur.com
 
 ## Steam
-#2600:1406:3:18b::3a7 api.steampowered.com
-#2600:1406:3:18b::3a7 support.steampowered.com
-#2600:1417:9::b833:f5b repo.steampowered.com
-#2600:1417:9::b833:f5b cdn.akamai.steamstatic.com
-#2600:1417:9::b833:f5b store.akamai.steamstatic.com
-#2600:1417:9::b833:f5b cdn.store.steampowered.com
-#2600:1417:9::b833:f5b cdn.steampowered.com
-#2600:1417:9::b833:f5b media.steampowered.com
-#2600:1417:9::b833:f5b media4.steampowered.com
-#2600:1417:9::b833:f5b content8.steampowered.com
-#2600:1417:9::b833:f5b cloud-3.steampowered.com
-#2600:1417:9::b833:f5b cloud-3.steamusercontent.com
-#2600:1417:9::b833:f5b images.akamai.steamusercontent.com
-#2600:1417:9::b833:f5b steamcdn-a.akamaihd.net
-#2600:1417:9::b833:f5b steamstore-a.akamaihd.net
-#2600:1417:9::b833:f5b steamcommunity-a.akamaihd.net
-#2600:1417:9::b833:f5b cdn.steamcommunity.com
-#2600:1417:9::b833:f5b store.valvesoftware.com
+#2600:1406:3f:299::3a7 api.steampowered.com
+#2600:1406:3f:299::3a7 support.steampowered.com
+#2600:1406:3f::17d7:6464 repo.steampowered.com
+2600:1406:3f::17d7:6464 cdn.akamai.steamstatic.com
+#2600:1406:3f::17d7:6464 store.akamai.steamstatic.com
+#2600:1406:3f::17d7:6464 cdn.store.steampowered.com
+#2600:1406:3f::17d7:6464 cdn.steampowered.com
+#2600:1406:3f::17d7:6464 media.steampowered.com
+#2600:1406:3f::17d7:6464 media4.steampowered.com
+#2600:1406:3f::17d7:6464 content8.steampowered.com
+#2600:1406:3f::17d7:6464 cloud-3.steampowered.com
+#2600:1406:3f::17d7:6464 cloud-3.steamusercontent.com
+#2600:1406:3f::17d7:6464 images.akamai.steamusercontent.com
+2600:1406:3f::17d7:6464 steamcdn-a.akamaihd.net
+2600:1406:3f::17d7:6464 steamstore-a.akamaihd.net
+2600:1406:3f::17d7:6464 steamcommunity-a.akamaihd.net
+#2600:1406:3f:299::3a7 steamcommunity.com
+#2600:1406:3f::17d7:6464 cdn.steamcommunity.com
+#2600:1406:3f::17d7:6464 store.valvesoftware.com
 
 ## NVIDIA
-#2600:1406:3:18b::376 www.nvidia.com
-#2600:1406:3:18b::376 arg.nvidia.com
-#2600:1406:3:18b::376 blogs.nvidia.com
-#2600:1406:3:18b::376 br.nvidia.com
-#2600:1406:3:18b::376 chl.nvidia.com
-#2600:1406:3:18b::376 clm.nvidia.com
-#2600:1406:3:18b::376 research.nvidia.com
-#2600:1406:3:18b::376 ven.nvidia.com
+#2600:1406:3f:299::376 www.nvidia.com
+#2600:1406:3f:299::376 arg.nvidia.com
+#2600:1406:3f:299::376 blogs.nvidia.com
+#2600:1406:3f:299::376 br.nvidia.com
+#2600:1406:3f:299::376 chl.nvidia.com
+#2600:1406:3f:299::376 clm.nvidia.com
+#2600:1406:3f:299::376 research.nvidia.com
+#2600:1406:3f:299::376 ven.nvidia.com
 2606:2800:21f:3aa:dcf:37b:1ed6:1fb images.nvidia.com
-#2600:1406:3:18b::a90 developer.nvidia.com
-#2600:1406:3:18b::778 www.nvidia.cn
-#2600:1406:3:18b::c8c blogs.nvidia.cn
-#2600:1417:9::b833:f5b cn.nvidia.com
-#2600:1406:3:18b::778 contests.nvidia.com
-#2600:1406:3:18b::778 services.gfe.nvidia.com
+#2600:1406:3f:299::a90 developer.nvidia.com
+#2600:1406:3f:299::778 www.nvidia.cn
+#2600:1406:3f:299::c8c blogs.nvidia.cn
+#2600:1406:3f::17d7:6464 cn.nvidia.com
+#2600:1406:3f:299::778 contests.nvidia.com
+#2600:1406:3f:299::778 services.gfe.nvidia.com
 2606:2800:21f:150d:87d:2526:2d1:177d download-cdn.gfe.nvidia.com
-#2600:1406:3:18b::778 shield.nvidia.com
+#2600:1406:3f:299::778 shield.nvidia.com
 2606:2800:21f:3aa:dcf:37b:1ed6:1fb cn.download.nvidia.com
 2606:2800:21f:3aa:dcf:37b:1ed6:1fb us.download.nvidia.com
 2606:2800:21f:3aa:dcf:37b:1ed6:1fb international.download.nvidia.com
 2606:2800:21f:3aa:dcf:37b:1ed6:1fb international-gfe.download.nvidia.com
-#2600:1406:3:18b::7b4 www.geforce.com
-#2600:1406:3:18b::7b4 gfwsl.geforce.com
-#2600:1417:9::b833:f5b www.geforce.cn
-#2600:1406:3:18b::c8c nfans.geforce.cn
-#2600:1417:9::b833:f5b www.tegrazone.com
+#2600:1406:3f:299::7b4 www.geforce.com
+#2600:1406:3f:299::7b4 gfwsl.geforce.com
+#2600:1406:3f::17d7:6464 www.geforce.cn
+#2600:1406:3f:299::c8c nfans.geforce.cn
+#2600:1406:3f::17d7:6464 www.tegrazone.com
 
 ## AMD
-#2600:1406:3:18b::b51 www.amd.com
-2001:428:4c02:b94::2c4b community.amd.com
-#2600:1417:9::b833:f5b ir.amd.com
-#2600:1417:9::b833:f5b shop.amd.com
-#2600:1406:3:18b::b51 support.amd.com
-#2600:1406:3:18b::1c7b www2.ati.com
+2600:1406:3f:299::b51 www.amd.com
+2600:1406:3f:299::554 community.amd.com
+2600:1406:3f:299::2b39 ir.amd.com
+2600:1406:3f:299::b51 shop.amd.com
+2600:1406:3f:299::b51 support.amd.com
+2600:1406:3f:299::1c7b download.amd.com
+2600:1406:3f:299::1c7b www2.ati.com
 
 ## Intel
-#2600:1417:9::b833:f5b www.intel.cn
-#2600:1417:9::b833:f5b www.intel.com
-#2600:1417:9::b833:f5b ark.intel.com
-#2600:1417:9::b833:f5b corpredirect.intel.com
-#2600:1417:9::b833:f5b pcdoeswhat.intel.cn
-#2600:1406:3:18b::75 newsroom.intel.cn
-#2600:1406:3:18b::b www-ssl.intel.com
-#2600:1406:3:18b::b communities.intel.com
-#2600:1406:3:18b::b downloadcenter.intel.com
-#2600:1406:3:18b::b downloadmirror.intel.com
-#2600:1406:3:18b::b engage.intel.com
-#2600:1406:3:18b::b iq.intel.com
-#2600:1406:3:18b::b newsroom.intel.com
-#2600:1406:3:18b::b software.intel.com
-#2600:1406:3:18b::ae6 embedded.communities.intel.com
+2600:1406:3f:299::75 www.intel.cn
+2600:1406:3f:299::b www.intel.com
+2600:1406:3f:299::b ark.intel.com
+2600:1406:3f:299::b corpredirect.intel.com
+2600:1406:3f:299::75 newsroom.intel.cn
+2600:1406:3f:299::b www-ssl.intel.com
+2600:1406:3f:299::b communities.intel.com
+2600:1406:3f:299::b downloadcenter.intel.com
+2600:1406:3f:299::b downloadmirror.intel.com
+2600:1406:3f:299::b engage.intel.com
+2600:1406:3f:299::b iq.intel.com
+2600:1406:3f:299::b newsroom.intel.com
+2600:1406:3f:299::b software.intel.com
+2600:1406:3f:299::ae6 embedded.communities.intel.com
+2600:1406:3f:299::358a videocdn.intel.cn
 
 ## Coursera
 2600:9000:2012:: d3c33hcgiwev3.cloudfront.net
+2600:9000:2012:: d3njjcbhbojbot.cloudfront.net
+
+## Reddit
+2a04:4e42:2e::396 reddit.com
+2a04:4e42:2e::396 www.reddit.com
+2a04:4e42:2e::396 np.reddit.com
+2a04:4e42:2e::396 old.reddit.com
+2a04:4e42:2e::396 new.reddit.com
+2a04:4e42:2e::396 pay.reddit.com
+2a04:4e42:2e::396 ssl.reddit.com
+2a04:4e42:2e::396 about.reddit.com
+2a04:4e42:2e::396 m.reddit.com
+2a04:4e42:2e::396 mod.reddit.com
+2a04:4e42:2e::396 d.reddit.com
+2a04:4e42:2e::396 e.reddit.com
+2a04:4e42:2e::396 events.reddit.com
+2a04:4e42:2e::396 buttons.reddit.com
+2a04:4e42:2e::396 oauth.reddit.com
+2a04:4e42:2e::396 gateway.reddit.com
+2a04:4e42:2e::396 sendbird.reddit.com
+2a04:4e42:2e::396 www.redditstatic.com
+2a04:4e42:2e::396 www.redditmedia.com
+2a04:4e42:2e::396 embed.redditmedia.com
+2a04:4e42:2e::396 emoji.redditmedia.com
+2a04:4e42:2e::396 styles.redditmedia.com
+2a04:4e42:2e::396 g.redditmedia.com
+2a04:4e42:2e::396 i.redditmedia.com
+2a04:4e42:2e::396 s.redditmedia.com
+2a04:4e42:2e::396 a.thumbs.redditmedia.com
+2a04:4e42:2e::396 b.thumbs.redditmedia.com
+2a04:4e42:2e::396 c.thumbs.redditmedia.com
+2a04:4e42:2e::396 d.thumbs.redditmedia.com
+2a04:4e42:2e::396 e.thumbs.redditmedia.com
+2a04:4e42:2e::396 f.thumbs.redditmedia.com
+2a04:4e42:2e::396 redd.it
+2a04:4e42:2e::396 i.redd.it
+2a04:4e42:2e::396 v.redd.it
+2a04:4e42:2e::396 redditinc.com
+2a04:4e42:2e::396 www.redditinc.com
+2a04:4e42:2e::396 redditgifts.com
+2a04:4e42:2e::396 www.redditgifts.com
+2a04:4e42:2e::396 static.redditgifts.com
+2600:1fa0:80a0:81:34d8:c20b:: redditstatic.s3.amazonaws.com
+2600:1fa0:80a0:81:34d8:c20b:: redditgifts.s3.amazonaws.com
+2600:1fa0:80a0:81:34d8:c20b:: reddit-image.s3.amazonaws.com
+2600:9000:2012:: reddit-uploaded-media.s3-accelerate.amazonaws.com
 
 ## AT 奥地利
 ## Tor Project
 2001:6b0:5a:5000::5 torproject.org
 2001:41b8:202:deb:213:21ff:fe20:1426 www.torproject.org
 2a01:4f8:172:1b46:0:abba:5:1 deb.torproject.org #www.torproject.org
+2a01:4f8:10b:239f:0:ab4:204:1 dist.torproject.org
 2a01:4f8:172:39ca:0:dad3:3:1 trac.torproject.org #troodi.torproject.org
 2001:6b0:5a:5000::5 cloud.torproject.org #www.torproject.org
 2620:0:6b0:b:1a1a:0:26e5:4810 atlas.torproject.org #www.torproject.org
@@ -261,14 +310,148 @@
 2001:67c:4e8:fa60:3:0:811:139 macos.telegram.org
 2001:b28:f23d:800a:3:0:830:630 aurora-1.web.telegram.org
 
+## Medium
+2400:cb00:2048:1::6810:787f medium.com
+2400:cb00:2048:1::6810:787f www.medium.com
+2400:cb00:2048:1::6810:7891 api.medium.com
+2400:cb00:2048:1::6810:7891 cdn-static-1.medium.com
+2400:cb00:2048:1::6810:7891 cdn-images-1.medium.com
+2400:cb00:2048:1::6810:7891 cdn-images-2.medium.com
+
+## Pinterest
+2a04:4e42:2e::84 pinterest.com
+2a04:4e42:2e::84 www.pinterest.com
+2a04:4e42:2e::84 about.pinterest.com
+2a04:4e42:2e::84 blog.pinterest.com
+2a04:4e42:2e::84 ads.pinterest.com
+2a04:4e42:2e::84 analytics.pinterest.com
+2a04:4e42:2e::84 br.pinterest.com
+2a04:4e42:2e::84 business.pinterest.com
+2a04:4e42:2e::84 businessblog.pinterest.com
+2a04:4e42:2e::84 canary.pinterest.com
+2a04:4e42:2e::84 cz.pinterest.com
+2a04:4e42:2e::84 de.pinterest.com
+2a04:4e42:2e::84 dk.pinterest.com
+2a04:4e42:2e::84 es.pinterest.com
+2a04:4e42:2e::84 fi.pinterest.com
+2a04:4e42:2e::84 fr.pinterest.com
+2a04:4e42:2e::84 gb.pinterest.com
+2a04:4e42:2e::84 gr.pinterest.com
+2a04:4e42:2e::84 help.pinterest.com
+2a04:4e42:2e::84 hu.pinterest.com
+2a04:4e42:2e::84 id.pinterest.com
+2a04:4e42:2e::84 in.pinterest.com
+2a04:4e42:2e::84 it.pinterest.com
+2a04:4e42:2e::84 jp.pinterest.com
+2a04:4e42:2e::84 kr.pinterest.com
+2a04:4e42:2e::84 m.pinterest.com
+2a04:4e42:2e::84 media-cache-ec0.pinterest.com
+2a04:4e42:2e::84 pl.pinterest.com
+2a04:4e42:2e::84 pt.pinterest.com
+2a04:4e42:2e::84 ro.pinterest.com
+2a04:4e42:2e::84 ru.pinterest.com
+2a04:4e42:2e::84 se.pinterest.com
+2a04:4e42:2e::84 sk.pinterest.com
+2a04:4e42:2e::84 tr.pinterest.com
+2a04:4e42:2e::84 uk.about.pinterest.com
+2a04:4e42:2e::84 uk.pinterest.com
+2a04:4e42:2e::84 no.pinterest.com
+2a04:4e42:2e::84 engineering.pinterest.com
+2a04:4e42:2e::84 ak.pinterest.com
+2a04:4e42:2e::84 api.pinterest.com
+2a04:4e42:2e::84 nl.pinterest.com
+2a04:4e42:2e::84 passets-cdn.pinterest.com
+2a04:4e42:2e::84 www.pinterest.jp
+2a04:4e42:2e::84 s.pinimg.com
+2a04:4e42:2e::84 i.pinimg.com
+2a04:4e42:2e::84 v.pinimg.com
+2600:1406:3f:299::1931 s-media-cache-ak0.pinimg.com
+
+## BBC
+2a04:4e42:2e::81 bbc.com
+2a04:4e42:2e::81 www.bbc.com
+2a04:4e42:2e::81 bbc.co.uk
+2a04:4e42:2e::81 fig.bbc.co.uk
+2600:1406:3f:299::f33 emp.bbc.com
+2600:1406:3f:299::f33 www.bbc.co.uk
+2600:1406:3f:299::f33 emp.bbc.co.uk
+2600:1406:3f:299::f33 static.bbc.co.uk
+2600:1406:3f:299::f33 gel.files.bbci.co.uk
+2600:1406:3f:299::f33 ichef.bbci.co.uk
+2600:1406:3f:299::f33 mybbc-analytics.files.bbci.co.uk
+2600:1406:3f:299::f33 mybbc.files.bbci.co.uk
+2600:1406:3f:299::f33 nav.files.bbci.co.uk
+2600:1406:3f:299::f33 static.bbci.co.uk
+2600:1406:3f:299::f33 walter-producer-cdn.api.bbci.co.uk
+212.58.244.214 account.bbc.com
+77.72.118.213 sa.bbc.co.uk
+212.58.244.115 ssl.bbc.co.uk
+207.159.133.98 shop.bbc.com
+34.241.20.74 ssc.api.bbc.com
+
+## Discord.gg
+2400:cb00:2048:1::6810:3a05 discordapp.com
+2400:cb00:2048:1::6810:3a05 www.discordapp.com
+2400:cb00:2048:1::6810:9e7 canary.discordapp.com
+2400:cb00:2048:1::6810:9e7 feedback.discordapp.com
+2400:cb00:2048:1::6810:9e7 i18n.discordapp.com
+2400:cb00:2048:1::6810:9e7 merch.discordapp.com
+2400:cb00:2048:1::6810:9e7 printer.discordapp.com
+2400:cb00:2048:1::6810:9e7 status.discordapp.com
+2400:cb00:2048:1::6810:9e7 support.discordapp.com
+2400:cb00:2048:1::6810:3b25 discord.gg
+2400:cb00:2048:1::6810:fa90 dl.discordapp.net
+2600:9000:2012:: dka575ofm4ao0.cloudfront.net
+
+## Quora
+2a04:4e42:2e::258 www.quora.com
+2a04:4e42:2e::258 de.quora.com
+2a04:4e42:2e::258 debunkingdoomsday.quora.com
+2a04:4e42:2e::258 drchoresny.quora.com
+2a04:4e42:2e::258 engineering.quora.com
+2a04:4e42:2e::258 es.quora.com
+2a04:4e42:2e::258 fr.quora.com
+2a04:4e42:2e::258 hi.quora.com
+2a04:4e42:2e::258 id.quora.com
+2a04:4e42:2e::258 it.quora.com
+2a04:4e42:2e::258 jp.quora.com
+2a04:4e42:2e::258 pt.quora.com
+2a04:4e42:2e::258 qph.fs.quoracdn.net
+2a04:4e42:2e::258 qsbr.fs.quoracdn.net
+2a04:4e42:2e::258 qsf.fs.quoracdn.net
+
+## ABC.net.au
+2600:1406:3f:299::c59 www.abc.net.au
+2600:1406:3f:299::c59 about.abc.net.au
+2600:1406:3f:299::c59 api.abc.net.au
+2600:1406:3f:299::c59 api.iview.abc.net.au
+2600:1406:3f:299::c59 cdn.iview.abc.net.au
+2600:1406:3f:299::c59 education.abc.net.au
+2600:1406:3f:299::c59 iview.abc.net.au
+2600:1406:3f:299::c59 mobile.abc.net.au
+2600:1406:3f:299::c59 mylogin.abc.net.au
+2600:1406:3f:299::c59 open.abc.net.au
+2600:1406:3f:299::c59 radio.abc.net.au
+2600:1406:3f:299::c59 recommendations.abc.net.au
+2600:1406:3f:299::c59 res.abc.net.au
+2600:1406:3f:299::c59 search.abc.net.au
+2600:1406:3f:299::c59 content-gateway.abc-prod.net.au
+2600:1406:3f:299::c59 content-gateway.abc-prod.net.au
+2600:1406:3f:299::c59 program.abcradio.net.au
+2400:cb00:2048:1::6811:64d3 shop.abc.net.au
+2600:9000:2012:: login.abc.net.au
+2600:9000:2012:: resize.abcradio.net.au
+2600:1406:3f:299::208d cdns.au1.gigya.com
+2406:daa0:c044:8:36e7:f90a:: abc-wcms-media-prod.s3-ap-southeast-2.amazonaws.com
+
 ## NY Times
-2a04:4e42:6::420 nytimes.com
-2a04:4e42:6::420 www.nytimes.com
-2a04:4e42:6::420 myaccount.nytimes.com
-2a04:4e42:6::420 up.nytimes.com
-2a04:4e42:6::420 graphics8.nytimes.com
-2a04:4e42:6::420 json8.nytimes.com
-2a04:4e42:6::420 typeface.nytimes.com
+2a04:4e42:2e::420 nytimes.com
+2a04:4e42:2e::420 www.nytimes.com
+2a04:4e42:2e::420 myaccount.nytimes.com
+2a04:4e42:2e::420 up.nytimes.com
+2a04:4e42:2e::420 graphics8.nytimes.com
+2a04:4e42:2e::420 json8.nytimes.com
+2a04:4e42:2e::420 typeface.nytimes.com
 151.101.0.164 cigsvc.nytimes.com
 2600:9000:2012:2c00:18:9b35:e940:93a1 cn.nytimes.com
 35.186.231.252 m.cn.nytimes.com
@@ -286,18 +469,23 @@
 2600:9000:2012:2c00:18:a95e:5140:93a1 m.cn.nytstyle.com
 54.249.25.75 sso.nytcn.me
 2600:9000:2012:c00:13:702f:a6c0:21 static.sxzhchina.com
-2a04:4e42:6::420 typeface.nyt.com
-2a04:4e42:6::420 vp.nyt.com
-2a04:4e42:6::420 a1.nyt.com
-2a04:4e42:6::420 s1.nyt.com
-2a04:4e42:6::420 i1.nyt.com
-2a04:4e42:6::420 static01.nyt.com
-2a04:4e42:6::420 static02.nyt.com
-2a04:4e42:6::420 js.nyt.com
-2a04:4e42:6::420 css.nyt.com
-2a04:4e42:6::420 int.nyt.com
+2a04:4e42:2e::420 typeface.nyt.com
+2a04:4e42:2e::420 vp.nyt.com
+2a04:4e42:2e::420 a1.nyt.com
+2a04:4e42:2e::420 s1.nyt.com
+2a04:4e42:2e::420 i1.nyt.com
+2a04:4e42:2e::420 static01.nyt.com
+2a04:4e42:2e::420 static02.nyt.com
+2a04:4e42:2e::420 js.nyt.com
+2a04:4e42:2e::420 css.nyt.com
+2a04:4e42:2e::420 int.nyt.com
 2600:9000:2012:4400:8:1cb7:c900:93a1 d1f1eryiqyjs0r.cloudfront.net
 2600:9000:2012:4400:8:1cb7:c900:93a1 d3lar09xbwlsge.cloudfront.net
 2600:9000:2012:4400:8:1cb7:c900:93a1 d3q1qj9jzsu8nw.cloudfront.net
 2600:9000:2012:4400:8:1cb7:c900:93a1 dc8xl0ndzn2cb.cloudfront.net
+
+## EA Games
+2600:1406:3f::17d7:6464 akamai.cdn.ea.com
+2001:1900:2380:d00::1fe lvlt.cdn.ea.com
+2600:1406:3f::17d7:6464 origin-a.akamaihd.net
 

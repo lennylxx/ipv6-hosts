@@ -1,10 +1,20 @@
 利用原项目中的update_hosts.py生成hosts文件
+
+
 1.含有很多注释行，不利于减小hosts文件体积，对于openwrt来说还是挺大的
+
+
 2.scholar.google.com没有AAAA记录，生成hosts是被注释掉的。原作者有个merge_snippets.sh没搞懂怎么用，看到里面有`cat snippets/??_*.txt >> $new_hosts_file`的语句，感觉像是把已有的模板追加到一个新文件里面，和sh脚本输入的new_hosts_file没有关系，没有把新的hosts内容融合进去，希望有大神能告诉我怎么回事，在此谢过了。
+
+
 3.默认是用google的dns查询的，但是很奇怪的是查到的google家的ipv6是台湾的，按理说ipv6香港最快，台湾绕路香港，还要多走一点路。我这里提供的hosts_hk指定香港dns 202.45.84.58查询的。个人用起来好像比台湾的ip快一些。
+
+
 4.感觉这里面还有好多ipv4的地址，既然叫ipv6 hosts就不该有ipv4，反正我也去掉了。
 
-我用正则表达式写了一个处理脚本ipv6hostscomment.py，能够自动去掉scholar.google.com前面的#，并且去掉其他的注释行和ipv4地址，主要就是为了缩体积，openwrt的rom实在太小了
+
+
+我用正则表达式写了一个处理脚本ipv6hostscomment.py，能够自动去掉scholar.google.com前面的#，并且去掉其他的注释行和ipv4地址，主要就是为了缩体积，尽可能减少openwrt rom占用。
 
 
 ---------------------------------------------------------------------------------------------

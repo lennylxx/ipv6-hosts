@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Sat, 29 Sep 2018 22:38:16 +0800                  |
+## |         Update : Sun, 2 Dec 2018 11:20:00 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -448,10 +448,14 @@
 2404:6800:4008:c07::8b storage.cloud.google.com #www3.l.google.com
 2404:6800:4012:1::200e ssh.cloud.google.com
 2404:6800:4008:c07::66 developers.google.com #www3.l.google.com
+2607:f8b0:4000:80d::200a clouderrorreporting.clients6.google.com
+2607:f8b0:4007:804::200a cloudnotifications.clients6.google.com
 2404:6800:4008:c00::8b cloudssh.developers.google.com #www3.l.google.com
 2001:4860:4802:32::1b console.developers.google.com
 2404:6800:4008:c05::52 source.developers.google.com
 2404:6800:4012:1::200a cloudusersettings-pa.clients6.google.com
+2404:6800:4012:1::200a cloudconsole-pa.clients6.google.com
+2404:6800:4008:800::200a monitoring.clients6.google.com
 
 ## Directory 网页目录
 2404:6800:4008:c05::8a directory.google.com #www3.l.google.com
@@ -800,6 +804,9 @@
 #2404:6800:4008:c00::62 rtmp0.google.com
 #2404:6800:4008:c00::62 users.talk.google.com
 2404:6800:4008:c05::bc mtalk.google.com #mobile-gtalk.l.google.com
+
+## Tensorflow 主页
+2404:6800:4005:80d::200e www.tensorflow.org #www3-china.l.google.com
 
 ## Tools 工具
 2404:6800:4008:c07::66 tools.google.com #tools.l.google.com
@@ -24156,8 +24163,10 @@
 2a03:2880:f007:8:face:b00c:0:1 scontent-ort2-1.xx.fbcdn.net
 2a03:2880:f007:8:face:b00c:0:1 scontent-ort2-2.xx.fbcdn.net
 2a03:2880:f007:8:face:b00c:0:1 scontent-otp1-1.xx.fbcdn.net
+2a03:2880:f007:8:face:b00c:0:1 scontent-prg1-1.xx.fbcdn.net
 2a03:2880:f007:8:face:b00c:0:1 scontent-scl1-1.xx.fbcdn.net
 2a03:2880:f007:8:face:b00c:0:1 scontent-sea1-1.xx.fbcdn.net
+2a03:2880:f007:8:face:b00c:0:1 scontent-sin2-2.xx.fbcdn.net
 2a03:2880:f007:8:face:b00c:0:1 scontent-sin6-1.xx.fbcdn.net
 2a03:2880:f007:8:face:b00c:0:1 scontent-sin6-2.xx.fbcdn.net
 2a03:2880:f007:8:face:b00c:0:1 scontent-sit4-1.xx.fbcdn.net
@@ -24378,8 +24387,10 @@
 2a03:2880:f227:c4:face:b00c:0:43fe scontent-ort2-1.cdninstagram.com
 2a03:2880:f227:2c4:face:b00c:0:43fe scontent-ort2-2.cdninstagram.com
 2a03:2880:f223:c4:face:b00c:0:43fe scontent-otp1-1.cdninstagram.com
+2a03:2880:f223:c4:face:b00c:0:43fe scontent-prg1-1.cdninstagram.com
 2a03:2880:f22e:c4:face:b00c:0:43fe scontent-scl1-1.cdninstagram.com
 2a03:2880:f201:c4:face:b00c:0:43fe scontent-sea1-1.cdninstagram.com
+2a03:2880:f20c:2c4:face:b00c:0:43fe scontent-sin2-2.cdninstagram.com
 2a03:2880:f20c:c4:face:b00c:0:43fe scontent-sin6-1.cdninstagram.com
 2a03:2880:f20c:2c4:face:b00c:0:43fe scontent-sin6-2.cdninstagram.com
 2a03:2880:f226:c4:face:b00c:0:43fe scontent-sit4-1.cdninstagram.com

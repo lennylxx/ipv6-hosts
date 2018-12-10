@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Sun, 2 Dec 2018 11:20:00 +0800                  |
+## |         Update : Mon, 10 Dec 2018 11:20:00 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -25521,6 +25521,7 @@
 #2a01:111:2003::200 tse3-mm.cn.bing.net
 #2a01:111:2003::200 tse4-mm.cn.bing.net
 2600:1406:3f::17d7:6464 a248.e.akamai.net
+2600:1417:8000::b81c:da83 img-s-msn-com.akamaized.net #a1834.dspg2.akamai.net
 
 ## ARIN
 2001:500:4:c000::43 www.arin.net

@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Mon, 10 Dec 2018 11:20:00 +0800                  |
+## |         Update : Thu, 20 Dec 2018 18:20:00 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -25486,25 +25486,24 @@
 #2620:101:8008:5::2:8 firefox.com
 
 ## Microsoft 微软
-2600:1406:3f:299::747 www.microsoft.com #e10088.dscb.akamaiedge.net
-2600:1406:3f:299::2886 i.microsoft.com
-2600:1406:3f:299::2886 i2.microsoft.com #i.microsoft.com.edgekey.net
-2600:1406:3f:299::2886 i3.microsoft.com #i.microsoft.com.edgekey.net
+2001:4de0:4008:1b2::356e www.microsoft.com #e13678.dspb.akamaiedge.net
+2001:4de0:4008:197::2886 i.microsoft.com #e10374.dscg.akamaiedge.net
+2001:4de0:4008:197::2886 i2.microsoft.com #i.microsoft.com.edgekey.net
+2001:4de0:4008:197::2886 i3.microsoft.com #i.microsoft.com.edgekey.net
 2002:836b:9820::836b:9886 www.ipv6.microsoft.com
-2600:1406:3f:299::e59 download.microsoft.com
-2606:2800:11f:17a5:191a:18d5:537:22f9 software-download.microsoft.com #cs9.wpc.v0cdn.net
-2606:2800:11f:17a5:191a:18d5:537:22f9 ajax.aspnetcdn.com #cs9.wpc.v0cdn.net
+2001:4de0:4008:19e::e59 download.microsoft.com #e3673.dscg.akamaiedge.net
 2606:2800:11f:7de:d31:7db:168f:1225 download.visualstudio.microsoft.com #cs10.wpc.v0cdn.net
-2400:a980:ff:f9::2:3 download.windowsupdate.com #download.windowsupdate.com.bsgslb.cn
-2400:a980:ff:f9::2:3 dl.delivery.mp.microsoft.com #tlu.dl.delivery.mp.microsoft.com.bsgslb.cn
-2400:a980:ff:f9::2:3 tlu.dl.delivery.mp.microsoft.com #tlu.dl.delivery.mp.microsoft.com.bsgslb.cn
-2400:a980:ff:f9::2:3 8.tlu.dl.delivery.mp.microsoft.com #tlu.dl.delivery.mp.microsoft.com.bsgslb.cn
-2400:a980:ff:f9::2:3 10.tlu.dl.delivery.mp.microsoft.com #tlu.dl.delivery.mp.microsoft.com.bsgslb.cn
+2001:4de0:ac10::1:1:19 download.windowsupdate.com #cds.d2s7q6s2.hwcdn.net
+2001:4de0:ac19::1:b:1a dl.delivery.mp.microsoft.com #tlu.dl.delivery.mp.microsoft.com.bsgslb.cn
+2600:1401:5::6864:5d10 tlu.dl.delivery.mp.microsoft.com #a1856.dspw65.akamai.net
+#2400:a980:ff:f9::2:3 8.tlu.dl.delivery.mp.microsoft.com #tlu.dl.delivery.mp.microsoft.com.bsgslb.cn
+2001:438:fffd:98::4 10.tlu.dl.delivery.mp.microsoft.com #zstore.v.bsgslb.cn
 2620:1ec:c11::212 onedrive.live.com #skyweb.skyprod.akadns.net
-157.55.109.232 skyapi.onedrive.live.com #odc-common-emea-meta-geo.onedrive.akadns.net
+#157.55.109.232 skyapi.onedrive.live.com #odc-common-emea-meta-geo.onedrive.akadns.net
 2620:1ec:c11::212 storage.live.com
-2600:1406:3f:299::1aff s1-word-view-15.cdn.office.net #wildcard.cdn.office.net.edgekey.net
-2600:1406:3f:299::1aff s1-officeapps-15.cdn.office.net #e6911.dspg.akamaiedge.net
+2600:1417:76:283::1c24 s1-word-view-15.cdn.office.net #wildcard.cdn.office.net.edgekey.net
+2600:1417:76:283::1c24 s1-officeapps-15.cdn.office.net #e6911.dspg.akamaiedge.net
+2600:1406:c800:3a2::6bb officecdn.microsoft.com
 2620:1ec:c11::200 www.bing.com
 2620:1ec:c11::200 www2.bing.com
 2620:1ec:c11::200 cn.bing.com
@@ -25522,6 +25521,10 @@
 #2a01:111:2003::200 tse4-mm.cn.bing.net
 2600:1406:3f::17d7:6464 a248.e.akamai.net
 2600:1417:8000::b81c:da83 img-s-msn-com.akamaized.net #a1834.dspg2.akamai.net
+2600:1401:5::6864:5d08 statics-uhf-eus.akamaized.net #a1512.dscg2.akamai.net
+2600:1401:5::6864:5d0a statics-uhf-wus.akamaized.net #a849.dscg2.akamai.net
+2600:1401:5::6864:5d0a statics-uhf-eas.akamaized.net #a1684.dscg2.akamai.net
+2600:1401:5::6864:5d0a img-prod-cms-rt-microsoft-com.akamaized.net #a1449.dscg2.akamai.net
 
 ## ARIN
 2001:500:4:c000::43 www.arin.net

@@ -9,7 +9,7 @@
 ## +-------------------------  >>d(' _ ')b<<  -------------------------+
 ## |                                                                   |
 ## |         Project: https://github.com/lennylxx/ipv6-hosts           |
-## |         Update : Mon, 10 Dec 2018 11:20:00 +0800                  |
+## |         Update : Wed, 26 Dec 2018 22:38:20 +0800                  |
 ## |                                                                   |
 ## +-------------------------------------------------------------------+
 
@@ -25486,7 +25486,7 @@
 #2620:101:8008:5::2:8 firefox.com
 
 ## Microsoft 微软
-2600:1406:3f:299::747 www.microsoft.com #e10088.dscb.akamaiedge.net
+2600:1406:3f:299::356e www.microsoft.com #e10088.dscb.akamaiedge.net
 2600:1406:3f:299::2886 i.microsoft.com
 2600:1406:3f:299::2886 i2.microsoft.com #i.microsoft.com.edgekey.net
 2600:1406:3f:299::2886 i3.microsoft.com #i.microsoft.com.edgekey.net
@@ -25495,16 +25495,17 @@
 2606:2800:11f:17a5:191a:18d5:537:22f9 software-download.microsoft.com #cs9.wpc.v0cdn.net
 2606:2800:11f:17a5:191a:18d5:537:22f9 ajax.aspnetcdn.com #cs9.wpc.v0cdn.net
 2606:2800:11f:7de:d31:7db:168f:1225 download.visualstudio.microsoft.com #cs10.wpc.v0cdn.net
-2400:a980:ff:f9::2:3 download.windowsupdate.com #download.windowsupdate.com.bsgslb.cn
-2400:a980:ff:f9::2:3 dl.delivery.mp.microsoft.com #tlu.dl.delivery.mp.microsoft.com.bsgslb.cn
-2400:a980:ff:f9::2:3 tlu.dl.delivery.mp.microsoft.com #tlu.dl.delivery.mp.microsoft.com.bsgslb.cn
-2400:a980:ff:f9::2:3 8.tlu.dl.delivery.mp.microsoft.com #tlu.dl.delivery.mp.microsoft.com.bsgslb.cn
-2400:a980:ff:f9::2:3 10.tlu.dl.delivery.mp.microsoft.com #tlu.dl.delivery.mp.microsoft.com.bsgslb.cn
+2400:a980:fd:6:11::14 download.windowsupdate.com #download.windowsupdate.com.bsgslb.cn
+2400:a980:fd:6:11::14 dl.delivery.mp.microsoft.com #tlu.dl.delivery.mp.microsoft.com.bsgslb.cn
+2400:a980:fd:6:11::14 tlu.dl.delivery.mp.microsoft.com #tlu.dl.delivery.mp.microsoft.com.bsgslb.cn
+2400:a980:fd:6:11::14 8.tlu.dl.delivery.mp.microsoft.com #tlu.dl.delivery.mp.microsoft.com.bsgslb.cn
+2400:a980:fd:6:11::14 10.tlu.dl.delivery.mp.microsoft.com #tlu.dl.delivery.mp.microsoft.com.bsgslb.cn
 2620:1ec:c11::212 onedrive.live.com #skyweb.skyprod.akadns.net
 157.55.109.232 skyapi.onedrive.live.com #odc-common-emea-meta-geo.onedrive.akadns.net
 2620:1ec:c11::212 storage.live.com
-2600:1406:3f:299::1aff s1-word-view-15.cdn.office.net #wildcard.cdn.office.net.edgekey.net
-2600:1406:3f:299::1aff s1-officeapps-15.cdn.office.net #e6911.dspg.akamaiedge.net
+2600:1406:3f:299::1c24 s1-word-view-15.cdn.office.net #wildcard.cdn.office.net.edgekey.net
+2600:1406:3f:299::1c24 s1-officeapps-15.cdn.office.net #e6911.dspg.akamaiedge.net
+2600:1406:3f:299::6bb officecdn.microsoft.com #e1723.dscd.akamaiedge.net
 2620:1ec:c11::200 www.bing.com
 2620:1ec:c11::200 www2.bing.com
 2620:1ec:c11::200 cn.bing.com

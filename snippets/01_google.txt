@@ -102,8 +102,8 @@
 2404:6800:4008:c03::bd 27.client-channel.google.com
 2404:6800:4008:c06::bd 28.client-channel.google.com
 2404:6800:4008:c06::bd 29.client-channel.google.com
-2401:3800:4001:10::101e googletagmanager.com
-2401:3800:4001:806::101e www.googletagmanager.com #www-googletagmanager.l.google.com
+2404:6800:4005:805::200e googletagmanager.com
+2404:6800:4005:805::200e www.googletagmanager.com #www-googletagmanager.l.google.com
 
 ## 谷歌香港
 2404:6800:4008:c04::5e google.com.hk
@@ -226,6 +226,7 @@
 2404:6800:4008:c06::8d cardboard.withgoogle.com
 2404:6800:4008:c02::8d chinesenewyear.withgoogle.com
 2404:6800:4008:c06::8d connectedclassrooms.withgoogle.com
+2404:6800:4008:802::2011 csp.withgoogle.com
 2404:6800:4008:c06::8d datasense.withgoogle.com
 2404:6800:4008:c02::8d devart.withgoogle.com
 2404:6800:4008:c05::8d docchinogame.withgoogle.com
@@ -395,6 +396,7 @@
 2001:4860:4802:32::1b blog.chromium.org
 #2404:6800:4008:c00::62 build.chromium.org #planet.chromium.org
 #2404:6800:4008:c00::79 codereview.chromium.org #ghs.l.google.com
+2404:6800:4012:1::2013 bugs.chromium.org
 
 ## Chromium OS Chromium 操作系统
 2404:6800:4008:c07::79 goto.ext.google.com #ghs.google.com
@@ -424,11 +426,18 @@
 
 ## Developers 开发者
 2404:6800:4008:c00::8b cloud.google.com #www3.l.google.com
+2404:6800:4008:801::200e console.cloud.google.com
 2404:6800:4008:c07::8b storage.cloud.google.com #www3.l.google.com
+2404:6800:4012:1::200e ssh.cloud.google.com
 2404:6800:4008:c07::66 developers.google.com #www3.l.google.com
+2607:f8b0:4000:80d::200a clouderrorreporting.clients6.google.com
+2607:f8b0:4007:804::200a cloudnotifications.clients6.google.com
 2404:6800:4008:c00::8b cloudssh.developers.google.com #www3.l.google.com
 2001:4860:4802:32::1b console.developers.google.com
 2404:6800:4008:c05::52 source.developers.google.com
+2404:6800:4012:1::200a cloudusersettings-pa.clients6.google.com
+2404:6800:4012:1::200a cloudconsole-pa.clients6.google.com
+2404:6800:4008:800::200a monitoring.clients6.google.com
 
 ## Directory 网页目录
 2404:6800:4008:c05::8a directory.google.com #www3.l.google.com
@@ -528,7 +537,7 @@
 2404:6800:4008:c06::71 domains.google.com
 
 ## Download 下载
-2401:3800:4001:807::1007 dl.google.com #dl.l.google.com
+2404:6800:4005:805::200e dl.google.com #dl.l.google.com
 2404:6800:4008:c06::88 dl-ssl.google.com #dl-ssl.l.google.com
 
 ## Google Earth 地球
@@ -636,13 +645,13 @@
 2404:6800:4008:c07::64 ditu.google.com #local.google.com
 2404:6800:4008:c07::8a maps-api-ssl.google.com #clients.l.google.com
 2404:6800:4008:c04::8a map.google.com #maps.google.com
-2401:3800:4001:806::100e kh.google.com #keyhole.l.google.com
-2401:3800:4001:11::1008 khmdb.google.com #khmdb.l.google.com
-2401:3800:4001:806::1000 khm.google.com #khm.l.google.com
-2401:3800:4001:10::1004 khm0.google.com #khm.l.google.com
-2401:3800:4001:807::1001 khm1.google.com #khm.l.google.com
+2404:6800:4005:805::200e kh.google.com #keyhole.l.google.com
+2404:6800:4005:805::200e khmdb.google.com #khmdb.l.google.com
+2404:6800:4005:805::200e khm.google.com #khm.l.google.com
+2404:6800:4005:805::200e khm0.google.com #khm.l.google.com
+2404:6800:4005:805::200e khm1.google.com #khm.l.google.com
 2404:6800:4005:807::200e khm2.google.com #khm.l.google.com
-2401:3800:4001:10::1004 khm3.google.com #khm.l.google.com
+2404:6800:4005:805::200e khm3.google.com #khm.l.google.com
 #2404:6800:4008:c00::64 cbk0.google.com #cbk.l.google.com
 2404:6800:4008:c07::8b cbk1.google.com #cbk.l.google.com
 2404:6800:4008:c06::8a cbk2.google.com #cbk.l.google.com
@@ -666,7 +675,7 @@
 2404:6800:4008:c03::8a gg.google.com
 2404:6800:4008:c04::66 gg.google.cn
 2404:6800:4008:c06::5e id.google.com #id.l.google.com
-2401:3800:4001:807::1017 id.google.cn #id.l.google.com
+2404:6800:4005:805::200e id.google.cn #id.l.google.com
 2404:6800:4008:c04::a0 ditu.google.cn
 2404:6800:4008:c04::a0 mt.google.cn #ditu.google.cn
 2404:6800:4008:c05::a0 mt0.google.cn
@@ -678,7 +687,7 @@
 2404:6800:4008:c03::8a mts1.google.com #mts.l.google.com
 2404:6800:4008:c07::66 mts2.google.com #mts.l.google.com
 2404:6800:4008:c07::71 mts3.google.com #mts.l.google.com
-2401:3800:4001:10::100f maps.gstatic.cn #www.gstatic.cn
+2404:6800:4005:805::200e maps.gstatic.cn #www.gstatic.cn
 2404:6800:4008:c04::8b mobilemaps.clients.google.com #clients.l.google.com
 
 ## Music Beta by Google 云音乐服务
@@ -761,7 +770,7 @@
 2404:6800:4008:c06::be scholar.google.com
 2404:6800:4008:c06::be scholar.google.com.hk
 2404:6800:4008:c06::be scholar.google.com.tw
-2401:3800:4001:10::101f scholar.google.cn #www.google.cn
+2404:6800:4005:805::200e scholar.google.cn #www.google.cn
 
 ## Sites 协作平台
 2404:6800:4008:c06::65 sites.google.com #sites-china.l.google.com
@@ -778,6 +787,9 @@
 #2404:6800:4008:c00::62 users.talk.google.com
 2404:6800:4008:c05::bc mtalk.google.com #mobile-gtalk.l.google.com
 
+## Tensorflow 主页
+2404:6800:4005:80d::200e www.tensorflow.org #www3-china.l.google.com
+
 ## Tools 工具
 2404:6800:4008:c07::66 tools.google.com #tools.l.google.com
 2404:6800:4008:c02::8a toolbar.google.com #tools.l.google.com
@@ -787,7 +799,7 @@
 2404:6800:4008:c07::8b translate.google.com #www3.l.google.com
 2404:6800:4008:c03::5e translate.google.com.hk
 2404:6800:4008:c00::5e translate.google.com.tw
-2401:3800:4001:10::101f translate.google.cn #www.google.cn
+2404:6800:4005:805::200e translate.google.cn #www.google.cn
 
 ## Trends 趋势
 2404:6800:4008:c03::67 trends.google.com #www2.l.google.com
@@ -875,12 +887,12 @@
 ## GStatic Google 静态文件存储
 2404:6800:4008:c07::5e gstatic.com
 2404:6800:4008:c07::5e accounts.gstatic.com
-2401:3800:4001:807::100f csi.gstatic.com #csi-china.l.google.com
-2401:3800:4001:807::100f fonts.gstatic.com
+2404:6800:4005:805::200e csi.gstatic.com #csi-china.l.google.com
+2a00:1450:4017:809::2003 fonts.gstatic.com
 2404:6800:4008:c06::5e maps.gstatic.com
 2404:6800:4008:c07::5e ssl.gstatic.com
 2404:6800:4008:c07::5e www.gstatic.com
-2401:3800:4001:10::1018 www.gstatic.cn
+2404:6800:4005:805::200e www.gstatic.cn
 2404:6800:4008:c02::64 encrypted-tbn0.gstatic.com
 2404:6800:4008:c06::8b encrypted-tbn1.gstatic.com
 2404:6800:4008:c05::8b encrypted-tbn2.gstatic.com
@@ -968,23 +980,23 @@
 #2404:6800:4008:c00::9a feedads.g.doubleclick.net #pagead.l.doubleclick.net
 #2404:6800:4008:c00::9b pubads.g.doubleclick.net #partnerad.l.doubleclick.net
 #2404:6800:4008:c00::9b partnerad.l.doubleclick.net
-2401:3800:4001:10::101c s0.2mdn.net #s0-2mdn-net.l.google.com
-2401:3800:4001:11::101c s1.2mdn.net #s0-2mdn-net.l.google.com
+2404:6800:4005:805::200e s0.2mdn.net #s0-2mdn-net.l.google.com
+2404:6800:4005:805::200e s1.2mdn.net #s0-2mdn-net.l.google.com
 #2404:6800:4008:c00::95 fls.uk.doubleclick.net #dart.l.doubleclick.net
 #2404:6800:4008:c00::95 *.au.doubleclick.net #dart.l.doubleclick.net
 #2404:6800:4008:c00::95 *.de.doubleclick.net #dart.l.doubleclick.net
 #2404:6800:4008:c00::95 *.uk.doubleclick.net #dart.l.doubleclick.net
 #2404:6800:4008:c00::95 *.fr.doubleclick.net #dart.l.doubleclick.net
 #2404:6800:4008:c00::95 *.jp.doubleclick.net #dart.l.doubleclick.net
-2401:3800:4001:806::100d googleads.g.doubleclick.net #pagead46.l.doubleclick.net
-2401:3800:4001:10::100d www.googletagservices.com #pagead46.l.doubleclick.net
-2401:3800:4001:807::1019 static.googleadsserving.cn #pagead46.l.doubleclick.net
+2404:6800:4005:805::200e googleads.g.doubleclick.net #pagead46.l.doubleclick.net
+2404:6800:4005:805::200e www.googletagservices.com #pagead46.l.doubleclick.net
+2404:6800:4005:805::200e static.googleadsserving.cn #pagead46.l.doubleclick.net
 
 ## Analytics 分析
-2401:3800:4001:807::1000 www.google-analytics.com #www-google-analytics.l.google.com
+2404:6800:4005:805::200e www.google-analytics.com #www-google-analytics.l.google.com
 2404:6800:4005:807::2008 ssl.google-analytics.com #ssl-google-analytics.l.google.com
 #2404:6800:4008:c00::61 *.google-analytics.com
-2401:3800:4001:10::1003 service.urchin.com #www-google-analytics.l.google.com
+2404:6800:4005:805::200e service.urchin.com #www-google-analytics.l.google.com
 2404:6800:4008:c06::8b analytics.google.com #www3.l.google.com
 
 ## Google Art Project
@@ -1047,7 +1059,7 @@
 #2404:6800:4008:c04::79 www.webm-ccl.org #ghs.l.google.com
 
 ## AMP Project
-2401:3800:4001:11::1017 cdn.ampproject.org
+2404:6800:4005:805::200e cdn.ampproject.org
 
 ## GoogleZip 数据压缩代理
 #2001:4860:4802:32::1d check.googlezip.net

@@ -45,8 +45,8 @@
 2a03:2880:20:8f08:face:b00c:0:1 www.v6.facebook.com #v6.vvv.facebook.com
 2a03:2880:20:8f08:face:b00c:0:1 v6.vvv.facebook.com
 2a03:2880:f00d:110:face:b00c:0:2 attachment.fbsbx.com #star.c10r.facebook.com
-#2600:1417:9::b833:faa static.ak.facebook.com
-#2600:1417:9:192::236 s-static.ak.facebook.com #e566.dspe1.akamaiedge.net
+#2001:e68:2005:1e::3a1b:5630 static.ak.facebook.com
+#2600:1406:3f:299::236 s-static.ak.facebook.com #e566.dspe1.akamaiedge.net
 #2610:d0:face::9 www.lisp6.facebook.com
 #2610:d0:face::9 m.lisp6.facebook.com #www.lisp6.facebook.com
 2a03:2880:f00d:110:face:b00c:0:2 www.messenger.com #star.c10r.facebook.com
@@ -69,9 +69,9 @@
 
 ## fbcdn.net
 2a03:2880:f00d:115:face:b00c:0:3 connect.facebook.net #connect.facebook.net.edgekey.net
-#2600:1417:9::b833:f90 creative.ak.fbcdn.net #ads.ak.facebook.com.edgesuite.net
+#2001:e68:2005:1e::3a1b:5630 creative.ak.fbcdn.net #ads.ak.facebook.com.edgesuite.net
 #2001:5a0:3a03::3ff3:f313 external.ak.fbcdn.net #external.ak.fbcdn.net.edgesuite.net
-#2600:1417:9::b833:f90 platform.ak.fbcdn.net #platform.ak.facebook.com.edgesuite.net
+#2001:e68:2005:1e::3a1b:5630 platform.ak.fbcdn.net #platform.ak.facebook.com.edgesuite.net
 #2001:428:6402:201::cf6c:dca0 profile.ak.fbcdn.net #profile.ak.facebook.com.edgesuite.net
 #2600:1406:3:18b::38a s-external.ak.fbcdn.net #s-external.ak.fbcdn.net.edgekey.net
 #2600:1406:3:18b::d19 s-static.ak.fbcdn.net #s-static.ak.fbcdn.net.edgekey.net
@@ -124,8 +124,10 @@
 2a03:2880:f007:8:face:b00c:0:1 scontent-ort2-1.xx.fbcdn.net
 2a03:2880:f007:8:face:b00c:0:1 scontent-ort2-2.xx.fbcdn.net
 2a03:2880:f007:8:face:b00c:0:1 scontent-otp1-1.xx.fbcdn.net
+2a03:2880:f007:8:face:b00c:0:1 scontent-prg1-1.xx.fbcdn.net
 2a03:2880:f007:8:face:b00c:0:1 scontent-scl1-1.xx.fbcdn.net
 2a03:2880:f007:8:face:b00c:0:1 scontent-sea1-1.xx.fbcdn.net
+2a03:2880:f007:8:face:b00c:0:1 scontent-sin2-2.xx.fbcdn.net
 2a03:2880:f007:8:face:b00c:0:1 scontent-sin6-1.xx.fbcdn.net
 2a03:2880:f007:8:face:b00c:0:1 scontent-sin6-2.xx.fbcdn.net
 2a03:2880:f007:8:face:b00c:0:1 scontent-sit4-1.xx.fbcdn.net
@@ -143,25 +145,25 @@
 2a03:2880:f00d:115:face:b00c:0:3 static.xx.fbcdn.net
 2a03:2880:f00d:111:face:b00c:0:1823 video.xx.fbcdn.net
 
-2600:1417:9::b833:f55 fbcdn-photos-a.akamaihd.net #fbcdn-photos-a.akamaihd.net.edgesuite.net
-2600:1417:9::b833:f55 fbcdn-photos-a-a.akamaihd.net #fbcdn-photos-a-a.akamaihd.net.edgesuite.net
-2600:1417:9::b833:f55 fbcdn-photos-b-a.akamaihd.net #fbcdn-photos-b-a.akamaihd.net.edgesuite.net
-2600:1417:9::b833:f55 fbcdn-photos-c-a.akamaihd.net #fbcdn-photos-c-a.akamaihd.net.edgesuite.net
-2600:1417:9::b833:f55 fbcdn-photos-d-a.akamaihd.net #fbcdn-photos-d-a.akamaihd.net.edgesuite.net
-2600:1417:9::b833:f55 fbcdn-photos-e-a.akamaihd.net #fbcdn-photos-e-a.akamaihd.net.edgesuite.net
-2600:1417:9::b833:f55 fbcdn-photos-f-a.akamaihd.net #fbcdn-photos-f-a.akamaihd.net.edgesuite.net
-2600:1417:9::b833:f55 fbcdn-photos-g-a.akamaihd.net #fbcdn-photos-g-a.akamaihd.net.edgesuite.net
-2600:1417:9::b833:f55 fbcdn-photos-h-a.akamaihd.net #fbcdn-photos-h-a.akamaihd.net.edgesuite.net
-2600:1417:9::b833:f55 fbcdn-profile-a.akamaihd.net #a2047.dspl.akamai.net
-2600:1417:9::b833:f55 fbcdn-sphotos-a.akamaihd.net #fbcdn-sphotos-a.akamaihd.net.edgesuite.net
-2600:1417:9::b833:f57 fbcdn-sphotos-a-a.akamaihd.net #fbcdn-sphotos-a-a.akamaihd.net.edgesuite.net
-2600:1417:9::b833:f57 fbcdn-sphotos-b-a.akamaihd.net #fbcdn-sphotos-b-a.akamaihd.net.edgesuite.net
-2600:1417:9::b833:f4c fbcdn-sphotos-c-a.akamaihd.net #fbcdn-sphotos-c-a.akamaihd.net.edgesuite.net
-2600:1417:9::b833:f45 fbcdn-sphotos-d-a.akamaihd.net #fbcdn-sphotos-d-a.akamaihd.net.edgesuite.net
-2600:1417:9::b833:f5c fbcdn-sphotos-e-a.akamaihd.net #fbcdn-sphotos-e-a.akamaihd.net.edgesuite.net
-2600:1417:9::b833:f4c fbcdn-sphotos-f-a.akamaihd.net #fbcdn-sphotos-f-a.akamaihd.net.edgesuite.net
-2600:1417:9::b833:f4e fbcdn-sphotos-g-a.akamaihd.net #fbcdn-sphotos-g-a.akamaihd.net.edgesuite.net
-2600:1417:9::b833:f4e fbcdn-sphotos-h-a.akamaihd.net #fbcdn-sphotos-h-a.akamaihd.net.edgesuite.net
+2001:e68:2005:1e::3a1b:5630 fbcdn-photos-a.akamaihd.net #fbcdn-photos-a.akamaihd.net.edgesuite.net
+2001:e68:2005:1e::3a1b:5630 fbcdn-photos-a-a.akamaihd.net #fbcdn-photos-a-a.akamaihd.net.edgesuite.net
+2001:e68:2005:1e::3a1b:5630 fbcdn-photos-b-a.akamaihd.net #fbcdn-photos-b-a.akamaihd.net.edgesuite.net
+2001:e68:2005:1e::3a1b:5630 fbcdn-photos-c-a.akamaihd.net #fbcdn-photos-c-a.akamaihd.net.edgesuite.net
+2001:e68:2005:1e::3a1b:5630 fbcdn-photos-d-a.akamaihd.net #fbcdn-photos-d-a.akamaihd.net.edgesuite.net
+2001:e68:2005:1e::3a1b:5630 fbcdn-photos-e-a.akamaihd.net #fbcdn-photos-e-a.akamaihd.net.edgesuite.net
+2001:e68:2005:1e::3a1b:5630 fbcdn-photos-f-a.akamaihd.net #fbcdn-photos-f-a.akamaihd.net.edgesuite.net
+2001:e68:2005:1e::3a1b:5630 fbcdn-photos-g-a.akamaihd.net #fbcdn-photos-g-a.akamaihd.net.edgesuite.net
+2001:e68:2005:1e::3a1b:5630 fbcdn-photos-h-a.akamaihd.net #fbcdn-photos-h-a.akamaihd.net.edgesuite.net
+2001:e68:2005:1e::3a1b:5630 fbcdn-profile-a.akamaihd.net #a2047.dspl.akamai.net
+2001:e68:2005:1e::3a1b:5630 fbcdn-sphotos-a.akamaihd.net #fbcdn-sphotos-a.akamaihd.net.edgesuite.net
+2001:e68:2005:1e::3a1b:5630 fbcdn-sphotos-a-a.akamaihd.net #fbcdn-sphotos-a-a.akamaihd.net.edgesuite.net
+2001:e68:2005:1e::3a1b:5630 fbcdn-sphotos-b-a.akamaihd.net #fbcdn-sphotos-b-a.akamaihd.net.edgesuite.net
+2001:e68:2005:1e::3a1b:5630 fbcdn-sphotos-c-a.akamaihd.net #fbcdn-sphotos-c-a.akamaihd.net.edgesuite.net
+2001:e68:2005:1e::3a1b:5630 fbcdn-sphotos-d-a.akamaihd.net #fbcdn-sphotos-d-a.akamaihd.net.edgesuite.net
+2001:e68:2005:1e::3a1b:5630 fbcdn-sphotos-e-a.akamaihd.net #fbcdn-sphotos-e-a.akamaihd.net.edgesuite.net
+2001:e68:2005:1e::3a1b:5630 fbcdn-sphotos-f-a.akamaihd.net #fbcdn-sphotos-f-a.akamaihd.net.edgesuite.net
+2001:e68:2005:1e::3a1b:5630 fbcdn-sphotos-g-a.akamaihd.net #fbcdn-sphotos-g-a.akamaihd.net.edgesuite.net
+2001:e68:2005:1e::3a1b:5630 fbcdn-sphotos-h-a.akamaihd.net #fbcdn-sphotos-h-a.akamaihd.net.edgesuite.net
 #2001:5a0:3a03::3ff3:f333 fbcdn-video-a-a.akamaihd.net #fbcdn-video-a-a.akamaihd.net.edgesuite.net
 #2001:5a0:3a03::3ff3:f318 fbcdn-video-b-a.akamaihd.net #fbcdn-video-b-a.akamaihd.net.edgesuite.net
 #2001:5a0:3a03::3ff3:f32a fbcdn-video-c-a.akamaihd.net #fbcdn-video-c-a.akamaihd.net.edgesuite.net
@@ -183,13 +185,13 @@
 2600:1417:a000::1730:c949 fbexternal-a.akamaihd.net #fbexternal-a.akamaihd.net.edgesuite.net
 #2001:5a0:3a03::3ff3:f308 fbcdn-creative-a.akamaihd.net #fbcdn-creative-a.akamaihd.net.edgesuite.net
 
-#2600:1417:9::b833:f90 photos-a.ak.fbcdn.net #photos-a.ak.facebook.com.edgesuite.net
-#2600:1417:9::b833:f90 photos-b.ak.fbcdn.net #photos-b.ak.facebook.com.edgesuite.net
-#2600:1417:9::b833:f90 photos-c.ak.fbcdn.net #photos-c.ak.facebook.com.edgesuite.net
-#2600:1417:9::b833:f90 photos-e.ak.fbcdn.net #photos-a.ak.facebook.com.edgesuite.net
-#2600:1417:9::b833:f90 photos-f.ak.fbcdn.net #photos-b.ak.facebook.com.edgesuite.net
-#2600:1417:9::b833:f90 photos-g.ak.fbcdn.net #photos-c.ak.facebook.com.edgesuite.net
-#2600:1417:9::b833:f90 photos-h.ak.fbcdn.net #photos-d.ak.facebook.com.edgesuite.net
+#2001:e68:2005:1e::3a1b:5630 photos-a.ak.fbcdn.net #photos-a.ak.facebook.com.edgesuite.net
+#2001:e68:2005:1e::3a1b:5630 photos-b.ak.fbcdn.net #photos-b.ak.facebook.com.edgesuite.net
+#2001:e68:2005:1e::3a1b:5630 photos-c.ak.fbcdn.net #photos-c.ak.facebook.com.edgesuite.net
+#2001:e68:2005:1e::3a1b:5630 photos-e.ak.fbcdn.net #photos-a.ak.facebook.com.edgesuite.net
+#2001:e68:2005:1e::3a1b:5630 photos-f.ak.fbcdn.net #photos-b.ak.facebook.com.edgesuite.net
+#2001:e68:2005:1e::3a1b:5630 photos-g.ak.fbcdn.net #photos-c.ak.facebook.com.edgesuite.net
+#2001:e68:2005:1e::3a1b:5630 photos-h.ak.fbcdn.net #photos-d.ak.facebook.com.edgesuite.net
 #2600:1406:1a::173d:c228 a1.sphotos.ak.fbcdn.net #a1001.dspw40.akamai.net
 #2600:1406:1a::173d:c220 a2.sphotos.ak.fbcdn.net #a1402.dspw40.akamai.net
 #2600:1406:1a::173d:c221 a3.sphotos.ak.fbcdn.net #a1003.dspw41.akamai.net
@@ -346,8 +348,10 @@
 2a03:2880:f227:c4:face:b00c:0:43fe scontent-ort2-1.cdninstagram.com
 2a03:2880:f227:2c4:face:b00c:0:43fe scontent-ort2-2.cdninstagram.com
 2a03:2880:f223:c4:face:b00c:0:43fe scontent-otp1-1.cdninstagram.com
+2a03:2880:f223:c4:face:b00c:0:43fe scontent-prg1-1.cdninstagram.com
 2a03:2880:f22e:c4:face:b00c:0:43fe scontent-scl1-1.cdninstagram.com
 2a03:2880:f201:c4:face:b00c:0:43fe scontent-sea1-1.cdninstagram.com
+2a03:2880:f20c:2c4:face:b00c:0:43fe scontent-sin2-2.cdninstagram.com
 2a03:2880:f20c:c4:face:b00c:0:43fe scontent-sin6-1.cdninstagram.com
 2a03:2880:f20c:2c4:face:b00c:0:43fe scontent-sin6-2.cdninstagram.com
 2a03:2880:f226:c4:face:b00c:0:43fe scontent-sit4-1.cdninstagram.com
@@ -358,176 +362,176 @@
 2a03:2880:f207:c4:face:b00c:0:43fe scontent-vie1-1.cdninstagram.com
 2a03:2880:f216:c4:face:b00c:0:43fe scontent-waw1-1.cdninstagram.com
 2a03:2880:f20e:c4:face:b00c:0:43fe scontent-yyz1-1.cdninstagram.com
-2600:1417:9::b833:f56 igcdn-photos-a-a.akamaihd.net
-2600:1417:9::b833:f65 igcdn-photos-b-a.akamaihd.net
-2600:1417:9::b833:f46 igcdn-photos-c-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-photos-d-a.akamaihd.net
-2600:1417:9::b833:f5e igcdn-photos-e-a.akamaihd.net
-2600:1417:9::b833:f4e igcdn-photos-f-a.akamaihd.net
-2600:1417:9::b833:f40 igcdn-photos-g-a.akamaihd.net
-2600:1417:9::b833:f4e igcdn-photos-h-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-a-0-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-a-1-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-a-2-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-a-3-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-a-4-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-a-5-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-a-6-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-a-7-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-a-8-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-a-9-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-a-10-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-a-11-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-a-12-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-a-13-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-a-14-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-a-15-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-a-16-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-a-17-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-a-18-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-a-19-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-b-0-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-b-1-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-b-2-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-b-3-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-b-4-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-b-5-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-b-6-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-b-7-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-b-8-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-b-9-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-b-10-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-b-11-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-b-12-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-b-13-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-b-14-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-b-15-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-b-16-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-b-17-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-b-18-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-b-19-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-c-0-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-c-1-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-c-2-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-c-3-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-c-4-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-c-5-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-c-6-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-c-7-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-c-8-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-c-9-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-c-10-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-c-11-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-c-12-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-c-13-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-c-14-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-c-15-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-c-16-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-c-17-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-c-18-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-c-19-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-d-0-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-d-1-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-d-2-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-d-3-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-d-4-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-d-5-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-d-6-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-d-7-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-d-8-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-d-9-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-d-10-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-d-11-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-d-12-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-d-13-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-d-14-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-d-15-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-d-16-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-d-17-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-d-18-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-d-19-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-e-0-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-e-1-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-e-2-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-e-3-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-e-4-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-e-5-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-e-6-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-e-7-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-e-8-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-e-9-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-e-10-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-e-11-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-e-12-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-e-13-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-e-14-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-e-15-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-e-16-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-e-17-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-e-18-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-e-19-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-f-0-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-f-1-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-f-2-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-f-3-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-f-4-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-f-5-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-f-6-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-f-7-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-f-8-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-f-9-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-f-10-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-f-11-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-f-12-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-f-13-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-f-14-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-f-15-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-f-16-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-f-17-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-f-18-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-f-19-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-g-0-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-g-1-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-g-2-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-g-3-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-g-4-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-g-5-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-g-6-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-g-7-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-g-8-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-g-9-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-g-10-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-g-11-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-g-12-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-g-13-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-g-14-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-g-15-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-g-16-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-g-17-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-g-18-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-g-19-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-h-0-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-h-1-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-h-2-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-h-3-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-h-4-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-h-5-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-h-6-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-h-7-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-h-8-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-h-9-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-h-10-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-h-11-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-h-12-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-h-13-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-h-14-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-h-15-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-h-16-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-h-17-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-h-18-a.akamaihd.net
-2600:1417:9::b833:f54 igcdn-videos-h-19-a.akamaihd.net
-2600:1417:9::b833:f4c instagramimages-a.akamaihd.net
-2600:1417:9::b833:f54 instagramstatic-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-photos-a-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-photos-b-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-photos-c-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-photos-d-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-photos-e-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-photos-f-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-photos-g-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-photos-h-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-a-0-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-a-1-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-a-2-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-a-3-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-a-4-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-a-5-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-a-6-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-a-7-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-a-8-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-a-9-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-a-10-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-a-11-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-a-12-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-a-13-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-a-14-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-a-15-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-a-16-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-a-17-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-a-18-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-a-19-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-b-0-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-b-1-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-b-2-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-b-3-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-b-4-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-b-5-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-b-6-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-b-7-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-b-8-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-b-9-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-b-10-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-b-11-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-b-12-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-b-13-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-b-14-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-b-15-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-b-16-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-b-17-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-b-18-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-b-19-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-c-0-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-c-1-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-c-2-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-c-3-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-c-4-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-c-5-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-c-6-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-c-7-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-c-8-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-c-9-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-c-10-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-c-11-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-c-12-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-c-13-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-c-14-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-c-15-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-c-16-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-c-17-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-c-18-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-c-19-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-d-0-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-d-1-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-d-2-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-d-3-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-d-4-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-d-5-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-d-6-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-d-7-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-d-8-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-d-9-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-d-10-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-d-11-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-d-12-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-d-13-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-d-14-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-d-15-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-d-16-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-d-17-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-d-18-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-d-19-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-e-0-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-e-1-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-e-2-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-e-3-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-e-4-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-e-5-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-e-6-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-e-7-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-e-8-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-e-9-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-e-10-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-e-11-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-e-12-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-e-13-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-e-14-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-e-15-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-e-16-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-e-17-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-e-18-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-e-19-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-f-0-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-f-1-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-f-2-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-f-3-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-f-4-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-f-5-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-f-6-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-f-7-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-f-8-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-f-9-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-f-10-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-f-11-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-f-12-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-f-13-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-f-14-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-f-15-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-f-16-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-f-17-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-f-18-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-f-19-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-g-0-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-g-1-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-g-2-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-g-3-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-g-4-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-g-5-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-g-6-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-g-7-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-g-8-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-g-9-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-g-10-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-g-11-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-g-12-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-g-13-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-g-14-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-g-15-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-g-16-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-g-17-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-g-18-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-g-19-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-h-0-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-h-1-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-h-2-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-h-3-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-h-4-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-h-5-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-h-6-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-h-7-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-h-8-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-h-9-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-h-10-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-h-11-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-h-12-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-h-13-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-h-14-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-h-15-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-h-16-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-h-17-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-h-18-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 igcdn-videos-h-19-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 instagramimages-a.akamaihd.net
+2001:e68:2005:1e::3a1b:5630 instagramstatic-a.akamaihd.net
 #2001:590:1:501::42ab:e018 photos-a.ak.instagram.com #photos-a.ak.instagram.com.edgesuite.net
 #2001:590:1:501::42ab:e010 photos-b.ak.instagram.com #photos-b.ak.instagram.com.edgesuite.net
 #2600:1404:2::1702:11bb photos-c.ak.instagram.com #photos-c.ak.instagram.com.edgesuite.net

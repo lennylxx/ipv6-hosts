@@ -17,7 +17,7 @@
 
 ## ipv6hosts
 
-- 默认使用google dns的api(https://dns.google.com/resolve?)，支持dns over https和edns。其中dns over https保证了解析的可靠性，edns可以确保返回的ip属于香港ip。（貌似同时支持edns和doh的就google一家，不清楚9.9.9.9 opendns支不支持）
+- 默认使用google dns的api`https://dns.google.com/resolve?`，支持dns over https和edns。其中dns over https保证了解析的可靠性，edns可以确保返回的ip属于香港ip。（貌似同时支持edns和doh的就google一家，不清楚9.9.9.9 opendns支不支持）
 - 增加tcp连接检测，提升hosts可用性
 - 缓存tcp检测结果，提升运行速度。
 

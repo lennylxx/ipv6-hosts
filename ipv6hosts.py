@@ -194,7 +194,7 @@ class watcher_thread(threading.Thread):
             time.sleep(1)
 
 '''
-看起来查询函数就是下面这个函数，只需要将dig用支持edns的换掉，然后在这个命令加入判断是否被墙的模块
+查询函数就是下面这个函数，只需要将dig用支持edns的换掉，然后在这个命令加入判断是否被墙的模块
 dig -6                  (use IPv6 query transport only)
 但是我不明白怎么会使，貌似也可以用ipv6的dns呢。但是改成-4 就没法用ipv6地址的dns了，所以也是很神奇的事情啊
 dig +short +time=2 +tries=5 -6 -t aaaa @2001:4860:4860::8888 www.google.com 
@@ -249,18 +249,31 @@ def query_domain(domain, tcp):
     #hk,tw,sgp,jp,lax
     nu=len(ipadlist)
     while(counter<nu):
-        ipad=ipadlist[counter]
-            
-        # if counter==7:
-            # ipad='134.208.0.0'
-        # elif counter==8:
-            # ipad='134.208.0.0'
-        # elif counter==9:
-            # ipad='155.69.203.4'
-        # else:
-            # ipad='202.40.161.203'
-        
+        ipad=ipadlist[counter%nu]    
         url = 'https://dns.google.com/resolve?name=%s&type=%s&edns_client_subnet=%s'%(domain,config['querytype'],ipad)
+        '''
+        https://github.com/curl/curl/wiki/DNS-over-HTTPS#publicly-available-servers
+        import requests
+        
+        #google dns, edns 
+        #QUAD9 dns,
+        #cloudflare dns
+        
+        # url_params = {'name':'www.google.com','type':'aaaa','edns_client_subnet':'175.45.20.138'}
+        # url='https://dns.google.com/resolve'
+        # url='https://9.9.9.9/dns-query'
+        # r = requests.get(url,params = url_params).json()
+        # print(r)
+
+    
+        # url_params = {'name':'www.google.com','type':'aaaa','edns_client_subnet':'175.45.20.138'}
+        # header={'accept': 'application/dns-json'}
+        # url='https://cloudflare-dns.com/dns-query'
+        # url='https://1.1.1.1/dns-query'
+        # r = requests.get(url,params = url_params,headers=header).json()
+        # print(r)
+                       
+        '''
         counter=counter+1
         r = requests.get(url)
         code=r.status_code
@@ -279,10 +292,6 @@ def query_domain(domain, tcp):
                         if tcp_flag==0:
                             return ip
                 
-                # if validate_ip_addr(ip):
-                    # s = socket.socket(socket.AF_INET6, socket.SOCK_STREAM)
-                    # s.settimeout(1)
-                    # tcp_flag=s.connect_ex((ip, 443))
             else:
                 break
     return
@@ -396,14 +405,14 @@ def get_config():
     config['infile'] = args[0]
     if config['outfile'] == '':
         config['outfile'] = config['infile'] + '.out'
-def simplify(choose=True):
+def simplify(hosts,choose=True):
     if(choose):
         addr=config['outfile']  # The path of input file
         ss='\n'
         addr2=addr + 'simplify'          
         with open(addr2, 'wt',newline=ss) as f: #写入的地址要改
-            for raw in open(addr,encoding='UTF-8'):
-                if((not re.match(r'^\#',raw)) & (not re.search(r'\d{0,3}\.\d{0,3}\.\d{0,3}\.\d{0,3}',raw)) & (not re.match(r'^\s+',raw)) ):
+            for raw in hosts:
+                if((not re.match(r'^\#',raw)) and (not re.search(r'\d{0,3}\.\d{0,3}\.\d{0,3}\.\d{0,3}',raw)) and (not re.match(r'^\s+',raw)) ):
                     print(raw,end='',file=f)
             print('127.0.0.1 localhost \n::1 localhost ip6-localhost ip6-loopback \n2404:6800:4005:800::2000 scholar.google.com \n2404:6800:4005:800::2000 scholar.google.com.hk \n2404:6800:4005:800::2000 scholar.google.com.tw \n2404:6800:4005:800::2000 android.clients.google.com \n2404:6800:4005:800::2000 console.developer.google.com\n2404:6800:4008:c06::52 console.developers.google.com\n2404:6800:4008:c06::7b wifi.google.com\n2404:6800:4005:800::2000 www.google.org\n2404:6800:4005:800::2000 www.chromium.org\n2404:6800:4005:800::2000 dev.chromium.org\n2404:6800:4005:800::2000 blog.chromium.org\n2404:6800:4005:800::2000 android.l.google.com\n2404:6800:4005:800::2000 scholar.l.google.com\n2404:6800:4008:c06::7b wifi.l.google.com',end='\n',file=f)
         
@@ -411,6 +420,10 @@ def main():
     get_config()
     
     choose=str(input('Would you want to simplify the hosts(y/n)(Default is yes)\n'))
+    if choose=='n':
+        choose=False
+    else:
+        choose=True
     dig_path = '/usr/bin/dig'
     if not os.path.isfile(dig_path) or not os.access(dig_path, os.X_OK):
         print("It seems you don't have 'dig' command installed properly "\
@@ -476,7 +489,7 @@ def main():
     except IOError as e:
         print(e)
         sys.exit(e.errno)
-    simplify(choose)
+    simplify(hosts,choose)
     sys.exit(0)
 
 if __name__ == '__main__':

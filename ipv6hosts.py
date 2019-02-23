@@ -396,7 +396,7 @@ def get_config():
     config['infile'] = args[0]
     if config['outfile'] == '':
         config['outfile'] = config['infile'] + '.out'
-def simplify(choose=true):
+def simplify(choose=True):
     if(choose):
         addr=config['outfile']  # The path of input file
         ss='\n'

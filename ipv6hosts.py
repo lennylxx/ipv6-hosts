@@ -132,7 +132,8 @@ class worker_thread(threading.Thread):
                     ip = query_domain(domain, False)
            
 
-                
+                # if ip == '' or ip in blackhole or invalid_address(ip):
+                    # ip = query_domain(domain, True)
 
                 if ip:
                     #flag = True
@@ -153,7 +154,10 @@ class worker_thread(threading.Thread):
                 if comment:
                     arr.append(comment)
 
-           
+            # if not flag:
+                # arr[0] = '#' + arr[0]
+                # if comment:
+                    # arr.append(comment)
 
             hosts[i] = ' '.join(arr)
             hosts[i] += '\r\n'
@@ -189,22 +193,72 @@ class watcher_thread(threading.Thread):
 
             time.sleep(1)
 
+'''
+看起来查询函数就是下面这个函数，只需要将dig用支持edns的换掉，然后在这个命令加入判断是否被墙的模块
+dig -6                  (use IPv6 query transport only)
+但是我不明白怎么会使，貌似也可以用ipv6的dns呢。但是改成-4 就没法用ipv6地址的dns了，所以也是很神奇的事情啊
+dig +short +time=2 +tries=5 -6 -t aaaa @2001:4860:4860::8888 www.google.com 
 
+curl -H 'accept: application/dns-json' 'https://dns.google.com/resolve?name=www.google.com&type=AAAA'
+
+curl -H 'accept: application/dns-json' 'https://dns.google.com/resolve?name=www.google.com&type=AAAA&edns_client_subnet=175.45.20.138'
+
+curl -6 -s 'https://dns.google.com/resolve?name=www.google.com&type=AAAA&edns_client_subnet=175.45.20.138' | python -m json.tool
+
+'''
+
+'''
+import json
+json_data=os.system('curl -6 -s 'https://dns.google.com/resolve?name=15.sn-bvvbax-hn2d.googlevideo.com&type=AAAA&edns_client_subnet=175.45.20.138'')
+data = json.loads(json_data)
+print('%s'%data['Answer']['date'])
+# for v in data['favourite']['bkmrk'].values():
+    # print("%s;%s" % (v['lcate'],  v['guid']))
+requests.get('https://dns.google.com/resolve?name=%s&type=%s&edns_client_subnet=175.45.20.138'%('15.sn-bvvbax-hn2d.googlevideo.com','aaaa')).json()['Answer'][0]['data']
+requests.get('https://dns.google.com/resolve?name=%s&type=%s&edns_client_subnet=175.45.20.138'%('googlevideo.com','aaaa')).json()['Answer'][0]['data']
+requests.get('https://dns.rubyfish.cn/dns-query?name=%s&type=%s'%('blog.google','aaaa')).json()['Answer'][0]['data']
+
+https://dns.rubyfish.cn/dns-query?name=www.google.com&type=A'
+'''
 def query_domain(domain, tcp):
-  
+    # cmd = "dig +short +time=2 -6 %s @'%s' '%s'"\
+        # % (config['querytype'], config['dns'], domain)
+
+    # if tcp:
+        # cmd = cmd + ' +tcp'
+
+    # proc = subprocess.Popen(shlex.split(cmd), stdout=subprocess.PIPE)
+    # out, _ = proc.communicate()
+    # outarr = out.decode('utf-8').splitlines()
+
+    # cname = ip = ''
+    # for v in outarr:
+        # if cname == '' and validate_domain(v[:-1]):
+            # cname = v[:-1]
+        # if ip == '' and validate_ip_addr(v):
+            # ip = v
+            # break
+
+
+    
     counter=0
     code=2
-    
-    while(counter<10):
+    ipadlist=('202.40.161.116','202.40.160.109','202.40.160.248','202.40.161.203','123.255.91.97',
+    '202.40.161.254','118.140.0.0','124.248.192.1','134.208.0.0','59.125.205.87','140.113.215.224',
+    '59.125.39.2','155.69.203.4','61.211.238.90','69.233.219.78')
+    #hk,tw,sgp,jp,lax
+    nu=len(ipadlist)
+    while(counter<nu):
+        ipad=ipadlist[counter]
             
-        if counter==7:
-            ipad='134.208.0.0'
-        elif counter==8:
-            ipad='115.85.29.130'
-        elif counter==9:
-            ipad='155.69.203.4'
-        else:
-            ipad='202.40.161.203'
+        # if counter==7:
+            # ipad='134.208.0.0'
+        # elif counter==8:
+            # ipad='134.208.0.0'
+        # elif counter==9:
+            # ipad='155.69.203.4'
+        # else:
+            # ipad='202.40.161.203'
         
         url = 'https://dns.google.com/resolve?name=%s&type=%s&edns_client_subnet=%s'%(domain,config['querytype'],ipad)
         counter=counter+1
@@ -225,6 +279,10 @@ def query_domain(domain, tcp):
                         if tcp_flag==0:
                             return ip
                 
+                # if validate_ip_addr(ip):
+                    # s = socket.socket(socket.AF_INET6, socket.SOCK_STREAM)
+                    # s.settimeout(1)
+                    # tcp_flag=s.connect_ex((ip, 443))
             else:
                 break
     return
@@ -234,7 +292,19 @@ def query_domain(domain, tcp):
                 
                 
     
+'''
+import socket
+s = socket.socket(socket.AF_INET6, socket.SOCK_STREAM)
+s.connect(('2404:6800:4005:80e::200e', 80))
 
+检测状态，超时时间要设置,能够返回error或者success，success是0，socket.SOCK_STREAM是TCP连接
+s.settimeout(1)
+s.connect_ex(('2404:6800:4005:80e::200e', 443))
+s.connect_ex(('2404:6800:4005:800::2003', 443))
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+socket.timeout: timed out
+'''
 def ip_available(ip):
     if validate_ip_addr(ip):
         s = socket.socket(socket.AF_INET6, socket.SOCK_STREAM)
@@ -289,7 +359,6 @@ Options:
   -s DNS                 set another dns server, default: 2001:4860:4860::8844
   -o OUT_FILE            output file, default: inputfilename.out
   -t QUERY_TYPE          dig command query type, default: aaaa
-  -c, --cname            write canonical name into hosts file
   -n THREAD_NUM          set the number of worker threads, default: 10
 ''')
 
@@ -327,10 +396,21 @@ def get_config():
     config['infile'] = args[0]
     if config['outfile'] == '':
         config['outfile'] = config['infile'] + '.out'
-
+def simplify(choose=true):
+    if(choose):
+        addr=config['outfile']  # The path of input file
+        ss='\n'
+        addr2=addr + 'simplify'          
+        with open(addr2, 'wt',newline=ss) as f: #写入的地址要改
+            for raw in open(addr,encoding='UTF-8'):
+                if((not re.match(r'^\#',raw)) & (not re.search(r'\d{0,3}\.\d{0,3}\.\d{0,3}\.\d{0,3}',raw)) & (not re.match(r'^\s+',raw)) ):
+                    print(raw,end='',file=f)
+            print('127.0.0.1 localhost \n::1 localhost ip6-localhost ip6-loopback \n2404:6800:4005:800::2000 scholar.google.com \n2404:6800:4005:800::2000 scholar.google.com.hk \n2404:6800:4005:800::2000 scholar.google.com.tw \n2404:6800:4005:800::2000 android.clients.google.com \n2404:6800:4005:800::2000 console.developer.google.com\n2404:6800:4008:c06::52 console.developers.google.com\n2404:6800:4008:c06::7b wifi.google.com\n2404:6800:4005:800::2000 www.google.org\n2404:6800:4005:800::2000 www.chromium.org\n2404:6800:4005:800::2000 dev.chromium.org\n2404:6800:4005:800::2000 blog.chromium.org\n2404:6800:4005:800::2000 android.l.google.com\n2404:6800:4005:800::2000 scholar.l.google.com\n2404:6800:4008:c06::7b wifi.l.google.com',end='\n',file=f)
+        
 def main():
     get_config()
-
+    
+    choose=str(input('Would you want to simplify the hosts(y/n)(Default is yes)\n'))
     dig_path = '/usr/bin/dig'
     if not os.path.isfile(dig_path) or not os.access(dig_path, os.X_OK):
         print("It seems you don't have 'dig' command installed properly "\
@@ -396,7 +476,7 @@ def main():
     except IOError as e:
         print(e)
         sys.exit(e.errno)
-
+    simplify(choose)
     sys.exit(0)
 
 if __name__ == '__main__':

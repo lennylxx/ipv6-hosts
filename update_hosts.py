@@ -193,33 +193,7 @@ class watcher_thread(threading.Thread):
 
             time.sleep(1)
 
-'''
-查询函数就是下面这个函数，只需要将dig用支持edns的换掉，然后在这个命令加入判断是否被墙的模块
-dig -6                  (use IPv6 query transport only)
-但是我不明白怎么会使，貌似也可以用ipv6的dns呢。但是改成-4 就没法用ipv6地址的dns了，所以也是很神奇的事情啊
-dig +short +time=2 +tries=5 -6 -t aaaa @2001:4860:4860::8888 www.google.com 
 
-curl -H 'accept: application/dns-json' 'https://dns.google.com/resolve?name=www.google.com&type=AAAA'
-
-curl -H 'accept: application/dns-json' 'https://dns.google.com/resolve?name=www.google.com&type=AAAA&edns_client_subnet=175.45.20.138'
-
-curl -6 -s 'https://dns.google.com/resolve?name=www.google.com&type=AAAA&edns_client_subnet=175.45.20.138' | python -m json.tool
-
-'''
-
-'''
-import json
-json_data=os.system('curl -6 -s 'https://dns.google.com/resolve?name=15.sn-bvvbax-hn2d.googlevideo.com&type=AAAA&edns_client_subnet=175.45.20.138'')
-data = json.loads(json_data)
-print('%s'%data['Answer']['date'])
-# for v in data['favourite']['bkmrk'].values():
-    # print("%s;%s" % (v['lcate'],  v['guid']))
-requests.get('https://dns.google.com/resolve?name=%s&type=%s&edns_client_subnet=175.45.20.138'%('15.sn-bvvbax-hn2d.googlevideo.com','aaaa')).json()['Answer'][0]['data']
-requests.get('https://dns.google.com/resolve?name=%s&type=%s&edns_client_subnet=175.45.20.138'%('googlevideo.com','aaaa')).json()['Answer'][0]['data']
-requests.get('https://dns.rubyfish.cn/dns-query?name=%s&type=%s'%('blog.google','aaaa')).json()['Answer'][0]['data']
-
-https://dns.rubyfish.cn/dns-query?name=www.google.com&type=A'
-'''
 def query_domain(domain, tcp):
     # cmd = "dig +short +time=2 -6 %s @'%s' '%s'"\
         # % (config['querytype'], config['dns'], domain)
